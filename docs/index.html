@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Osobiste archiwum skrótów wiadomości ze Strefy Inwestorów.">
+<title>Notatnik inwestora · Archiwum wiadomości</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<header><a class="brand" href="./"><span class="mark">NI</span> Notatnik inwestora</a><span class="edition">PRZEGLĄD PRASY / ARCHIWUM</span></header>
+<main>
+<section class="intro"><div><p class="eyebrow">STREFA INWESTORÓW · TWOJA BIBLIOTEKA</p><h1>Wiadomości, do których<br>warto wracać.</h1><p class="lead">Pełne skróty dnia w jednym miejscu. Zapisane teksty i źródła, uporządkowana historia, spokojna lektura.</p></div><aside><span class="status-dot"></span><strong id="status">Wczytywanie archiwum</strong><p id="checked">Sprawdzanie źródła co 2 godziny po uruchomieniu automatyzacji.</p><p>Pełne teksty czytasz tutaj, także po ich usunięciu ze źródła.</p></aside></section>
+<section class="library" aria-label="Archiwum wiadomości">
+<div class="toolbar"><div class="tabs"><button class="active" id="all" aria-pressed="true">Wszystkie</button><button id="saved" aria-pressed="false">Do przeczytania <span id="saved-count">0</span></button></div><a class="download" href="data/archive.json" download="archiwum-wiadomosci.json">Pobierz bazę ↓</a></div>
+<div class="filters"><label>Szukaj w tytułach<input id="search" type="search" placeholder="Data, dzień tygodnia lub godzina…"></label><label>Miesiąc<select id="month"><option value="">Całe archiwum</option></select></label></div>
+<div class="results"><h2>Skróty wiadomości</h2><span id="count" role="status" aria-live="polite"></span></div>
+<div id="articles" class="articles" aria-busy="true"></div>
+<p class="storage">Lista „Do przeczytania” jest zapisywana tylko w tej przeglądarce. Bazę wpisów możesz pobrać jako plik.</p>
+</section>
+</main>
+<footer><strong>Notatnik inwestora</strong><p>Niezależne archiwum odnośników. Źródło: <a href="https://strefainwestorow.pl">Strefa Inwestorów</a>. Autorstwo tekstów pozostaje przy ich wydawcach.</p></footer>
+</body></html>
