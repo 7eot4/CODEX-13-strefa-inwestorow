@@ -1,5 +1,13 @@
 # Notatnik inwestora
 
+Projekt: `CODEX-13-strefa-inwestorow` (CODEX, numer 13). Katalog lokalny: `C:\Users\annac\.phvm\CODEX\CODEX-13-strefa-inwestorow`. Wpis w rejestrze: `C:\Users\annac\.phvm\PROJECTS.md`.
+
+Repozytorium: https://github.com/7eot4/CODEX-13-strefa-inwestorow
+
+Opublikowany blog: https://7eot4.github.io/CODEX-13-strefa-inwestorow/
+
+Po zmianach projektu: wykonać adekwatną weryfikację, commit i push do repozytorium, potwierdzić aktualny stan na GitHub oraz wynik publikacji. Automatyczne aktualizacje bazy wykonują te operacje przez GitHub Actions co 2 godziny.
+
 Archiwum pełnych skrótów wiadomości ze Strefy Inwestorów. Zapisuje treści, sekcje, autorów, daty, adresy źródłowe i czas zapisu. Publikacja opiera się na potwierdzeniu użytkownika z 2026-10-06: posiada zgodę obejmującą automatyczną publikację pełnych tekstów. Nie zweryfikowano dokumentu licencyjnego. Prawa do źródłowych artykułów nie są udzielane odbiorcom przez to repozytorium.
 
 ## Użytkowanie
