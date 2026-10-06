@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-10-06T20:45:54+00:00",
+  "last_checked": "2026-10-06T20:47:40+00:00",
   "mode": "full_text",
   "articles": [
     {
@@ -432,7 +432,7 @@
       "author": "Wiadomości Giełdowe",
       "published_display": "06.10.2026 21:02",
       "content_sha256": "3a70e18f0c17744f0f48c4730abc52e0b6f9570b780e31d0a5cb0aaa446bae54",
-      "content_checked_at": "2026-10-06T20:45:54+00:00"
+      "content_checked_at": "2026-10-06T20:47:40+00:00"
     },
     {
       "id": "9935450923db3a9d",
@@ -815,7 +815,7 @@
       "author": "Wiadomości Giełdowe",
       "published_display": "06.10.2026 17:02",
       "content_sha256": "e3765ee0015fc1ce7d8e24cfce23b7bdcef3c54aac36c01c3b76fa6f2e07a3ce",
-      "content_checked_at": "2026-10-06T20:45:54+00:00"
+      "content_checked_at": "2026-10-06T20:47:40+00:00"
     }
   ]
 }
