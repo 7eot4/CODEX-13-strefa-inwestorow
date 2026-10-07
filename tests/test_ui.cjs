@@ -15,7 +15,9 @@ async function load(page,script,url){const dom=new JSDOM(fs.readFileSync(`docs/$
  console.log('Checking page controls');
  const {dom,requests}=await load('index.html','app.js','https://example.test/');const d=dom.window.document;
  assert.equal(d.querySelectorAll('.card').length,2);
- assert.equal(d.querySelectorAll('.card input[type="range"]').length,4);assert.ok(d.querySelector('.card .meta').textContent.includes('12:34'));assert.ok(d.querySelector('.article-summary').textContent.includes('Drugi fakt'));
+ assert.equal(d.querySelectorAll('.card [role="meter"]').length,4);assert.ok(d.querySelector('.card .meta').textContent.includes('12:34'));assert.ok(d.querySelector('.article-summary').textContent.includes('Drugi fakt'));
+ assert.equal(d.querySelectorAll('.card .article-art img').length,2);assert.equal(d.querySelector('.card .article-art img').getAttribute('src'),'images/energia.svg');assert.equal(d.querySelectorAll('.card .score-coral').length,2);assert.equal(d.querySelector('[role="meter"]').getAttribute('aria-valuenow'),'60');
+ assert.ok(d.querySelector('.score-label').style.getPropertyValue('--score').includes('60%'));assert.ok(d.querySelector('.article-art a').getAttribute('href').includes('id=a'));
  d.querySelector('[data-section="energia"]').click();assert.equal(d.querySelectorAll('.card').length,1);assert.ok(d.querySelector('.card').textContent.includes('Orlen'));
  d.querySelector('[data-section=""]').click();d.getElementById('company').value='CD PROJEKT';d.getElementById('company').dispatchEvent(new dom.window.Event('input'));assert.equal(d.querySelectorAll('.card').length,1);assert.ok(d.querySelector('.card').textContent.includes('CD PROJEKT'));
  d.getElementById('company').value='';d.getElementById('search').value='Wiedźmin';d.getElementById('search').dispatchEvent(new dom.window.Event('input'));assert.equal(d.querySelectorAll('.card').length,1);

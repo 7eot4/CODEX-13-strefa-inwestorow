@@ -67,3 +67,9 @@ Skale ⚡ znaczenia branżowego i 🧨 potencjału reakcji kursu mają zakres 0�
 Powiązane spółki są rozróżnione na wymienione w tekście i wywnioskowane z tematu. Profile działalności i źródła emitentów zapisano w `docs/data/exposures.json`. To lista do dalszego badania, nie rekomendacja kupna.
 
 Budowa klienta: `npm run build:client`. Aktualizacja indeksu: `npm run build:search`. Transformers.js i ONNX Runtime mają dołączone licencje. Rzeczywisty model sprawdzono na polskich zapytaniach i silniku WASM; wygląd strony wymaga osobnej kontroli w przeglądarce.
+
+## Ilustracje i wskaźniki
+
+Karty i strony artykułów mają własne ilustracje wektorowe dopasowane do dziewięciu sekcji. Są oznaczone jako ilustracje tematyczne, bez sugestii, że dokumentują wydarzenie lub notowania. Pliki są hostowane lokalnie w `docs/images`; nie pobierają zdjęć z zewnętrznych serwisów. Odtworzenie grafik: `python scripts/build-artwork.py`.
+
+Wskaźniki mają ciemne panele, turkusową i koralową skalę, animowane wypełnienie oraz liczbę punktów. Są odczytowe i dostępne dla czytników ekranu jako mierniki. Animacje działają tylko dla widocznych elementów; ustawienie systemowe zmniejszonego ruchu je wyłącza. Wygląd określa `docs/editorial.css`.

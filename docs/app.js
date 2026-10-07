@@ -16,10 +16,11 @@ function render() {
  const order=$('sort').value;
  filtered.sort((a,b)=>order==='interest'?(b.analysis?.interest_score||0)-(a.analysis?.interest_score||0):order==='impact'?(b.analysis?.impact_score||0)-(a.analysis?.impact_score||0):order==='latest'||!query?(b.published_at||b.date).localeCompare(a.published_at||a.date):relevance(b)-relevance(a));
  const total=filtered.length;if(semantic&&query)filtered=filtered.slice(0,30);
- $('articles').replaceChildren(); $('saved-count').textContent = articles.filter(a => bookmarks.has(a.id)).length;
+ window.clearArticleMotion($('articles'));$('articles').replaceChildren(); $('saved-count').textContent = articles.filter(a => bookmarks.has(a.id)).length;
  $('count').textContent = semantic&&query?`Najlepsze ${filtered.length} z ${total} wyników AI`:`${filtered.length} z ${articles.length} wpisów`;
  for (const a of filtered) {
   const card = element('article', '', 'card');
+  card.append(window.articleArtworkUI(a,{linked:true}));
   card.append(element('div', `${SearchCore.published(a)} · ${a.kind === 'roundup' ? 'SKRÓT DNIA' : 'ARTYKUŁ'}`, 'meta'));
   const heading = element('h3'); const titleLink = element('a', a.title); titleLink.href = `read.html?id=${encodeURIComponent(a.id)}`; heading.append(titleLink); card.append(heading);
   card.append(window.articleAnalysisUI(a));
@@ -35,7 +36,7 @@ function render() {
   const button = element('button', bookmarks.has(a.id) ? 'Zapisano ✓' : 'Do przeczytania +', 'bookmark');
   button.setAttribute('aria-pressed', String(bookmarks.has(a.id))); button.setAttribute('aria-label', `Do przeczytania: ${a.title}`);
   button.onclick = () => { bookmarks.has(a.id) ? bookmarks.delete(a.id) : bookmarks.add(a.id); try {localStorage.setItem('investor-bookmarks', JSON.stringify([...bookmarks]));} catch { $('status').textContent = 'Przeglądarka nie pozwala zapisać zakładek'; } render(); };
-  actions.append(button); card.append(actions); $('articles').append(card);
+  actions.append(button); card.append(actions); $('articles').append(card);window.registerArticleMotion(card);
  }
  if (!filtered.length) $('articles').append(element('p', onlyPortfolio ? 'Brak dopasowań do portfela dla tych filtrów. Zaimportuj listę lub popraw nazwy firm; kolejne pobrane artykuły będą dopasowywane automatycznie.' : onlySaved ? 'Nie ma zapisanych wpisów dla tych filtrów.' : 'Brak wpisów dla tych filtrów.', 'empty'));
 }
