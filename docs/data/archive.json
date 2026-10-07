@@ -1,8 +1,178 @@
 {
   "schema_version": 3,
-  "last_checked": "2026-10-07T13:59:21+00:00",
+  "last_checked": "2026-10-07T14:04:28+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "abf7b4dde468f438",
+      "title": "RPP utrzymała stopy proc. na niezmienionym poziomie - referencyjna 3,75 proc., zgodnie z oczekiwaniami",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/rpp-utrzymala-stopy-proc-na-niezmienionym-poziomie-referencyjna-375-proc",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP",
+          "Temat: RPP",
+          "Temat: stopy procentowe"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. - podał w komunikacie bank centralny. Decyzja była zgodna z oczekiwaniami rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- stopa referencyjna 3,75 proc. w skali rocznej;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- stopa lombardowa 4,25 proc. w skali rocznej;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- stopa depozytowa 3,25 proc. w skali rocznej;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- stopa redyskontowa weksli 3,80 proc. w skali rocznej;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- stopa dyskontowa weksli 3,85 proc. w skali rocznej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Informacja po posiedzeniu RPP zostanie opublikowana o godz. 16.15 na stronie internetowej NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek, 8 października o godz. 15.00 odbędzie się konferencja prasowa prezesa NBP Adama Glapińskiego. RPP utrzymuje stopę referencyjną na obecnym poziomie 3,75 proc. od marca, po jedynej wówczas w br. obniżce o 25 pb. W 2025 r. Rada obniżyła stopy łącznie o 175 pb. (startując z 5,75 proc.), a wcześniej w 2023 r. o 100 pb. (start: 6,75 proc.). Stopa referencyjna NBP określa rentowność 7-dniowych bonów pieniężnych NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 15:59",
+      "content_sha256": "b3ef01c42fb4394cf25f719fc3a2f0d9fcba3bef1a10d084d7474c7d32203282",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T14:04:28+00:00",
+      "content_checked_at": "2026-10-07T14:04:28+00:00"
+    },
+    {
+      "id": "d9be47ef8139930d",
+      "title": "Euro w EBC: 1,1177 USD i 176,85 JPY",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/euro-w-ebc-11177-usd-i-17685-jpy",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: EBC"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1177 USD i 176,85 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania euro EBC (spot) - tabela:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Kraj | Waluta | Kurs"
+        },
+        {
+          "type": "heading",
+          "text": "| USA | USD | 1,1177"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | JPY | 176,85"
+        },
+        {
+          "type": "paragraph",
+          "text": "| W. Brytania | GBP | 0,8465"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dania | DKK | 7,4745"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Szwecja | SEK | 11,2240"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Norwegia | NOK | 10,7120"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | CZK | 24,427"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | PLN | 4,3825"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | HUF | 366,75"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Szwajcaria | CHF | 0,9309"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Kanada | CAD | 1,5931"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Australia | AUD | 1,6079"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 15:57",
+      "content_sha256": "9f3a3fb56f9c53b230b4fb5f6af3fc290cb78b6644447e015120942ead48f1df",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T14:04:28+00:00",
+      "content_checked_at": "2026-10-07T14:04:28+00:00"
+    },
     {
       "id": "3559d3659070c3b6",
       "title": "Po otwarciu sesji DJI spada o 0,88 proc., a S&P 500 traci 0,48 proc.",
@@ -5198,7 +5368,7 @@
       "author": "Wiadomości Giełdowe",
       "published_display": "06.10.2026 21:02",
       "content_sha256": "3a70e18f0c17744f0f48c4730abc52e0b6f9570b780e31d0a5cb0aaa446bae54",
-      "content_checked_at": "2026-10-07T13:59:21+00:00",
+      "content_checked_at": "2026-10-07T14:04:28+00:00",
       "kind": "roundup",
       "sections": [
         "skroty",
@@ -14097,6 +14267,198 @@
       "content_checked_at": "2026-10-07T13:59:21+00:00"
     },
     {
+      "id": "74a2fe2048452dd2",
+      "title": "PCC Exol poprawia wyniki. Kluczowa inwestycja spółki przebiega zgodnie z planem",
+      "url": "https://strefainwestorow.pl/spolki/pcc-exol-wyniki-i-polrocze-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa PCC Exol zamknęła pierwsze półrocze 2026 roku rekordowym wolumenem sprzedaży, dwucyfrowym wzrostem przychodów oraz wyraźną poprawą EBITDA i zysku netto. Motorem wyników były surfaktanty do zastosowań przemysłowych oraz bardzo mocny drugi kwartał. Spółce sprzyjały wyższe ceny produktów i ograniczenie importu z Azji do Europy. Z drugiej strony, priorytetowa budowa zakładu alkoksylatów w Brzegu Dolnym zwiększa zadłużenie. Zarząd liczy na dalszą poprawę wyników w następnych kwartałach."
+        },
+        {
+          "type": "heading",
+          "text": "Rekordowy wolumen sprzedaży i dwucyfrowy wzrost przychodów"
+        },
+        {
+          "type": "paragraph",
+          "text": "W pierwszych sześciu miesiącach 2026 roku Grupa PCC Exol #PCX poprawiła wyniki na wszystkich poziomach, mimo utrzymującej się presji ze strony konkurencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przychody wzrosły do 619,4 mln zł, czyli o około 11% rok do roku. EBITDA osiągnęła 52,4 mln zł, co oznacza wzrost o 21%, a zysk netto wyniósł 27,8 mln zł i był wyższy o 34% niż rok wcześniej. Dodatkowo poprawiliśmy marżę brutto na sprzedaży do 17,6%"
+        },
+        {
+          "type": "paragraph",
+          "text": "– mówi Adam Jarosz, wiceprezes zarządu PCC Exol."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wypracowaliśmy lepsze wyniki niż przed rokiem pomimo tego, że pierwsze półrocze 2026 roku przebiegało wciąż w wymagającym otoczeniu rynkowym i pod dużą presją ze strony konkurencji. Podsumowując, to dobre wyniki"
+        },
+        {
+          "type": "paragraph",
+          "text": "– dodaje."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podstawą do poprawy wyników było zwiększenie wolumenów sprzedaży. Spółkę wspierał też wyższy popyt w kraju i za granicą."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kluczowy był wzrost wolumenu sprzedaży, który osiągnął rekordowe dla pierwszego półrocza 71,7 tys. ton i był wyższy o ponad 4 tys. ton rok do roku. Korzystnie wpłynęły również wyższe ceny surfaktantów oraz wzrost popytu zarówno na rynku krajowym, jak i zagranicznym"
+        },
+        {
+          "type": "paragraph",
+          "text": "– wyjaśnia wiceprezes."
+        },
+        {
+          "type": "heading",
+          "text": "Surfaktanty przemysłowe motorem wzrostu, detergenty i kosmetyki stabilne"
+        },
+        {
+          "type": "paragraph",
+          "text": "Najszybciej rosnącą częścią biznesu pozostają wciąż surfaktanty do zastosowań przemysłowych. Przychody tego segmentu zwiększyły się o 16,9%, do 279,3 mln zł, przy wolumenie wyższym o 2,7 tys. ton, do 31,2 tys. ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "Największą dynamikę odnotowaliśmy w surfaktantach do zastosowań przemysłowych. (…) Szczególnie dobrze rozwijała się sprzedaż do branży budowlanej oraz związanej z czyszczeniem przemysłowym"
+        },
+        {
+          "type": "paragraph",
+          "text": "– zaznacza Adam Jarosz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wolniej, ale stabilnie rozwijał się segment detergencyjno-kosmetyczny, w którym przychody wzrosły o 5,8%, do 255,2 mln zł. Wolumen sprzedaży sięgnął zaś 40,4 tys. ton, o 1,6 tys. ton więcej niż rok wcześniej. Wzrost napędza przede wszystkim wejście na nowe rynki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wzrost wspierany jest głównie przez ekspansję geograficzną sprzedaży. Co prawda, nadal widoczna jest ostrożność klientów w zakresie budowania zapasów, jednak stopniowo obserwujemy symptomy poprawy aktywności zakupowej na części rynków europejskich"
+        },
+        {
+          "type": "paragraph",
+          "text": "– tłumaczy wiceprezes zarządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania PCC Exol"
+        },
+        {
+          "type": "heading",
+          "text": "Drugi kwartał najmocniejszym okresem półrocza"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dobre wyniki to głównie efekt drugiego kwartału. EBITDA wyniosła w II kw. 34,6 mln zł, czyli o 95% więcej niż w pierwszych trzech miesiącach roku, a zysk netto sięgnął 20,8 mln zł, czyli niemal trzykrotnie więcej niż kwartał wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pomimo napięć geopolitycznych na Bliskim Wschodzie obserwowaliśmy wzrost popytu, wzrost cen surfaktantów oraz ograniczenie importu produktów z Azji do Europy. To stworzyło korzystne warunki rynkowe dla naszej działalności"
+        },
+        {
+          "type": "paragraph",
+          "text": "– mówi Adam Jarosz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd rozdziela przy tym czynniki o charakterze strukturalnym od tych, które zależą od bieżącej koniunktury."
+        },
+        {
+          "type": "paragraph",
+          "text": "Część czynników ma charakter trwały, a część cykliczny. Do trwałych zaliczylibyśmy rozwój portfolio specjalistycznych produktów, efektywność operacyjną oraz korzyści wynikające z inwestycji. Natomiast relacje cen produktów i surowców czy poziom popytu pozostają elementami zależnymi od koniunktury rynkowej, na którą wpływa również sytuacja geopolityczna"
+        },
+        {
+          "type": "paragraph",
+          "text": "– precyzuje wiceprezes."
+        },
+        {
+          "type": "heading",
+          "text": "Dług netto rośnie, ale wskaźnik zadłużenia się poprawia"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosnące od kilku lat zadłużenie Grupy jest pochodną prowadzonych projektów inwestycyjnych, w tym projekt konsorcjum PCC BD (budowa zakładu w Brzegu Dolnym). Na koniec czerwca 2026 roku dług netto wynosił 280,2 mln zł, a kapitał własny wzrósł do 535,8 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wzrost zadłużenia należy analizować w kontekście realizowanych inwestycji rozwojowych. Finansowanie projektów zwiększa dług, ale jednocześnie tworzy potencjał wzrostu przyszłych przychodów i wyników"
+        },
+        {
+          "type": "paragraph",
+          "text": "– podkreśla Adam Jarosz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednak poprawa wyniku operacyjnego sprawiła, że relacja długu do EBITDA obniżyła się mimo wyższej nominalnej wartości zobowiązań. Obecnie wskaźnik dług netto do EBITDA utrzymuje się na dość wysokim poziomie 3,0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na koniec czerwca 2026 roku dług netto wynosił 280,2 mln zł. Wskaźnik dług netto/EBITDA utrzymywał się na poziomie około 3,0. Oceniamy to jako bezpieczny poziom przy realizowanych inwestycjach rozwojowych. (…) Naszym priorytetem pozostaje utrzymanie bezpiecznej struktury finansowania, która opiera się głównie na środkach z kapitału własnego oraz kredytach"
+        },
+        {
+          "type": "paragraph",
+          "text": "– zaznacza wiceprezes zarządu."
+        },
+        {
+          "type": "heading",
+          "text": "Budowa zakładu w Brzegu Dolnym i pozostałe priorytety na drugie półrocze"
+        },
+        {
+          "type": "paragraph",
+          "text": "Największym projektem inwestycyjnym Grupy pozostaje budowa uniwersalnego zakładu produkcji alkoksylatów w Brzegu Dolnym, realizowana przez spółkę PCC BD. Rok wcześniej PCC Exol zakończył budowę drugiego ciągu produkcyjnego w Płocku, co zwiększyło zdolności produkcyjne do 80 tys. ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projekt ma zostać ukończony do końca 2028 roku i umożliwi produkcję szerokiej gamy etoksylatów, polialkilenoglikoli i polioli polieterowych, zwiększając nasze możliwości rozwoju na rynkach międzynarodowych"
+        },
+        {
+          "type": "paragraph",
+          "text": "– mówi wiceprezes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poza główną inwestycją, zarząd stawia na utrzymanie wysokiego poziomu sprzedaży i wzmocnienie pozycji w Europie Zachodniej. Ponadto celem jest rozwój produktów o wyższej marży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Równolegle chcemy rozwijać ofertę produktów specjalistycznych, aby utrzymać konkurencyjność w wymagającym i dynamicznie zmieniającym się otoczeniu rynkowym"
+        },
+        {
+          "type": "paragraph",
+          "text": "– podkreśla Adam Jarosz."
+        },
+        {
+          "type": "paragraph",
+          "text": "W następnych kwartałach zarząd spodziewa się dalszej poprawy wyników. Liczy na utrzymanie się pozytywnego trendu wzrostu aktywności klientów i tworzenie przez nich zapasów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z ostrożnością, ale jednak oczekiwalibyśmy stopniowej poprawy aktywności klientów w części segmentów rynku, choć nadal dostrzegamy wysoki poziom niepewności makroekonomicznej. Skupiamy się na wzroście sprzedaży produktów specjalistycznych, utrzymaniu dyscypliny kosztowej oraz wykorzystaniu przewag technologicznych Grupy"
+        },
+        {
+          "type": "paragraph",
+          "text": "– podsumowuje wiceprezes."
+        }
+      ],
+      "author": "Piotr Kwestarz",
+      "published_display": "04.09.2026 07:04",
+      "content_sha256": "ba5a00707b68ccda5e555a73801046bdc8e5d7f8eca462a1dc7d7d1a5213edba",
+      "date": "2026-09-04",
+      "saved_at": "2026-10-07T14:04:28+00:00",
+      "content_checked_at": "2026-10-07T14:04:28+00:00"
+    },
+    {
       "id": "f3c46c15658ec0c7",
       "title": "Nowy instrument ETP od Virtune już na GPW. To technologia, na którą mocno stawia Wall Street",
       "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty/virtune-chainlink-gpw",
@@ -14927,6 +15289,146 @@
       "date": "2026-09-02",
       "saved_at": "2026-10-07T13:59:21+00:00",
       "content_checked_at": "2026-10-07T13:59:21+00:00"
+    },
+    {
+      "id": "57bb69b8a7e9d1c8",
+      "title": "Neuca mocno poprawiła wyniki w obszarze hurtu. Grupa notuje wzrosty w prawie wszystkich segmentach działalności",
+      "url": "https://strefainwestorow.pl/spolki/neuca-wyniki-q2-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Opublikowane wyniki finansowe Grupy NEUCA za II kwartał 2026 roku przyniosły bardzo pozytywne dynamiki wyników. Spółka pokazała dynamiczny wzrost na poziomie zysku operacyjnego i zysku netto, prezentując solidną poprawę rentowności na niemal wszystkich poziomach operacyjnych."
+        },
+        {
+          "type": "heading",
+          "text": "Podwojony zysk netto i wyraźny wzrost EBITDA w Q2 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "W okresie od kwietnia do czerwca 2026 roku Grupa NEUCA wygenerowała niemal 3,6 mld zł przychodów ze sprzedaży (+9,3% r/r). Wyjątkowo mocno zaprezentowały się jednak wskaźniki zysku:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk EBITDA: osiągnął poziom 98,8 mln zł, co oznacza wzrost o 32,3% r/r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk operacyjny (EBIT): podskoczył o 52,3% r/r do 65,9 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto: przypisany akcjonariuszom jednostki dominującej podwoił się (+105,6% r/r), osiągając wartość 40,8 mln zł wobec 19,8 mln zł w analogicznym okresie ubiegłego roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "źródło: spółka"
+        },
+        {
+          "type": "heading",
+          "text": "Hurt na fali wzrostu i lepszy od rynku"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bezapelacyjnym bohaterem drugiego kwartału okazał się kluczowy segment Grupy czyli hurtowa dystrybucja leków. Przychody ze sprzedaży w tej części biznesu wzrosły o 8,0% r/r (do 3,18 mld zł), przewyższając tempo wzrostu całego rynku hurtu aptecznego (6,3% r/r), a zysk operacyjny hurtu wystrzelił aż o 45,8% r/r, osiągając 38,2 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "17 spółek od DM BOŚ na sierpień 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bohaterem II kwartału był Segment Hurtowej Dystrybucji Leków z ponad 45-procentową dynamiką zysku operacyjnego rok do roku. Wzrost przychodów ze sprzedaży o 8,0% w II kwartale br. przewyższył wartościową dynamikę wzrostu rynku, głównie dzięki wzrostowi udziałów w segmencie aptek sieciowych i ich stabilizacji w segmencie aptek niezależnych. Jednocześnie nastąpił wzrost nominalnej marży brutto przy utrzymaniu średniej rentowności, co udało się osiągnąć mimo niekorzystnej struktury produktowej rynku (niższy udział farmaceutyków z ceną umowną vs urzędową). Dodatkowo udało nam się wejść na ścieżkę trwałej poprawy efektywności kosztowej. - wskazał na czacie zarząd Grupy Neuca"
+        },
+        {
+          "type": "paragraph",
+          "text": "Warto przy tym zaznaczyć, że do tak dobrych dynamik przyczyniły się wzrost udziałów rynkowych w aptekach sieciowych, wyższa marża nominalna oraz poprawa efektywności kosztowej. Istotną rolę odgrywa tu także rosnące zapotrzebowanie na innowacyjne terapie. Po raz kolejny napędem dla całego rynku okazały się m.in. leki z grupy GLP-1 (stosowane w leczeniu diabetologicznym oraz otyłości). Trend ten dynamicznie rozbudowuje wartościowy wolumen hurtu i według prognoz rynkowych będzie stanowić trwałe paliwo do dalszych wzrostów w kolejnych okresach. Segment leków diabetologicznych i na otyłość jest już drugim po lekach kardiologicznych segmentem leków na który Polacy wydają najwięcej pieniędzy."
+        },
+        {
+          "type": "heading",
+          "text": "Pozostałe segmenty na plusie: Badania kliniczne blisko break-even"
+        },
+        {
+          "type": "paragraph",
+          "text": "Równie optymistycznie wygląda sytuacja w pozostałych obszarach działalności Grupy, wszystkie segmenty pozytywnie kontrybuowały do skonsolidowanych rezultatów i większość wygenerowała pozytywne dynamiki rok do roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Operator Medyczny i Ubezpieczenia: wygenerowały łącznie 18,9 mln zł zysku EBITDA. W samym segmencie Operatora Medycznego zysk operacyjny wzrósł o imponujące 365,1% r/r (do 7,2 mln zł)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja Farmaceutyczna (Synoptis Pharma): utrzymała stabilne poziomy zysku operacyjnego (20,8 mln zł vs 21,0 mln zł rok wcześniej) przy przychodach rzędu 138,8 mln zł (+5,4% r/r)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Badania Kliniczne (Grupa Humaneva): przychody w tym obszarze wzrosły o 42,5% r/r do 145,5 mln zł. Choć raportowany zysk operacyjny wykazał jeszcze lekką stratę (-6,5 mln PLN vs -10,4 mln zł w Q2 2025), to biorąc pod uwagę odpis z ubiegłych okresów oraz wysokie nakłady inwestycyjne na budowę platformy SMO w USA, segment faktycznie operuje blisko poziomu rentowności (break-even)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erste wciąż widzi okazje inwestycyjne na GPW. W swoim modelowym portfelu zaleca trzymać 95% w akcjach"
+        },
+        {
+          "type": "paragraph",
+          "text": "źródło: spółka"
+        },
+        {
+          "type": "paragraph",
+          "text": "Warto zaznaczyć, że wynik segmentu badania kliniczne obciążył odpis aktualizacyjny na należności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wynik operacyjny segmentu w I półroczu wyniósł −9,7 mln zł i zawierał odpis na należności w wysokości około 7,5 mln zł. Po jego wyłączeniu segment znajdował się blisko progu rentowności operacyjnej, a poprawa rok do roku wyniosłaby niemal 10 mln zł. Sam II kwartał br. byłby po wyłączeniu odpisu dodatni. Naszym oczekiwaniem jest utrzymanie się wynikowo w okolicach progu rentowności, z możliwością odchylenia w obie strony. Nie zakładamy powrotu do poziomów strat z lat poprzednich, ale nie deklarujemy też dodatniej rentowności w drugim półroczu, ponieważ w segmencie działają czynniki o przeciwnych kierunkach. - poinformował zarząd na czacie."
+        },
+        {
+          "type": "heading",
+          "text": "Perspektywy i oczekiwania na przyszłość"
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa NEUCA wchodzi w drugą połowę 2026 roku z silnym bilansem i umocnioną pozycją rynkową (narastająco udziały w rynku hurtu wynoszą 28,8%, a w aptekach niezależnych 37,7%). Zarząd konsekwentnie realizuje cele budżetowe, oczekując dalszej poprawy wyników finansowych r/r w całym 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "- W drugim półroczu zakładamy kontynuację realizacji naszej strategii rynkowej, wspartej synergicznie strategiami realizowanymi w poszczególnych segmentach naszej działalności. Patrząc na wstępne hurtowe dane rynkowe za lipiec i pierwsze dni sierpnia, które wskazują na nieco słabszy wzrost rynku niż oczekiwaliśmy, o sile rynku w całym roku zadecydują wzrosty rynku w miesiącach wrzesień - grudzień. W tym okresie spodziewamy się dynamik przewyższających pierwotnie zakładane przez nas 6%, co powinno pozwolić nam na realizacje naszych celów wynikowych. Pokazaliśmy już, że potrafimy poprawiać wyniki, mimo niekorzystnych tendencji, jeśli chodzi o czynniki wzrostu rynku, w szczególności przy spadającym wolumenie produktów. - poinformowała spółka na czacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs akcji Neuca"
+        },
+        {
+          "type": "paragraph",
+          "text": "15 spółek od Trigon DM na lipiec 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Po raz pierwszy od dłuższego czasu zaczyna pozytywnie oceniać sytuację na rynku badań klinicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Sytuację rynkową w badaniach klinicznych oceniamy dziś ostrożnie pozytywnie. Globalny rynek CRO, w tym rynek amerykański, pokazuje wyraźne sygnały odbudowy popytu. Widać to m.in. w wynikach największych publicznych spółek CRO: IQVIA po II kwartale 2026 r. raportowała wzrost przychodów o 8,7% rok do roku oraz wzrost nowych zamówień w segmencie R&D o 19%. Medpace odnotował wzrost przychodów o 17,2% oraz nowych zleceń o 28,2%. To potwierdza, że po trudniejszym okresie rynek wraca do bardziej aktywnego inwestowania w rozwój kliniczny. - dodaje na czacie"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalsze poprawa w segmencie badań klinicznym może przynieść pozytywne wyniki na poziomie EBIT z tego segmentu i dodawać do wyniku całościowego Grupy."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "02.09.2026 07:55",
+      "content_sha256": "6af8ddadac8a096e069b49492e0047ce810159e5b081be7340e4827b74176888",
+      "date": "2026-09-02",
+      "saved_at": "2026-10-07T14:04:28+00:00",
+      "content_checked_at": "2026-10-07T14:04:28+00:00"
     },
     {
       "id": "6a2a01560d62d4a3",
@@ -21178,6 +21680,129 @@
       "content_checked_at": "2026-10-07T13:59:21+00:00"
     },
     {
+      "id": "6542dbd799e80983",
+      "title": "Robyg ponownie notowany na GPW. Debiut na plusie. \"Inwestorzy będą zadowoleni\" - mówi Oscar Kazanelson, współzałożyciel spółki",
+      "url": "https://strefainwestorow.pl/debiut-ipo/debiut-robyg-notowania-dywidenda",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Dom Development"
+      ],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Temat: mieszkani",
+          "Temat: deweloper"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W czwartek na GPW zadebiutował ponownie Robyg, jeden z największych deweloperów mieszkaniowych w Polsce. Kurs akcji ustabilizował się na lekkim plusie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Robyg rozpoczął ponowne notowania na warszawskim parkiecie 2 lipca 2026 roku notując 5,2 proc. wzrost na notowaniach PDA i minimalnym wzroście na akcjach już istniejących powyżej ceny odniesienia 34 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wartość całej oferty sięgnęła 1,178 mld zł. Spółka sprzedała pełną pulę 34,6 mln akcji (w tym 25 mln istniejących i 9,65 mln nowej emisji), pozyskując ok. 328 mln zł z nowych walorów i łącznie ok. 402 mln zł, a popyt kilkukrotnie przekroczył wielkość oferty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wchodzimy na GPW z poczuciem satysfakcji. Dużo ciężkiej pracy przez ostatnie pół roku pozwoliło nam wejść na rynek, a teraz czeka nas jeszcze więcej pracy. Jesteśmy zadowoleni i śmiało możemy powiedzieć, że i inwestorzy też będą zadowoleni."
+        },
+        {
+          "type": "paragraph",
+          "text": "- mówi Oscar Kazanelson, jeden ze współzałożycieli spółki, przewodniczący rady nadzorczej Robyg w wywiadzie dla Strefy Inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pieniądze z IPO będą przeznaczone na rozwój spółki, przede wszystkim na rozwój banku ziemi i na budowę mieszkań, żeby iść do przodu jednocześnie nie będąc zależnym od finansowania kredytowego. Już zaczęliśmy je wykorzystywać."
+        },
+        {
+          "type": "paragraph",
+          "text": "- dodaje."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debiut Robyg. Analiza IPO. Co warto wiedzieć o spółce"
+        },
+        {
+          "type": "heading",
+          "text": "Duży deweloper wrócił na GPW. Robyg myśli o kolejnych emisjach obligacji"
+        },
+        {
+          "type": "paragraph",
+          "text": "Robyg jest jednym z największych deweloperów mieszkaniowych w Polsce, konsekwentnie budującym swoją pozycję na najbardziej płynnych rynkach. Spółka działa od 2000 roku, rozwijając się etapowo – od pierwszych inwestycji, przez ekspansję do kolejnych miast, po debiut giełdowy w 2010 roku i późniejsze wycofanie z GPW. Z kolei w 2022 roku została przejęta przez TAG Immobilien. Dziś akcje dewelopera wróciły do notowań na warszawskim parkiecie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chcemy iść do przodu przy wsparciu rynku kapitałowego. Od dawna jesteśmy na rynku, gdyż nasze obligacje są notowane na Catalyst. Dalej będziemy na rynku, dlatego że chcemy rosnąć, a obecność na rynkach pozwala na uzyskanie lepszych warunków przy emisji obligacji, dlatego nie wykluczamy kolejnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "- podaje Oscar Kazanelson."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od początku istnienia spółka koncentrowała się na lokalizacjach o najwyższym potencjale wzrostu, zamiast rozpraszać działalność w skali kraju. Kluczowe projekty realizowała w Warszawie i Trójmieście, a następnie także we Wrocławiu, Poznaniu, Łodzi i Krakowie, co przełożyło się na zgromadzenie dużego banku ziemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Warszawie i Trójmieście zajmuje obecnie drugie miejsce (za Dom Development), notując odpowiednio ponad 3 tys. i 2,8 tys. sprzedanych lokali w ciągu ostatnich trzech lat. W Poznaniu plasuje się na trzeciej pozycji z wynikiem przekraczającym 600 mieszkań, a we Wrocławiu – na czwartej, gdzie sprzedaż przekroczyła 500 lokali. Zarząd wskazuje, że istotnym wsparciem wyników są relacje z klientami – w 2025 roku aż 38 proc. sprzedaży pochodziło od nabywców powracających oraz z rekomendacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Model biznesowy Robyg opiera się na pionowej integracji w formule one-stop shop, łączącej działalność deweloperską z własnym wykonawstwem. Kluczowym źródłem przychodów pozostaje sprzedaż mieszkań, wspierana przez wewnętrzne generalne wykonawstwo, co przekłada się na ponadprzeciętne marże. W 2025 roku segment deweloperski odpowiadał za ok. 71 proc. przychodów i aż 93 proc. skorygowanego zysku brutto. Uzupełnieniem są przychody z usług budowlanych, zarządczych i back-office, działalności w ramach joint venture oraz sprzedaży gruntów i nieruchomości."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka realizuje w pełni zintegrowany proces inwestycyjny – od zakupu gruntów i projektowania, przez marketing, sprzedaż i budowę, po obsługę posprzedażową. Większość lokali znajduje nabywców jeszcze na etapie realizacji, a po zakończeniu inwestycji w ofercie pozostaje mniej niż 5% mieszkań. Istotnym elementem modelu jest Robyg Construction, pełniący funkcję wewnętrznego generalnego wykonawcy, co zapewnia kontrolę nad kosztami, harmonogramem i jakością oraz pozwala zatrzymać marżę w Grupie. Deweloper korzysta przy tym z szerokiej bazy ok. 600 podwykonawców oraz efektów skali wynikających ze scentralizowanych zakupów."
+        },
+        {
+          "type": "heading",
+          "text": "Dywidenda Robyg: \"Inwestorzy będą zadowoleni\""
+        },
+        {
+          "type": "paragraph",
+          "text": "Robyg zapowiada również atrakcyjną dywidendę dla inwestorów. Zgodnie z zapowiedzią wypłata będzie stanowić co najmniej 70 proc. skonsolidowanego zysku netto za 2026 roku. Na ten moment została określona kwotowo na około 300 mln zł. Przy obecnej cenie 34 zł za akcję, stopa dywidendy zapowiada się na powyżej 8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W naszym sektorze bardzo dobrze wiemy jaki wynik możemy osiągnąć nawet już w 2027 r. a nie tylko 2026 r. Dlatego nie boimy się dzielić wysoką dywidendą z naszymi akcjonariuszami."
+        },
+        {
+          "type": "paragraph",
+          "text": "- mówi Oscar Kazanelson, przewodniczący rady nadzorczej Robyg."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hasło Robyg to „Dajemy więcej”. Dotyczy to także dywidendy. Tak samo jak dajemy więcej naszym klientom, tak samo będziemy dzielić się z naszymi udziałowcami. Kiedy byliśmy na giełdzie zawsze płaciliśmy dywidendę i teraz też będziemy wypłacać dywidendę, tak jak ustaliliśmy. Myślę, że wszyscy, również inwestorzy, będą zadowoleni."
+        },
+        {
+          "type": "paragraph",
+          "text": "- podsumowuje."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka wprowadziła do obrotu na rynku podstawowym 96.467.066 akcji zwykłych serii A. Akcje notowane są w systemie ciągłym pod skróconą nazwą ROBYG oraz tickerem „ROB”. Prawda do akcji występują pod nazwą „ROBYG-PDA” i oznaczeniem „ROBA”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Robyg wraca na giełdę. Deweloper mocno wyróżnia się na tle konkurencji"
+        }
+      ],
+      "author": "Wiola Hass",
+      "published_display": "02.07.2026 10:51",
+      "content_sha256": "e50bc0664732a3f736a7818e169e24a8093f2e000ffeb79c1ff4e692d327e87b",
+      "date": "2026-07-02",
+      "saved_at": "2026-10-07T14:04:28+00:00",
+      "content_checked_at": "2026-10-07T14:04:28+00:00"
+    },
+    {
       "id": "94a10cbcffe00b64",
       "title": "CD Projekt zapewni ciąg impulsów dla kursu akcji w II półroczu, Pieśni Przeszłości na Gamescom, kolejny sezon Edgerunners i nie tylko",
       "url": "https://strefainwestorow.pl/gaming/cdprojekt-edgerunners-cyberpunk-wiedzmin-piesni-przeszlosci",
@@ -25203,72 +25828,7 @@
       "paths": []
     }
   ],
-  "pending": [
-    {
-      "id": "74a2fe2048452dd2",
-      "title": "PCC Exol poprawia wyniki. Kluczowa inwestycja spółki przebiega zgodnie z planem",
-      "url": "https://strefainwestorow.pl/spolki/pcc-exol-wyniki-i-polrocze-2026",
-      "source": "Strefa Inwestorów",
-      "kind": "article",
-      "sections": [
-        "pozostale"
-      ],
-      "companies": [],
-      "match_reasons": {
-        "pozostale": [
-          "Wiadomość lub artykuł o spółkach spoza podstawowych reguł"
-        ]
-      }
-    },
-    {
-      "id": "57bb69b8a7e9d1c8",
-      "title": "Neuca mocno poprawiła wyniki w obszarze hurtu. Grupa notuje wzrosty w prawie wszystkich segmentach działalności",
-      "url": "https://strefainwestorow.pl/spolki/neuca-wyniki-q2-2026",
-      "source": "Strefa Inwestorów",
-      "kind": "article",
-      "sections": [
-        "pozostale"
-      ],
-      "companies": [],
-      "match_reasons": {
-        "pozostale": [
-          "Wiadomość lub artykuł o spółkach spoza podstawowych reguł"
-        ]
-      }
-    },
-    {
-      "id": "6542dbd799e80983",
-      "title": "Robyg ponownie notowany na GPW. Debiut na plusie. \"Inwestorzy będą zadowoleni\" - mówi Oscar Kazanelson, współzałożyciel spółki",
-      "url": "https://strefainwestorow.pl/debiut-ipo/debiut-robyg-notowania-dywidenda",
-      "source": "Strefa Inwestorów",
-      "kind": "article",
-      "sections": [
-        "pozostale"
-      ],
-      "companies": [],
-      "match_reasons": {
-        "pozostale": [
-          "Wiadomość lub artykuł o spółkach spoza podstawowych reguł"
-        ]
-      }
-    },
-    {
-      "id": "d9be47ef8139930d",
-      "title": "Euro w EBC: 1,1177 USD i 176,85 JPY",
-      "url": "https://strefainwestorow.pl/wiadomosci/20261007/euro-w-ebc-11177-usd-i-17685-jpy",
-      "source": "Strefa Inwestorów",
-      "kind": "article",
-      "sections": [
-        "makro"
-      ],
-      "companies": [],
-      "match_reasons": {
-        "makro": [
-          "Temat: EBC"
-        ]
-      }
-    }
-  ],
+  "pending": [],
   "warnings": [],
   "collector": {
     "successful_sources": 8,
