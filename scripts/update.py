@@ -15,6 +15,7 @@ from urllib.robotparser import RobotFileParser
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
 from topics import classify
+from analysis import analyze
 ORIGIN = 'https://strefainwestorow.pl'
 AGENT = 'InvestorReadingArchive/1.0'
 
@@ -186,6 +187,7 @@ def merge(existing, new, now):
 
 def update():
     rules = json.loads((ROOT / 'docs/data/topics.json').read_text(encoding='utf-8'))
+    exposures = json.loads((ROOT / 'docs/data/exposures.json').read_text(encoding='utf-8'))
     robots = RobotFileParser()
     robots.parse(fetch(ORIGIN + '/robots.txt').splitlines())
     discovered, warnings, successful_sources = [], [], 0
@@ -235,8 +237,9 @@ def update():
         if not entry['sections']:
             entry['sections'] = ['pozostale']
             entry['match_reasons'] = {'pozostale': ['Wiadomość spoza podstawowych reguł tematycznych']}
+        analyze(entry, exposures)
     articles = sorted(records.values(), key=lambda a: (a['date'], a.get('published_display', ''), a['url']), reverse=True)
-    result = {'schema_version': 3, 'last_checked': now, 'mode': 'full_text', 'articles': articles,
+    result = {'schema_version': 4, 'last_checked': now, 'mode': 'full_text', 'articles': articles,
               'sections': rules['sections'], 'pending': list(queue.values()), 'warnings': warnings,
               'collector': {'successful_sources': successful_sources, 'total_sources': len(rules['source_paths'])}}
     target.parent.mkdir(parents=True, exist_ok=True)

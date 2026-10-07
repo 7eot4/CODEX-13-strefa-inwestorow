@@ -1,0 +1,12 @@
+(function(root){
+ 'use strict';
+ const normalize=value=>String(value||'').toLocaleLowerCase('pl').replaceAll('ł','l').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+ const stop=new Set('jak jakie jaki jaka co czy i oraz w na z o do dla ze sie jest sa ten ta to ktore ktory ktora mnie mi artykul artykuly temat firme firma zbadaj szukaj znajdz pokaz dotyczace dotyczacych'.split(' '));
+ const synonyms={dywidend:['dywidend','wyplat','akcjonariusz'],kredyt:['kredyt','finansowan','stop procentow'],mieszkan:['mieszkan','deweloper','nieruchomo'],energia:['energi','energety','prad'],paliw:['paliw','ropa','ropy'],gaming:['gaming','gier','gry','wiedzmin','cyberpunk'],inflac:['inflac','cen konsumpcyj'],zadlu:['zadlu','dlug','obligac'],zysk:['zysk','wynik','rentown','marz']};
+ function terms(query){return [...new Set(normalize(query).match(/[a-z0-9]+/g)||[])].filter(t=>!stop.has(t)&&t.length>1).flatMap(t=>{const key=Object.keys(synonyms).find(k=>t.startsWith(k));return key?synonyms[key]:[t.length>6?t.slice(0,-2):t];});}
+ function lexicalScore(a,query){if(!query.trim())return 0;const needle=normalize(query),title=normalize(a.title),summary=normalize((a.analysis?.summary_sentences||[]).join(' ')),text=normalize(a.body.map(p=>p.text).join(' ')),companies=normalize((a.companies||[]).join(' '));let score=title.includes(needle)?30:0;for(const term of terms(query)){if(title.includes(term))score+=10;if(companies.includes(term))score+=8;if(summary.includes(term))score+=5;if(text.includes(term))score+=1;}return score;}
+ function cosine(a,b){if(a.length!==b.length)return -1;let dot=0,aa=0,bb=0;for(let i=0;i<a.length;i++){dot+=a[i]*b[i];aa+=a[i]*a[i];bb+=b[i]*b[i];}return aa&&bb?dot/Math.sqrt(aa*bb):-1;}
+ function semanticScores(vector,index){return new Map(index.entries.map(entry=>[entry.id,cosine(vector,entry.vector)]));}
+ function published(a){if(a.published_time)return `${new Date(a.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'})}, ${a.published_time}`;const time=a.published_display?.match(/\b([01]\d|2[0-3]):[0-5]\d\b/);return `${new Date(a.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'})}, ${time?time[0]:'godzina nieznana'}`;}
+ const api={normalize,terms,lexicalScore,cosine,semanticScores,published};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.SearchCore=api;
+})(typeof globalThis!=='undefined'?globalThis:this);

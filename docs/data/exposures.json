@@ -1,0 +1,14 @@
+{
+  "checked_at":"2026-10-07",
+  "method":"Profil działalności potwierdzony u emitenta; związek z konkretną wiadomością jest wnioskiem tematycznym, nie rekomendacją ani prognozą kursu.",
+  "companies":[
+    {"name":"Orlen","sections":["energia"],"terms":["ropa","ropy","paliw*","gaz","gazu","energi*","offshore","wiatrow*"],"reason":"Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.","source":"https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/"},
+    {"name":"PKO BP","sections":["finanse","makro"],"terms":["stop* procentow*","RPP","kredyt*","bank*","NBP"],"reason":"Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.","source":"https://www.pkobp.pl/o-banku"},
+    {"name":"CD PROJEKT","sections":["technologie"],"terms":["gaming*","gry","gier","premier*","Wiedźmin","Cyberpunk","Steam"],"reason":"Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.","source":"https://www.cdprojekt.com/pl/grupa-kapitalowa/"},
+    {"name":"Budimex","sections":["przemysl"],"terms":["budownictw*","infrastruktur*","kolej*","drog*","kontrakt*"],"reason":"Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.","source":"https://budimex.pl/o-nas/"},
+    {"name":"Allegro","sections":["konsumpcja"],"terms":["konsumpcj*","konsumen*","handel","e-commerce","zakup*","sprzedaż detaliczna"],"reason":"Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.","source":"https://about.allegro.eu/pl/"},
+    {"name":"Dom Development","sections":["nieruchomosci","makro"],"terms":["mieszkani*","deweloper*","kredyt*","stop* procentow*","nieruchomoś*"],"reason":"Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.","source":"https://www.domd.pl/pl-pl/krakow/o-nas"},
+    {"name":"Develia","sections":["nieruchomosci"],"terms":["mieszkani*","deweloper*","najem","najmu","nieruchomoś*"],"reason":"Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.","source":"https://develia.pl/pl/o-nas/"},
+    {"name":"Asseco","sections":["technologie"],"terms":["oprogramowan*","informaty*","cyfryzac*","AI","sztuczn* inteligenc*"],"reason":"Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.","source":"https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/"}
+  ]
+}

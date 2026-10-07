@@ -1,0 +1,26 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const {JSDOM}=require('jsdom');
+(async()=>{
+ const dom=new JSDOM('<input id="search"><button id="search-run"></button><button id="ai-enable"></button><p id="ai-status"></p>',{runScripts:'outside-only'});
+ const w=dom.window;let worker;
+ w.fetch=async url=>({ok:true,json:async()=>url.includes('config')?{revision:'test'}:{revision:'test',entries:[{id:'a',vector:[1,0]}]}});
+ w.Worker=class{constructor(){worker=this;this.messages=[];}postMessage(m){this.messages.push(m);}terminate(){this.stopped=true;}};
+ w.eval(fs.readFileSync('docs/search-core.js','utf8'));
+ w.eval(fs.readFileSync('docs/search-ai.js','utf8'));
+ w.document.getElementById('search').value='energia';
+ await w.document.getElementById('ai-enable').onclick();
+ assert.equal(worker.messages[0].type,'init');
+ worker.onmessage({data:{type:'ready'}});
+ const query=worker.messages.at(-1);assert.equal(query.query,'energia');
+ worker.onmessage({data:{type:'result',query:query.query,requestId:query.requestId,vector:[1,0]}});
+ assert.equal(w.articleSemanticScores.get('a'),1);
+ w.document.getElementById('search').value='banki';
+ w.document.getElementById('search').dispatchEvent(new w.Event('input'));
+ assert.equal(w.articleSemanticScores,null);
+ worker.onmessage({data:{type:'result',query:query.query,requestId:query.requestId,vector:[1,0]}});
+ assert.equal(w.articleSemanticScores,null);
+ worker.onerror();assert.match(w.document.getElementById('ai-status').textContent,/pozostaje dostępne/);
+ await w.document.getElementById('ai-enable').onclick();assert.equal(worker.stopped,true);
+ dom.window.close();console.log('PASS: AI initialization, local query, stale-result rejection and fallback');
+})().catch(e=>{console.error(e);process.exitCode=1;});

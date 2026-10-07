@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict');const core=require('../docs/search-core.js');
+const articles=[{id:'a',title:'Koszt kredytu a sprzedaż mieszkań',body:[{text:'Deweloperzy raportują sprzedaż.'}],companies:[]},{id:'b',title:'CD PROJEKT wydaje grę',body:[{text:'Wiedźmin i Cyberpunk.'}],companies:['CD PROJEKT']}];
+assert.ok(core.lexicalScore(articles[0],'jak finansowanie wpływa na mieszkania')>core.lexicalScore(articles[1],'jak finansowanie wpływa na mieszkania'));
+assert.ok(core.lexicalScore(articles[1],'gaming')>0);
+assert.ok(core.lexicalScore(articles[1],'wiedzmin')>0);
+assert.equal(core.cosine([1,0],[1,0]),1);assert.equal(core.cosine([1,0],[0,1]),0);
+assert.equal(core.semanticScores([1,0],{entries:[{id:'a',vector:[1,0]}]}).get('a'),1);
+assert.ok(core.published({date:'2026-10-07',published_time:'15:59'}).includes('15:59'));
+assert.ok(core.published({date:'2026-10-07'}).includes('godzina nieznana'));
+console.log('PASS: Polish concept search, semantic similarity, publication minutes');

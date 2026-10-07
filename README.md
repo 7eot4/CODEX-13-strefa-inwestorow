@@ -32,7 +32,7 @@ Biblioteka XLSX: lokalnie hostowany ExcelJS 4.4.0, licencja MIT w `docs/vendor/e
 
 ## Aktualizacja
 
-`python scripts/update.py` — Python 3.12+, bez dodatkowych bibliotek.
+`python scripts/update.py` — Python 3.12+; wcześniej `python -m pip install -r requirements.txt`.
 
 Kolektor sprawdza osiem list źródłowych z konfiguracji (strona główna, dwie strony wiadomości i działy tematyczne), respektuje robots.txt, odrzuca obce domeny, usuwa duplikaty i zachowuje wcześniejsze wpisy. Pobiera publiczną treść bez reklam i skryptów, zachowując akapity, nagłówki i tekst tabel. Nie archiwizuje obrazów. Ostatnie dostępne skróty są ponownie odczytywane dla korekt. Nie omija logowania ani płatnego dostępu.
 
@@ -53,3 +53,17 @@ Po zatwierdzeniu publikacji: utworzyć repozytorium, wysłać gałąź `main`, u
 `npm ci --ignore-scripts && npm test` — testy filtrów sekcji i spółek, przeglądarkowej biblioteki XLSX, importu lokalnego, wykluczenia danych finansowych i dopasowania portfela. Przykłady brokerów są wyłącznie syntetyczne. Nie zweryfikowano rzeczywistego eksportu użytkownika ani wyglądu w przeglądarce.
 
 Testy uruchamiają się również w GitHub Actions przed odczytem źródeł i publikacją.
+
+## Wyszukiwanie AI i analiza kart
+
+Wpisz temat lub firmę w wyszukiwarkę. Wyszukiwanie słowami działa od razu. „Włącz lokalne AI” uruchamia multilingual-e5-small w przeglądarce. Pierwsze użycie pobiera około 118 MB modelu, 17 MB tokenizera i 27 MB silnika. Bez klucza API i opłat za zapytania. Pobieranie wymaga Internetu; pliki pozostają w pamięci podręcznej przeglądarki. Zapytania i portfel nie są wysyłane do usługi AI. Pobieranie z Hugging Face przekazuje jej zwykłe dane połączenia.
+
+AI porównuje znaczenie zapytania z tytułem, podsumowaniem i nagłówkami artykułów. Wyszukiwanie słowami obejmuje pełną treść. Wyniki AI pokazują najwyżej 30 dopasowań po filtrach. Dostępne jest sortowanie według daty i skal. Model i wersja są przypięte w `docs/data/ai-config.json`; indeks aktualizuje się z bazą.
+
+Karty oraz pełne artykuły zawierają 2–3 zdania wybrane przez analizę tekstu. To podsumowanie ekstrakcyjne oparte na regułach, nie generowanie przez model językowy. Daty pokazują godzinę i minutę źródła; brak czasu jest oznaczony jawnie.
+
+Skale ⚡ znaczenia branżowego i 🧨 potencjału reakcji kursu mają zakres 0–100. Wykorzystują wyniki, prognozy, kapitał, kontrakty, regulacje i ryzyka. Są heurystyką selekcji wiadomości; nie oznaczają procentu zmiany, prawdopodobieństwa ani kierunku kursu. Bez konsensusu, cen i kalibracji historycznej pewność jest niska. Rozwijane uzasadnienie pokazuje przesłanki i ograniczenia.
+
+Powiązane spółki są rozróżnione na wymienione w tekście i wywnioskowane z tematu. Profile działalności i źródła emitentów zapisano w `docs/data/exposures.json`. To lista do dalszego badania, nie rekomendacja kupna.
+
+Budowa klienta: `npm run build:client`. Aktualizacja indeksu: `npm run build:search`. Transformers.js i ONNX Runtime mają dołączone licencje. Rzeczywisty model sprawdzono na polskich zapytaniach i silniku WASM; wygląd strony wymaga osobnej kontroli w przeglądarce.

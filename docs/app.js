@@ -9,13 +9,20 @@ function render() {
  const query = $('search').value.toLocaleLowerCase('pl');
  const month = $('month').value;
  const company = $('company').value, kind = $('kind').value;
- const filtered = articles.filter(a => (!onlyPortfolio || window.matchPortfolio(a,sections).length) && (!selectedSection || (a.sections || []).includes(selectedSection)) && (!company || (a.companies || []).includes(company)) && (!kind || a.kind === kind) && (!onlySaved || bookmarks.has(a.id)) && (!month || a.date.startsWith(month)) && `${a.title} ${a.date} ${(a.companies||[]).join(' ')} ${a.body.map(p=>p.text).join(' ')}`.toLocaleLowerCase('pl').includes(query));
+ const semantic=query?window.articleSemanticScores:null;
+ const lexical=new Map(articles.map(a=>[a.id,query?SearchCore.lexicalScore(a,query):0]));
+ let filtered = articles.filter(a => (!onlyPortfolio || window.matchPortfolio(a,sections).length) && (!selectedSection || (a.sections || []).includes(selectedSection)) && (!company || (a.companies || []).includes(company) || (a.analysis?.watch_companies||[]).some(c=>c.name===company)) && (!kind || a.kind === kind) && (!onlySaved || bookmarks.has(a.id)) && (!month || a.date.startsWith(month)) && (!query || semantic?.has(a.id) || lexical.get(a.id)>0));
+ const relevance=a=>semantic?(semantic.get(a.id)||0)+Math.min(lexical.get(a.id),30)/300:lexical.get(a.id);
+ const order=$('sort').value;
+ filtered.sort((a,b)=>order==='interest'?(b.analysis?.interest_score||0)-(a.analysis?.interest_score||0):order==='impact'?(b.analysis?.impact_score||0)-(a.analysis?.impact_score||0):order==='latest'||!query?(b.published_at||b.date).localeCompare(a.published_at||a.date):relevance(b)-relevance(a));
+ const total=filtered.length;if(semantic&&query)filtered=filtered.slice(0,30);
  $('articles').replaceChildren(); $('saved-count').textContent = articles.filter(a => bookmarks.has(a.id)).length;
- $('count').textContent = `${filtered.length} z ${articles.length} wpisów`;
+ $('count').textContent = semantic&&query?`Najlepsze ${filtered.length} z ${total} wyników AI`:`${filtered.length} z ${articles.length} wpisów`;
  for (const a of filtered) {
   const card = element('article', '', 'card');
-  card.append(element('div', `${new Date(a.date + 'T12:00:00').toLocaleDateString('pl-PL', {day:'numeric',month:'long',year:'numeric'})} · ${a.kind === 'roundup' ? 'SKRÓT DNIA' : 'ARTYKUŁ'}`, 'meta'));
+  card.append(element('div', `${SearchCore.published(a)} · ${a.kind === 'roundup' ? 'SKRÓT DNIA' : 'ARTYKUŁ'}`, 'meta'));
   const heading = element('h3'); const titleLink = element('a', a.title); titleLink.href = `read.html?id=${encodeURIComponent(a.id)}`; heading.append(titleLink); card.append(heading);
+  card.append(window.articleAnalysisUI(a));
   const tags = element('div', '', 'tags');
   for (const id of a.sections || []) { const section = sections.find(s=>s.id===id); if (!section) continue; const tag = element('button', section.name); tag.onclick=()=>chooseSection(id); tags.append(tag); }
   card.append(tags);
@@ -41,14 +48,15 @@ function chooseSection(id) {
  $('watchlist').textContent=watched.map(s=>`${s.name}: firmy — ${Object.keys(s.companies).join(', ') || 'brak listy firm'}; tematy — ${s.keywords.map(t=>t.replaceAll('*','…')).join(', ') || 'skróty wiadomości'}.`).join('\n');
  const company=$('company').value;
  $('company').replaceChildren(element('option', 'Wszystkie firmy')); $('company').firstChild.value='';
- const names=[...new Set(watched.flatMap(s=>Object.keys(s.companies)))].sort((a,b)=>a.localeCompare(b,'pl'));
+ const names=[...new Set([...watched.flatMap(s=>Object.keys(s.companies)),...articles.filter(a=>!id||a.sections?.includes(id)).flatMap(a=>[...(a.companies||[]),...(a.analysis?.watch_companies||[]).map(c=>c.name)])])].sort((a,b)=>a.localeCompare(b,'pl'));
  for(const name of names){const option=element('option',name);option.value=name;$('company').append(option);}
  if(names.includes(company))$('company').value=company;
  for(const b of $('sections').children){b.classList.toggle('active',b.dataset.section===id);b.setAttribute('aria-pressed',String(b.dataset.section===id));}
  const url=new URL(location.href);id?url.searchParams.set('section',id):url.searchParams.delete('section');history.replaceState(null,'',url);
  render();
 }
-for (const id of ['search', 'month','company','kind']) $(id).addEventListener('input', render);
+for (const id of ['search', 'month','company','kind','sort']) $(id).addEventListener('input', render);
+window.addEventListener('search-updated',render);
 for (const id of ['all','saved','portfolio-tab']) $(id).onclick = () => { onlySaved=id==='saved';onlyPortfolio=id==='portfolio-tab'; for (const name of ['all','saved','portfolio-tab']) { $(name).classList.toggle('active', name === id); $(name).setAttribute('aria-pressed', String(name === id)); } render(); };
 window.addEventListener('portfolio-changed',render);
 fetch('data/archive.json', {cache:'no-store'}).then(r => {if (!r.ok) throw Error('HTTP ' + r.status); return r.json();}).then(data => {
@@ -62,4 +70,5 @@ fetch('data/archive.json', {cache:'no-store'}).then(r => {if (!r.ok) throw Error
  $('checked').textContent = `Ostatni odczyt: ${checked.toLocaleString('pl-PL')}. Harmonogram co 2 godziny; uruchomienia mogą się opóźnić.`;
  $('collection-status').textContent=`${data.pending?.length || 0} tekstów oczekuje na pobranie. ${data.warnings?.length || 0} ostrzeżeń ostatniego odczytu.`;
  chooseSection(selectedSection);
+ const requestedCompany=new URLSearchParams(location.search).get('company');if(requestedCompany&&[...$('company').options].some(o=>o.value===requestedCompany)){$('company').value=requestedCompany;render();}
 }).catch(() => { $('status').textContent='Nie udało się wczytać bazy'; $('articles').append(element('p', 'Odśwież stronę lub pobierz bazę bezpośrednio.', 'empty')); }).finally(() => $('articles').setAttribute('aria-busy','false'));

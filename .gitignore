@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 qa/
 node_modules/
+.model-cache/
