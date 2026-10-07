@@ -1,8 +1,108 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-07T17:16:40+00:00",
+  "last_checked": "2026-10-07T17:25:32+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "dcaee4c9b7025457",
+      "title": "Grupa Spyrosoft planuje przeprowadzić skup akcji własnych",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/grupa-spyrosoft-planuje-przeprowadzic-skup-akcji-wlasnych",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "heading",
+          "text": "Komunikat od SpyroSoft SA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd Grupy Spyrosoft poinformował dziś o zwołaniu Nadzwyczajnego Walnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgromadzenia na dzień 9 listopada 2026 r. Przedmiotem NWZ będzie podjęcie uchwały w sprawie upoważnienia Zarządu do nabywania akcji własnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "- W naszej giełdowej historii, czyli od 2020 r., zawsze osiągaliśmy zyski, które reinwestowaliśmy w dalszy rozwój, zarówno organiczny, jak i poprzez przejęcia. Zasoby finansowe w ostatnich latach gromadziliśmy w szczególności pod kątem kolejnych potencjalnych akwizycji. Na koniec czerwca bieżącego roku Spółka dysponowała ok. 81,5 mln zł, tylko jeśli spojrzeć na gotówkę. Nasza strategia rozwoju jest aktualna i w dalszym ciągu zakłada możliwość rozwoju poprzez M&A. Od pewnego czasu sygnalizujemy natomiast, że w obecnej sytuacji rynkowej trudno nam zidentyfikować potencjalny cel akwizycji, który spełniłby nasze kryteria i który jednocześnie moglibyśmy przejąć na atrakcyjnych warunkach. Dlatego właśnie chcemy zaproponować akcjonariuszom, aby część skumulowanych zysków przeznaczyć na skup akcji własnych, co jest alternatywą do dzielenia się przez Spółkę zyskiem w formie dywidendy - powiedział Konrad Weiske, prezes zarządu Spyrosoft S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z propozycją uchwały NWZ, Spyrosoft na nabycie akcji własnych zamierza przeznaczyć kwotę do 22,2 mln zł. Ta kwota może zostać wykorzystana w ramach jednej transzy lub kilku, a decyzja co do tego podziału pozostanie w gestii Zarządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projekt uchwały przewiduje również nabycie nie więcej niż 54 777 akcji Spyrosoft S.A., co obecnie stanowi 5% łącznej liczby akcji. Proponowany przedział ceny oferowanej za akcję został ujęty w granicach od 1 zł do 400 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proponowany program skupu akcji dopuszcza możliwość przeprowadzania go w postaci skierowania do wszystkich akcjonariuszy zaproszenia do składania ofert sprzedaży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nabyte akcje będą mogły zostać umorzone, zaoferowane potencjalnym inwestorom np. przy okazji transakcji M&A oraz zaoferowane w ramach programu motywacyjnego. Zarówno w przypadku umorzenia, jak i programu motywacyjnego, niezbędne byłoby również podjęcie odrębnych uchwał Walnego Zgromadzenia w tych kwestiach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jedocześnie Spółka informuje, że – równolegle z podjęciem decyzji o przeprowadzeniu skupu akcji własnych – otrzymała odrębne deklaracje ze strony trzech głównych akcjonariuszy o tym, że nie będą uczestniczyli w tym procesie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spyrosoft to międzynarodowa firma z Wrocławia, która od 2016 r. oferuje kompleksowe usługi w zakresie tworzenia oprogramowania. Około 82% przychodów firmy pochodzi z kontraktów zawieranych z klientami zagranicznymi, przede wszystkim z Wielkiej Brytanii, Niemiec i USA. Firma współpracuje z klientami z całego świata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdywersyfikowany portfel klientów obejmuje kilkanaście specjalistycznych branż. Spółka prowadzi biura w Polsce,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wielkiej Brytanii, Niemczech, Chorwacji, Stanach Zjednoczonych, Rumunii, Argentynie oraz Indiach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: SpyroSoft SA"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 19:17",
+      "content_sha256": "af3587f40fbb4ae833a66204ccb44d110d060d9ac4442a687aab2d2e87f3c504",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:25:32+00:00",
+      "content_checked_at": "2026-10-07T17:25:32+00:00",
+      "published_time": "19:17",
+      "published_at": "2026-10-07T19:17+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zgromadzenia na dzień 9 listopada 2026 r. Przedmiotem NWZ będzie podjęcie uchwały w sprawie upoważnienia Zarządu do nabywania akcji własnych.",
+          "Dlatego właśnie chcemy zaproponować akcjonariuszom, aby część skumulowanych zysków przeznaczyć na skup akcji własnych, co jest alternatywą do dzielenia się przez Spółkę zyskiem w formie dywidendy - powiedział Konrad Weiske, prezes zarządu Spyrosoft S.A.",
+          "Zgodnie z propozycją uchwały NWZ, Spyrosoft na nabycie akcji własnych zamierza przeznaczyć kwotę do 22,2 mln zł."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "- W naszej giełdowej historii, czyli od 2020 r., zawsze osiągaliśmy zyski, które reinwestowaliśmy w dalszy rozwój, zarówno organiczny, jak i poprzez przejęcia."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "af3587f40fbb4ae833a66204ccb44d110d060d9ac4442a687aab2d2e87f3c504"
+      }
+    },
     {
       "id": "aed21515898fcc31",
       "title": "DZIEŃ NA RYNKACH: Indeksy na europejskich giełdach zniżkowały",
@@ -1822,7 +1922,7 @@
       "published_display": "07.10.2026 17:01",
       "content_sha256": "a6d30f0656ab483e5b5f1f2d2d44afd5319372b987d8cb2414abe24943a54c7d",
       "saved_at": "2026-10-07T17:16:40+00:00",
-      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:25:32+00:00",
       "sections": [
         "skroty",
         "makro",
