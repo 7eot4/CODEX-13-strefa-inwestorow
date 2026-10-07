@@ -73,3 +73,5 @@ Budowa klienta: `npm run build:client`. Aktualizacja indeksu: `npm run build:sea
 Karty i strony artykułów mają własne ilustracje wektorowe dopasowane do dziewięciu sekcji. Są oznaczone jako ilustracje tematyczne, bez sugestii, że dokumentują wydarzenie lub notowania. Pliki są hostowane lokalnie w `docs/images`; nie pobierają zdjęć z zewnętrznych serwisów. Odtworzenie grafik: `python scripts/build-artwork.py`.
 
 Wskaźniki mają ciemne panele, turkusową i koralową skalę, animowane wypełnienie oraz liczbę punktów. Są odczytowe i dostępne dla czytników ekranu jako mierniki. Animacje działają tylko dla widocznych elementów; ustawienie systemowe zmniejszonego ruchu je wyłącza. Wygląd określa `docs/editorial.css`.
+
+Wysłanie zmian kodu publikuje ostatnią zapisaną bazę po testach, bez zależności od bieżącej dostępności źródła artykułów. Pobieranie nowych tekstów wykonuje harmonogram oraz ręczne uruchomienie workflow.
