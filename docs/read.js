@@ -4,9 +4,12 @@ fetch('data/archive.json',{cache:'no-store'}).then(r => {if(!r.ok) throw Error()
  const a=data.articles.find(item => item.id===id); if(!a || !a.body) throw Error();
  document.title=`${a.title} · Notatnik inwestora`;
  document.getElementById('title').textContent=a.title;
- document.getElementById('meta').textContent=`${a.date} · SKRÓT WIADOMOŚCI`;
+ document.getElementById('meta').textContent=`${a.date} · ${a.kind==='article'?'ARTYKUŁ':'SKRÓT WIADOMOŚCI'}`;
  document.getElementById('byline').textContent=`${a.author || 'Strefa Inwestorów'} · ${a.published_display || a.date}`;
  const body=document.getElementById('body');
+ const tags=document.createElement('nav');tags.className='reader-tags';tags.setAttribute('aria-label','Sekcje artykułu');
+ for(const section of data.sections || [])if(a.sections?.includes(section.id)){const link=document.createElement('a');link.href=`./?section=${encodeURIComponent(section.id)}`;link.textContent=section.name;tags.append(link);}
+ body.before(tags);
  for(const block of a.body){const el=document.createElement(block.type==='heading'?'h2':'p');el.textContent=block.text;body.append(el);}
  const url=new URL(a.url);if(url.protocol!=='https:'||url.hostname!=='strefainwestorow.pl')throw Error();
  const original=document.getElementById('original');original.href=url.href;original.hidden=false;

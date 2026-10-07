@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const core=require('../docs/portfolio-core.js');
+const rules=JSON.parse(fs.readFileSync('docs/data/topics.json','utf8'));
+const csv='Raport pozycji\nNazwa;Ticker;ISIN;Liczba;Wartość;Numer rachunku\n"CD PROJEKT";CDR;PLCDPRO00019;20;123456;SECRET-ACCOUNT\nOrlen;PKN;PLPKN0000018;3;99887;SECRET-ACCOUNT\nRazem;;;;223343;SECRET-ACCOUNT';
+const parsed=core.parseRows(core.parseCSV(csv));
+assert.equal(parsed.entries.length,2);
+assert.deepEqual(Object.keys(parsed.entries[0]),['name','ticker','isin']);
+assert.ok(!JSON.stringify(parsed).includes('SECRET-ACCOUNT'));
+assert.ok(!JSON.stringify(parsed).includes('123456'));
+assert.deepEqual(core.matches({title:'CD PROJEKT RED zapowiada nową grę',body:[]},parsed.entries,rules.sections),['CD PROJEKT']);
+assert.deepEqual(core.matches({title:'Orlen rozwija Baltic Power',body:[]},parsed.entries,rules.sections),['Orlen']);
+assert.deepEqual(core.matches({title:'Marketing: ranking produktów',body:[]},[{name:'ING'}],rules.sections),[]);
+assert.throws(()=>core.parseRows([['Nieznana kolumna'],['1234']]),/Nie rozpoznano/);
+assert.equal(core.parseRows(core.parseCSV('Name,Ticker\n"Example, Inc",EXM')).entries[0].name,'Example, Inc');
+assert.equal(core.parseRows(core.parseCSV('Walor\tISIN\nOrlen\tPLPKN0000018')).entries[0].name,'Orlen');
+console.log('PASS: CSV formats, private-field exclusion, portfolio matching, unsupported headers');

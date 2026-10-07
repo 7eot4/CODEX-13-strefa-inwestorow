@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "skroty",
+      "name": "Skróty dnia",
+      "description": "Pełne przeglądy najważniejszych wiadomości.",
+      "companies": {},
+      "keywords": [],
+      "paths": []
+    },
+    {
+      "id": "makro",
+      "name": "Makroekonomia i rynki",
+      "description": "Inflacja, stopy procentowe, waluty, obligacje i koniunktura.",
+      "companies": {},
+      "keywords": [
+        "inflacj*",
+        "PKB",
+        "NBP",
+        "RPP",
+        "Fed",
+        "ECB",
+        "EBC",
+        "stopy procentowe",
+        "stop procentowych",
+        "rentowności",
+        "obligacj*",
+        "walut*",
+        "dolar*",
+        "bezroboc*",
+        "makroekonomi*",
+        "gospodark*",
+        "WIG",
+        "WIG20",
+        "S&P 500",
+        "Nasdaq"
+      ],
+      "paths": [
+        "/strefa-global-market/gospodarka/",
+        "/strefa-global-market/waluty/"
+      ]
+    },
+    {
+      "id": "finanse",
+      "name": "Banki i finanse",
+      "description": "Wyniki banków, ubezpieczenia, brokerzy i zarządzanie aktywami.",
+      "companies": {
+        "PKO BP": [
+          "PKO BP",
+          "PKO Bank Polski"
+        ],
+        "Pekao": [
+          "Pekao"
+        ],
+        "PZU": [
+          "PZU"
+        ],
+        "XTB": [
+          "XTB"
+        ],
+        "Santander": [
+          "Santander"
+        ],
+        "ING": [
+          "ING Bank",
+          "ING BSK"
+        ],
+        "mBank": [
+          "mBank"
+        ],
+        "Alior": [
+          "Alior"
+        ],
+        "BNP Paribas": [
+          "BNP Paribas"
+        ],
+        "Skarbiec": [
+          "Skarbiec"
+        ],
+        "Nest Bank": [
+          "Nest Bank"
+        ]
+      },
+      "keywords": [
+        "bank*",
+        "ubezpieczen*",
+        "ubezpiecz*",
+        "broker*",
+        "fundusz*",
+        "ETF",
+        "kredyt*",
+        "fintech"
+      ],
+      "paths": []
+    },
+    {
+      "id": "energia",
+      "name": "Energia i surowce",
+      "description": "Energetyka, OZE, paliwa, gaz, metale i transformacja energetyczna.",
+      "companies": {
+        "Orlen": [
+          "Orlen",
+          "Baltic Power"
+        ],
+        "KGHM": [
+          "KGHM"
+        ],
+        "PGE": [
+          "PGE"
+        ],
+        "Tauron": [
+          "Tauron"
+        ],
+        "Energa": [
+          "Energa"
+        ],
+        "Polenergia": [
+          "Polenergia"
+        ],
+        "JSW": [
+          "JSW",
+          "Jastrzębska Spółka Węglowa"
+        ],
+        "Unimot": [
+          "Unimot"
+        ],
+        "Sunex": [
+          "Sunex"
+        ],
+        "ZE PAK": [
+          "ZE PAK"
+        ],
+        "Grenevia": [
+          "Grenevia"
+        ]
+      },
+      "keywords": [
+        "energi*",
+        "energety*",
+        "OZE",
+        "ropa",
+        "ropy",
+        "paliw*",
+        "węgiel",
+        "węgl*",
+        "miedź",
+        "miedzi",
+        "elektrowni*",
+        "atom*",
+        "jądrow*",
+        "wiatrow*",
+        "fotowolta*",
+        "surowc*",
+        "gaz",
+        "gazu",
+        "gazem",
+        "gazow*"
+      ],
+      "paths": [
+        "/w-zielonej-strefie/energetyka/",
+        "/w-zielonej-strefie/oze/"
+      ]
+    },
+    {
+      "id": "technologie",
+      "name": "Technologie i gaming",
+      "description": "Gry, informatyka, sztuczna inteligencja i cyfrowe platformy.",
+      "companies": {
+        "CD PROJEKT": [
+          "CD PROJEKT",
+          "CDPROJEKT",
+          "CDPROJEKTRED"
+        ],
+        "11 bit studios": [
+          "11 bit",
+          "11bit"
+        ],
+        "Ten Square Games": [
+          "Ten Square Games"
+        ],
+        "PlayWay": [
+          "PlayWay"
+        ],
+        "Asseco": [
+          "Asseco"
+        ],
+        "Text": [
+          "Text SA",
+          "Text S.A.",
+          "LiveChat"
+        ],
+        "Legimi": [
+          "Legimi"
+        ],
+        "Spotify": [
+          "Spotify"
+        ],
+        "Metashift Labs": [
+          "Metashift Labs"
+        ]
+      },
+      "keywords": [
+        "gaming*",
+        "gamedev*",
+        "gry",
+        "gier",
+        "gra",
+        "AI",
+        "sztuczn* inteligenc*",
+        "technologi*",
+        "oprogramowan*",
+        "informaty*",
+        "Cyberpunk",
+        "Wiedźmin",
+        "Steam",
+        "audiobook*"
+      ],
+      "paths": [
+        "/gaming/"
+      ]
+    },
+    {
+      "id": "przemysl",
+      "name": "Przemysł i infrastruktura",
+      "description": "Produkcja, transport, obronność, chemia i inwestycje infrastrukturalne.",
+      "companies": {
+        "Trans Polonia": [
+          "Trans Polonia"
+        ],
+        "OT Logistics": [
+          "OT Logistics"
+        ],
+        "Grupa Azoty": [
+          "Grupa Azoty",
+          "Grupę Azoty",
+          "Siarkopol"
+        ],
+        "Selena": [
+          "Selena"
+        ],
+        "Budimex": [
+          "Budimex"
+        ],
+        "Mirbud": [
+          "Mirbud"
+        ],
+        "WB Group": [
+          "WB Group"
+        ],
+        "PZL": [
+          "PZL"
+        ],
+        "ZPUE": [
+          "ZPUE"
+        ],
+        "Ferro": [
+          "Ferro"
+        ]
+      },
+      "keywords": [
+        "przemysł*",
+        "produkcj*",
+        "logistyk*",
+        "transport*",
+        "infrastruktur*",
+        "obronn*",
+        "zbrojeni*",
+        "chemiczn*",
+        "kolej*"
+      ],
+      "paths": [
+        "/w-zielonej-strefie/przemysl/"
+      ]
+    },
+    {
+      "id": "konsumpcja",
+      "name": "Handel i konsumpcja",
+      "description": "Sprzedaż detaliczna, zakupy internetowe, żywność i popyt konsumentów.",
+      "companies": {
+        "Dino": [
+          "Dino Polska",
+          "Dino"
+        ],
+        "LPP": [
+          "LPP"
+        ],
+        "CCC": [
+          "CCC"
+        ],
+        "Modivo": [
+          "Modivo"
+        ],
+        "Allegro": [
+          "Allegro"
+        ],
+        "Żabka": [
+          "Żabka",
+          "Zabka"
+        ],
+        "Eurocash": [
+          "Eurocash"
+        ],
+        "AmRest": [
+          "AmRest"
+        ],
+        "SmartLunch": [
+          "SmartLunch"
+        ]
+      },
+      "keywords": [
+        "konsumpcj*",
+        "konsumen*",
+        "detaliczn*",
+        "e-commerce",
+        "sprzedaż detaliczna",
+        "sprzedaży detalicznej",
+        "żywnoś*",
+        "odzież*"
+      ],
+      "paths": []
+    },
+    {
+      "id": "nieruchomosci",
+      "name": "Nieruchomości",
+      "description": "Mieszkania, deweloperzy, najem i rynek powierzchni komercyjnych.",
+      "companies": {
+        "Dom Development": [
+          "Dom Development"
+        ],
+        "Develia": [
+          "Develia"
+        ],
+        "Atal": [
+          "Atal"
+        ],
+        "Echo Investment": [
+          "Echo Investment"
+        ],
+        "GTC": [
+          "GTC"
+        ],
+        "PHN": [
+          "PHN",
+          "Polski Holding Nieruchomości"
+        ]
+      },
+      "keywords": [
+        "nieruchomoś*",
+        "mieszkani*",
+        "deweloper*",
+        "najem",
+        "najmu",
+        "biurow*",
+        "czynsz*"
+      ],
+      "paths": [
+        "/nieruchomosci/"
+      ]
+    },
+    {
+      "id": "pozostale",
+      "name": "Pozostałe wiadomości i spółki",
+      "description": "Wpisy poza podstawowymi regułami — także firmy rozpoznawane przez Twój lokalny portfel.",
+      "companies": {},
+      "keywords": [],
+      "paths": []
+    }
+  ],
+  "source_paths": [
+    "/",
+    "/wiadomosci",
+    "/wiadomosci?page=1",
+    "/spolki",
+    "/gaming",
+    "/nieruchomosci",
+    "/strefa-global-market",
+    "/w-zielonej-strefie"
+  ],
+  "article_prefixes": [
+    "/wiadomosci/",
+    "/spolki/",
+    "/gaming/",
+    "/nieruchomosci/",
+    "/strefa-global-market/",
+    "/w-zielonej-strefie/",
+    "/obligacje/",
+    "/debiut-ipo/",
+    "/wywiad/"
+  ],
+  "max_new_articles_per_run": 80
+}
