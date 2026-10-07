@@ -1,8 +1,2724 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-07T14:04:28+00:00",
+  "last_checked": "2026-10-07T17:16:40+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "aed21515898fcc31",
+      "title": "DZIEŃ NA RYNKACH: Indeksy na europejskich giełdach zniżkowały",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/dzien-na-rynkach-indeksy-na-europejskich-gieldach-znizkowaly",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Indeksy w Europie zniżkowały na koniec sesji w środę. Inwestorzy monitorują sytuację na rynku długu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zamknięciu sesji indeks Euro Stoxx 50 stracił 1,47 proc., niemiecki DAX zniżkował o 1,36 proc., francuski CAC 40 poszedł w dół o 1,22 proc., a brytyjski FTSE spadł o 0,79 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benchmarkowy indeks Stoxx Europe 600 zniżkował o 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W centrum uwagi rynków pozostaje Francja. Minister finansów tego kraju powiedział, że zrobi \"wszystko, co konieczne\", aby uchwalić budżet z maksymalnym deficytem 5 proc., który nie zaszkodzi wzrostowi gospodarczemu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liderka francuskiej skrajnej prawicy Marine Le Pen, zamierzająca kandydować w wyborach prezydenckich w 2027 roku, przedstawiła zaś we wtorek założenia budżetu, które znajdą się w jej programie wyborczym. Projekt ten przewiduje m.in. 140 mld euro cięć budżetowych do 2032 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "We Francji organizacje uczniowskie i studenckie apelują o kontynuowanie w środę blokad szkół, a także o zorganizowanie demonstracji w czwartek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pennon stracił 20 proc. po rozpoczęciu emisji praw poboru o wartości 550 mln GBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Besi (Be Semiconductor) zniżkował o 9,5 proc. Analitycy UBS obniżyli rekomendację dla akcji spółki do \"sprzedaj\" z \"kupuj\", powołując się na wolniejszy czas wdrażania wiązań hybrydowych przez producentów układów pamięci z powodu kryzysu podażowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avon Technologies wzrósł o 13,5 proc. Spółka spodziewa się, że w roku obrotowym 2026 jej wyniki przekroczą oczekiwania rynku."
+        },
+        {
+          "type": "heading",
+          "text": "RYNKI AKCJI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks S&P 500 spada o 0,35 proc., Dow Jones Industrial zniżkuje o 0,89 proc., a Nasdaq Comp. traci 0,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Eli Lilly rosną o 4 proc., a Skydance spadają o 8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zniżkuje do 15,35 pkt."
+        },
+        {
+          "type": "heading",
+          "text": "RYNKI OBLIGACJI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność 10-letnich UST rośnie o 3 pb. do 5,31 proc. Dochodowość 30-letnich UST zwyżkuje o 3 pb. do 5,69 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spread między dwuletnimi a dziesięcioletnimi UST wynosi +52 pb. Spread między amerykańskimi obligacjami 3-miesięcznymi a 10-letnimi wynosi obecnie +115 pb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dochodowość 10-letnich niemieckich bundów spada o 1 pb. do 3,48 proc."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dolar umacnia się o 0,5 proc. wobec koszyka walut do 102,34 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eurodolar osłabia się o 0,65 proc. do 1,1185."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kwotowanie USD/JPY spada o 0,02 proc. do 158,12."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs funta zniżkuje o 0,49 proc. wobec dolara do 1,3208."
+        },
+        {
+          "type": "heading",
+          "text": "SUROWCE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zniżkują o 0,2 proc. do 89,28 USD za baryłkę, a grudniowe futures na Brent rosną o 0,5 proc. do 101,07 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benchmarkowe kontrakty na gaz w Amsterdamie (ICE Endex Dutch TTF) zwyżkują o 1,8 proc. do 77,07 euro za MWh."
+        },
+        {
+          "type": "paragraph",
+          "text": "Srebro zniżkuje o 2,25 proc. do poziomu 60,21 USD za uncję, a złoto spada o 1,24 proc. do 4.135 USD za uncję."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 18:06",
+      "content_sha256": "203033abaab23717458d5224d34b4d7ce91c435fd6d0fd429687908d34d7d27a",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "18:06",
+      "published_at": "2026-10-07T18:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Indeksy w Europie zniżkowały na koniec sesji w środę.",
+          "Na zamknięciu sesji indeks Euro Stoxx 50 stracił 1,47 proc., niemiecki DAX zniżkował o 1,36 proc., francuski CAC 40 poszedł w dół o 1,22 proc., a brytyjski FTSE spadł o 0,79 proc.",
+          "Avon Technologies wzrósł o 13,5 proc. Spółka spodziewa się, że w roku obrotowym 2026 jej wyniki przekroczą oczekiwania rynku."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "203033abaab23717458d5224d34b4d7ce91c435fd6d0fd429687908d34d7d27a"
+      }
+    },
+    {
+      "id": "05ad85db2ab1f6d2",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/zamkniecia-na-gieldach-w-europie-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeksy | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Euro Stoxx 50 | Strefa euro | 6180,29 | -1,47 | -1,42 | -3,49 | 10,09 | 6,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| DAX | Niemcy | 25104,36 | -1,35 | -0,38 | -3,47 | 2,95 | 2,51"
+        },
+        {
+          "type": "paragraph",
+          "text": "| FTSE 100 | W.Brytania | 10458,50 | -0,79 | -1,39 | -3,36 | 10,28 | 5,31"
+        },
+        {
+          "type": "paragraph",
+          "text": "| CAC 40 | Francja | 7769,21 | -1,22 | -2,45 | -6,46 | -2,58 | -4,67"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBEX 35 | Hiszpania | 19118,00 | -1,68 | -1,59 | -4,51 | 23,13 | 10,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| FTSE MIB | Włochy | 49972,25 | -2,51 | -2,72 | -4,32 | 16,02 | 11,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ASE | Grecja | 2622,02 | -2,39 | -4,25 | -2,98 | 26,69 | 23,64"
+        },
+        {
+          "type": "paragraph",
+          "text": "| BUX | Węgry | 141308,10 | -1,65 | -2,67 | -4,23 | 39,43 | 27,27"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PX | Czechy | 2565,99 | -2,45 | -4,08 | -8,94 | 8,78 | -4,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| BIST 100 | Turcja | 12122,94 | -2,03 | 1,47 | -14,34 | 12,10 | 7,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20 | Polska | 4155,11 | -1,59 | -0,64 | 1,00 | 44,84 | 30,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG | Polska | 156686,10 | -1,46 | -0,44 | 1,34 | 45,16 | 33,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40 | Polska | 10574,18 | -1,30 | -0,03 | 0,89 | 33,82 | 29,24"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:59",
+      "content_sha256": "34b86ed2f7f6a4faa9dfdc249b03f1c24464eab6b7b4b72841944793effb4a94",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:59",
+      "published_at": "2026-10-07T17:59+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "34b86ed2f7f6a4faa9dfdc249b03f1c24464eab6b7b4b72841944793effb4a94"
+      }
+    },
+    {
+      "id": "5cca9d9cceef1f4a",
+      "title": "Spyrosoft planuje przeprowadzić skup akcji własnych",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/spyrosoft-planuje-przeprowadzic-skup-akcji-wlasnych",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Spyrosoft poinformował o zwołaniu nadzwyczajnego walnego zgromadzenia na dzień 9 listopada 2026 roku, którego przedmiotem będzie podjęcie uchwały w sprawie upoważnienia zarządu do nabywania akcji własnych - poinformowała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spyrosoft na nabycie akcji własnych zamierza przeznaczyć kwotę do 22,2 mln zł, która może zostać wykorzystana w ramach jednej transzy lub kilku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projekt uchwały przewiduje również nabycie nie więcej niż 54.777 akcji Spyrosoft, co obecnie stanowi 5 proc. łącznej liczby akcji. Proponowany przedział ceny oferowanej za akcję został ujęty w granicach od 1 zł do 400 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proponowany program skupu akcji dopuszcza możliwość przeprowadzania go w postaci skierowania do wszystkich akcjonariuszy zaproszenia do składania ofert sprzedaży."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Nabyte akcje będą mogły zostać umorzone, zaoferowane potencjalnym inwestorom np. przy okazji transakcji M&A oraz zaoferowane w ramach programu motywacyjnego. Zarówno w przypadku umorzenia, jak i programu motywacyjnego, niezbędne byłoby również podjęcie odrębnych uchwał Walnego Zgromadzenia w tych kwestiach\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jedocześnie spółka poinformowała, że równolegle z podjęciem decyzji o przeprowadzeniu skupu akcji własnych, otrzymała odrębne deklaracje ze strony trzech głównych akcjonariuszy o tym, że nie będą uczestniczyli w tym procesie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Zasoby finansowe w ostatnich latach gromadziliśmy w szczególności pod kątem kolejnych potencjalnych akwizycji. Na koniec czerwca bieżącego roku spółka dysponowała ok. 81,5 mln zł, tylko jeśli spojrzeć na gotówkę. Nasza strategia rozwoju jest aktualna i w dalszym ciągu zakłada możliwość rozwoju poprzez M&A\" - powiedział Konrad Weiske, prezes Spyrosoft cytowany w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Od pewnego czasu sygnalizujemy natomiast, że w obecnej sytuacji rynkowej trudno nam zidentyfikować potencjalny cel akwizycji, który spełniłby nasze kryteria i który jednocześnie moglibyśmy przejąć na atrakcyjnych warunkach. Dlatego właśnie chcemy zaproponować akcjonariuszom, aby część skumulowanych zysków przeznaczyć na skup akcji własnych, co jest alternatywą do dzielenia się przez spółkę zyskiem w formie dywidendy\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:55",
+      "content_sha256": "3f56416528734e786ced8e61010a8f9ea21586179fdaee583e293573734d6890",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:55",
+      "published_at": "2026-10-07T17:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Spyrosoft poinformował o zwołaniu nadzwyczajnego walnego zgromadzenia na dzień 9 listopada 2026 roku, którego przedmiotem będzie podjęcie uchwały w sprawie upoważnienia zarządu do nabywania akcji własnych - poinformowała spółka w komunikacie prasowym.",
+          "Spyrosoft na nabycie akcji własnych zamierza przeznaczyć kwotę do 22,2 mln zł, która może zostać wykorzystana w ramach jednej transzy lub kilku.",
+          "Dlatego właśnie chcemy zaproponować akcjonariuszom, aby część skumulowanych zysków przeznaczyć na skup akcji własnych, co jest alternatywą do dzielenia się przez spółkę zyskiem w formie dywidendy\" - dodał."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "\"Zasoby finansowe w ostatnich latach gromadziliśmy w szczególności pod kątem kolejnych potencjalnych akwizycji."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3f56416528734e786ced8e61010a8f9ea21586179fdaee583e293573734d6890"
+      }
+    },
+    {
+      "id": "fd47e0294ae1fc20",
+      "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z spółki VICTORIA DOM S.A.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/gpw-w-sprawie-zawieszenia-obrotu-na-catalyst-obligacjami-na-okaziciela-serii-z",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1425/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z spółki VICTORIA DOM S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 11 ust. 1 pkt 1) Regulaminu Alternatywnego Systemu Obrotu,"
+        },
+        {
+          "type": "paragraph",
+          "text": "po rozpatrzeniu wniosku spółki VICTORIA DOM S.A. o zawieszenie obrotu"
+        },
+        {
+          "type": "paragraph",
+          "text": "obligacjami na okaziciela serii Z, oznaczonymi kodem „PLVCTDM00215”,"
+        },
+        {
+          "type": "paragraph",
+          "text": "w związku z zamiarem ich przedterminowego wykupu, Zarząd Giełdy postanawia"
+        },
+        {
+          "type": "paragraph",
+          "text": "zawiesić obrót tymi obligacjami w alternatywnym systemie obrotu na Catalyst – od"
+        },
+        {
+          "type": "paragraph",
+          "text": "dnia 12 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 25 ust. 9 - 11 Załącznika Nr 2 do Regulaminu Alternatywnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "Systemu Obrotu, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) zlecenia maklerskie na obligacje, o których mowa w § 1, przekazane"
+        },
+        {
+          "type": "paragraph",
+          "text": "w alternatywnym systemie obrotu, a niezrealizowane do dnia 9 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026 r. (włącznie), tracą ważność;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2) od dnia 12 października 2026 r., zlecenia maklerskie na obligacje, o których"
+        },
+        {
+          "type": "paragraph",
+          "text": "mowa w § 1, nie będą przyjmowane."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:55",
+      "content_sha256": "ca9d7fc9bd0c398baf6585607aa8c64dc876256279d188b4b4bb5d30db978551",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:55",
+      "published_at": "2026-10-07T17:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1425/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z spółki VICTORIA DOM S.A.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ca9d7fc9bd0c398baf6585607aa8c64dc876256279d188b4b4bb5d30db978551"
+      }
+    },
+    {
+      "id": "cfefe7d8317b1824",
+      "title": "GPW: komunikat - VICTORIA DOM",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/gpw-komunikat-victoria-dom",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. (CATALYST)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giełda Papierów Wartościowych w Warszawie S.A. informuje, że dzień ostatniego notowania obligacji na okaziciela serii P2026A (VH10730) wyemitowanych przez VICTORIA DOM S.A., o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 6 lipca 2030 r., oznaczonych kodem „PLVCTDM00272”, planowany jest na 1 lipca 2030 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:55",
+      "content_sha256": "30e464c64be4f3cee2498ae6272f6b069cc9faacad103cb1dd9393a08405fd52",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:55",
+      "published_at": "2026-10-07T17:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Giełda Papierów Wartościowych w Warszawie S.A. informuje, że dzień ostatniego notowania obligacji na okaziciela serii P2026A (VH10730) wyemitowanych przez VICTORIA DOM S.A., o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 6 lipca 2030 r., oznaczonych kodem „PLVCTDM00272”, planowany jest na 1 lipca 2030 r.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "30e464c64be4f3cee2498ae6272f6b069cc9faacad103cb1dd9393a08405fd52"
+      }
+    },
+    {
+      "id": "a8df09daf4a37276",
+      "title": "GPW: komunikat - BEST FASHION MEDIA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/gpw-komunikat-best-fashion-media",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. (NewConnect)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giełda Papierów Wartościowych w Warszawie S.A. informuje, że w związku ze zmianą firmy spółki FOOTHILLS S.A. (PLTLCMD00018) na BEST FASHION MEDIA S.A., począwszy od dnia 9 października 2026 r. akcje ww. spółki będą notowane pod nazwą skróconą „BFMGROUP” i oznaczeniem „BFM”."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:55",
+      "content_sha256": "19fa98cb0491196a6e98faa6af32d0371eb342850d632e46d1631c22e453ba0e",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:55",
+      "published_at": "2026-10-07T17:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Giełda Papierów Wartościowych w Warszawie S.A. informuje, że w związku ze zmianą firmy spółki FOOTHILLS S.A. (PLTLCMD00018) na BEST FASHION MEDIA S.A., począwszy od dnia 9 października 2026 r. akcje ww. spółki będą notowane pod nazwą skróconą „BFMGROUP” i oznaczeniem „BFM”.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "19fa98cb0491196a6e98faa6af32d0371eb342850d632e46d1631c22e453ba0e"
+      }
+    },
+    {
+      "id": "7f74709f5ab86eb5",
+      "title": "WIG20 na zamknięciu wyniósł 4155,11 pkt (-1,59%)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/wig20-na-zamknieciu-wyniosl-415511-pkt-159",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "GPW SA - Wartość indeksów na zamknięciu sesji"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026.10.07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nazwa | Otwarcie | Kurs | Zmiana (%)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGdivplus | 3268,19 | 3237,24 | -1,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NCFIndex | 1736,68 | 1744,70 | 0,34"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG20 | 4220,72 | 4155,11 | -1,59"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG30 | 5335,58 | 5265,91 | -1,50"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG | 158678,31 | 156686,10 | -1,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40 | 10710,55 | 10574,18 | -1,30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80 | 31021,29 | 30762,26 | -0,43"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG140 | 3088,33 | 3049,49 | -1,47"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-BANKI | 28225,81 | 27656,20 | -2,41"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-BUDOW | 10202,82 | 10098,96 | -0,98"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-CHEMIA | 7856,87 | 7927,49 | 2,05"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-ENERG | 5205,88 | 5166,38 | -0,97"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.GAMES5 | 17957,65 | 17723,39 | -1,41"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-GORNIC | 10765,40 | 10641,88 | -2,50"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-GRY | 22129,30 | 21780,75 | -1,94"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-INFO | 11018,12 | 10882,91 | -1,41"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-LEKI | 2871,25 | 2860,98 | -0,06"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-MEDIA | 8388,55 | 8171,67 | -2,33"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-MOTO | 13326,35 | 13348,22 | 0,08"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-NRCHOM | 5950,38 | 5913,37 | -0,70"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-ODZIEZ | 14559,06 | 14402,38 | -1,24"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-PALIWA | 18742,55 | 18695,21 | 0,17"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-SPOZYW | 3059,76 | 3015,22 | -0,88"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGmed | 19523,93 | 19420,96 | -0,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGind | 19939,87 | 19845,97 | -0,46"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-CEE | 3540,88 | 3540,18 | 1,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG-Poland | 164364,65 | 162165,46 | -1,45"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG-Ukrain | 512,30 | 512,43 | -1,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGdiv | 3330,70 | 3290,31 | -1,16"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20dvp | 152,64 | 152,64 | 0,00"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG20TR | 9715,38 | 9564,37 | -1,59"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20TRlev | 11899,07 | 11528,99 | -3,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20TRsht | 1839,17 | 1867,73 | 1,61"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG30TR | 11974,73 | 11818,38 | -1,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40dvp | 330,13 | 330,13 | 0,66"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40TR | 17309,40 | 17089,01 | -1,28"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40TRlv | 35230,66 | 34333,37 | -2,57"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40TRsh | 1779,05 | 1801,69 | 1,30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80dvp | 762,02 | 762,02 | 0,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80TR | 49899,34 | 49482,69 | -0,43"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGtechTR | 21773,61 | 21533,82 | -1,04"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.MS-BAS | 30573,57 | 30302,46 | -1,54"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.MS-FIN | 29163,17 | 28545,69 | -2,11"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.MS-ECM | 11298,83 | 11149,21 | -1,32"
+        },
+        {
+          "type": "heading",
+          "text": "| INNOVATOR | 1717,97 | 1713,62 | -0,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NCIndex | 275,83 | 275,88 | -0,20"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:34",
+      "content_sha256": "3ce26a53142f5fcd26c5187b7ae63dc351cb93c976db4cd130e8699f9f40ea95",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:34",
+      "published_at": "2026-10-07T17:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "WIG20 na zamknięciu wyniósł 4155,11 pkt (-1,59%).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3ce26a53142f5fcd26c5187b7ae63dc351cb93c976db4cd130e8699f9f40ea95"
+      }
+    },
+    {
+      "id": "c0fe911221c917df",
+      "title": "Komunikat RPP bez nowości, rynek czeka na konferencję prezesa NBP i listopadową projekcję (opinia)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/komunikat-rpp-bez-nowosci-rynek-czeka-na-konferencje-prezesa-nbp-i-listopadowa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj",
+          "Temat: NBP",
+          "Temat: RPP",
+          "Temat: stop procentowych"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat po październikowym posiedzeniu RPP nie wniósł wiele do oceny perspektyw dla stóp procentowych, rynek czeka na czwartkową konferencję prezesa NBP, a także zwraca już oczy ku listopadowej projekcji inflacji, która może zaważyć na kolejnych decyzjach RPP - oceniają ekonomiści."
+        },
+        {
+          "type": "heading",
+          "text": "BOŚ (EMAIL)"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dzisiejszy komunikat RPP nie daje żadnych wskazówek co do nastawienia RPP do dalszych decyzji Rady. W tej sytuacji dla oceny dalszych działań RPP kluczowa będzie jutrzejsza konferencja prasowa prezesa NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nawet jeśli prezes NBP nie wskaże wprost do jakich decyzji Rada się skłania (co często czyni pomimo deklaracji, że RPP nie ma polityki forward guidance), to wciąż będzie można próbować wyczytać między wierszami jakie jest obecne nastawienie Rady. Czy więcej wagi przypisuje temu, że przez najbliższe kilka miesięcy (zapewne do lutego przyszłego roku) wskaźnik CPI pozostanie powyżej górnej granicy celu NBP (3,5 proc. rdr), czy raczej istotniejsza dla Rady jest listopadowa projekcja NBP i prognoza kształtowania się inflacji w dłuższej perspektywie (II poł. 2027 r., 2028 r.), kiedy to wg naszych szacunków inflacja powinna kierować się do celu inflacyjnego NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czekamy zatem na jutrzejszą konferencję prasową, natomiast w świetle dzisiejszego komunikatu RPP nie mamy podstaw do zmiany naszego bazowego scenariusza stabilizacji stóp NBP na bieżącym poziomie do końca bieżącego roku i w I połowie przyszłego roku\"."
+        },
+        {
+          "type": "heading",
+          "text": "R. BENECKI, A. ANTONIAK, ING (EMAIL)"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Do czynników ryzyka dla perspektyw inflacji Rada dodała nowe elementy, „decyzje regulacyjne w zakresie cen energii”, co może się odnosić zarówno do prawdopodobnych podwyżek cen regulowanych gazu i prądu dla gospodarstw domowych (naszym zdaniem niższych niż sugerowały ceny forwardowe prądu i gazu na 2027 rok), jak i interwencji rządowych na rynku paliw tzw. programu CPN (który ogranicza skok cen paliw i sprowadza inflację do górnego pasma wahań wokół celu)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Naszym zdaniem, obecny przebieg procesów inflacyjnych daje RPP czas na wstrzymanie się z podwyżkami przez parę miesięcy oraz możliwość obserwacji wpływu szoku energetycznego na polską gospodarkę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wprawdzie inflacja wzrosła w okolice 4,0 proc. rdr, ale wzrost ten wynika niemal wyłącznie z wyższych cen paliw. Nie ma sygnałów szerzej zakrojonej presji cenowej w gospodarce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zakładamy, prewencyjne podwyżki stóp na początku 2027 roku (25-50 pb.), bo utrwalanie się cen energii na wysokim poziomie powoduje, że rośnie prawdopodobieństwo pojawienia się efektów drugiej rundy (co już się dzieje w gospodarce czeskiej). Ponadto sytuacja na rynku energii prawdopodobnie przełoży się na wyraźne podwyżki cen regulowanych (zwłaszcza gazu) od początku roku, kiedy zaczną obowiązywać nowe taryfy Urzędu Regulacji Energetyki (URE). Epizod deflacji cen żywności także zbliża się do końca, a w 2027 należy się liczyć z wyższymi od średniej wzrostami cen w tej części koszyka CPI (gorsze zbiory, droższe nawozy)."
+        },
+        {
+          "type": "paragraph",
+          "text": "W listopadzie Rada zapozna się z najnowszą projekcją makroekonomiczną i wówczas może się rozpocząć dyskusja o potrzebie zacieśnienia polityki pieniężnej. Nasz bazowy scenariusz zakłada, że w obliczu ryzyk inflacyjnych RPP zdecyduje się w I kw. 2027 na dwie podwyżki stóp procentowych po 25 pb., aby ograniczyć ryzyko utrwalenia się podwyższonej inflacji. Zwłaszcza, że wg naszych prognoz najbliższe miesiące przyniosą niewielki wzrost inflacji bazowej. Skala zacieśnienia polityki pieniężnej będzie jednak - w naszej ocenie - wyraźnie niższa niż sugerują to obecne wyceny rynkowe, zakładające wzrost stóp procentowych o ok. 100 pb.\"."
+        },
+        {
+          "type": "heading",
+          "text": "BANK MILLENNIUM (EMAIL)"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Utrzymując w październiku stopy procentowe bez zmian, Rada czeka na wyniki nowej projekcji makroekonomicznej. Spodziewamy się, że pokaże ona wyższą niż poprzednio ścieżkę inflacji, choć na ten moment nie zakładamy, aby w scenariuszu bazowym wskazywała na trwały brak realizacji celu inflacyjnego w horyzoncie projekcji do 2028 r. Ryzyko dla ścieżki stóp procentowych pozostaje jednak przechylone w górę i nie można całkowicie wykluczyć podwyżki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na jutro na godz. 15:00 zaplanowana jest konferencja prezesa NBP Adama Glapińskiego. Spodziewamy się, że jej ton będzie bardziej jastrzębi. Prezes NBP sygnalizował to już w ub. piątek, odnosząc się do perspektyw inflacji i stóp procentowych, że nastrój jest „zimowy, taki jastrzębi”. Nie sądzimy jednak, aby konferencja okazała się przełomowa dla perspektyw polityki pieniężnej. Kolejne decyzje Rady będą przede wszystkim uzależnione od napływających danych i informacji, w tym od wyników listopadowej projekcji makroekonomicznej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zwracamy przy tym uwagę, że dotychczasowe dane o inflacji bazowej i z rynku pracy nie wskazują na silne efekty pośrednie wzrostu cen paliw, ani na występowanie istotnych efektów drugiej rundy, w szczególności nakręcania się spirali płacowo-cenowej. Ewentualna podwyżka miałaby zatem, naszym zdaniem, przede wszystkim charakter „ubezpieczający” przed ryzykiem rozlania się skutków wysokich cen ropy, paliw i gazu na pozostałe kategorie cen w gospodarce, a jednocześnie służyłaby stabilizacji oczekiwań inflacyjnych konsumentów i firm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wznowienie przez rząd programu CPN zmniejsza jednak prawdopodobieństwo, że taki ruch ze strony RPP będzie konieczny już w listopadzie, a także w grudniu. W perspektywie 2027 r. istotnym źródłem ryzyka dla inflacji pozostają natomiast ceny regulowane niektórych nośników energii, w tym energii elektrycznej. Rada również zwraca na to uwagę, rozszerzając w październikowym komunikacie listę czynników niepewności właśnie o kształtowanie się cen energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodatkowym elementem podnoszącym ceny od 2027 r. będą rosnące stawki akcyzy na alkohol i wyroby tytoniowe. W przypadku braku działań osłonowych splot tych czynników mógłby, według naszych szacunków, podnieść inflację w okolice 5,0 proc. rdr. Obok geopolityki i sytuacji na światowych rynkach surowców energetycznych właśnie w cenach regulowanych upatrujemy obecnie jednego z najważniejszych źródeł niepewności dla perspektyw polityki pieniężnej NBP w 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na ten moment podtrzymujemy nasz scenariusz, w którym stopy procentowe NBP pozostają stabilne co najmniej do III kw. 2027\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "--------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. Decyzja była zgodna z oczekiwaniami rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek, 8 października o godz. 15.00 odbędzie się konferencja prasowa prezesa NBP Adama Glapińskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "RPP utrzymuje stopę referencyjną na obecnym poziomie 3,75 proc. od marca, po jedynej wówczas w br. obniżce o 25 pb. W 2025 r. Rada obniżyła stopy łącznie o 175 pb. (startując z 5,75 proc.), a wcześniej w 2023 r. o 100 pb. (start: 6,75 proc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:34",
+      "content_sha256": "b79f9fa03742bd94c81d5b1322f298f8266e3ffcc979883bf7a593572b018a95",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:34",
+      "published_at": "2026-10-07T17:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Komunikat po październikowym posiedzeniu RPP nie wniósł wiele do oceny perspektyw dla stóp procentowych, rynek czeka na czwartkową konferencję prezesa NBP, a także zwraca już oczy ku listopadowej projekcji inflacji, która może zaważyć na kolejnych decyzjach RPP - oceniają ekonomiści.",
+          "W tej sytuacji dla oceny dalszych działań RPP kluczowa będzie jutrzejsza konferencja prasowa prezesa NBP.",
+          "Czekamy zatem na jutrzejszą konferencję prasową, natomiast w świetle dzisiejszego komunikatu RPP nie mamy podstaw do zmiany naszego bazowego scenariusza stabilizacji stóp NBP na bieżącym poziomie do końca bieżącego roku i w I połowie przyszłego roku\"."
+        ],
+        "interest_score": 39,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Komunikat po październikowym posiedzeniu RPP nie wniósł wiele do oceny perspektyw dla stóp procentowych, rynek czeka na czwartkową konferencję prezesa NBP, a także zwraca już oczy ku listopadowej projekcji inflacji, która może zaważyć na kolejnych decyzjach RPP - oceniają ekonomiści."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*",
+              "RPP",
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b79f9fa03742bd94c81d5b1322f298f8266e3ffcc979883bf7a593572b018a95"
+      }
+    },
+    {
+      "id": "d2d4b1e22c47afed",
+      "title": "Huuuge szacuje, że miał w III kw. 51,8 mln USD przychodów, o ok. 7 proc. mniej rdr",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/huuuge-szacuje-ze-mial-w-iii-kw-518-mln-usd-przychodow-o-ok-7-proc-mniej-rdr",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "technologie": [
+          "Temat: gier"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Huuuge szacuje, że w trzecim kwartale 2026 roku wygenerował 51,8 mln USD przychodów ze sprzedaży, co stanowi spadek o ok. 7 proc. w porównaniu do analogicznego okresu poprzedniego roku - podał producent gier mobilnych w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:34",
+      "content_sha256": "bbb25e5ae08b16fd7d41900d139467ca5085e05dc731a6b2d239f83511c39002",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:34",
+      "published_at": "2026-10-07T17:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Huuuge szacuje, że w trzecim kwartale 2026 roku wygenerował 51,8 mln USD przychodów ze sprzedaży, co stanowi spadek o ok.",
+          "7 proc. w porównaniu do analogicznego okresu poprzedniego roku - podał producent gier mobilnych w komunikacie."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Huuuge szacuje, że w trzecim kwartale 2026 roku wygenerował 51,8 mln USD przychodów ze sprzedaży, co stanowi spadek o ok."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Huuuge szacuje, że w trzecim kwartale 2026 roku wygenerował 51,8 mln USD przychodów ze sprzedaży, co stanowi spadek o ok."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "gier"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "bbb25e5ae08b16fd7d41900d139467ca5085e05dc731a6b2d239f83511c39002"
+      }
+    },
+    {
+      "id": "ae236a5aa6b0b28c",
+      "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii P2024A spółki VICTORIA DOM S.A.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/gpw-w-sprawie-zawieszenia-obrotu-na-catalyst-obligacjami-na-okaziciela-serii",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1424/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii P2024A spółki VICTORIA DOM S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 11 ust. 1 pkt 1) Regulaminu Alternatywnego Systemu Obrotu,"
+        },
+        {
+          "type": "paragraph",
+          "text": "po rozpatrzeniu wniosku spółki VICTORIA DOM S.A. o zawieszenie obrotu"
+        },
+        {
+          "type": "paragraph",
+          "text": "obligacjami na okaziciela serii P2024A, oznaczonymi kodem „PLVCTDM00223”,"
+        },
+        {
+          "type": "paragraph",
+          "text": "w związku z zamiarem ich przedterminowego wykupu, Zarząd Giełdy postanawia"
+        },
+        {
+          "type": "paragraph",
+          "text": "zawiesić obrót tymi obligacjami w alternatywnym systemie obrotu na Catalyst – od"
+        },
+        {
+          "type": "paragraph",
+          "text": "dnia 12 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 25 ust. 9 - 11 Załącznika Nr 2 do Regulaminu Alternatywnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "Systemu Obrotu, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) zlecenia maklerskie na obligacje, o których mowa w § 1, przekazane"
+        },
+        {
+          "type": "paragraph",
+          "text": "w alternatywnym systemie obrotu, a niezrealizowane do dnia 9 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026 r. (włącznie), tracą ważność;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2) od dnia 12 października 2026 r., zlecenia maklerskie na obligacje, o których"
+        },
+        {
+          "type": "paragraph",
+          "text": "mowa w § 1, nie będą przyjmowane."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:34",
+      "content_sha256": "da56875c0a97bf307c7f58bc3f496e2c9ae8a976bcd529880b06ebdbff54316e",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:34",
+      "published_at": "2026-10-07T17:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1424/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii P2024A spółki VICTORIA DOM S.A.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "da56875c0a97bf307c7f58bc3f496e2c9ae8a976bcd529880b06ebdbff54316e"
+      }
+    },
+    {
+      "id": "3f81407c86abc307",
+      "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii P2026A spółki VICTORIA DOM S.A.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1423/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii P2026A spółki VICTORIA DOM S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 7 ust. 1, 2 i 5 Regulaminu Alternatywnego Systemu Obrotu oraz § 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "ust. 1 Załącznika Nr 2 do Regulaminu Alternatywnego Systemu Obrotu, Zarząd"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giełdy postanawia:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) określić dzień 13 października 2026 r. jako dzień pierwszego notowania"
+        },
+        {
+          "type": "paragraph",
+          "text": "w alternatywnym systemie obrotu na Catalyst 250.000 (dwieście pięćdziesiąt"
+        },
+        {
+          "type": "paragraph",
+          "text": "tysięcy) obligacji na okaziciela serii P2026A spółki VICTORIA DOM S.A.,"
+        },
+        {
+          "type": "paragraph",
+          "text": "o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda, oznaczonych przez"
+        },
+        {
+          "type": "paragraph",
+          "text": "Krajowy Depozyt Papierów Wartościowych S.A. kodem „PLVCTDM00272”;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2) notować obligacje, o których mowa w pkt 1), w systemie notowań ciągłych"
+        },
+        {
+          "type": "paragraph",
+          "text": "pod nazwą skróconą „VH10730”."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 49fa ust. 1 i 2, § 49a ust. 4 i § 129c Załącznika Nr 2 do Regulaminu"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alternatywnego Systemu Obrotu określa się, że dla obligacji, o których mowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "w § 1:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) nie ma płynnego rynku,"
+        },
+        {
+          "type": "paragraph",
+          "text": "2) minimalna wartość zleceń „cross” wynosi 10.000 zł,"
+        },
+        {
+          "type": "paragraph",
+          "text": "3) minimalna wartość transakcji pakietowej wynosi 75.000 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:24",
+      "content_sha256": "fc393ec6d6f05a3f127ff2fe5b28006f5b60d74ce23eb6dff6f8d6b83c4949c9",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:24",
+      "published_at": "2026-10-07T17:24+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1423/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 7 października 2026 r. w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii P2026A spółki VICTORIA DOM S.A.",
+          "3) minimalna wartość transakcji pakietowej wynosi 75.000 zł."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "fc393ec6d6f05a3f127ff2fe5b28006f5b60d74ce23eb6dff6f8d6b83c4949c9"
+      }
+    },
+    {
+      "id": "b22abbac0ed6cd3b",
+      "title": "DZIEŃ NA FX/FI: PLN powrócił do osłabienia; pozostaje pod wpływem czynników zewnętrznych",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/dzien-na-fxfi-pln-powrocil-do-oslabienia-pozostaje-pod-wplywem-czynnikow",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [
+        "PKO BP"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: RPP",
+          "Temat: walut",
+          "Temat: dolar"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Po wtorkowym umocnieniu, w środę złoty osłabił się i powrócił do poziomu ok. 4,38/EUR i ok. 3,91/USD. Zgodna z oczekiwaniami decyzja RPP i komunikat po posiedzeniu Rady nie miały wpływu na notowania polskich aktywów. Zdaniem strategów, kluczowymi czynnikami dla krajowej waluty są: napięta sytuacja wokół francuskiego długu oraz globalnie mocny dolar."
+        },
+        {
+          "type": "paragraph",
+          "text": "O godz. 16.50 kurs EUR/PLN rośnie o 0,17 proc. do 4,3791, a USD/PLN idzie w górę o 0,77 proc. do 3,9131. EUR/USD zniżkuje o 0,6 proc. do 1,119."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Globalne nastroje inwestycyjne wyraźnie się dziś pogorszyły w związku z umocnieniem dolara i wyprzedażą obligacji skarbowych na rynkach bazowych, w szczególności na długim końcu krzywej. Dodatkowo kurs EUR/USD zbliżył się do 17-miesięcznych minimów w pobliżu 1,1160, ponieważ francuskie obligacje ponownie znalazły się pod presją w związku z obawami o sytuację fiskalną Francji\" - napisał w komentarzu dla PAP Biznes Andrzej Kiedrowicz, strateg rynkowy PKO BP."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W rezultacie złoty, podobnie jak pozostałe waluty Europy Środkowo-Wschodniej, znalazł się pod wyraźną presją otoczenia zewnętrznego. Zarówno zgodna z oczekiwaniami decyzja RPP o pozostawieniu stóp procentowych na niezmienionym poziomie, jak i niewnoszący istotnych zmian w przekazie komunikat Rady nie miały zauważalnego wpływu na notowania złotego\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jego zdaniem, jeszcze w środę interesujące dla globalnych inwestorów mogą okazać się szczegóły protokołu z wrześniowego posiedzenia FOMC oraz wieczorne wypowiedzi przedstawicieli Fed, które mogą dać wskazówki dotyczące możliwości kolejnej podwyżki amerykańskich stóp procentowych w tym roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W czwartek uwagę krajowych uczestników rynku skupi konferencja prezesa NBP, a ewentualne jastrzębie akcenty ze strony Adama Glapińskiego mogłyby dać złotemu jedynie umiarkowane wsparcie. Kluczowymi czynnikami dla krajowej waluty pozostaną jednak napięta sytuacja wokół francuskiego długu oraz globalnie mocny dolar\" - napisał Andrzej Kiedrowicz."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Bilans ryzyk jest więc - w mojej ocenie - przesunięty w kierunku dalszego osłabienia złotego, w szczególności wobec USD, co powinno utrzymać kurs EUR/PLN w pobliżu 4,38 i może doprowadzić przynajmniej do tymczasowego przebicia tegorocznych maksimów w okolicy 3,93 na USD/PLN\" - dodał."
+        },
+        {
+          "type": "heading",
+          "text": "RYNEK DŁUGU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak poinformował, zgodna z oczekiwaniami decyzja RPP i komunikat po posiedzeniu Rady nie były impulsem do zmian na SPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rentowności krajowych obligacji pozostają przede wszystkim pod wpływem rynków bazowych, gdzie wyprzedaż długu i wzrost dochodowości UST podnoszą premię wymaganą przez inwestorów również od papierów z rynków wschodzących. Długiemu końcowi krajowej krzywej mogą dodatkowo ciążyć obawy fiskalne w strefie euro, w szczególności napięta sytuacja wokół francuskiego długu oraz wzrost cen ropy, który podbija globalną premię inflacyjną\" - napisał Andrzej Kiedrowicz."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przestrzeń do spadku rentowności SPW ogranicza również osłabienie złotego, ponieważ zwiększa ono ryzyko wyższych cen importu i może zmniejszać komfort RPP w łagodzeniu retoryki. W takim otoczeniu krótkoterminowy kierunek krajowego rynku FI będzie zależał głównie od zachowania rentowności UST, sytuacji na francuskim długu oraz cen surowców energetycznych\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strateg ocenia, że przekaz z czwartkowej konferencji prezesa NBP Adama Glapińskiego, w przypadku braku wyraźnego zaakcentowania ryzyka bliskich podwyżek stóp, będzie miał w tej sytuacji najprawdopodobniej drugorzędne znaczenie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Zakładam więc, że w horyzoncie najbliższych sesji rentowności SPW mogą utrzymać się na obecnych wysokich poziomach, odpowiednio powyżej 4,80 proc. dla papierów 2-letnich oraz powyżej 6,30 proc. proc. dla papierów 10-letnich\" - napisał Andrzej Kiedrowicz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. Decyzja była zgodna z oczekiwaniami rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "| | środa | środa | wtorek"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | 16:50 | 09:14 | 16:35"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| EUR/PLN | 4,3791 | 4,3785 | 4,3723"
+        },
+        {
+          "type": "heading",
+          "text": "| USD/PLN | 3,9131 | 3,9007 | 3,8869"
+        },
+        {
+          "type": "heading",
+          "text": "| CHF/PLN | 4,7026 | 4,6848 | 4,6695"
+        },
+        {
+          "type": "heading",
+          "text": "| EUR/USD | 1,1190 | 1,1225 | 1,1249"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| PS0728 | 4,72 | 4,71 | 4,69"
+        },
+        {
+          "type": "heading",
+          "text": "| PS1031 | 5,83 | 5,81 | 5,80"
+        },
+        {
+          "type": "heading",
+          "text": "| DS0436 | 6,27 | 6,26 | 6,25"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pam/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:06",
+      "content_sha256": "dc256bbf2e7e1deb0ee787080d144b1aa4a8b4e2d6a312256b960b338bc379ac",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "17:06",
+      "published_at": "2026-10-07T17:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zgodna z oczekiwaniami decyzja RPP i komunikat po posiedzeniu Rady nie miały wpływu na notowania polskich aktywów.",
+          "Zdaniem strategów, kluczowymi czynnikami dla krajowej waluty są: napięta sytuacja wokół francuskiego długu oraz globalnie mocny dolar.",
+          "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. Decyzja była zgodna z oczekiwaniami rynku."
+        ],
+        "interest_score": 75,
+        "impact_score": 72,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Zdaniem strategów, kluczowymi czynnikami dla krajowej waluty są: napięta sytuacja wokół francuskiego długu oraz globalnie mocny dolar."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Zgodna z oczekiwaniami decyzja RPP i komunikat po posiedzeniu Rady nie miały wpływu na notowania polskich aktywów."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Zgodna z oczekiwaniami decyzja RPP i komunikat po posiedzeniu Rady nie miały wpływu na notowania polskich aktywów."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "RPP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "dc256bbf2e7e1deb0ee787080d144b1aa4a8b4e2d6a312256b960b338bc379ac"
+      }
+    },
+    {
+      "id": "66ab7718ef6f760a",
+      "title": "Skrót wiadomości - środa, 7 października, 17.00",
+      "date": "2026-10-07",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/skrot-wiadomosci-sroda-7-pazdziernika-1700",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. - podał w komunikacie bank centralny. Decyzja była zgodna z oczekiwaniami rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalsze decyzje RPP nadal będą zależne od napływających informacji dot. perspektyw CPI i PKB w Polsce, a wśród nowych czynników ryzyka dla inflacji Rada wymieniła decyzje regulacyjne ws. cen energii - podano w komunikacie po październikowym posiedzeniu RPP. Według RPP, bank centralny podejmie wszelkie działania dla zapewnienia inflacji w celu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mediana wynagrodzeń miesięcznych brutto w gospodarce narodowej w kwietniu 2026 r. wyniosła 7.695,0 zł i była niższa o 20,3 proc. od przeciętnego wynagrodzenia brutto - podał Główny Urząd Statystyczny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oficjalne aktywa rezerwowe we wrześniu spadły do 260,1 mld euro z 263,02 mld euro miesiąc wcześniej - podał Narodowy Bank Polski."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Niemczech produkcja przemysłowa w sierpniu wzrosła o 2,0 proc. mdm, podczas gdy w poprzednim miesiącu było -1,2 proc., po korekcie z -1,1 proc. - poinformował w komunikacie Federalny Urząd Statystyczny. Analitycy spodziewali się +0,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA zanotowano spadek indeksu wniosków o kredyt hipoteczny MBA - indeks wyrównany sezonowo spadł o 4,2 proc. w tygodniu zakończonym 2 października - podało w komunikacie Stowarzyszenie Banków Hipotecznych (MBA)."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo Finansów przedstawiło wyjaśnienia nt. przyczyn niezastosowania się do opinii i ocen Rady Fiskalnej zawartych w opinii RF o projekcie ustawy budżetowej na rok 2027."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Przedstawiciele spółek Orlen, Enea, PGE, Tauron i KGHM podpisali w środę porozumienie dot. utworzenia mechanizmu wymiany informacji o zagrożeniach bezpieczeństwa infrastruktury krytycznej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Inter Cars miała we wrześniu 2.130,7 mln zł przychodów, co oznacza wzrost rdr o 17,4 proc. - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allegro miało we wrześniu 21,812 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 21,864 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu."
+        },
+        {
+          "type": "paragraph",
+          "text": "XTB rozszerza ofertę na Węgrzech o rachunek TBSZ i ma duże oczekiwania, co do zwiększenia popularności platformy wśród węgierskich inwestorów, dla których chce być aplikacją pierwszego wyboru - poinformowała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Onde rozpoczyna przegląd opcji strategicznych w zakresie działalności prowadzonej w segmencie drogownictwa - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sunex szacuje, że wypracował w trzecim kwartale 2026 roku 82,7 mln zł skonsolidowanych przychodów ze sprzedaży, czyli o 32,6 proc. więcej w porównaniu do analogicznego okresu 2025 roku - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fundusz private equity THC IV sfinalizował transakcję przejęcia 80 proc. udziałów w Blue Orca Coffee, palarni kawy z Bełżyc pod Lublinem - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada nadzorcza Nest Banku powierzyła Januszowi Mieloszykowi kierowanie pracami zarządu – podał bank w środę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd Dom Development zdecydował o wypłacie akcjonariuszom zaliczki na poczet dywidendy za 2026 rok w kwocie 189,6 mln zł, co oznacza, że na jedną akcję będzie przypadać kwota 7,35 zł - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mirbud planuje pierwszą emisję obligacji w ramach ustanowionego programu emisji obligacji w IV kwartale 2026 r. - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Legimi zostało partnerem dystrybucyjnym Spotify w segmencie audiobooków - podała spółka działająca na rynku e-książek w model subskrypcyjnym w komunikacie prasowym. Usługa realizowana za pośrednictwem Legimi Content do końca 2026 roku ma być dostępna na ponad 180 rynkach."
+        },
+        {
+          "type": "paragraph",
+          "text": "SmartLunch, technologiczna platforma organizująca żywienie pracowników, chce jeszcze w tym roku wejść na GPW. Firma chce pozyskać środki m.in. na małe akwizycje – poinformowali przedstawiciele spółki. SmartLunch zakłada dodatni wynik netto od 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Archicom wprowadził do sprzedaży pierwszy etap Osiedle Bliskie Piątkowo w Poznaniu. W pierwszym etapie powstanie 167 mieszkań - podał deweloper w komunikacie prasowym. Docelowo dwuetapowy projekt obejmie około 360 mieszkań o łącznej powierzchni użytkowej ponad 19 tys. m kw."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1177 USD i 176,85 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proponowany przez Ministerstwo Energii wzrost opłat przedkoncesyjnych i koncesyjnych dla przedsiębiorstw energetycznych może wywierać nadmierną presję na wzrost cen energii dla odbiorców - oceniło Ministerstwo Aktywów Państwowych w uwagach do projektu przygotowanego przez resort energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ruszył proces due diligence projektu pierwszej polskiej elektrowni jądrowej z udziałem ENCO, ERM i Howden. Zakończenie tego etapu umożliwi rozpoczęcie prac nad dokumentacją kredytową z wybraną grupą instytucji - napisał PEJ na platformie X."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes UOKiK uznał 21 klauzul stosowanych przez spółkę Nasz Prąd za niedozwolone i nałożył na nią 21,475 mln zł kary - poinformował urząd w komunikacie. Za niedozwoloną uznał m.in. klauzulę, w której spółka zastrzegła sobie możliwość zmiany mocy pompy ciepła."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po niespełna dwóch latach prac budowlanych na morzu wszystkie turbiny Baltic Power są już zainstalowane. Pierwsza w historii Polski morska farma wiatrowa jest w fazie rozruchu i przechodzi testy, by za kilka miesięcy zapewniać energię elektryczną wystarczającą do zasilenia ponad 1,5 mln gospodarstw domowych w kraju."
+        },
+        {
+          "type": "heading",
+          "text": "NIERUCHOMOŚCI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Panattoni chce w Polsce utrzymywać ok. 1 mln mkw. powierzchni przemysłowo-magazynowej w budowie, ale w przyszłym roku, dzięki silnemu popytowi, ta skala może być większa – poinformował PAP Biznes Marek Dobrzycki, partner w Panattoni. Na polski rynek wraca zainteresowanie dużymi inwestycjami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Globalny wolumen inwestycji w nieruchomości na koniec drugiego kwartału 2026 r. wzrósł o 21,2 proc. rdr, a aktywność inwestycyjna osiągnęła poziom 96,5 proc. średniej z ostatnich pięciu lat - wynika z raportu Colliers. Najwięcej zagranicznych inwestorów na świecie przyciąga region EMEA."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "W obecnym otoczeniu rynkowym mamy do czynienia ze zjawiskiem bańki spekulacyjnej – powiedział PAP Biznes Adam Pickett, dyrektor ds. globalnej strategii makroekonomicznej w Citi. W ocenie Picketta warto obserwować zachowanie siedmiu największych spółek IT, by ocenić perspektywy dla akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mimo wysokich rentowności obligacji i licznych ryzyk geopolitycznych akcje są preferowaną klasą aktywów w perspektywie 12 miesięcy. Uczestnicy debaty na Fund Forum byli zgodni, że szczególnie rynek amerykański nadal ma potencjał wzrostowy, choć skala optymizmu jest mniejsza niż kilka kwartałów temu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Światowa gospodarka jest zagrożona przez utrzymujące się wysokie ceny energii, rekordowy dług publiczny oraz ryzyko związane z boomem inwestycyjnym w dziedzinie sztucznej inteligencji – ostrzegła w środę dyrektor zarządzająca Międzynarodowego Funduszu Walutowego Kristalina Georgiewa."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Światowy rynek handlu odnotował rekordowe przyspieszenie pomimo ceł i wstrząsów geopolitycznych, głównie dzięki boomowi na sztuczną inteligencję - wynika z najnowszego raportu DHL Globalisation Tracker. Perspektywy handlowe uległy poprawie, a prognozowany wzrost do 2029 r. ma obecnie przewyższyć tempo odnotowane w poprzedniej dekadzie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podczas październikowego przeglądu rynków FTSE Russell Polska utrzymała status rynku rozwiniętego - poinformowała FTSE Russell w komunikacie na stronie internetowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wrzesień przyniósł pogorszenie społecznych ocen rządu; we wszystkich badanych wymiarach wzrósł odsetek opinii krytycznych - wynika z opublikowanego w środę badania CBOS. Najbardziej pogorszyły się oceny polityki gospodarczej gabinetu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unia Europejska przygotowuje tzw. środki ochronne, które miałyby ograniczyć import chińskich pojazdów hybrydowych na jej terytorium, dążąc do zwiększenia równowagi w relacjach handlowych – podała w środę agencja Bloomberga, powołując się na źródła unijne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Globalny ekosystem sztucznej inteligencji może potrzebować blisko 6 bln USD rocznych przychodów do 2031 r., aby uzasadnić ekonomicznie skalę inwestycji w infrastrukturę AI - wynika z raportu Bain & Company pt. \"Global Technology Report\"."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bezzałogowce i rozwój dronów latających, nawodnych i podwodnych to dla rządu priorytet - powiedział w środę wicepremier, szef MON Władysław Kosiniak-Kamysz w Gdyni podczas konferencji „Kaszubia – Zielony Okręg Przemysłowy – nowe inwestycje i współpraca przemysłowa dla bezpieczeństwa Bałtyku”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kary finansowe to dla platform cyfrowych za mało. Dlatego za naruszanie ludzkich dóbr, w tym publikowanie zdjęć nagich dzieci, jesteśmy gotowi je wyłączać - zapewnił w środę wicepremier, minister cyfryzacji Krzysztof Gawkowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu 45 proc. ankietowanych określiło się jako przeciwnicy rządu; 33 proc. to zwolennicy obecnego gabinetu – wynika z sondażu CBOS. 55 proc. badanych negatywnie oceniło, że na czele rządu stoi Donald Tusk; zadowolonych z tego jest 33 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokuratura chce ośmiu lat więzienia dla Sebastiana M., oskarżonego o spowodowanie wypadku na A1. To najwyższy możliwy wymiar kary wynikający z kwalifikacji prawnej, którą wskazano w akcie oskarżenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "67 tras, w tym cztery nowe zaoferuje w sezonie zimowym linia Ryanair z lotniska Kraków Airport. Od ubiegłej zimy przewoźnik zwiększył o trzy liczbę samolotów w bazie na krakowskim lotnisku; z 16 maszynami jest to największa baza Ryanair w Europie Środkowo-Wschodniej."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister edukacji Francji Edouard Geffray poinformował w środę, że od początku protestów licealistów rannych zostało 88 pracowników szkół, z których wielu atakowano celowo. Rannych jest też 215 uczniów, a przyczyną było często nieostrożne zachowanie - dodał minister."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska poinformowała w środę, że wypłaciła Ukrainie 1,24 mld euro na zakup produkowanych w tym kraju dronów, pocisków oraz uzbrojenia do zwalczania bezzałogowców. Pieniądze pochodzą z unijnej pożyczki dla Ukrainy w wysokości 90 mld euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Francuz Henri B. Kagan i Japończyk Kenso Soai zostali tegorocznymi laureatami Nagrody Nobla z chemii - ogłosił w środę w Sztokholmie Komitet Noblowski. Badaczy doceniono za „odkrycie efektów nieliniowych i autokatalizy w asymetrycznej syntezie organicznej”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powiedział we wtorek, że pracuje nad doprowadzeniem do zakończenia wojny w Ukrainie i zapewnił, że jej koniec jest coraz bliżej. Nie podał szczegółów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przedstawiciel Departamentu Stanu USA poinformował, że władze w Waszyngtonie oficjalnie zwróciły się do Rosji o przekazanie dodatkowych informacji po śmierci pracownicy laboratorium Instytutu Przeciwdziałania Dżumie w Irkucku na Syberii - powiadomiła agencja AFP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Państwa członkowskie UE wstępnie zatwierdziły w środę największy pakiet sankcji indywidualnych w swojej historii - poinformował PAP unijny dyplomata. Według niego sankcje obejmą ponad 1,6 tys. osób i podmiotów związanych z Dumą Państwową (niższą izbą parlamentu) Rosji oraz z rosyjskim kompleksem wojskowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Władze Kazachstanu, Kirgistanu i Uzbekistanu wzmocniły kontrole sanitarne na granicach w związku z informacjami o podejrzeniu dżumy w Rosji. W Kazachstanie kontrola obejmuje m.in. międzynarodowe lotniska, a w Kirgistanie zaostrzono nadzór nad osobami, pojazdami i ładunkami przekraczającymi granicę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump chce przekształcić część swojego klubu golfowego na Florydzie w ośrodek, który miałby gościć przyszłych przywódców USA i zagranicznych liderów — napisał w środę „Washington Post”. Miejsce mogłoby służyć np. organizacji międzynarodowych szczytów."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gor/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 17:01",
+      "content_sha256": "a6d30f0656ab483e5b5f1f2d2d44afd5319372b987d8cb2414abe24943a54c7d",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Allegro",
+        "Dom Development",
+        "KGHM",
+        "Legimi",
+        "Mirbud",
+        "Orlen",
+        "PGE",
+        "SmartLunch",
+        "Spotify",
+        "Sunex",
+        "Tauron",
+        "XTB"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: inflacj",
+          "Temat: PKB",
+          "Temat: NBP",
+          "Temat: RPP",
+          "Temat: EBC"
+        ],
+        "finanse": [
+          "Firma: XTB",
+          "Temat: bank",
+          "Temat: fundusz",
+          "Temat: kredyt"
+        ],
+        "energia": [
+          "Firma: Orlen",
+          "Firma: KGHM",
+          "Firma: PGE",
+          "Firma: Tauron",
+          "Firma: Sunex",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: elektrowni",
+          "Temat: jądrow"
+        ],
+        "technologie": [
+          "Firma: Legimi",
+          "Firma: Spotify",
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc",
+          "Temat: technologi",
+          "Temat: audiobook"
+        ],
+        "przemysl": [
+          "Firma: Mirbud",
+          "Temat: przemysł",
+          "Temat: produkcj",
+          "Temat: infrastruktur"
+        ],
+        "konsumpcja": [
+          "Firma: Allegro",
+          "Firma: SmartLunch"
+        ],
+        "nieruchomosci": [
+          "Firma: Dom Development",
+          "Temat: nieruchomoś",
+          "Temat: deweloper"
+        ]
+      },
+      "published_time": "17:01",
+      "published_at": "2026-10-07T17:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. - podał w komunikacie bank centralny.",
+          "Dalsze decyzje RPP nadal będą zależne od napływających informacji dot. perspektyw CPI i PKB w Polsce, a wśród nowych czynników ryzyka dla inflacji Rada wymieniła decyzje regulacyjne ws. cen energii - podano w komunikacie po październikowym posiedzeniu RPP.",
+          "Sunex szacuje, że wypracował w trzecim kwartale 2026 roku 82,7 mln zł skonsolidowanych przychodów ze sprzedaży, czyli o 32,6 proc. więcej w porównaniu do analogicznego okresu 2025 roku - podała spółka w komunikacie."
+        ],
+        "interest_score": 57,
+        "impact_score": 45,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Decyzja była zgodna z oczekiwaniami rynku."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. - podał w komunikacie bank centralny."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "a6d30f0656ab483e5b5f1f2d2d44afd5319372b987d8cb2414abe24943a54c7d"
+      }
+    },
+    {
+      "id": "a902c4da5e211a90",
+      "title": "Grupa Inter Cars miała we wrześniu 2.130,7 mln zł przychodów, wzrost rdr o 17,4 proc.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/grupa-inter-cars-miala-we-wrzesniu-21307-mln-zl-przychodow-wzrost-rdr-o-174",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Inter Cars miała we wrześniu 2.130,7 mln zł przychodów, co oznacza wzrost rdr o 17,4 proc. - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż Inter Carsu wyniosła 1.307,1 mln zł (wzrost o 15,9 proc. rdr), z czego sprzedaż w Polsce to 781,1 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż spółek dystrybucyjnych za granicą wyniosła we wrześniu 1.183,5 mln zł, czyli o 20,3 proc. więcej niż przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "W okresie I-IX 2026 roku grupa Inter Cars miała 17.417,1 mln zł przychodów, czyli o 13,6 proc. więcej niż rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 16:49",
+      "content_sha256": "4c0e735a18dda23410e2fcf24f592b3978f4d3001106ebc1579a96f408dbd0b6",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "16:49",
+      "published_at": "2026-10-07T16:49+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Inter Cars miała we wrześniu 2.130,7 mln zł przychodów, co oznacza wzrost rdr o 17,4 proc. - podała spółka w komunikacie.",
+          "Sprzedaż Inter Carsu wyniosła 1.307,1 mln zł (wzrost o 15,9 proc. rdr), z czego sprzedaż w Polsce to 781,1 mln zł.",
+          "W okresie I-IX 2026 roku grupa Inter Cars miała 17.417,1 mln zł przychodów, czyli o 13,6 proc. więcej niż rok wcześniej."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Grupa Inter Cars miała we wrześniu 2.130,7 mln zł przychodów, co oznacza wzrost rdr o 17,4 proc. - podała spółka w komunikacie."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Sprzedaż Inter Carsu wyniosła 1.307,1 mln zł (wzrost o 15,9 proc. rdr), z czego sprzedaż w Polsce to 781,1 mln zł."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4c0e735a18dda23410e2fcf24f592b3978f4d3001106ebc1579a96f408dbd0b6"
+      }
+    },
+    {
+      "id": "4e3ee978987eae49",
+      "title": "Dom Development wypłaci 7,35 zł zaliczki na poczet dywidendy za '26",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/dom-development-wyplaci-735-zl-zaliczki-na-poczet-dywidendy-za-26",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Dom Development"
+      ],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Firma: Dom Development"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Zarząd Dom Development zdecydował o wypłacie akcjonariuszom zaliczki na poczet dywidendy za 2026 rok w kwocie 189,6 mln zł, co oznacza, że na jedną akcję będzie przypadać kwota 7,35 zł - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd określił dzień, według którego ustalać się będzie uprawnionych do zaliczki na poczet dywidendy za rok 2026 na 2 grudnia 2026 roku oraz termin wypłaty zaliczki na poczet dywidendy za rok 2026 na 9 grudnia 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednocześnie zarząd informuje, że rada nadzorcza spółki wyraziła zgodę na wypłatę akcjonariuszom powyższej zaliczki na poczet dywidendy za 2026 rok."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 16:39",
+      "content_sha256": "7aec10aa72bc073100521b383681e05827a83a9e6b335a12a87411f7cb6edfaa",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "16:39",
+      "published_at": "2026-10-07T16:39+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zarząd Dom Development zdecydował o wypłacie akcjonariuszom zaliczki na poczet dywidendy za 2026 rok w kwocie 189,6 mln zł, co oznacza, że na jedną akcję będzie przypadać kwota 7,35 zł - poinformowała spółka w komunikacie.",
+          "Zarząd określił dzień, według którego ustalać się będzie uprawnionych do zaliczki na poczet dywidendy za rok 2026 na 2 grudnia 2026 roku oraz termin wypłaty zaliczki na poczet dywidendy za rok 2026 na 9 grudnia 2026 roku.",
+          "Jednocześnie zarząd informuje, że rada nadzorcza spółki wyraziła zgodę na wypłatę akcjonariuszom powyższej zaliczki na poczet dywidendy za 2026 rok."
+        ],
+        "interest_score": 49,
+        "impact_score": 40,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Zarząd Dom Development zdecydował o wypłacie akcjonariuszom zaliczki na poczet dywidendy za 2026 rok w kwocie 189,6 mln zł, co oznacza, że na jedną akcję będzie przypadać kwota 7,35 zł - poinformowała spółka w komunikacie."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "7aec10aa72bc073100521b383681e05827a83a9e6b335a12a87411f7cb6edfaa"
+      }
+    },
+    {
+      "id": "ea5656bd4ff7550f",
+      "title": "Dalsze decyzje RPP zależne od danych, Rada patrzy na ceny energii, NBP zapewni inflację w celu",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/dalsze-decyzje-rpp-zalezne-od-danych-rada-patrzy-na-ceny-energii-nbp-zapewni",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse",
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj",
+          "Temat: PKB",
+          "Temat: NBP",
+          "Temat: RPP"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ],
+        "energia": [
+          "Temat: energi"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Dalsze decyzje RPP nadal będą zależne od napływających informacji dot. perspektyw CPI i PKB w Polsce, a wśród nowych czynników ryzyka dla inflacji Rada wymieniła decyzje regulacyjne ws. cen energii - podano w komunikacie po październikowym posiedzeniu RPP. Według RPP, bank centralny podejmie wszelkie działania dla zapewnienia inflacji w celu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dalsze decyzje Rady będą zależne od napływających informacji dotyczących perspektyw inflacji i aktywności gospodarczej w Polsce. Szczególnie istotna jest sytuacja makroekonomiczna w otoczeniu polskiej gospodarki, w tym kształtowanie się cen surowców i inflacji na świecie w kontekście zmieniającej się sytuacji geopolitycznej\" - podała RPP, podtrzymując brzmienie komunikatu sprzed miesiąca."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Czynnikami ryzyka dla perspektyw inflacji pozostają także: kształt polityki fiskalnej, decyzje regulacyjne w zakresie cen energii, zmiany dynamiki aktywności w polskiej gospodarce oraz dalsze kształtowanie się dynamiki płac\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W stosunku do poprzedniego komunikatu nowym czynnikiem dla RPP są decyzje regulacyjne ws. cen energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada podała, że NBP będzie nadal podejmował wszelkie niezbędne działania dla zapewnienia stabilności makroekonomicznej i finansowej, w tym przede wszystkim dla zapewnienia inflacji na poziomie zgodnym z celem inflacyjnym NBP w średnim okresie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W poprzednim komunikacie wskazywano, że NBP będzie podejmował ww. działania dla \"utrzymania\" inflacji w celu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W październiku powtórzono, że NBP może stosować interwencje na rynku walutowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie odnotowano, że w Polsce w sierpniu 2026 r. sprzedaż detaliczna oraz produkcja przemysłowa i budowalno-montażowa wzrosły w ujęciu rocznym, a dynamika wynagrodzeń w sektorze przedsiębiorstw w sierpniu – po wzroście w lipcu – obniżyła się."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodano, że utrzymuje się spadek zatrudnienia w tym sektorze w ujęciu rocznym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada wskazała, że według szybkiego szacunku GUS inflacja CPI we wrześniu 2026 r. wzrosła do 4,0 proc. rdr z 3,4 proc. w sierpniu br., do czego przyczynił się przede wszystkim wzrost rocznej dynamiki cen paliw do prywatnych środków transportu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jednocześnie można szacować, że we wrześniu inflacja po wyłączeniu cen żywności i energii nieco się obniżyła\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W sierpniu CPI bazowa wynosiła 3,3 proc. rdr. W tych warunkach Rada postanowiła utrzymać stopy procentowe na niezmienionym poziomie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odnosząc się do sytuacji na świecie, RPP podała, że w II kw. 2026 r. roczna dynamika PKB w strefie euro przyspieszyła, a w Stanach Zjednoczonych obniżyła się, choć kształtuje się w pobliżu wieloletniej średniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jednocześnie, w związku z wyższymi cenami surowców energetycznych, inflacja na świecie jest wyższa niż na początku 2026 r. Perspektywy aktywności i inflacji na świecie obarczone są niepewnością, związaną w szczególności z konfliktem na Bliskim Wschodzie\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 6-7 października 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. Decyzja była zgodna z oczekiwaniami rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek, 8 października o godz. 15.00 odbędzie się konferencja prasowa prezesa NBP Adama Glapińskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "RPP utrzymuje stopę referencyjną na obecnym poziomie 3,75 proc. od marca, po jedynej wówczas w br. obniżce o 25 pb. W 2025 r. Rada obniżyła stopy łącznie o 175 pb. (startując z 5,75 proc.), a wcześniej w 2023 r. o 100 pb. (start: 6,75 proc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 16:38",
+      "content_sha256": "745c669ac728d7916e790314b747afcaf0e2292affdd5de25bfc680a31f1ca82",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "16:38",
+      "published_at": "2026-10-07T16:38+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Dalsze decyzje RPP nadal będą zależne od napływających informacji dot. perspektyw CPI i PKB w Polsce, a wśród nowych czynników ryzyka dla inflacji Rada wymieniła decyzje regulacyjne ws. cen energii - podano w komunikacie po październikowym posiedzeniu RPP.",
+          "Według RPP, bank centralny podejmie wszelkie działania dla zapewnienia inflacji w celu.",
+          "\"Dalsze decyzje Rady będą zależne od napływających informacji dotyczących perspektyw inflacji i aktywności gospodarczej w Polsce."
+        ],
+        "interest_score": 39,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Dalsze decyzje RPP nadal będą zależne od napływających informacji dot. perspektyw CPI i PKB w Polsce, a wśród nowych czynników ryzyka dla inflacji Rada wymieniła decyzje regulacyjne ws. cen energii - podano w komunikacie po październikowym posiedzeniu RPP."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "energi*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "RPP",
+              "bank*",
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "745c669ac728d7916e790314b747afcaf0e2292affdd5de25bfc680a31f1ca82"
+      }
+    },
+    {
+      "id": "d31e48b861777ea2",
+      "title": "Best Fashion Media: 86-proc. wzrost przychodów spółki zależnej po trzech kwartałach 2026 roku",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/best-fashion-media-86-proc-wzrost-przychodow-spolki-zaleznej-po-trzech",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "heading",
+          "text": "Komunikat od Best Fashion Media"
+        },
+        {
+          "type": "paragraph",
+          "text": "Besim Fashion & Media, spółka zależna Best Fashion Media S.A., wypracowała w okresie od stycznia do września 2026 roku ok. 1,8 mln zł przychodów netto ze sprzedaży. To o 86 proc. więcej niż w analogicznym okresie ubiegłego roku. Wzrost przychodów był widoczny we wszystkich trzech kwartałach."
+        },
+        {
+          "type": "paragraph",
+          "text": "W I kwartale 2026 roku przychody BFM wyniosły ok. 490 tys. zł wobec 209 tys. zł rok wcześniej, co oznacza wzrost o 134 proc. W II kwartale spółka wypracowała ok. 653 tys. zł przychodów, czyli o 75 proc. więcej niż w analogicznym okresie 2025 roku. W III kwartale przychody wyniosły ok. 658 tys. zł, wobec ok. 387 tys. zł rok wcześniej – wzrost o 70 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "– Wyniki BFM pokazują, że rozwijany przez nas model biznesowy przynosi coraz lepsze rezultaty. W ciągu ostatnich lat działalność spółki istotnie się zmieniła – od biznesu opartego przede wszystkim na portalach internetowych do organizacji łączącej media, social media, content i współpracę z markami. Dzisiejszy wzrost przychodów jest efektem tej konsekwentnie realizowanej transformacji – mówi Weronika Adamowicz, prezes Best Fashion Media S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "BFM rozwija cztery serwisy skierowane do odbiorców zainteresowanych modą i urodą: FashionBiznes.pl, Lamode.info, MiuMag.pl i Nailist.pl. Spółka coraz większą część działalności prowadzi również w kanałach społecznościowych – około połowy przychodów generowanych jest obecnie poprzez projekty realizowane w social mediach. W ostatnim miesiącu Instagram grupy (cztery profile) osiągnęły łącznie 10,1 mln organicznego zasięgu."
+        },
+        {
+          "type": "paragraph",
+          "text": "– Patrzymy na ten wzrost nie tylko przez pryzmat samych przychodów, ale również jakości i skali prowadzonego biznesu. Rozbudowujemy kompetencje, rozwijamy nasze media i zwiększamy możliwości współpracy z markami z sektora fashion i beauty. To tworzy solidną bazę do dalszego rozwoju grupy – dodaje Weronika Adamowicz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best Fashion Media S.A. jest spółką dominującą wobec Besim Fashion & Media sp. z o.o. Przedstawione dane za I–III kwartał 2026 roku mają charakter wstępny i szacunkowy. Ostateczne dane finansowe zostaną przedstawione w raporcie okresowym za III kwartał 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: Best Fashion Media"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 16:38",
+      "content_sha256": "fc8cdcae82e2296ee63d1cab850d39c398649d7167fcf3eb9ce761ac533d34ce",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "16:38",
+      "published_at": "2026-10-07T16:38+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Besim Fashion & Media, spółka zależna Best Fashion Media S.A., wypracowała w okresie od stycznia do września 2026 roku ok.",
+          "Wzrost przychodów był widoczny we wszystkich trzech kwartałach.",
+          "Dzisiejszy wzrost przychodów jest efektem tej konsekwentnie realizowanej transformacji – mówi Weronika Adamowicz, prezes Best Fashion Media S.A."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "1,8 mln zł przychodów netto ze sprzedaży."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "1,8 mln zł przychodów netto ze sprzedaży."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "fc8cdcae82e2296ee63d1cab850d39c398649d7167fcf3eb9ce761ac533d34ce"
+      }
+    },
+    {
+      "id": "14353e2734931093",
+      "title": "DZIEŃ NA GPW: Na giełdzie spadki, ale WIG20 pozostaje w konsolidacji",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261007/dzien-na-gpw-na-gieldzie-spadki-ale-wig20-pozostaje-w-konsolidacji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse",
+        "energia"
+      ],
+      "companies": [
+        "Alior",
+        "Allegro",
+        "AmRest",
+        "Asseco",
+        "BNP Paribas",
+        "CD PROJEKT",
+        "Grupa Azoty",
+        "KGHM",
+        "Modivo",
+        "Orlen",
+        "PGE",
+        "PKO BP",
+        "PZU",
+        "Pekao",
+        "Tauron",
+        "XTB",
+        "mBank"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ],
+        "energia": [
+          "Firma: KGHM",
+          "Temat: energety"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Nastoje na GPW pogorszyły się i główne indeksy spadają. Rynkowi ciążą zniżki największych banków, KGHM i spółek energetycznych, natomiast łagodzi je lekki wzrost Orlenu. Jak podają analitycy, indeks WIG20 pozostaje w konsolidacji pomiędzy 4.063 pkt. a 4.242 pkt. i dopiero jej opuszczenie wskaże kierunek dalszego silniejszego ruchu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ok. godz. 16.00 WIG20 spada o 1,7 proc. do ok. 4.150 pkt., WIG zniżkuje o 1,5 proc. do ok. 156.553 pkt. mWIG40 idzie w dół o 1,3 proc. do ok. 10.578 pkt., a sWIG80 traci 0,5 proc. i wynosi 30.735 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Po dwóch sesjach silniejszych wzrostów z poniedziałku i wtorku, dzisiaj WIG20 zachowuje się słabiej, natomiast w kilkutygodniowym horyzoncie sytuacja nie uległa dużej zmianie. Od drugiej połowy września indeks pozostaje w konsolidacji i dopiero jej opuszczenie wskaże kierunek dalszego silniejszego ruchu\" - powiedział PAP Biznes Przemysław Smoliński, analityk BM PKO BP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazał, we wtorek WIG20 dotarł w okolice ostatniego lokalnego maksimum, które stanowi górne ograniczenie tej konsolidacji, ale nie zdołał go przełamać."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Są to okolice 4.242 pkt. Z kolei od dołu indeks WIG20 ogranicza minimum z początku miesiąca czyli poziom 4.063 pkt. Dopiero pokonanie któregoś z tych poziomów potwierdziłoby albo kontynuację długoterminowego trendu wzrostowego, albo rozpoczęcie silniejszej, być może już średnioterminowej korekty. Do tego czasu konkretnych sygnałów inwestycyjnych brak, należy się uzbroić w cierpliwość i czekać na ich pojawienie\" - powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zwrócił uwagę, że w ostatnim czasie zwiększyło się zainteresowanie inwestorów akcjami średnich spółek."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ostatnio pojawiło się nieco więcej popytu na średnich spółkach, które do tej pory zachowywały się wyraźnie słabiej od blue chipów. Natomiast cały czas mocno w tyle pozostają najmniejsze spółki z sWIG80, na tym indeksie już od początku czerwca trwa korekta\" - powiedział Przemysław Smoliński."
+        },
+        {
+          "type": "paragraph",
+          "text": "WIG na zamknięciu sesji we wtorek 6 października wyniósł 159.012,30 pkt., a WIG20 4.222,36 pkt. Oba indeksy odnotowały rekordowe poziomy zamknięcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dzisiejsza sesja pokazuje, że to rekordowe zamknięcie nie przyniosło wielkiej poprawy nastrojów. Natomiast widać testowanie, próbę pokonania szczytu z drugiej połowy września i szala prawdopodobieństwa jest odrobinę przychylona na stronę wzrostów\" - powiedział analityk."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Warto zauważyć, że choć nie ma u nas bardzo silnych wzrostów i cały czas mozolnie walczymy by zdobywać kolejne szczyty, to na tle innych rynków nasza giełda nie wypada słabo. Np. niemiecki DAX od końca sierpnia zniżkuje, z kolei na indeksie BUX mamy spadki od połowy września i to spadki bardzo dynamiczne\" - dodał Przemysław Smoliński."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze godziny środowej sesji upływały przy niewielkich zmianach głównych indeksów, które wahały się wokół poziomów odniesienia. Około godz. 11.00 rozpoczęło się powolne osuwanie rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po południu w indeksie WIG20 zdecydowana większość spółek spada. Liderami spadków sa największe banki: Pekao i PKO BP, ich akcje tanieją po ok. 3 proc. O 2,5 proc. spada mBank, natomiast Erste i Alior zniżkują o 1,7-1,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nie rośnie żaden z banków notowanych w mWIG40, a najsłabszy w tym gronie BNP Paribas spada o ponad 4 proc. W efekcie, WIG Banki idzie w dół o 2,7 proc., najmocniej z branżowych indeksów i wynosi 27.570 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród blue chipów o 2,3 zniżkuje CD Projekt. Spółka zwyżkowała przez około cztery tygodnie, łącznie zyskując 13,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W środę o niemal 2 proc. do 337,1 zł przecenione są akcje KGHM. Przez poprzednie dwa miesiące kurs spółki wahał się pomiędzy 319,5 zł i 383,9 zł, a łącznie spadł o 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Niemal 2 proc. traci Allegro. Spółka miała we wrześniu 21,812 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 21,864 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po ok. 1,7 proc. zniżkują PGE i Turon."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek akcje PGE straciły na wartości 1 proc. Wcześniej, od 28 września, kurs PGE rósł niemal bez przerwy, dlatego do 6 października łącznie poszedł do góry o 19,4 proc. Z kolei Tauron od 28 września do wtorkowego zamknięcia zyskał 6,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podczas środowej sesji o ponad 1 proc. zniżkuje PZU. Akcjonariusze spółki zdecydują w sprawie wyrażenia zgody na emisję przez spółkę podporządkowanych obligacji kapitałowych na rynku krajowym o łącznej wartości nominalnej nie wyższej niż 3 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "W WIG20 rosną dwie spółki, w tym Modivo, o 2 proc. Spółka od początku października przeważnie rośnie i łącznie do wtorkowego zamknięcia zwyżkowała o 5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs Modivo spadał przez pierwszą połowę tego roku, a od lipca znajduje się w trendzie bocznym. Łącznie od 2 stycznia do 6 października akcje spółki staniały o 24,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "O 0,2 proc. rośnie Orlen. Spółka zwyżkuje trzeci raz z rzędu po tym, jak wcześniej spadała przez ponad dwa tygodnie. Łącznie od 15 września do wtorkowego zamknięcia akcje Orlenu staniały o 7,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wiceprezes Orlenu Robert Soszyński poinformował, że jeśli ceny gazu na europejskich rynkach utrzymają się na obecnych poziomach lub wyższych, to Orlen będzie wnioskował do Urzędu Regulacji Energetyki o podwyżkę taryfy gazowej na 2027 rok."
+        },
+        {
+          "type": "paragraph",
+          "text": "W indeksie mWIG40 najsłabszy jest BNP Paribas, a następnie Asseco SEE, Grupa Pracuj, WP Holding i Benefit Systems, które spadają po ok. 3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pozytywnie wyróżnia się Grupa Azoty, jej akcje drożeją o niemal 3 proc. Przez poprzedni miesiąc akcje spółki staniały o 24 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do liderów wzrostów w mWIG40 należy AB, który rośnie o 2,5 proc. Przez ostatnie pół roku akcje spółki zdrożały o 29 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "XTB, który rano rósł o 2,7 proc., obecnie lekko zwyżkuje. Spółka od początku września do wtorkowego zamknięcia straciła 26 proc. XTB poinformował, że rozszerza ofertę na Węgrzech o rachunek TBSZ i ma duże oczekiwania, co do zwiększenia popularności platformy wśród węgierskich inwestorów, dla których chce być aplikacją pierwszego wyboru."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na szerokim rynku do najmocniej zwyżkujących spółek należą IMS, Action i Ailleron."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Biura Maklerskiego Banku Millennium, w raporcie z 7 października, podwyższyli cenę docelową dla akcji IMS do 3,71 zł z 2,87 zł wcześniej, utrzymując rekomendację \"kupuj\". Raport wydano przy kursie 2,77 zł, a w środę akcje drożeją o 9,4 proc. i kosztują 3,03 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd spółki Ailleron zdecydował o wypłacie zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026. Zaliczka wyniesie 0,65 zł na akcję, czyli łącznie ok. 8,07 mln zł. Kurs spółki rośnie o 5,4 proc. do 16,3 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Action szacuje przychody ze sprzedaży w III kw. 2026 roku na ok. 922 mln zł, co stanowi wzrost o ok. 23,8 proc. rdr. Akcje Action zyskują 7,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lekko zwyżkuje AmRest. Luis Comas zrezygnował ze stanowiska CEO AmRestu, z dniem 1 lutego 2027 r. funkcję tę obejmie María Elena Pato-Castel."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie indeks FTSE 100 spada o 0,8 proc., DAX traci 1,5 proc., a CAC 40 zniżkuje o 1,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA Dow Jones Industrial spada o 1 proc., S&P500 traci 0,6 proc., a Nasdaq Comp. idzie w dół o 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pam/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "07.10.2026 16:14",
+      "content_sha256": "b595e98e89e4404475d80e8b5cdc5225a75780acadd7ea464dfea7afdab28522",
+      "date": "2026-10-07",
+      "saved_at": "2026-10-07T17:16:40+00:00",
+      "content_checked_at": "2026-10-07T17:16:40+00:00",
+      "published_time": "16:14",
+      "published_at": "2026-10-07T16:14+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Jak podają analitycy, indeks WIG20 pozostaje w konsolidacji pomiędzy 4.063 pkt. a 4.242 pkt. i dopiero jej opuszczenie wskaże kierunek dalszego silniejszego ruchu.",
+          "Od drugiej połowy września indeks pozostaje w konsolidacji i dopiero jej opuszczenie wskaże kierunek dalszego silniejszego ruchu\" - powiedział PAP Biznes Przemysław Smoliński, analityk BM PKO BP.",
+          "Jak wskazał, we wtorek WIG20 dotarł w okolice ostatniego lokalnego maksimum, które stanowi górne ograniczenie tej konsolidacji, ale nie zdołał go przełamać."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b595e98e89e4404475d80e8b5cdc5225a75780acadd7ea464dfea7afdab28522"
+      }
+    },
     {
       "id": "abf7b4dde468f438",
       "title": "RPP utrzymała stopy proc. na niezmienionym poziomie - referencyjna 3,75 proc., zgodnie z oczekiwaniami",
