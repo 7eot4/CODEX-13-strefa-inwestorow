@@ -1,8 +1,1163 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-07T23:03:50+00:00",
+  "last_checked": "2026-10-08T05:59:56+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "1e7fdd4550f3c628",
+      "title": "Konsorcjum Polimeksu Mostostal wycofało się z przetargu na budowę terminalu pasażerskiego CPK",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/konsorcjum-polimeksu-mostostal-wycofalo-sie-z-przetargu-na-budowe-terminalu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Konsorcjum tworzone przez Polimex Mostostal, HOCHTIEF Polska oraz HOCHTIEF Infrastructure GmbH zdecydowało o odstąpieniu od dalszego udziału w postępowaniu dotyczącym budowy terminala pasażerskiego Centralnego Portu Komunikacyjnego i nie złoży oferty w tym postępowaniu - poinformowały spółki w oświadczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Po szczegółowej analizie ostatecznych warunków postępowania oraz całokształtu uwarunkowań biznesowych, technicznych i kontraktowych związanych z realizacją projektu, Konsorcjum uznało, że nie będzie kontynuować udziału w tym postępowaniu. Decyzja ta została podjęta na skutek stanowiska HOCHTIEF Polska S.A. oraz HOCHTIEF Infrastructure GmbH, w oparciu o dokonaną wewnętrzną ocenę ryzyk realizacyjnych, warunków kontraktowych oraz harmonogramu postępowania, w tym w szczególności wyznaczonego terminu składania ofert\" - napisano w oświadczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"(...) Jednocześnie spółki tworzące Konsorcjum pozostają zainteresowane udziałem w kolejnych projektach infrastrukturalnych realizowanych w Polsce, w tym przedsięwzięciach związanych z rozwojem nowoczesnej infrastruktury transportowej, energetycznej oraz projektów towarzyszących programowi Port Polska. Zainteresowanie to dotyczy zarówno projektów realizowanych wspólnie, jak i przedsięwzięć prowadzonych niezależnie przez każdą ze spółek\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "seb/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 07:53",
+      "content_sha256": "97bb908038ff329405a628edd6fdc395a4b8991daf9d59e8d59edd5bce1ea770",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "07:53",
+      "published_at": "2026-10-08T07:53+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Konsorcjum tworzone przez Polimex Mostostal, HOCHTIEF Polska oraz HOCHTIEF Infrastructure GmbH zdecydowało o odstąpieniu od dalszego udziału w postępowaniu dotyczącym budowy terminala pasażerskiego Centralnego Portu Komunikacyjnego i nie złoży oferty w tym postępowaniu - poinformowały spółki w oświadczeniu.",
+          "\"Po szczegółowej analizie ostatecznych warunków postępowania oraz całokształtu uwarunkowań biznesowych, technicznych i kontraktowych związanych z realizacją projektu, Konsorcjum uznało, że nie będzie kontynuować udziału w tym postępowaniu.",
+          "Decyzja ta została podjęta na skutek stanowiska HOCHTIEF Polska S.A. oraz HOCHTIEF Infrastructure GmbH, w oparciu o dokonaną wewnętrzną ocenę ryzyk realizacyjnych, warunków kontraktowych oraz harmonogramu postępowania, w tym w szczególności wyznaczonego terminu składania ofert\" - napisano w oświadczeniu."
+        ],
+        "interest_score": 39,
+        "impact_score": 26,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "\"Po szczegółowej analizie ostatecznych warunków postępowania oraz całokształtu uwarunkowań biznesowych, technicznych i kontraktowych związanych z realizacją projektu, Konsorcjum uznało, że nie będzie kontynuować udziału w tym postępowaniu."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "97bb908038ff329405a628edd6fdc395a4b8991daf9d59e8d59edd5bce1ea770"
+      }
+    },
+    {
+      "id": "18357c06b0d31c6d",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-08",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-08",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Orlen"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-08"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 8 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "08:30 - SGH - Konferencja Podatkowa CASP SGH pt. „Współczesne wyzwania systemów podatkowych: technologia, globalizacja i pewność prawa”."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:30 - EFC - Konferencja ubezpieczeniowa EKF Ubezpieczenia - II dzień."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:30 - UNICREDIT - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie prasowe, podczas którego przedstawiony będzie raport UniCredit „WealthBeing - Inwestycje Polaków 2026”."
+        },
+        {
+          "type": "paragraph",
+          "text": "15:00 - NBP - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa NBP."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 9 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - SGH - Konferencja SGH/ZBP/PAB WIB:„Koszt nierównowagi fiskalnej. Wpływ finansów publicznych na stabilność sektora bankowego i rozwój gospodarczy Polski”."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - GPW - Śniadanie prasowe GPW. Spotkanie będzie okazją do podsumowania wdrożenia systemu GPW WATS i pierwszych czterech dni sesji."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - SONEL - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wideokonferencja spółki Sonel poświęcona omówieniu wyników finansowych za pierwsze półrocze 2026 roku."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 12 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - Grupa Orlen - Konferencja prasowa spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa Grupy Orlen pt. \"Farma Baltic Power to dopiero początek – co dalej w polskiej energetyce wiatrowej na morzu?”."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 13 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:45 - Fundacja Polska Bezgotówkowa - Konferencja Future of Payments \"Płatności jutra – technologia bliżej człowieka”."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - JLL - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Śniadanie prasowe JLL poświęcone analizie aktualnej sytuacji na największych rynkach mieszkaniowych w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:30 - MCI Capital ASI - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "MCI Investor Day 2026. W programie strategia i wyniki inwestycyjne MCI, nowe inwestycje oraz gwiazdy portfela MCI."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biznes Zesp.Emitencki (PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 07:01",
+      "content_sha256": "d5bfb4459163f5785d2f775ae394b7b1a85db59cc5fa1bc8c794aa90060c95b9",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-08T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "08:30 - SGH - Konferencja Podatkowa CASP SGH pt.",
+          "09:30 - EFC - Konferencja ubezpieczeniowa EKF Ubezpieczenia - II dzień.",
+          "Wideokonferencja spółki Sonel poświęcona omówieniu wyników finansowych za pierwsze półrocze 2026 roku."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d5bfb4459163f5785d2f775ae394b7b1a85db59cc5fa1bc8c794aa90060c95b9"
+      }
+    },
+    {
+      "id": "e7c1947bc3e1e194",
+      "title": "Kalendarium rynku NewConnect 2026-10-08",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/kalendarium-rynku-newconnect-2026-10-08",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-10-08"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 8 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - EKOPARK - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - BINARY - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. zmiany siedziby, zmian w statucie."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 9 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - GREENZEB - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie upoważnienia zarządu do podwyższania kapitału zakładowego, z możliwością wyłączenia prawa poboru akcjonariuszy."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 12 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - VEE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. uzupełnienia składu rady nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 13 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- KOLEJKOWO - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 1,25 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 14 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "13:00 - NIEWIADOW - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie rady nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 07:01",
+      "content_sha256": "779f5591b415fae5b6e366f8de87577359df07e4973b88813aa3ee7faf374a6a",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-08T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie m.in. zmiany siedziby, zmian w statucie.",
+          "W sprawie upoważnienia zarządu do podwyższania kapitału zakładowego, z możliwością wyłączenia prawa poboru akcjonariuszy.",
+          "W sprawie m.in. uzupełnienia składu rady nadzorczej."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "779f5591b415fae5b6e366f8de87577359df07e4973b88813aa3ee7faf374a6a"
+      }
+    },
+    {
+      "id": "6990e527d740fa56",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-10-08",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/kalendarium-rynku-kapitalowego-gpw-2026-10-08",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Ferro",
+        "LPP",
+        "PZU",
+        "Sunex"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-10-08"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 8 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - GREENLANE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie połączenia z The True Green SA."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:45 - GREENLANE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie upoważnienia zarządu do emisji nowych akcji i warrantów subskrypcyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "- FERRO - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 2,36 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- PZU - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 4,80 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- TEXT - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 4,26 PLN na akcję, w tym zaliczki w wysokości 1,15 PLN i 0,98 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 9 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - OTMUCHOW - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie połączenia ze spółką zależną."
+        },
+        {
+          "type": "paragraph",
+          "text": "- LPP - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 900 PLN na akcję, w tym zaliczka w wysokości 400 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 12 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - TRAKCJA - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zgody na ustanowienie ograniczonych praw rzeczowych na aktywach spółki, przyjęcia polityki równowagi płci."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - EUROHOLD - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. zmian w radzie nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 14 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - PKOBP - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmiany statutu."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - SUNEX - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie przyjęcia polityki równowagi płci, połączenia ze spółką zależną Polska Ekologia Przetargi sp. z o.o."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 07:01",
+      "content_sha256": "68281e7b30f054f884823b55107db2609fd98a73c26e3a2a027b7bb40ee13f5d",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-08T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie upoważnienia zarządu do emisji nowych akcji i warrantów subskrypcyjnych.",
+          "Dywidenda w wysokości 4,26 PLN na akcję, w tym zaliczki w wysokości 1,15 PLN i 0,98 PLN na akcję.",
+          "Dywidenda w wysokości 900 PLN na akcję, w tym zaliczka w wysokości 400 PLN na akcję."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "68281e7b30f054f884823b55107db2609fd98a73c26e3a2a027b7bb40ee13f5d"
+      }
+    },
+    {
+      "id": "e91a281e1a4bb841",
+      "title": "Archicom zamierza wyemitować obligacje o maksymalnej łącznej wartości nominalnej 385 mln zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/archicom-zamierza-wyemitowac-obligacje-o-maksymalnej-lacznej-wartosci",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Archicom zamierza wyemitować w ramach programu emisji obligacje serii 1IA/2026 o maksymalnej łącznej wartości nominalnej 385 mln zł - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obligacje te mają zostać przeznaczone na spłatę innych serii obligacji wyemitowanych przez Archisom."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obligacje będą oprocentowane według zmiennej stopy procentowej WIBOR 6M powiększonej o marżę, zostaną wprowadzone do alternatywnego systemu obrotu prowadzonego przez Catalyst organizowanego przez GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Planowany dzień wykupu obligacji został wyznaczony na 15 października 2030 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "seb/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 06:55",
+      "content_sha256": "e7b48dbc13e61216c374d8317de9f0d55d161a85e38bd63cac6f09e44b857978",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "06:55",
+      "published_at": "2026-10-08T06:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Archicom zamierza wyemitować w ramach programu emisji obligacje serii 1IA/2026 o maksymalnej łącznej wartości nominalnej 385 mln zł - poinformowała spółka w komunikacie.",
+          "Obligacje te mają zostać przeznaczone na spłatę innych serii obligacji wyemitowanych przez Archisom.",
+          "Obligacje będą oprocentowane według zmiennej stopy procentowej WIBOR 6M powiększonej o marżę, zostaną wprowadzone do alternatywnego systemu obrotu prowadzonego przez Catalyst organizowanego przez GPW."
+        ],
+        "interest_score": 81,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Obligacje będą oprocentowane według zmiennej stopy procentowej WIBOR 6M powiększonej o marżę, zostaną wprowadzone do alternatywnego systemu obrotu prowadzonego przez Catalyst organizowanego przez GPW."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Archicom zamierza wyemitować w ramach programu emisji obligacje serii 1IA/2026 o maksymalnej łącznej wartości nominalnej 385 mln zł - poinformowała spółka w komunikacie."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Obligacje będą oprocentowane według zmiennej stopy procentowej WIBOR 6M powiększonej o marżę, zostaną wprowadzone do alternatywnego systemu obrotu prowadzonego przez Catalyst organizowanego przez GPW."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e7b48dbc13e61216c374d8317de9f0d55d161a85e38bd63cac6f09e44b857978"
+      }
+    },
+    {
+      "id": "e9d159fdea4772de",
+      "title": "SmartLunch, spółka w którą zainwestował Benefit Systems, planuje debiut na GPW",
+      "url": "https://strefainwestorow.pl/debiut-ipo/smartlunch-ipo",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "SmartLunch"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: SmartLunch"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "SmartLunch, wrocławska platforma benefitów żywieniowych dla pracowników, chce jeszcze w 2026 roku zadebiutować na głównym rynku GPW. Spółka, w której blisko 20% akcji ma Benefit Systems, przekonuje, że jej rynek jest kilka razy większy niż rynek kart sportowych, bo z Multisportu i podobnych kart korzysta w Polsce około 2 mln osób, a je każdy z około 15 mln pracujących."
+        },
+        {
+          "type": "heading",
+          "text": "Benefit, z którego korzystać może niemal każdy"
+        },
+        {
+          "type": "paragraph",
+          "text": "SmartLunch oferuje firmom benefit żywieniowy. Pracodawca dofinansowuje posiłki, pracownik z wyprzedzeniem zamawia w aplikacji obiad z jednej z okolicznych restauracji, a ta dowozi go do zakładu lub biura o ustalonej godzinie. Platforma spina cały proces: finansowanie, zamówienia, logistykę i rozliczenia. Pracodawca płaci wyłącznie za sam benefit, bez dodatkowych opłat za obsługę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka podkreśla, że nie jest firmą cateringową. Działa w modelu marketplace B2B2C i asset-light: nie ma własnych kuchni ani floty, a posiłki gotuje i dowozi 740 partnerów gastronomicznych. SmartLunch zarabia na prowizji od zamówień, czyli take rate. Dziś wynosi ona średnio 12,7%, a na starcie była niższa niż 5%. Z platformy korzysta 861 firm i 118 tys. pracowników, którzy składają około 90 tys. zamówień dziennie. Od początku działalności platforma sprzedała ponad 70 mln posiłków."
+        },
+        {
+          "type": "paragraph",
+          "text": "SmartLunch chce jeszcze w tym roku wejść na GPW"
+        },
+        {
+          "type": "heading",
+          "text": "Rynek większy niż karty sportowe"
+        },
+        {
+          "type": "paragraph",
+          "text": "W prezentacji inwestorskiej spółka porównuje swój potencjał wprost z kartami sportowymi. Dziś ma 118 tys. aktywnych użytkowników. Kart sportowych jest w Polsce około 2 mln, czyli 17 razy więcej. Pracujących w gospodarce narodowej jest jednak około 15 mln, w tym 3,1 mln w przemyśle, który jest kluczowym segmentem SmartLunch. Do tego dochodzi 4,2 mln pracowników w Czechach, gdzie spółka już działa."
+        },
+        {
+          "type": "paragraph",
+          "text": "– Zbudowaliśmy biznes o dużej skali, ale kiedy patrzymy na liczbę przedsiębiorstw, które mogą korzystać z naszego rozwiązania, widzimy przed sobą nadal znaczącą przestrzeń do wzrostu. Szczególnie istotne jest to, że tysiące potencjalnych klientów znajdują się już na rynkach lokalnych, na których jesteśmy obecni i koncentrujemy nasze działania. Możemy więc dalej zagęszczać sieć, którą konsekwentnie budowaliśmy przez ostatnie lata – mówi Tomasz Popów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Potencjał widać też w liczbie firm. Profilowi klienta, czyli firmie zatrudniającej co najmniej 50 osób, odpowiada w Polsce ponad 30 tys. przedsiębiorstw. Ponad 17 tys. z nich działa na 120 lokalnych mikrorynkach, na których SmartLunch już jest obecny. Platforma działa w 47,9% powiatów, a w jej zasięgu jest około 80% polskiego przemysłu. Według spółki 90% jej klientów wcześniej w ogóle nie dofinansowywało posiłków, więc SmartLunch głównie tworzy rynek, a nie odbiera go konkurencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rynek SmartLunch w liczbach"
+        },
+        {
+          "type": "heading",
+          "text": "Inwestycja Benefit Systems w Smartlunch z 2024 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benefit Systems, operator kart Multisport, wszedł do SmartLunch w kwietniu 2024 r. Umowy podpisane 19 kwietnia wyceniły spółkę na 320 mln zł, a cała transakcja była warta około 59,3 mln zł. Składały się na nią trzy elementy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "odkupienie akcji od dotychczasowych akcjonariuszy za 6,5 mln zł,"
+        },
+        {
+          "type": "paragraph",
+          "text": "objęcie nowych akcji za 32 mln zł gotówki, które zasiliły spółkę,"
+        },
+        {
+          "type": "paragraph",
+          "text": "wniesienie aportem 100% udziałów w krakowskim Lunching.pl, który był numerem 2 na rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dla SmartLunch transakcja oznaczała gotówkę na rozwój i przejęcie głównego konkurenta. Dziś spółka określa się jako lider żywienia pracowników w Polsce, 32 razy większy od kolejnego gracza. Benefit Systems dołożył do swojej oferty drugi masowy benefit pozapłacowy obok kart sportowych i zagwarantował sobie prawo pierwszeństwa zakupu kolejnych akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obecnie Benefit Systems ma 19,7% akcji i jest drugim największym akcjonariuszem. Najwięcej, 39,7%, ma fundusz LF Akcelerator, który zainwestował w SmartLunch przy jego powstaniu w 2014 r. 43% udziałów w funduszu ma prezes Tomasz Popów. Współzałożyciel Mateusz Tałpasz ma 17,2% akcji SmartLunch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcjonariusze SmartLunch"
+        },
+        {
+          "type": "paragraph",
+          "text": "W ciągu dwóch lat skala działalności platformy podwoiła się. GMV, czyli wartość zamówień przechodzących przez platformę, wzrosło z 135,2 mln zł w 2023 r. do 275,1 mln zł w 2025 r. W 12 miesiącach do końca czerwca 2026 r. wyniosło 306,8 mln zł. ARR, czyli roczny przychód powtarzalny, wzrósł w tym czasie z 16,8 mln zł do 38,8 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baza klientów zwiększyła się w dwa lata niemal dwukrotnie. Spółka zarabia też więcej na jednym użytkowniku: średni roczny przychód na użytkownika wzrósł z 285 zł w 2023 r. do 347 zł w ostatnich 12 miesiącach. Koszt pozyskania klienta zwraca się średnio po niespełna dwóch latach, a klienci rzadko odchodzą: roczny churn wynosi około 3,7%."
+        },
+        {
+          "type": "paragraph",
+          "text": "SmartLunch potwierdza skalowalność modelu poza Polską. W Czechach obsługuje już 22 firmy i ponad 1500 użytkowników"
+        },
+        {
+          "type": "heading",
+          "text": "Perspektywy wzrostu o około 25% rocznie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W średnim terminie SmartLunch chce zwiększać GMV w tempie „mid twenties”, czyli o około 25% rocznie. ARR ma rosnąć szybciej, w tempie „high twenties”. Dla porównania w latach 2020–2025 GMV rosło średnio o 54% rocznie. Przewagę ARR nad GMV ma zapewnić wyższa prowizja: celem jest 14% od wszystkich zamówień wobec obecnych 12,7%. W wielu lokalizacjach spółka już dziś osiąga ponad 14%."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka jest na progu rentowności. W 2025 r. miała około 5 mln zł straty EBITDA, ale po wyłączeniu kosztów pozyskania klientów EBITDA przekraczała 12 mln zł. Zarząd zakłada trwałą rentowność operacyjną od stycznia 2027 r. i dodatni wynik netto w całym 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki finansowe SmartLunch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strategia dalszego wzrostu opiera się na pięciu filarach:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zagęszczanie mikrorynków. Pozyskiwanie firm w pobliżu obecnych klientów jest dużo tańsze niż wchodzenie w nowe regiony. Spółka chce też sięgać po mniejsze firmy, zatrudniające około 50 osób."
+        },
+        {
+          "type": "paragraph",
+          "text": "Technologia. SmartLunch pracuje nad automatycznym onboardingiem, który pozwoli firmom dołączać do platformy samodzielnie, bez handlowców."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ekspansja zagraniczna. Pierwszego klienta w Czechach spółka pozyskała w grudniu 2024 r. Próg tysiąca użytkowników przekroczyła tam po 13 miesiącach, podczas gdy w Polsce zajęło to prawie 2,5 roku. Dziś obsługuje w Czechach 33 firmy i około 1,6 tys. użytkowników. Kolejne w planach są rynki Europy Środkowo-Wschodniej i region DACH."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inteligentne Lodówki. Samoobsługowe lodówki ze świeżymi posiłkami działają całą dobę i odpowiadają na potrzeby nocnej zmiany. W pilotażach GMV na klienta rosło o około 20%, a 40–45% zakupów przypadało na godziny 14:00–6:00."
+        },
+        {
+          "type": "paragraph",
+          "text": "Selektywne akwizycje. Celem są głównie firmy o modelu zbliżonym do multicateringu, w Polsce i w Europie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Równolegle spółka wydziela segment kantyn, które przejmą zewnętrzni operatorzy. Od pierwszego półrocza 2026 r. kantyny są wykazywane jako działalność zaniechana. Skonsolidowane przychody spadną, ale według spółki bez wpływu na marże."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lunchomat SmartLunch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba aktywnych kart Benefit Systems na koniec III kw. wyniosła ok. 2,75 mln szt."
+        },
+        {
+          "type": "heading",
+          "text": "Oferta publiczna jeszcze w tym roku"
+        },
+        {
+          "type": "paragraph",
+          "text": "SmartLunch złożył prospekt w Komisji Nadzoru Finansowego, a proces jego zatwierdzania trwa. – Chcemy, by giełda była jeszcze w tym roku, to nasz główny element strategii – mówi prezes Tomasz Popów. Termin debiutu zależy od tempa prac KNF."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oferta ma obejmować nowe akcje z emisji oraz akcje sprzedawane przez obecnych akcjonariuszy. Docelowo w wolnym obrocie ma się znaleźć około 30% akcji. Spółka nie przewiduje akcji uprzywilejowanych. Wielkości oferty ani przedziału cenowego jeszcze nie ujawniła."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pieniądze z emisji mają trafić na rozwój sprzedaży i technologii oraz na mikroakwizycje, „raczej firm z komponentem technologicznym”, w kraju i za granicą. Ostatni punkt odniesienia dla wyceny to 320 mln zł z transakcji z Benefit Systems w 2024 r. Od tego czasu GMV i ARR spółki wzrosły o ponad połowę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wejście na rynek publiczny postrzegamy jako naturalny krok w rozwoju SmartLunch i otwarcie kolejnego rozdziału w historii spółki. Chcemy dalej wzmacniać naszą pozycję w Polsce i rozwijać działalność na rynkach zagranicznych – mówi Tomasz Popów."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "08.10.2026 06:52",
+      "content_sha256": "8408451692f573255abe4af07193d4f0c34f4d457144419aa7d848cbed37e31f",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "06:52",
+      "published_at": "2026-10-08T06:52+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "SmartLunch, wrocławska platforma benefitów żywieniowych dla pracowników, chce jeszcze w 2026 roku zadebiutować na głównym rynku GPW.",
+          "Spółka, w której blisko 20% akcji ma Benefit Systems, przekonuje, że jej rynek jest kilka razy większy niż rynek kart sportowych, bo z Multisportu i podobnych kart korzysta w Polsce około 2 mln osób, a je każdy z około 15 mln pracujących.",
+          "Benefit Systems, operator kart Multisport, wszedł do SmartLunch w kwietniu 2024 r. Umowy podpisane 19 kwietnia wyceniły spółkę na 320 mln zł, a cała transakcja była warta około 59,3 mln zł."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8408451692f573255abe4af07193d4f0c34f4d457144419aa7d848cbed37e31f"
+      }
+    },
+    {
+      "id": "f4f986ab8cb94c9e",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 08.10.2026 | 1D | 5D | 1M | 3M | 12M |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,75 | 4,72 | 4,90 | 4,54 | 4,07 | 4,29 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,86 | 5,82 | 5,97 | 5,57 | 4,75 | 4,89 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,29 | 6,25 | 6,34 | 6,17 | 5,33 | 5,50 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,81 | 5,84 | 5,81 | 5,39 | 5,01 | 6,43 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,84 | 5,87 | 5,86 | 5,40 | 5,03 | 6,36 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,73 | 5,76 | 5,78 | 5,43 | 5,03 | 6,79 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,24 | 4,21 | 4,18 | 4,05 | 3,87 | 3,58 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,69 | 4,62 | 4,65 | 4,50 | 4,07 | 3,99 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,35 | 5,31 | 5,35 | 5,13 | 4,60 | 4,47 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,22 | 36,27 | 36,62 | 36,28 | 36,83 | 36,66 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 35,56 | 35,58 | 35,56 | 34,79 | 34,89 | 33,83 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 32,68 | 32,74 | 32,82 | 31,69 | 31,01 | 29,32 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 3,02 | 3,05 | 3,13 | 2,94 | 2,57 | 2,01 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,27 | 3,29 | 3,39 | 3,16 | 2,76 | 2,42 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,61 | 3,60 | 3,70 | 3,51 | 3,19 | 2,97 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,42 | 3,40 | 3,50 | 3,17 | 2,77 | 2,24 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 4,01 | 3,94 | 4,01 | 3,60 | 3,16 | 2,75 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,62 | 4,53 | 4,61 | 4,21 | 3,78 | 3,54 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,21 | 3,22 | 3,27 | 2,99 | 2,59 | 2,03 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,53 | 3,51 | 3,59 | 3,26 | 2,88 | 2,43 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,99 | 3,94 | 4,01 | 3,72 | 3,37 | 3,12 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,23 | 3,25 | 3,29 | 3,03 | 2,66 | 2,09 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,57 | 3,55 | 3,62 | 3,30 | 2,91 | 2,60 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 4,12 | 4,07 | 4,13 | 3,82 | 3,48 | 3,26 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,07 | 3,11 | 3,21 | 3,01 | 2,59 | 2,00 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,22 | 3,25 | 3,36 | 3,13 | 2,71 | 2,30 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,48 | 3,48 | 3,59 | 3,39 | 2,99 | 2,71 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,62 | 3,56 | 3,62 | 3,19 | 2,77 | 2,26 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,24 | 4,15 | 4,22 | 3,65 | 3,20 | 2,85 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,87 | 4,75 | 4,86 | 4,25 | 3,79 | 3,57 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,85 | 4,82 | 4,89 | 4,57 | 4,18 | 3,98 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 4,97 | 4,92 | 4,98 | 4,67 | 4,36 | 4,15 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,44 | 5,38 | 5,42 | 5,18 | 4,85 | 4,72 | 07.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,94 | 1,95 | 1,94 | 1,85 | 1,44 | 0,93 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,40 | 2,42 | 2,41 | 2,25 | 1,99 | 1,23 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 3,08 | 3,10 | 3,13 | 2,90 | 2,87 | 1,69 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,78 | 4,77 | 4,79 | 4,39 | 4,22 | 3,58 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 5,04 | 5,03 | 5,01 | 4,56 | 4,33 | 3,72 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 5,31 | 5,28 | 5,24 | 4,79 | 4,58 | 4,12 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 06:35",
+      "content_sha256": "65d3c4d605888c2cdf300d1d216f7cd7144d2f705cccc3b8b74948576361ed4b",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "06:35",
+      "published_at": "2026-10-08T06:35+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "65d3c4d605888c2cdf300d1d216f7cd7144d2f705cccc3b8b74948576361ed4b"
+      }
+    },
+    {
+      "id": "17ab24cfb39cb6c6",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Kolumbii i Argentynie:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7801,77 | -0,22 | 1,96 | 1,67 | 15,52 | 13,97"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 51179,87 | -0,66 | 0,54 | -3,04 | 9,82 | 6,48"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 27538,69 | -0,22 | 2,52 | 4,23 | 19,51 | 18,49"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2793,204 | -1,31 | -0,13 | -5,64 | 12,45 | 12,54"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 35041,86 | -1,70 | -0,55 | -2,99 | 14,88 | 10,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 64653,33 | -1,01 | 0,68 | -0,63 | 6,18 | 0,54"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 204302,33 | -0,74 | 9,64 | 9,04 | 43,73 | 26,80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2534,92 | -2,09 | 0,19 | -1,34 | 35,18 | 22,58"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MERVAL | Argentyna | 2824123,00 | -2,51 | 0,17 | -8,19 | 55,22 | -7,45"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 06:34",
+      "content_sha256": "2373a1fb1f8ed2d43559578e5ccee3f963deffe703badf84f7bdbc74b44c28b2",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-08T05:59:56+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
+      "published_time": "06:34",
+      "published_at": "2026-10-08T06:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2373a1fb1f8ed2d43559578e5ccee3f963deffe703badf84f7bdbc74b44c28b2"
+      }
+    },
     {
       "id": "8d3b12938fe989c5",
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, ponownie rośnie presja na rynku długu",
@@ -617,7 +1772,7 @@
       "published_display": "07.10.2026 21:02",
       "content_sha256": "f14d596d20109ff6f992145cc6005833f2a94f4e2692fddc6042cf9e6c31b260",
       "saved_at": "2026-10-07T23:03:50+00:00",
-      "content_checked_at": "2026-10-07T23:03:50+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2927,7 +4082,7 @@
       "published_display": "07.10.2026 17:01",
       "content_sha256": "a6d30f0656ab483e5b5f1f2d2d44afd5319372b987d8cb2414abe24943a54c7d",
       "saved_at": "2026-10-07T17:16:40+00:00",
-      "content_checked_at": "2026-10-07T23:03:50+00:00",
+      "content_checked_at": "2026-10-08T05:59:56+00:00",
       "sections": [
         "skroty",
         "makro",
