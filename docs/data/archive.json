@@ -1,8 +1,287 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-08T19:56:35+00:00",
+  "last_checked": "2026-10-09T00:21:45+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "ceca46c9efc4d74a",
+      "title": "Projekt ustawy budżetowej na 2027 rok skierowany do prac w komisjach",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/projekt-ustawy-budzetowej-na-2027-rok-skierowany-do-prac-w-komisjach",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W czwartek Sejm nie poparł wniosku o odrzucenie projektu ustawy budżetowej na 2027 rok w I czytaniu, w efekcie projekt został skierowany do prac w komisjach sejmowych. Prace nad przyszłorocznym budżetem mają potrwać do 15 stycznia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przeciw wnioskowi opowiedziało się 237 posłów, za jego przyjęciem głosowało 198, a 5 wstrzymało się od głosu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek Sejm debatował nad projektem ustawy budżetowej. W trakcie debaty zostały złożone wnioski o odrzucenie projektu w I czytaniu – złożyły je Klub Poselski PiS i Koło Poselskie Demokracja Bezpośrednia. Sejm nie poparł wniosku, tak więc projekt został skierowany do prac w komisjach sejmowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z przyjętym harmonogramem, 2 grudnia ma odbyć się drugie czytanie projektu ustawy budżetowej, a 4 grudnia – trzecie czytanie. 8 grudnia ustawa budżetowa ma trafić do Senatu, a 15 stycznia Sejm ma rozpatrzyć ewentualne poprawki izby wyższej do ustawy. Ustawa ma trafić do prezydenta po 15 stycznia. Prezydent ma 7 dni na podpisanie budżetu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W projekcie założono, że realny wzrost PKB wyniesie 3 proc., a inflacja średnioroczna będzie na poziomie 2,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W przyszłym roku dochody budżetu państwa mają wynieść 696,4 mld zł, wydatki powinny ukształtować się na poziomie 977,6 mld zł, a deficyt budżetu państwa nie przekroczy 281,2 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dochody z CIT w 2027 r. mają wynieść 94,6 mld zł, dochody z VAT zaplanowano na 363,7 mld zł, a dochody z PIT prognozowane są na 33,4 mld zł. Dochody samorządów związane z udziałem w podatku PIT wzrosną ze 193,8 mld zł w 2026 r. do 206,7 mld zł w 2027 r., czyli o 6,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak poinformowała Kancelaria Prezesa Rady Ministrów, projekt budżetu na 2027 r. koncentruje się na trzech kluczowych obszarach: bezpieczeństwie, zdrowiu i rozwoju gospodarki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na obronę narodową trafi 198,1 mld zł, czyli 4,51 proc. PKB. KPRM wskazała, że znaczna część zakupów sprzętu wojskowego finansowanych w ramach programu SAFE będzie zwolniona z podatku VAT, co pozwoli na zakup większej ilości sprzętu przy wykorzystaniu dostępnych środków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na ochronę zdrowia w 2027 r. rząd zabezpieczył 274,1 mld zł, co oznacza wzrost o 26,3 mld zł w stosunku do 2026 r. W ramach wydatków zabezpieczono środki na dotację dla Narodowego Funduszu Zdrowia w wysokości 41,5 mld zł, czyli o 15,5 mld zł więcej niż w 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kolejne 36,5 mld zł przeznaczone zostanie na bezpieczeństwo publiczne (Policja, Straż Graniczna, Państwowa Straż Pożarna, Służba Ochrony Państwa oraz służby specjalne). Razem z wydatkami na zaopatrzenie emerytalno-rentowe funkcjonariuszy oraz ich rodzin jest to 57,7 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do prac w Komisji Finansów Publicznych został skierowany także projekt ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2027. Wśród rozwiązań, jakie wprowadza projektowana ustawa, jest m.in. pożyczka dla Polskiej Agencji Żeglugi Powietrznej, która ze względu na proces z firmą Pfizer została pozbawiona środków przekazywanych przez agencję Eurocontrol. Projektowana ustawa zakłada również przedłużenie do końca 2027 r. okresu, w którym Fundusz Inwestycji Kapitałowych będzie mógł dysponować skarbowymi papierami wartościowymi otrzymanymi w 2025 r. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ms/ gkc/ pad/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 22:17",
+      "content_sha256": "3af862233b4d5749a326258a69fcac9729ca60354bbfe34ef0d0030cf7375889",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-09T00:21:45+00:00",
+      "content_checked_at": "2026-10-09T00:21:45+00:00",
+      "published_time": "22:17",
+      "published_at": "2026-10-08T22:17+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W czwartek Sejm nie poparł wniosku o odrzucenie projektu ustawy budżetowej na 2027 rok w I czytaniu, w efekcie projekt został skierowany do prac w komisjach sejmowych.",
+          "Zgodnie z przyjętym harmonogramem, 2 grudnia ma odbyć się drugie czytanie projektu ustawy budżetowej, a 4 grudnia – trzecie czytanie.",
+          "Do prac w Komisji Finansów Publicznych został skierowany także projekt ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2027."
+        ],
+        "interest_score": 47,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "W czwartek Sejm nie poparł wniosku o odrzucenie projektu ustawy budżetowej na 2027 rok w I czytaniu, w efekcie projekt został skierowany do prac w komisjach sejmowych."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3af862233b4d5749a326258a69fcac9729ca60354bbfe34ef0d0030cf7375889"
+      }
+    },
+    {
+      "id": "710f835c18d21903",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street kolejny dzień spadków",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261008/dzien-na-rynkach-na-wall-street-kolejny-dzien-spadkow",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "technologie",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: ropy"
+        ],
+        "technologie": [
+          "Temat: technologi"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Czwartkowa sesja na Wall Street zakończyła się przewagą spadków głównych indeksów, a inwestorzy odczuwali presję ze strony wysokich cen ropy i spadających kursów akcji spółek technologicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu wzrósł o 0,1 proc. i wyniósł 51.231,64 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia spadł o 0,47 proc. i wyniósł 7.765,36 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 1,25 proc. do 27.193,34 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o 0,03 proc. i wynosi 2.792,32 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny ropy wzrosły po tym, jak prezydent Donald Trump oświadczył, że nie chce zawrzeć porozumienia z Iranem w celu zakończenia wojny, podczas gdy Stany Zjednoczone podobno przygotowują się do zmasowanych ataków na Bliskim Wschodzie. Później jednak Trump stwierdził, że Stany Zjednoczone nie zaatakują Iranu przed wyborami połówkowymi w USA, zaplanowanymi na 3 listopada. Oznajmił, że prowadzi z Teheranem produktywne rozmowy."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Każde odbicie cen ropy przekłada się na wzrost rentowności obligacji i presję na rynek akcji, nawet jeśli ten wykazuje obecnie dużą odporność. Sektory technologiczny i energetyczny są głównymi siłami napędowymi amerykańskiego rynku, więc wszelkie oznaki spowolnienia muszą mieć na niego wpływ\" - powiedział Alexandre Baradez, główny analityk rynku w IG."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Wall Street Journal\" poinformował, że Broadcom organizuje finansowanie dla OpenAI na kwotę 50 mld USD, a Oracle również stara się o pozyskanie nieokreślonej sumy środków, co budzi obawy, że emisja zadłużenia przez spółki technologiczne może zaostrzyć konkurencję o kapitał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Oracle zniżkowały w czwartek 5,5 proc., podczas gdy notowania Nvidii i Advanced Micro Devices poszły w dół odpowiednio o ponad 2,9 proc. i 3,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje PepsiCo wzrosły o 3,7 proc. po tym, jak wyniki finansowe spółki za trzeci kwartał przekroczyły oczekiwania analityków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według danych FactSet, w trzecim kwartale indeks S&P 500 ma odnotować łączną dynamikę wzrostu zysków na poziomie około 30 proc., co oznaczałoby trzeci z rzędu kwartał wzrostu przekraczającego 25 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Jeśli wyniki finansowe pozostaną na wysokim poziomie, a wiele wskazuje na to, że tak właśnie będzie, a także, jeśli oczekiwania zostaną spełnione lub nawet przekroczone, podtrzyma to obecną hossę, mimo wyższych stóp procentowych\" - powiedziała Courtney Garcia, starsza doradczyni ds. zarządzania majątkiem w Payne Capital Management, w programie „Closing Bell\" stacji CNBC."
+        },
+        {
+          "type": "paragraph",
+          "text": "W centrum uwagi rynków były zmiany rentowności obligacji skarbowych po tym, jak rentowność 10-letnich i 30-letnich obligacji osiągnęła w tym tygodniu nowe, najwyższe od 24 lat poziomy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność 10-letnich obligacji spadła o ponad 3 punkty bazowe do poziomu 5,244 proc., natomiast rentowność 30-letnich obligacji spadła o 4 punkty bazowe do poziomu 5,621 proc. Zmiany te nastąpiły po udanej aukcji 30-letnich obligacji skarbowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ostatecznie uważam, że to presja inflacyjna, wynikająca przede wszystkim z cen energii, wpłynęła na zmianę nastawienia Fed i pod wieloma względami wpłynęła również na długi koniec krzywej rentowności\" – powiedział Ross Mayfield, strateg inwestycyjny w firmie Baird."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Gdybyśmy jutro ogłosili porozumienie z Iranem, które byłoby solidne pod względem strukturalnym i znacznie złagodziło napięcia w regionie, a cena ropy spadła z 90 do 70 dolarów za baryłkę, rentowności znacznie by spadły\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przedstawiciel Fedu Christopher Waller ocenił, że istnieje możliwość wstrzymania podwyżek stóp procentowych na najbliższym posiedzeniu banku centralnego. Jak wskazywał, choć do obniżenia inflacji do 2-proc. celu prawdopodobnie konieczne będą kolejne podwyżki, możliwa jest elastyczność w kwestii tempa tych działań."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według narzędzia CME FedWatch inwestorzy powszechnie oczekują, że na październikowym posiedzeniu Fed utrzyma stopy procentowe na niezmienionym poziomie, jednak wciąż możliwa jest ich podwyżka w grudniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zwyżkują o 3,5 proc. do 91,34 USD za baryłkę, a grudniowe futures na Brent rosną o 3,8 proc. do 104,05 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "08.10.2026 22:13",
+      "content_sha256": "091dc5d33b8fbcab25a45e24ad5cd4a8de3ecc4a8e99a152a2b8ab5ee5f8245f",
+      "date": "2026-10-08",
+      "saved_at": "2026-10-09T00:21:45+00:00",
+      "content_checked_at": "2026-10-09T00:21:45+00:00",
+      "published_time": "22:13",
+      "published_at": "2026-10-08T22:13+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Czwartkowa sesja na Wall Street zakończyła się przewagą spadków głównych indeksów, a inwestorzy odczuwali presję ze strony wysokich cen ropy i spadających kursów akcji spółek technologicznych.",
+          "„Wall Street Journal\" poinformował, że Broadcom organizuje finansowanie dla OpenAI na kwotę 50 mld USD, a Oracle również stara się o pozyskanie nieokreślonej sumy środków, co budzi obawy, że emisja zadłużenia przez spółki technologiczne może zaostrzyć konkurencję o kapitał.",
+          "„Jeśli wyniki finansowe pozostaną na wysokim poziomie, a wiele wskazuje na to, że tak właśnie będzie, a także, jeśli oczekiwania zostaną spełnione lub nawet przekroczone, podtrzyma to obecną hossę, mimo wyższych stóp procentowych\" - powiedziała Courtney Garcia, starsza doradczyni ds. zarządzania majątkiem w Payne Capital Management, w programie „Closing Bell\" stacji CNBC."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "091dc5d33b8fbcab25a45e24ad5cd4a8de3ecc4a8e99a152a2b8ab5ee5f8245f"
+      }
+    },
     {
       "id": "d1193863b70df900",
       "title": "CD PROJEKT RED i Paramount Pictures szykują film. Cyberpunk trafi na wielki ekran - donoszą media",
@@ -669,7 +948,7 @@
       "published_display": "08.10.2026 21:06",
       "content_sha256": "6bc89317b3767c9ff14e9f46898acb9be21f6eb25123a7188b70900e8e2c8ef8",
       "saved_at": "2026-10-08T19:56:35+00:00",
-      "content_checked_at": "2026-10-08T19:56:35+00:00",
+      "content_checked_at": "2026-10-09T00:21:45+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3031,7 +3310,7 @@
       "published_display": "08.10.2026 17:13",
       "content_sha256": "f3a8e845210b8423de07f75f302f06955464c1395cbdaf164eefd7c462087b7f",
       "saved_at": "2026-10-08T19:56:35+00:00",
-      "content_checked_at": "2026-10-08T19:56:35+00:00",
+      "content_checked_at": "2026-10-09T00:21:45+00:00",
       "sections": [
         "skroty",
         "makro",
