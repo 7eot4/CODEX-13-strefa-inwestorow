@@ -1,8 +1,798 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-09T16:59:41+00:00",
+  "last_checked": "2026-10-09T22:36:37+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "cf420154340bf7d0",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty, Dow Jones w górę ponad 400 pkt.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261009/dzien-na-rynkach-na-wall-street-wzrosty-dow-jones-w-gore-ponad-400-pkt",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ],
+        "energia": [
+          "Temat: ropy"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów po burzliwym tygodniu z wysokimi rentownościami obligacji skarbowych i cenami ropy. Dow Jones zyskał w piątek ponad 400 punktów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu wzrósł o 0,83 proc. i wyniósł 51.654,95 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia wzrósł o 0,59 proc. i wyniósł 7.811,54 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zwyżkował o 0,64 proc. do 27.366,17 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wszystkie trzy indeksy zamknęły tydzień na plusie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje SpaceX zyskały w piątek blisko 1,3 proc. po tym, jak producent rakiet i satelitów zawarł umowę zakupu ogólnokrajowego pakietu częstotliwości z zakresu niskich pasm, rzucając tym samym bezpośrednie wyzwanie na rynku kosmicznym i telekomunikacyjnym dotychczasowym gigantom bezprzewodowym w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania spółek telekomunikacyjnych zniżkowały. Akcje T-Mobile US straciły 13,3 proc., AT&T zniżkowały 9,8 proc., a Verizon spadł 8,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zyskiwały też inne spółki technologiczne. Kurs Palo Alto Networks poszedł w górę 5,1 proc., a Palantir Technologies zyskał 5,2 proc. Notowania Microsoftu wzrosły o 2,4 proc., a Amazon zyskał 3,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółki technologiczne, zwłaszcza związane z AI, miały nieudaną sesję w czwartek. „Financial Times\" podał, że OpenAI poinformowało inwestorów, że jego przychody w ujęciu rocznym we wrześniu wyniosły prawie 50 mld USD, czyli o ok. 20 mld USD mniej, niż wcześniej sygnalizowała spółka, co negatywnie wpłynęło na nastroje rynkowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem w USA szykuje się kolejna ogromna runda pozyskiwania środków. Oczekuje się, że SpaceX, Broadcom i Oracle zbiorą miliardy dolarów na zakup zaawansowanych układów scalonych przeznaczonych do obsługi sztucznej inteligencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według szacunków Morgan Stanley, do 2028 r. infrastruktura AI będzie wymagała zewnętrznego finansowania na poziomie 1,5 bln USD, przy czym proces ten zbiega się w czasie ze wzrostem stóp procentowych oraz rentowności obligacji na całym świecie, będących reakcją na presję inflacyjną wywołaną wyższymi cenami energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W sytuacji, gdy rentowności obligacji długoterminowych ponownie zbliżają się do najwyższych poziomów od dziesięcioleci, inwestorzy nie mogą już sobie pozwolić na wycenę wzrostu w sektorze sztucznej inteligencji w warunkach niskiego kosztu kapitału\" - oceniła Charu Chanana, główna strateg inwestycyjna w Saxo."
+        },
+        {
+          "type": "paragraph",
+          "text": "W przyszłym tygodniu w pełną fazę wejdzie sezon wyników finansowych amerykańskich spółek. Raporty ogłoszą banki, a także Johnson & Johnson, czy UnitedHealth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy nadal uważnie śledzą rozwój sytuacji na Bliskim Wschodzie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek prezydent Stanów Zjednoczonych Donald Trump poinformował, że nie wznowi ataków na Iran przed wyborami połówkowymi w USA, zaplanowanymi na 3 listopada. Dodał, że prowadzi z Teheranem produktywne rozmowy, co przyniosło ulgę inwestorom obawiającym się, że wysokie ceny ropy wywołają presję inflacyjną i zmuszą główne banki centralne do agresywnego zaostrzenia polityki pieniężnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek prezydent Donald Trump oświadczył, że Rosja dostarczy na rynek światowy miliony ton oleju napędowego w ramach porozumienia, które zawarł z prezydentem Władimirem Putinem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak napisał w swoim serwisie Truth Social, Rosja ma natychmiast dostarczyć na rynek amerykański i światowy ponad 300.000 ton oleju napędowego, kolejne 500.000 ton w listopadzie, a następnie niezwłocznie kolejne 1.000.000 ton. Ponadto, w zależności od stanu technicznego rosyjskich rafinerii oleju napędowego, Rosja dostarczy w krótkim czasie kolejne 3.000.000 ton tego paliwa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zniżkują o 0,23 proc. do 91,29 USD za baryłkę, a grudniowe futures na Brent spadają o 0,29 proc. do 103,98 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.10.2026 22:13",
+      "content_sha256": "910c132fe65488e1b95c9bba5cea3658de38856757764dc2b9fb6cf539f15bde",
+      "date": "2026-10-09",
+      "saved_at": "2026-10-09T22:36:37+00:00",
+      "content_checked_at": "2026-10-09T22:36:37+00:00",
+      "published_time": "22:13",
+      "published_at": "2026-10-09T22:13+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów po burzliwym tygodniu z wysokimi rentownościami obligacji skarbowych i cenami ropy.",
+          "Akcje SpaceX zyskały w piątek blisko 1,3 proc. po tym, jak producent rakiet i satelitów zawarł umowę zakupu ogólnokrajowego pakietu częstotliwości z zakresu niskich pasm, rzucając tym samym bezpośrednie wyzwanie na rynku kosmicznym i telekomunikacyjnym dotychczasowym gigantom bezprzewodowym w USA.",
+          "Według szacunków Morgan Stanley, do 2028 r. infrastruktura AI będzie wymagała zewnętrznego finansowania na poziomie 1,5 bln USD, przy czym proces ten zbiega się w czasie ze wzrostem stóp procentowych oraz rentowności obligacji na całym świecie, będących reakcją na presję inflacyjną wywołaną wyższymi cenami energii."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Dow Jones zyskał w piątek ponad 400 punktów."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "910c132fe65488e1b95c9bba5cea3658de38856757764dc2b9fb6cf539f15bde"
+      }
+    },
+    {
+      "id": "2744e092cf6484d4",
+      "title": "Skrót wiadomości - piątek, 9 października, 21.00",
+      "date": "2026-10-09",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261009/skrot-wiadomosci-piatek-9-pazdziernika-2100",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "RPP czeka na listopadową projekcję inflacji, a jeżeli nie pokaże ona powrotu CPI w pobliże 2,5 proc. pod koniec 2027 lub na początku 2028 r., to w listopadzie konieczny będzie wniosek o podwyżkę stóp o 25 pb. - ocenia członek RPP Ludwik Kotecki. Jego zdaniem nie można dopuścić do sytuacji, gdy RPP nie reaguje na inflację przekraczającą dopuszczalny poziom odchyleń od celu trwale lub często."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej bierze pod uwagę sytuację fiskalną, ale finanse publiczne nie wpływają bardzo mocno na inflację - ocenił członek Rady Polityki Pieniężnej, Ludwik Kotecki, podczas konferencji „Koszt nierównowagi fiskalnej. Wpływ finansów publicznych na stabilność sektora bankowego i rozwój gospodarczy Polski”."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu RPP oceniała, że niepewność co do perspektyw inflacji jest wysoka i trudno przewidzieć, jak silnie wyższe ceny paliw wpłyną na inflację bazową - podano w opisie dyskusji z posiedzenia RPP we wrześniu. Zaznaczano, że dynamika płac może mieć istotny wpływ na kształtowanie się CPI w kolejnych latach. Niektórzy członkowie RPP odnotowali także wzrost części miar oczekiwań inflacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transfery do Polski z tytułu pracy Polaków za granicą w II kw. 2026 r. wzrosły o 4,3 proc. rdr do 5,5 mld zł - podał NBP w pełnym bilansie płatniczym za II kwartał."
+        },
+        {
+          "type": "paragraph",
+          "text": "W II kw. 2026 r. eksport sprzętu komputerowego z Polski wzrósł o 95,5 proc. rdr, co było związane z systemami dla sztucznej inteligencji - podał NBP w pełnym bilansie płatniczym za II kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "W II kw. 2026 r. eksport mebli w eksporcie ogółem Polski po raz pierwszy spadł poniżej 3 proc. - podał NBP w pełnym bilansie płatniczym za II kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu 2026 roku zarejestrowano w REGON 28,8 tys. nowych firm, o 10,9 proc. więcej mdm - podał GUS."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet CPN miesięcznie obniża inflację o 1 pkt proc. - poinformował w Sejmie minister energii Miłosz Motyka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik ROE sektora bankowego na koniec sierpnia wyniósł 14,19 proc. wobec 14,50 proc. na koniec poprzedniego miesiąca oraz 15,70 proc. rok wcześniej - podała Komisja Nadzoru Finansowego w opracowaniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks sentymentu wśród konsumentów amerykańskich, opracowywany przez Uniwersytet Michigan, w październiku wyniósł 46,3 pkt. wobec 48,1 pkt. w poprzednim miesiącu - podano we wstępnym wyliczeniu. Rynek oczekiwał 47,6 pkt."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż obligacji detalicznych we wrześniu 2026 r. wyniosła 7.857,2 mln zł wobec 8.239,1 mln zł miesiąc wcześniej - podał resort finansów w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm nie poparł w czwartek wniosku o odrzucenie w pierwszym czytaniu rządowego projektu podwyższającego od 2027 r. stawki akcyzy na napoje alkoholowe i skierował go do sejmowej Komisji Finansów Publicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm nie poparł w czwartek wniosków o odrzucenie w pierwszym czytaniu dwóch rządowych projektów nowelizacji ustawy o zdrowiu publicznym dotyczących tzw. opłaty cukrowej. Oba projekty zostały skierowane do dalszych prac w sejmowej Komisji Zdrowia i Komisji Finansów Publicznych."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Asseco Poland chce zbudować system sukcesji i rozwijać kolejne pokolenia menedżerów – poinformował PAP Biznes Rafał Kozłowski, prezes Asseco Enterprise Solutions, który od stycznia 2027 roku zastąpi Adama Górala na stanowisku prezesa Asseco Poland. Podał, że strategia przejęć pozostaje bez zmian."
+        },
+        {
+          "type": "paragraph",
+          "text": "RCEkoenergia (RCE), spółka zależna Unimotu, szacuje, że łączna wartość premii kogeneracyjnej w związku z 15-letnią umową sprzedaży ciepła dla Czechowic-Dziedzic wyniesie ok. 154 mln zł - podał Unimot w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska nadała status projektów strategicznych dwóm przedsięwzięciom KGHM: udostępnieniu i eksploatacji złoża Retków–Grodziszcze oraz transformacji Huty Miedzi Legnica w zintegrowaną hutę recyklingową - podała spółka w komunikacie prasowym. Status projektów strategicznych może ułatwić przygotowanie i realizację obu inwestycji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Giełda Papierów Wartościowych w Warszawie potwierdza pełne przejście na nowy system transakcyjny GPW WATS - poinformowali przedstawiciele giełdy. GPW liczy na wzrost obrotów, chce wykorzystać nowy system do wprowadzenia nowych funkcjonalności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kruk w trzecim kwartale 2026 roku wydał na portfele wierzytelności 347 mln zł, podczas gdy rok wcześniej było to 622 mln zł - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sonel spodziewa się, że III i IV kwartał 2026 roku będą lepsze wynikowo od pierwszego półrocza - poinformował podczas konferencji wynikowej prezes spółki Tomasz Wiśniewski. Z kolei wiceprezes Piotr Saciuk wskazał, że spółka ma ambicje, by rosnąć na rynkach zagranicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcjonariusze spółki Indos zdecydują w sprawie wycofania wszystkich akcji z obrotu w alternatywnym systemie obrotu na rynku NewConnect - poinformowała spółka w projektach uchwał na NWZ, zwołanego na 6 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Archicom, w ramach działalności grupy oraz w ramach zarządzania projektami mieszkaniowymi dla grupy Echo Investment, zawarła w trzecim kwartale 2026 roku 679 przedwstępnych umów sprzedaży lokali i umów deweloperskich w porównaniu do 619 umów zawartych w trzecim kwartale 2025 r. - podał Archicom w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W trzecim kwartale 2026 roku Atal przekazał 1122 lokale - podała spółka w komunikacie. Najwięcej lokali zostało wydanych w Poznaniu - 225, następnie w Trójmieście - 208, w Warszawie - 170, w Łodzi - 169, w Aglomeracji Śląskiej - 153, we Wrocławiu - 144 i w Krakowie - 53 ."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska waluta w piątek osłabiła się do niemal 4,39/EUR i tym samym kończy tydzień na poziomie najwyższym od ponad dwóch lat. USD/PLN wynosi prawie 3,92 i jest najwyżej od półtora roku. Rentowności krajowych obligacji lekko spadły wobec poziomów z czwartku. Jak oceniają ekonomiści, w perspektywie najbliższych dwóch tygodni nie ma dużych szans na umocnienie złotego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1206 USD i 177,34 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "W dniach 10-12 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,97 zł/l, dla benzyny Pb98 to 7,85 zł/l, a dla oleju napędowego 8,06 zł/l - poinformował minister energii w obwieszczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Duon nabywa część aktywów Gaspolu związanych z działalnością LNG - poinformował UOKiK, do którego zgłoszono zamiar koncentracji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Huragan Isaias zmierzający ku Zatoce Meksykańskiej może sparaliżować tamtejsze rafinerie w czasie, gdy światowy system energetyczny już znajduje się na granicy wytrzymałości - podała stacja CNN."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Globalna sytuacja sprawia, że w przyszłym tygodniu możliwe są podwyżki cen paliw na stacjach - wskazują analitycy e-petrol."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku obligacji korporacyjnych przyszło ożywienie, w mijającym tygodniu łączna kwota zapowiedzianych emisji wynosi 1,33 mld zł. Ogłoszone warunki emisji sugerują, że inwestorom nie przeszkadza sytuacja na rynku obligacji skarbowych - ocenił w komentarzu Emil Szweda, główny analityk Michael / Ström Domu Maklerskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Trigon DM w swoim raporcie miesięcznym przedstawili top picks na październik. Wskazali oni łącznie 15 spółek. Ich zdaniem, dotychczasowa korekta na rynkach jest wciąż zbyt mała, dlatego zalecają dalszą ostrożność, przynajmniej do listopadowych wyborów w USA."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministrowie finansów porozumieli się w piątek w sprawie przeniesienia nadzoru nad giełdami, izbami rozliczeniowymi i depozytami papierów wartościowych z poziomu krajowego na unijny. Takie uprawnienia zyska Europejski Urząd Nadzoru Giełd i Papierów Wartościowych (ESMA). Pod jego nadzór trafią też kryptowaluty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na koniec września 2026 roku liczba rachunków papierów wartościowych, prowadzonych przez banki oraz domy i biura maklerskie działające w Polsce wzrosła do 3,174 mln - podał Krajowy Depozyt Papierów Wartościowych w danych miesięcznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Atlas, producent wyrobów chemii budowlanej, zwiększa moce produkcyjne w obszarze wyrobów dyspersyjnych. Spółka rozpoczęła wielkoskalową inwestycję w nowy zakład produkcyjny w Dąbrowie Górniczej oraz sfinalizowała zakup dębickiego zakładu produkcji farb i lakierów - poinformowała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wysoka ekspozycja na dług publiczny w połączeniu z obciążeniami podatkowymi może ograniczać zdolność banków do akumulacji kapitału i finansowania przedsiębiorstw oraz gospodarstw domowych - napisali eksperci Szkoły Głównej Handlowej w Warszawie oraz Związku Banków Polskich we wspólnym raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wydatki na gospodarkę morską w przyszłym roku będą największe w historii i wyniosą ponad 3,7 mld zł – poinformował w piątek w Gdyni wiceminister infrastruktury Arkadiusz Marchewka. Podkreślił też znaczenie przyjętej przez Sejm ustawy usprawniającej kluczowe inwestycje infrastrukturalne."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek Sejm uchwalił nowelizację ustawy o podatku od towarów i usług oraz niektórych innych ustaw. Celem ustawy jest zmniejszenie obowiązków przedsiębiorców sprzedających towary i usługi za granicę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paramount Pictures pracuje nad filmem rozgrywającym się w uniwersum Cyberpunka, który będzie oparty na grze CD Projektu RED - podał serwis Deadline. Informację na platformie X potwierdził Joint CEO spółki, Michał Nowakowski wskazując, że spółka podzieli się szczegółami we właściwym czasie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska poinformowała w piątek, że wybrała 46 nowych projektów strategicznych dotyczących wydobycia, przetwarzania i recyklingu surowców krytycznych w 16 państwach UE. Trzy z nich będą realizowane w Polsce, a czwarty w ramach współpracy Polski z innymi krajami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Francja i Niemcy domagają się bardziej asertywnej polityki handlowej Unii Europejskiej i wspólnie chcą zaostrzenia tej polityki wobec Chin - zauważa w raporcie Polski Instytut Ekonomiczny (PIE). Deficyt UE w handlu towarami z Chinami w I półroczu 2026 wyniósł 207 mld euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "UE i Chiny wypracowały wstępne uzgodnienia w sprawie stworzenia perspektywy ograniczenia o ponad połowę chińskiego eksportu aut hybrydowych do UE oraz obniżki ceł, która przyniesie unijnym firmom co najmniej 125 mln euro oszczędności – poinformował unijny komisarz ds. handlu Marosz Szefczovicz po rozmowach z ministrem handlu ChRL Wang Wentao."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiny i Unia Europejska wynegocjowały szereg uzgodnień dotyczących relacji gospodarczych, w tym handlu autami hybrydowymi - poinformowało w piątek chińskie ministerstwo w komunikacie opublikowanym po rozmowach szefa resortu Wang Wentao z komisarzem UE Maroszem Szefczoviczem w Pekinie."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek wieczorem miała miejsce poważna akcja dezinformacyjna, mająca wzbudzić panikę; informacje z cyberwojsk wskazują na chęć wykorzystania przez Rosję tego typu zdarzeń, jak atak w szkole - poinformował wicepremier i szef MON Władysław Kosiniak-Kamysz. Opowiedział się ponadto za zakazem dostępu do mediów społecznościowych dla osób do 16. roku życia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trójkąt Weimarski musi dać bardzo mocny sygnał do współpracy – przekazał marszałek Sejmu Włodzimierz Czarzasty po spotkaniu przewodniczących parlamentów Polski Niemiec i Francji oraz przewodniczącego Rady Najwyższej Ukrainy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nie można pozwolić Rosji na ingerencję w proces demokratyczny — mówiła po spotkaniu w Warszawie ze swoimi odpowiednikami z Polski, Niemiec i Ukrainy przewodnicząca Zgromadzenia Narodowego Francji Yaël Braun-Pivet. Szefowa Bundestagu Julia Klöckner podkreśliła, że celem Rosji jest osłabienie demokracja."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Wenecka, organ doradczy Rady Europy do spraw prawa konstytucyjnego, przejęła w piątek na sesji plenarnej opinię na temat przepisów dotyczących uprawnień Prezydenta RP w zakresie składania ślubowań przez sędziów Trybunału Konstytucyjnego i innych powołań. Do czasu publikacji, co nastąpi zapewne w poniedziałek lub wtorek, jak dowiedziała się PAP ze źródeł w Komisji, opinia pozostaje tajna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Klub KO w czwartek w II czytaniu zgłosił 19 poprawek do projektu tzw. ustawy praworządnościowej. Przeciw projektowi protestuje opozycja. W związku z poprawkami i wnioskami o odrzucenie projekt wróci do komisji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm uchwalił w czwartek ustawę wprowadzającą na terenie całego kraju nocną prohibicję, zakaz reklamy alkoholu i podnoszącą opłatę za sprzedaż alkoholu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uproszczenie procedur dostosowywania instalacji przemysłowych do przepisów środowiskowych i rozszerzenie zakresu działania inspektoratów ochrony środowiska na obszary morskie - zakłada przyjęta w czwartek przez Sejm nowelizacja Prawa ochrony środowiska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm uchwalił w czwartek nowelizację ustawy, przewidującą trzymiesięczną utratę prawa jazdy za wjazd na przejazd kolejowy na czerwonym świetle. W przypadku skazania za katastrofę na przejeździe otrzyma co najmniej trzyletni obligatoryjny zakaz prowadzenia pojazdów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm uchwalił w czwartek ustawę pozwalającą na blokowanie nielegalnych treści w internecie. Nowelizacja jest odpowiedzią na styczniowe weto prezydenta Karola Nawrockiego do pierwszej wersji przepisów w tej sprawie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm uchwalił w czwartek ustawę o zabezpieczeniu społecznym osób wykonujących zawód artystyczny. Przygotowana przez MKiDN ustawa ma na celu włączenie artystów do systemu ubezpieczeń społecznych w sposób adekwatny do ich pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarzuty m.in. usiłowania zabójstwa wielu osób usłyszał w czwartek 19-latek, który w Zespole Szkół Zawodowych nr 4 w Ostrołęce zaatakował nożem uczniów i pracowników szkoły. Nastolatek miał przy sobie plecak, w którym znajdowały się materiały wybuchowe o dużej sile rażenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policja poinformowała, że dotąd zatrzymano na Mazowszu jedenaścioro nastolatków, którzy publikowali w mediach społecznościowych filmy z groźbami, a także mieli przy sobie lub chcieli przynieść do szkoły nóż. Dwóch zgłosiło się samych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policjanci z Płocka zatrzymali 13-latkę, która na zamkniętą grupę w internecie wstawiła film - groziła w nim śmiercią uczniom z kilku płockich szkół. Film ten trafił później na jeden z portali społecznościowych. Policję powiadomili o tym internauci."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policja zatrzymała w piątek dwóch 15-latków z Pruszkowa i 13-latka ze stołecznego Bemowa, którzy publikowali w mediach społecznościowych nagrania z groźbami pozbawienia życia innych osób. Funkcjonariusze z Józefowa zatrzymali również 14-latka, który planował przynieść do szkoły nóż."
+        },
+        {
+          "type": "paragraph",
+          "text": "17-latek, który jest prawdopodobnie autorem filmu wygenerowanego przez AI, grożącego atakiem w liceum w Przasnyszu, usłyszał zarzuty - poinformowała w piątek policja mazowiecka. Mężczyzna ma dozór policyjny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po godz. 6 rano policjanci ze Szczytna zatrzymali 16-letniego chłopaka, który miał zamieścić w internecie nagrania z groźbami kierowanymi do uczniów i nauczycieli jednej ze szkół w tym mieście."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policjanci zatrzymali 15-latka z Chełma i 13-latka z Tomaszowa Lubelskiego, którzy mieli publikować w internecie niepokojące treści. Komenda Wojewódzka Policji w Lublinie podała w piątek, że patrole są pod wszystkimi szkołami podstawowymi i średnimi w regionie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Były funkcjonariusz policji w Międzyrzecu Podlaskim (Lubelskie) 32-letni Rafał M. usłyszał zarzuty przekroczenia uprawnień oraz znęcania się ze szczególnym okrucieństwem nad sarną i uśmiercenia jej podczas interwencji. Mężczyzna po tym zdarzeniu został wydalony ze służby."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosja zażądała od USA zniesienia części sankcji oraz powiązania rozejmu energetycznego z zawieszeniem broni na Morzu Czarnym jako warunku wstrzymania ataków na ukraińską infrastrukturę – podał w piątek portal Kyiv Independent. Powołał się na amerykańskich i ukraińskich dyplomatów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nowy sojusz Kanady i Unii Europejskiej zostanie zainaugurowany na szczycie w Montrealu pod koniec października - poinformował premier Mark Carney. Dodał, że o przyszłości Kanady będą decydować sami Kanadyjczycy, a nie obce rządy i wielkie koncerny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Platformy społecznościowe stały się w ostatnim roku coraz bardziej uzależniające, a my musimy teraz jasno ustalić limity wiekowe dotyczące korzystania z nich – powiedziała wiceszefowa Komisji Europejskiej Henna Virkkunen wywiadzie dla European Newsroom, do którego należy PAP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przedstawiciele elit gospodarczych związani z byłym premierem Węgier Viktorem Orbanem starają się zawrzeć układ z nowym rządem partii Tisza - przekazał portal VSquare. Premier Peter Magyar odpowiedział w piątek, że „żadnego układu nie będzie”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Francuski portal Mediapart poinformował w piątek, że zdołał ustalić bezpośredni związek między antysemickimi wypowiedziami na komunikatorze Messenger i oficjalnym kontem na Twitterze (obecnie X) należącym do Jordana Bardelli, przewodniczącego skrajnie prawicowej partii Zjednoczenia Narodowego (RN)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unia Europejska zniesie w sobotę cła na 80 proc. towarów importowanych z Armenii, w tym na niemal wszystkie świeże owoce, warzywa i kwiaty, a także alkohole. W ten sposób Wspólnota ma wesprzeć gospodarkę tego państwa na Kaukazie Południowym w związku z restrykcjami nałożonymi na armeńskie produkty przez Rosję."
+        },
+        {
+          "type": "paragraph",
+          "text": "Południowe wybrzeże Panamy nawiedziło trzęsienie ziemi o magnitudzie 8.0 – poinformowała w piątek amerykańska agencja naukowo-badawcza US Geological Survey (USGS)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prawicowy senator Flavio Bolsonaro jest faworytem drugiej tury wyborów prezydenckich w Brazylii i może liczyć na 49 proc. głosów, a jego rywal, obecny szef państwa Luiz Inacio Lula da Silva, na 45 proc. – wynika z opublikowanego w czwartek czasu miejscowego sondażu firmy Datafolha."
+        },
+        {
+          "type": "paragraph",
+          "text": "Władze Arlington pod Waszyngtonem pozwały w czwartek administrację prezydenta USA Donalda Trumpa, próbując zablokować zaplanowaną przez niego budowę łuku triumfalnego w tym hrabstwie - poinformowała agencja Reutera, powołując się na dokumentację sądową."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump w czwartek tłumaczył, że jego słowa o zniszczeniu San Diego i Los Angeles miały jedynie służyć zwróceniu uwagi, że wyższe ceny benzyny to niska cena za to, że Iran nie będzie miał broni jądrowej. Jego wypowiedź na temat tych miast wywołała burzę w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa hakerów wykradła poufne dane portugalskich służb wywiadowczych(SIRP)- poinformowały czwartek media, powołujące się na władze SIRP. Sprecyzowały, że skradzione informacje zostały już wystawione na sprzedaż w internecie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rzecznik pakistańskiego ministerstwa spraw zagranicznych poinformował w piątek, że w Arabii Saudyjskiej rozmieszczono „znaczące” siły zbrojne Pakistanu w celach obronnych. Pakistan, Turcja i Arabia podpisały w sierpniu porozumienie zobowiązujące te trzy kraje do wzajemnej obrony w przypadku ataku na którekolwiek z nich."
+        },
+        {
+          "type": "paragraph",
+          "text": "Planowane na 28 listopada palestyńskie wybory parlamentarne zostaną przełożone o kilka miesięcy z powodu pogarszającej się sytuacji na terytoriach palestyńskich – poinformował w piątek Reuters, powołując się na władze. Poprzednie wybory odbyły się w 2006 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Południowoafrykańska prawniczka Navanethem „Navi” Pillay została laureatką tegorocznej Pokojowej Nagrody Nobla - ogłosił w piątek w Oslo Norweski Komitet Noblowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powołał w piątek specjalną komisję śledczą mającą zbadać zarzuty Białego Domu pod adresem członkini Rady Gubernatorów Rezerwy Federalnej Lisy Cook. Trump zarzuca jej oszustwa kredytowe i bezskutecznie usiłował ją usunąć z Fed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Władze Filipin poinformowały w piątek o niemal dwukrotnym wzroście we wrześniu liczby jednostek chińskiej straży przybrzeżnej, przebywających na spornych wodach Morza Południowochińskiego. Korea Południowa odnotowała z kolei gwałtowny napływ nielegalnych flotylli rybackich z ChRL przy granicy morskiej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapowiadane przez belgijskie związki zawodowe jako pokojowe, protesty zorganizowane w piątek w stołecznej Brukseli przerodziły się w zamieszki. Manifestanci odpalili fajerwerki, zapłonęły ułożone w stosy miejskie hulajnogi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Były kanclerz Niemiec Gerhard Schroeder oskarżany jest w kraju o zdradę po wizycie w Moskwie na urodzinach rosyjskiego przywódcy Władimira Putina. Politycy CDU i Zielonych zarzucają mu działanie na szkodę Niemiec i Europy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Czarnogórze zatrzymano Michaiła Zwinczuka, szefa znanego rosyjskiego kanału propagandowego Rybar, działającego na Telegramie; zatrzymani zostali też jego żona oraz trzech współpracowników – podały w piątek media. Według czarnogórskich służb akcja była wymierzona w rosyjską sieć operacji hybrydowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "asa/ osz/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.10.2026 21:06",
+      "content_sha256": "c046d9542386622a8395803c3d00cec6ce6ecbb374fc37cbbc5c9f903c6e47b7",
+      "saved_at": "2026-10-09T22:36:37+00:00",
+      "content_checked_at": "2026-10-09T22:36:37+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Asseco",
+        "Atal",
+        "Echo Investment",
+        "KGHM",
+        "Unimot"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: inflacj",
+          "Temat: NBP",
+          "Temat: RPP",
+          "Temat: Fed",
+          "Temat: EBC"
+        ],
+        "finanse": [
+          "Temat: bank",
+          "Temat: ubezpieczen",
+          "Temat: ubezpiecz",
+          "Temat: kredyt"
+        ],
+        "energia": [
+          "Firma: KGHM",
+          "Firma: Unimot",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: miedzi",
+          "Temat: jądrow"
+        ],
+        "technologie": [
+          "Firma: Asseco",
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc"
+        ],
+        "przemysl": [
+          "Temat: przemysł",
+          "Temat: produkcj",
+          "Temat: infrastruktur",
+          "Temat: obronn",
+          "Temat: kolej"
+        ],
+        "konsumpcja": [
+          "Temat: konsumen",
+          "Temat: detaliczn"
+        ],
+        "nieruchomosci": [
+          "Firma: Atal",
+          "Firma: Echo Investment",
+          "Temat: mieszkani",
+          "Temat: deweloper"
+        ]
+      },
+      "published_time": "21:06",
+      "published_at": "2026-10-09T21:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "RPP czeka na listopadową projekcję inflacji, a jeżeli nie pokaże ona powrotu CPI w pobliże 2,5 proc. pod koniec 2027 lub na początku 2028 r., to w listopadzie konieczny będzie wniosek o podwyżkę stóp o 25 pb. - ocenia członek RPP Ludwik Kotecki.",
+          "Komisja Europejska poinformowała w piątek, że wybrała 46 nowych projektów strategicznych dotyczących wydobycia, przetwarzania i recyklingu surowców krytycznych w 16 państwach UE.",
+          "Rosja zażądała od USA zniesienia części sankcji oraz powiązania rozejmu energetycznego z zawieszeniem broni na Morzu Czarnym jako warunku wstrzymania ataków na ukraińską infrastrukturę – podał w piątek portal Kyiv Independent."
+        ],
+        "interest_score": 47,
+        "impact_score": 38,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "RPP czeka na listopadową projekcję inflacji, a jeżeli nie pokaże ona powrotu CPI w pobliże 2,5 proc. pod koniec 2027 lub na początku 2028 r., to w listopadzie konieczny będzie wniosek o podwyżkę stóp o 25 pb. - ocenia członek RPP Ludwik Kotecki."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "c046d9542386622a8395803c3d00cec6ce6ecbb374fc37cbbc5c9f903c6e47b7"
+      }
+    },
+    {
+      "id": "b210decb2528d551",
+      "title": "Atal w III kw. '26 przekazał 1122 lokale",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261009/atal-w-iii-kw-26-przekazal-1122-lokale",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Atal"
+      ],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Firma: Atal"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W trzecim kwartale 2026 roku Atal przekazał 1122 lokale - podała spółka w komunikacie. Najwięcej lokali zostało wydanych w Poznaniu - 225, następnie w Trójmieście - 208, w Warszawie - 170, w Łodzi - 169, w Aglomeracji Śląskiej - 153, we Wrocławiu - 144 i w Krakowie - 53 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie podano, że łącznie za okres trzech kwartałów 2026 roku spółka wydała 2135 lokale."
+        },
+        {
+          "type": "paragraph",
+          "text": "gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.10.2026 20:48",
+      "content_sha256": "32ae59ef8eb99c0b76f54db3c36d6b356addcfadb4e4edc35e14c654275b58c5",
+      "date": "2026-10-09",
+      "saved_at": "2026-10-09T22:36:37+00:00",
+      "content_checked_at": "2026-10-09T22:36:37+00:00",
+      "published_time": "20:48",
+      "published_at": "2026-10-09T20:48+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W trzecim kwartale 2026 roku Atal przekazał 1122 lokale - podała spółka w komunikacie.",
+          "Najwięcej lokali zostało wydanych w Poznaniu - 225, następnie w Trójmieście - 208, w Warszawie - 170, w Łodzi - 169, w Aglomeracji Śląskiej - 153, we Wrocławiu - 144 i w Krakowie - 53 .",
+          "W komunikacie podano, że łącznie za okres trzech kwartałów 2026 roku spółka wydała 2135 lokale."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "32ae59ef8eb99c0b76f54db3c36d6b356addcfadb4e4edc35e14c654275b58c5"
+      }
+    },
+    {
+      "id": "78a2d3f5ca0f3b03",
+      "title": "Obligacje korporacyjne wracają do łask. Na rynku widać ożywienie - wskazuje analityk Michael / Ström DM",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261009/obligacje-korporacyjne-wracaja-do-lask-na-rynku-widac-ozywienie-wskazuje",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [
+        "Mirbud",
+        "Pekao",
+        "mBank"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Na rynku obligacji korporacyjnych przyszło ożywienie, w mijającym tygodniu łączna kwota zapowiedzianych emisji wynosi 1,33 mld zł. Ogłoszone warunki emisji sugerują, że inwestorom nie przeszkadza sytuacja na rynku obligacji skarbowych - ocenił w komentarzu Emil Szweda, główny analityk Michael / Ström Domu Maklerskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Plany Archicomu (385 mln zł) i Polskiej Grupy Farmaceutycznej (150 mln zł) są na tyle precyzyjne, że można zaryzykować zdanie, że oferujący są już po słowie z inwestorami, a Robyg swoją emisję (200 mln zł) już sfinalizował. Mirbud na razie wybrał oferujących (Pekao i mBank) dla swojego programu emisji na 600 mln zł i zapowiedział pierwszą emisję na IV kwartał. Przeprowadzenie wyżej wymienionych emisji zapowiedziano w tym tygodniu, a łączna wartość tych ofert to 1,33 mld zł, czyli mniej więcej 8 proc. tego, ile rynek emisji korporacyjnych wart jest w całym roku\" - napisał Emil Szweda."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ożywienie rynku przychodzi po tradycyjnie słabszym III kwartale, gdy wartość emisji obligacji korporacyjnych sięgnęła 2,41 mld zł (za Obligacje.pl). Kwota zapowiedzianych ofert robi jednak wrażenie i na tle II kwartału (4,55 mld zł), czyli okresu tradycyjnie zwiększonej aktywności emitentów. Sezonowo, to właśnie II i IV kwartał są okresami przeprowadzania ofert o największej wartości i ujawnione dotąd plany potwierdzają tę statystykę\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ekspert zwrócił uwagę, że spółki nie planują poprawiać warunków swoich ofert."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"PGF zaoferuje 2,0 pkt. proc. marży, czyli tyle samo co przed dwoma laty, Robyg zapłaci 2,1 pkt. proc., a więc o 0,4 pkt. proc. mniej niż w ubiegłorocznych emisjach, przedstawiciele Echa (właściciela Archicomu) zapowiadali już wcześniej, że celem emisji Archicomu jest wykorzystanie sprzyjających warunków rynkowych i obniżenie kosztów finansowania\" - napisał Szweda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jego zdaniem ogłoszone już warunki emisji sugerują, że inwestorom nie przeszkadza sytuacja na rynku obligacji skarbowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Czteroletnie obligacje Robyga zapłacą w pierwszym okresie odsetkowym raptem o 0,6 pkt. proc. więcej niż wynosi rentowność czteroletnich obligacji skarbowych. Sytuacja ta jednak nie skłania inwestorów profesjonalnych, ani tym bardziej emitentów, do przewartościowania papierów korporacyjnych. Mamy więc dwa różne światy i fakt, że na obydwu pada termin 'obligacja', jest nieco mylący. Inwestorzy mają szeroko otwarte portfele na papiery dłużne firm, których kondycję finansową potrafią ocenić i która podlega kontroli i zabezpieczeniom kowenantami. Tych elementów brakuje papierom skarbowym dodatkowo narażonym na wpływ turbulencji na światowych rynkach\" - napisał Szweda."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "seb/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.10.2026 20:15",
+      "content_sha256": "e3ab254b6e25860e8f0eeeb9aa44585ff25fa7fb22f5d4751558cc9864fe6468",
+      "date": "2026-10-09",
+      "saved_at": "2026-10-09T22:36:37+00:00",
+      "content_checked_at": "2026-10-09T22:36:37+00:00",
+      "published_time": "20:15",
+      "published_at": "2026-10-09T20:15+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Na rynku obligacji korporacyjnych przyszło ożywienie, w mijającym tygodniu łączna kwota zapowiedzianych emisji wynosi 1,33 mld zł.",
+          "Ogłoszone warunki emisji sugerują, że inwestorom nie przeszkadza sytuacja na rynku obligacji skarbowych - ocenił w komentarzu Emil Szweda, główny analityk Michael / Ström Domu Maklerskiego.",
+          "\"Ożywienie rynku przychodzi po tradycyjnie słabszym III kwartale, gdy wartość emisji obligacji korporacyjnych sięgnęła 2,41 mld zł (za Obligacje.pl)."
+        ],
+        "interest_score": 67,
+        "impact_score": 62,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "\"Ożywienie rynku przychodzi po tradycyjnie słabszym III kwartale, gdy wartość emisji obligacji korporacyjnych sięgnęła 2,41 mld zł (za Obligacje.pl)."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Na rynku obligacji korporacyjnych przyszło ożywienie, w mijającym tygodniu łączna kwota zapowiedzianych emisji wynosi 1,33 mld zł."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e3ab254b6e25860e8f0eeeb9aa44585ff25fa7fb22f5d4751558cc9864fe6468"
+      }
+    },
     {
       "id": "4a53fe4367100f06",
       "title": "Zamknięcia na giełdach w Europie (tabela)",
@@ -1567,7 +2357,7 @@
       "published_display": "09.10.2026 17:02",
       "content_sha256": "8ae0c5c70845b0e2f94d0f70a12eca17a7917a447cca8f6c2f2521a7a79806a5",
       "saved_at": "2026-10-09T16:59:41+00:00",
-      "content_checked_at": "2026-10-09T16:59:41+00:00",
+      "content_checked_at": "2026-10-09T22:36:37+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2033,7 +2823,7 @@
       "published_display": "09.10.2026 17:01",
       "content_sha256": "8ae0c5c70845b0e2f94d0f70a12eca17a7917a447cca8f6c2f2521a7a79806a5",
       "saved_at": "2026-10-09T16:59:41+00:00",
-      "content_checked_at": "2026-10-09T16:59:41+00:00",
+      "content_checked_at": "2026-10-09T22:36:37+00:00",
       "sections": [
         "skroty",
         "makro",
