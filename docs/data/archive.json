@@ -1,8 +1,405 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-10T05:48:54+00:00",
+  "last_checked": "2026-10-10T12:28:12+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "14e796854d2b65fc",
+      "title": "W wezwaniu na akcje Zabka Group spełniony został kolejny warunek prawny",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261010/w-wezwaniu-na-akcje-zabka-group-spelniony-zostal-kolejny-warunek-prawny",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl",
+        "konsumpcja"
+      ],
+      "companies": [
+        "Żabka"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: kolej"
+        ],
+        "konsumpcja": [
+          "Firma: Żabka"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W wezwaniu Alimentation Couche-Tard na akcje Zabka Group spełniony został jeden z warunków prawnych - Organ FSR wydał decyzję o braku sprzeciwu na przeprowadzenie transakcji przewidzianych w dokumencie wezwania - poinformował pośredniczący w wezwaniu Ipopema Securities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Organ FSR to Komisja Europejska, która wydaje decyzję na podstawie rozporządzenia FSR, czyli w sprawie subsydiów zagranicznych zakłócających rynek wewnętrzny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniej, we wrześniu, zgodę wydał Organ FDI, czyli rumuńska Comisia pentru examinarea investiţiilor străine directe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wezwanie pozostaje uzależnione od spełnienia warunku prawnego w postaci wydania decyzji wyrażającej zgodę na dokonanie koncentracji przez właściwy organ antymonopolowy."
+        },
+        {
+          "type": "paragraph",
+          "text": "26 sierpnia 2026 r. Alimentation Couche-Tard ogłosił wezwanie na 1.002.974.605 akcji Zabka Group, stanowiących 100 proc. akcji, po cenie 32 zł/szt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przyjmowanie zapisów rozpoczęło się 27 sierpnia i miało potrwać do 25 września 2026 r. 17 września poinformowano, że przyjmowanie zapisów zostało przedłużone do 26 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewidywany termin zawarcia transakcji nabycia akcji to obecnie 29 października 2026 r., a termin rozliczenia transakcji nabycia akcji to 3 listopada 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podmiotem nabywającym akcje w wezwaniu będzie Circle K Polska sp. z o.o."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamiarem wzywającego jest przejęcie kontroli nad spółką, a docelowo nabycie do 100 proc. jej akcji oraz całkowitej liczby głosów na walnym zgromadzeniu. Wzywający może też podjąć działania mające na celu wycofanie akcji z obrotu na rynku regulowanym."
+        },
+        {
+          "type": "paragraph",
+          "text": "W wyniku zawartych wcześniej umów spółki Heket i PG Investment Company nieodwołalnie zobowiązały się do sprzedaży wszystkich swoich akcji w ramach wezwania. Do sprzedaży akcji w wezwaniu zobowiązali się także menadżerowie: Tomasz Suchański, Tomasz Blicharski, Adam Manikowski, Jolanta Bańczerowska, Anna Grabowska, Marta Wrochna-Łastowska oraz Wojciech Krok."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podano, że łącznie zobowiązania do sprzedaży wynikające z tych umów dotyczą 574.153.132 akcji, co stanowi 57,245 proc. kapitału zakładowego spółki oraz całkowitej liczby głosów na WZ."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.10.2026 10:49",
+      "content_sha256": "0cf8d515d91e65b256c665e15a6ec74dc8d2367cdf3b5d2126ad20ed70164013",
+      "date": "2026-10-10",
+      "saved_at": "2026-10-10T12:28:12+00:00",
+      "content_checked_at": "2026-10-10T12:28:12+00:00",
+      "published_time": "10:49",
+      "published_at": "2026-10-10T10:49+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W wezwaniu Alimentation Couche-Tard na akcje Zabka Group spełniony został jeden z warunków prawnych - Organ FSR wydał decyzję o braku sprzeciwu na przeprowadzenie transakcji przewidzianych w dokumencie wezwania - poinformował pośredniczący w wezwaniu Ipopema Securities.",
+          "26 sierpnia 2026 r. Alimentation Couche-Tard ogłosił wezwanie na 1.002.974.605 akcji Zabka Group, stanowiących 100 proc. akcji, po cenie 32 zł/szt.",
+          "Podano, że łącznie zobowiązania do sprzedaży wynikające z tych umów dotyczą 574.153.132 akcji, co stanowi 57,245 proc. kapitału zakładowego spółki oraz całkowitej liczby głosów na WZ."
+        ],
+        "interest_score": 25,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "0cf8d515d91e65b256c665e15a6ec74dc8d2367cdf3b5d2126ad20ed70164013"
+      }
+    },
+    {
+      "id": "7e2c0b638ea04beb",
+      "title": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261010/komunikat-w-sprawie-spelnienia-jednego-z-warunkow-prawnych-okreslonego-w",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Żabka"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Żabka"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. („Spółka”) ogłoszonym 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc. z siedzibą w Laval, Kanada („Wzywający”) na podstawie art. 72a ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (tekst jednolity Dz. U. z 2025 r., poz. 592, z późniejszymi zmianami) („Ustawa\") („Wezwanie”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Działając w imieniu Wzywającego, na podstawie art. 72a ust. 7 i 8 Ustawy, informuję, że w dniu 9 października 2026 r. Organ FSR wydał decyzję o braku sprzeciwu na przeprowadzenie transakcji przewidzianych w dokumencie Wezwania na podstawie Rozporządzenia FSR."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tym samym spełniony został warunek prawny określony w punkcie 24(c) dokumentu Wezwania."
+        },
+        {
+          "type": "paragraph",
+          "text": "W związku z powyższym, oraz mając na uwadze spełnienie w dniu 29 września 2026 r. warunku prawnego określonego w punkcie 24(b) dokumentu Wezwania, Wezwanie pozostaje uzależnione od spełnienia wyłącznie warunku prawnego, określonego w punkcie 24(a) Wezwania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Informacja o spełnieniu lub niespełnieniu powyższego warunku w terminach określonych w Wezwaniu zostanie niezwłocznie przekazana przez Wzywającego w celu ogłoszenia przez agencję informacyjną wskazaną w art. 58 Ustawy."
+        },
+        {
+          "type": "paragraph",
+          "text": "O ile z kontekstu nie wynika inaczej, terminy i pojęcia użyte w niniejszym komunikacie mają takie samo znaczenie jak w Wezwaniu."
+        },
+        {
+          "type": "heading",
+          "text": "PODPISY OSÓB REPREZENTUJĄCYCH WZYWAJĄCEGO:"
+        },
+        {
+          "type": "paragraph",
+          "text": "______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko: Pełnomocnik"
+        },
+        {
+          "type": "heading",
+          "text": "PODPISY OSÓB REPREZENTUJĄCYCH PODMIOT NABYWAJĄCY:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko: Pełnomocnik"
+        },
+        {
+          "type": "heading",
+          "text": "PODPISY OSÓB REPREZENTUJĄCYCH IPOPEMA SECURITIES S.A.:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom pel"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.10.2026 10:27",
+      "content_sha256": "0e7dd328b730426df9c4c06b54b609ca83ed0baeace50f42b2d6b2583ee604c5",
+      "date": "2026-10-10",
+      "saved_at": "2026-10-10T12:28:12+00:00",
+      "content_checked_at": "2026-10-10T12:28:12+00:00",
+      "published_time": "10:27",
+      "published_at": "2026-10-10T10:27+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. („Spółka”) ogłoszonym 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc. z siedzibą w Laval, Kanada („Wzywający”) na podstawie art.",
+          "1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (tekst jednolity Dz.",
+          "W związku z powyższym, oraz mając na uwadze spełnienie w dniu 29 września 2026 r. warunku prawnego określonego w punkcie 24(b) dokumentu Wezwania, Wezwanie pozostaje uzależnione od spełnienia wyłącznie warunku prawnego, określonego w punkcie 24(a) Wezwania."
+        ],
+        "interest_score": 61,
+        "impact_score": 54,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (tekst jednolity Dz."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "0e7dd328b730426df9c4c06b54b609ca83ed0baeace50f42b2d6b2583ee604c5"
+      }
+    },
+    {
+      "id": "e77842b86398d305",
+      "title": "Sytuacja wokół NBP jest bez precedensu - Kotecki, RPP",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261010/sytuacja-wokol-nbp-jest-bez-precedensu-kotecki-rpp",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP",
+          "Temat: RPP"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ]
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Sytuacja wokół Narodowego Banku Polskiego jest bez precedensu – powiedział PAP członek RPP Ludwik Kotecki. Podkreślił, że ewentualny brak prezesa NBP nie oznacza, że bank centralny przestanie funkcjonować."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek sejmowa Komisja Odpowiedzialności Konstytucyjnej przyjęła sprawozdanie ws. wstępnego wniosku o pociągnięcie do odpowiedzialności konstytucyjnej przed Trybunałem Stanu prezesa NBP Adama Glapińskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kotecki pytany, czy opinia Komisji utrudnia pracę Radzie Polityki Pieniężnej, odpowiedział: \"Nie, nie utrudnia Radzie działalności, bo dopóki prezes, jako przewodniczący będzie mógł zwołać posiedzenie RPP i w nim uczestniczyć, to RPP jest w stanie pracować bez większych przeszkód\""
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodał, że w przypadku braku przewodniczącego istnieje system zastępstw i w czasie jego nieobecności posiedzeniu przewodniczy jeden z członków Rady."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazał, wiceprezes NBP uczestniczy w obradach RPP wyłącznie z głosem doradczym, bez prawa do głosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Zgodnie z ustawą i regulaminem Rady, w czasie nieobecności Przewodniczącego posiedzeniu przewodniczy jeden z członków Rady. Wiceprezes nie jest członkiem Rady Polityki Pieniężnej. Po prostu wtedy obradowalibyśmy w dziewięć osób. Dziś na pełniącego rolę przewodniczącego w przypadku ewentualnego braku Prezesa wyznaczono Ireneusza Dąbrowskiego\" - powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pytany, kto będzie dostarczał RPP potrzebne dokumenty, jeśli nie będzie prezesa, wiceprezesów i zarząd nie będzie miał wymaganej liczby członków, odpowiedział: \"Tak naprawdę my jako takich dokumentów nie potrzebujemy, aby podejmować uchwały. Oczywiście, analizy przygotowywane przez analityków NBP bardzo ułatwiają podejmowanie decyzji, ale przede wszystkim potrzebna jest wiedza i doświadczenie członków Rady. Więc my, jako członkowie Rady Polityki Pieniężnej, dzięki swojemu doświadczeniu i wiedzy powinniśmy być gotowi do podejmowania koniecznych uchwał bez względu, czy otrzymaliśmy jakieś dokumenty, czy nie od Zarządu\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jeśli chodzi o decyzje w sprawie stóp procentowych, to jest to trochę automatyczne. Jesteśmy jednym z trzech organów NBP, tym odpowiedzialnym za prowadzenie polityki pieniężnej. Kiedy jest podejmowana decyzja, publikowany jest komunikat i każdy zainteresowany wie, jaki jest poziom stóp NBP. Wiedzą to przede wszystkim odpowiedzialni za codzienną realizację polityki pieniężnej pracownicy NBP. Oczywiście nie chcę bagatelizować sytuacji, ale to nie jest tak, że brak prezesa spowodowałby, że NBP należy zamknąć, bo bank przestaje działać\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak ocenił, problem mógłby być ze zwoływaniem posiedzenia RPP."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Kiedyś była taka sytuacja, że nie było prezesa NBP – a to zdarzyło się po katastrofie w Smoleńsku – to posiedzenia RPP zwoływał I wiceprezes banku. Teraz nie ma I wiceprezesa, a w listopadzie upływa kadencja II wiceprezesa. Więc sytuacja się bardziej komplikuje. Jednak wciąż mamy funkcjonującego Prezesa NBP. Wniosek Komisji o podjęcie przez Sejm uchwały o pociągnięcie do odpowiedzialności konstytucyjnej przed Trybunałem Stanu Prezesa Narodowego Banku Polskiego Adama Glapińskiego też nie ma precedensu w polskiej historii\" - powiedział Ludwik Kotecki."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Czy rekomendacja Komisji oznacza, że wniosek o Trybunał Stanu musi być głosowany wkrótce, w jakim terminie to będzie? Czy ten wniosek może trafić na półkę i leżeć tam na przykład przez rok? Rzeczywistość w najbliższych tygodniach będzie rozwiewała te wątpliwości. Wielu rzeczy nie wiemy, ale na pewno sytuacja jest bez precedensu. Najważniejsze by jej ofiarą nie stała się polska waluta czy premia za ryzyko na rynku finansowym\" - dodał członek RPP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marek Siudaj (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ms/ drag/ mhr/ pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.10.2026 09:41",
+      "content_sha256": "add379c6e8e2e2012ed7ad642f4bbd22c56c75ef23e0828a841a3412ffbcd5da",
+      "date": "2026-10-10",
+      "saved_at": "2026-10-10T12:28:12+00:00",
+      "content_checked_at": "2026-10-10T12:28:12+00:00",
+      "published_time": "09:41",
+      "published_at": "2026-10-10T09:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Sytuacja wokół Narodowego Banku Polskiego jest bez precedensu – powiedział PAP członek RPP Ludwik Kotecki.",
+          "\"Kiedyś była taka sytuacja, że nie było prezesa NBP – a to zdarzyło się po katastrofie w Smoleńsku – to posiedzenia RPP zwoływał I wiceprezes banku.",
+          "Wniosek Komisji o podjęcie przez Sejm uchwały o pociągnięcie do odpowiedzialności konstytucyjnej przed Trybunałem Stanu Prezesa Narodowego Banku Polskiego Adama Glapińskiego też nie ma precedensu w polskiej historii\" - powiedział Ludwik Kotecki."
+        ],
+        "interest_score": 39,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Sytuacja wokół Narodowego Banku Polskiego jest bez precedensu – powiedział PAP członek RPP Ludwik Kotecki."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "RPP",
+              "bank*",
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "add379c6e8e2e2012ed7ad642f4bbd22c56c75ef23e0828a841a3412ffbcd5da"
+      }
+    },
     {
       "id": "cf420154340bf7d0",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty, Dow Jones w górę ponad 400 pkt.",
@@ -533,7 +930,7 @@
       "published_display": "09.10.2026 21:06",
       "content_sha256": "c046d9542386622a8395803c3d00cec6ce6ecbb374fc37cbbc5c9f903c6e47b7",
       "saved_at": "2026-10-09T22:36:37+00:00",
-      "content_checked_at": "2026-10-10T05:48:54+00:00",
+      "content_checked_at": "2026-10-10T12:28:12+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2357,7 +2754,7 @@
       "published_display": "09.10.2026 17:02",
       "content_sha256": "8ae0c5c70845b0e2f94d0f70a12eca17a7917a447cca8f6c2f2521a7a79806a5",
       "saved_at": "2026-10-09T16:59:41+00:00",
-      "content_checked_at": "2026-10-10T05:48:54+00:00",
+      "content_checked_at": "2026-10-10T12:28:12+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2823,7 +3220,7 @@
       "published_display": "09.10.2026 17:01",
       "content_sha256": "8ae0c5c70845b0e2f94d0f70a12eca17a7917a447cca8f6c2f2521a7a79806a5",
       "saved_at": "2026-10-09T16:59:41+00:00",
-      "content_checked_at": "2026-10-10T05:48:54+00:00",
+      "content_checked_at": "2026-10-10T12:28:12+00:00",
       "sections": [
         "skroty",
         "makro",
