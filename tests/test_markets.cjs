@@ -1,0 +1,27 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),{JSDOM}=require('jsdom');
+const core=require('../docs/market-core.js');
+const calendar=JSON.parse(fs.readFileSync('docs/data/calendar.json','utf8'));
+const ny=calendar.markets.find(m=>m.id==='nyse'),gpw=calendar.markets.find(m=>m.id==='gpw'),tokyo=calendar.markets.find(m=>m.id==='tokyo');
+assert.equal(core.status(ny,new Date('2026-10-11T15:00:00Z')).state,'closed');
+assert.equal(core.status(ny,new Date('2026-11-26T16:00:00Z')).state,'closed');
+assert.equal(core.status(ny,new Date('2026-11-27T18:01:00Z')).state,'closed');
+assert.equal(core.clock(ny.sessions['2026-11-27'].close,'America/New_York'),'13:00');
+assert.equal(core.clock(ny.sessions['2026-10-30'].open,'Europe/Warsaw'),'14:30');
+assert.equal(core.clock(ny.sessions['2026-10-20'].open,'Europe/Warsaw'),'15:30');
+assert.equal(core.status(tokyo,new Date('2026-10-13T03:00:00Z')).state,'break');
+assert.equal(core.status(gpw,new Date('2026-11-11T11:00:00Z')).state,'closed');
+for(const day of ['2026-01-01','2026-01-06','2026-04-03','2026-04-06','2026-05-01','2026-06-04','2026-11-11','2026-12-24','2026-12-25','2026-12-31'])assert.ok(!gpw.sessions[day],day);
+assert.equal(core.nextEvent(ny,new Date('2026-11-27T17:55:00Z')).label,'Zamknięcie');
+(async()=>{
+ const dom=new JSDOM(fs.readFileSync('docs/index.html','utf8'),{url:'https://example.test/',runScripts:'outside-only'}),w=dom.window;
+ w.localStorage.setItem('investor-portfolio',JSON.stringify([{name:'PRIVATE_PORTFOLIO',ticker:'SECRET',isin:'PRIVATE_ISIN'}]));
+ const calls=[];w.fetch=async path=>{calls.push(path);return {ok:true,json:async()=>calendar};};
+ for(const file of ['market-core.js','market.js'])w.eval(fs.readFileSync('docs/'+file,'utf8'));
+ await new Promise(resolve=>setImmediate(resolve));assert.equal(w.document.querySelectorAll('#market-sessions tr').length,7);
+ const frame=w.document.getElementById('public-market-widget');assert.equal(new URL(frame.src).origin,'https://s.tradingview.com');
+ assert.ok(!frame.src.includes('SECRET')&&!frame.src.includes('PRIVATE'));assert.deepEqual(calls,['data/calendar.json']);
+ assert.ok(frame.getAttribute('sandbox').includes('allow-scripts'));
+ w.document.getElementById('market-date').value='2026-11-26';w.document.getElementById('market-date').dispatchEvent(new w.Event('change'));
+ assert.ok(w.document.querySelectorAll('#market-sessions tr')[1].textContent.includes('Brak sesji'));
+ dom.window.close();console.log('PASS: holidays, half sessions, DST gap, Asian break, market UI and private-portfolio isolation');
+})().catch(e=>{console.error(e);process.exitCode=1;});

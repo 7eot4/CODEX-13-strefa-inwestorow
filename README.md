@@ -1,77 +1,49 @@
 # Notatnik inwestora
 
-Projekt: `CODEX-13-strefa-inwestorow` (CODEX, numer 13). Katalog lokalny: `C:\Users\annac\.phvm\CODEX\CODEX-13-strefa-inwestorow`. Wpis w rejestrze: `C:\Users\annac\.phvm\PROJECTS.md`.
+Projekt `CODEX-13-strefa-inwestorow`, katalog `C:\Users\annac\.phvm\CODEX\CODEX-13-strefa-inwestorow`. Rejestr: `C:\Users\annac\.phvm\PROJECTS.md`.
 
 Repozytorium: https://github.com/7eot4/CODEX-13-strefa-inwestorow
 
-Opublikowany blog: https://7eot4.github.io/CODEX-13-strefa-inwestorow/
+Blog: https://7eot4.github.io/CODEX-13-strefa-inwestorow/
 
-Po zmianach projektu: wykonać adekwatną weryfikację, commit i push do repozytorium, potwierdzić aktualny stan na GitHub oraz wynik publikacji. Automatyczne aktualizacje bazy wykonują te operacje przez GitHub Actions co 2 godziny.
+Publikacja pełnych tekstów opiera się na potwierdzeniu użytkownika, że posiada zgodę obejmującą automatyczne publikowanie materiałów Strefy Inwestorów. Dokumentu licencyjnego nie sprawdzono. Praw do źródłowych artykułów nie udzielamy odbiorcom repozytorium. Po zmianach: testy, commit, push, weryfikacja Actions i publicznych plików.
 
-Archiwum pełnych skrótów wiadomości oraz artykułów o firmach i zagadnieniach inwestycyjnych ze Strefy Inwestorów. Zapisuje treści, sekcje, autorów, daty, adresy źródłowe i czas zapisu. Publikacja opiera się na potwierdzeniu użytkownika z 2026-10-06: posiada zgodę obejmującą automatyczną publikację pełnych tekstów. Nie zweryfikowano dokumentu licencyjnego. Prawa do źródłowych artykułów nie są udzielane odbiorcom przez to repozytorium.
+## Korzystanie
 
-## Użytkowanie
+Sekcje, filtry spółek/dat/rodzaju, pełne teksty, lokalne zakładki i eksport publicznego JSON. Import portfela CSV/TSV/XLSX (do 5 MB) działa wyłącznie lokalnie: zapisuje nazwy, tickery i ISIN, bez ilości, cen, sald i rachunków. Plik nie opuszcza urządzenia. Eksport bieżących pozycji, nie historii transakcji; nazwy można poprawić przed zapisaniem. Nie obsługujemy PDF/starego XLS. Nie potwierdzono adaptera rzeczywistym eksportem brokera. ExcelJS 4.4.0 jest hostowany lokalnie z licencją MIT. Nie ma synchronizacji między urządzeniami.
 
-Strona: `docs/index.html` przez serwer HTTP. Sekcje tematyczne, filtry firmy/miesiąca/rodzaju tekstu, wyszukiwanie w treści, czytanie pełnych tekstów w `read.html`, lista do przeczytania i eksport publicznej bazy JSON. Nie ma konta ani synchronizacji zakładek między urządzeniami.
+Karty są pokazywane po 40, z przyciskiem kolejnych; wyszukiwanie obejmuje całą bazę. W rozwijanej kolejce pokazujemy tytuły i odnośniki wszystkich wykrytych tekstów oczekujących na kopię.
 
-## Sekcje i reguły
+„Włącz lokalne AI” pobiera multilingual-e5-small (około 118 MB), tokenizer (17 MB) i silnik (27 MB), bez API i opłat za zapytania. Model jest przypięty do wersji w ai-config.json. Zapytania są przetwarzane lokalnie; Hugging Face otrzymuje zwykłe dane połączenia przy pobieraniu plików. AI porównuje tytuły, podsumowania i nagłówki; wyszukiwanie słowami obejmuje pełny tekst. Pokazujemy maksymalnie 30 wyników AI po filtrach.
 
-`docs/data/topics.json` jest wspólnym źródłem reguł. Sekcje: skróty dnia, makroekonomia i rynki, banki i finanse, energia i surowce, technologie i gaming, przemysł i infrastruktura, handel i konsumpcja, nieruchomości oraz pozostałe wiadomości i spółki.
+Podsumowania 2–3 zdania są wyborem istotnych zdań z tekstu według reguł. Skale znaczenia tematu i potencjału reakcji kursu 0–100 nie oznaczają procentu zmiany, prawdopodobieństwa ani kierunku kursu. Bez cen i konsensusu pewność jest niska; przesłanki i źródła profili powiązanych spółek są rozwijane na karcie. To narzędzie badania wiadomości, nie rekomendacja kupna. Daty pokazują czas źródła; brak czasu jest oznaczony.
 
-Nazwy firm, słowa tematyczne i ścieżki działów dopasowuje `scripts/topics.py`. Dla indywidualnego artykułu sekcje wynikają z tytułu, pierwszego akapitu i działu źródłowego; firmy są także rozpoznawane w pełnej treści. Skróty dnia mają wiele sekcji według całej treści. Dopasowanie respektuje granice słów i ignoruje wielkość liter oraz polskie znaki. Wpis może należeć do wielu sekcji. Reguły są przybliżeniem tematu, nie oceną inwestycyjną. Karta artykułu pokazuje przyczyny dopasowania.
+Własne ilustracje tematyczne w docs/images, generowane przez scripts/build-artwork.py. Nie przedstawiają rzeczywistych zdarzeń lub wykresów. Animacje mierników działają tylko dla widocznych elementów i respektują zmniejszony ruch.
 
-## Lokalny import portfela
+## Pulpit giełdowy
 
-Na stronie rozwiń „Import portfela z konta maklerskiego”, wybierz plik aktualnych pozycji CSV/TSV/XLSX (maksymalnie 5 MB), sprawdź nazwy w podglądzie, popraw kody na nazwy firm w razie potrzeby i zapisz. Wybierz „Mój portfel”, aby zobaczyć artykuły z dopasowanymi spółkami. Filtr łączy się z sekcją, miesiącem i rodzajem tekstu.
+Kalendarz sesji akcji: GPW, NYSE Tape A, Nasdaq, Xetra, Londyn, Tokio i Hongkong. Wybór dnia pokazuje godziny w Polsce i lokalnie. Status teraz i odliczanie są niezależne od wybranego dnia, odświeżane co 30 sekund przy otwartej stronie. Uwzględniamy weekendy, święta, skrócone sesje, przerwy azjatyckie oraz różne zmiany czasu w Europie/USA. Awaryjnych wstrzymań i zawieszeń instrumentu nie wykrywamy. Sesja główna nie obejmuje wszystkich godzin dostępnych u brokera; aukcje i rozszerzenia opisują notatki i źródła giełd.
 
-CSV: rozdzielacz przecinek, średnik lub tabulator; UTF-8, UTF-16LE lub Windows-1250. XLSX: pierwszy rozpoznany arkusz wśród pierwszych pięciu. Kolumny Nazwa/Instrument/Walor, Ticker/Symbol, ISIN; obsługiwane są także podstawowe angielskie nazwy. Nie ma dedykowanego adaptera potwierdzonego prawdziwym plikiem konkretnego brokera. PDF i stary XLS nie są obsługiwane. Import historii transakcji nie rekonstruuje portfela — potrzebny jest eksport bieżących pozycji. Instrumenty bez nazwy wymagają jej dopisania; ISIN sam nie występuje zazwyczaj w tekstach.
+Kalendarz od 2026 do końca kolejnego roku generuje scripts/build-calendar.py z exchange_calendars 4.13.2. Źródła pierwotne są przy każdym rynku w docs/data/calendar.json. Testy obejmują święta GPW 2026, USA, skróconą sesję o 13:00 ET, różne zmiany czasu oraz przerwę w Tokio. Poza zakresem kalendarza status nie jest potwierdzony.
 
-Plik nie jest wysyłany na serwer. Lokalna pamięć przeglądarki przechowuje tylko nazwę, ticker i ISIN. Ilości, ceny, saldo, wartość pozycji, numer rachunku i nazwa pliku nie są zapisywane. Dopasowanie odbywa się lokalnie w pełnych tekstach wspólnej bazy; GitHub Actions nie zna prywatnej listy firm. Usunięcie listy jest dostępne na stronie. Portfel nie synchronizuje się między urządzeniami. Publiczna baza i jej eksport nie zawierają danych portfela.
+Widżet TradingView pokazuje stały publiczny zestaw indeksów i spółek. GPW i Xetra: EOD, po zakończeniu sesji, nie bieżące kursy. Inne rynki według oznaczenia dostawcy. Osobna domena widżetu nie może czytać lokalnego portfela; prywatne tickery i plik nie są przekazywane. Danych nie kopiujemy do repozytorium ani nie eksportujemy. Blokada skryptów lub awaria dostawcy może wyłączyć notowania. Dokumentacja: https://www.tradingview.com/widget-docs/markets/ oraz https://www.tradingview.com/widget-docs/faq/data/ .
 
-Biblioteka XLSX: lokalnie hostowany ExcelJS 4.4.0, licencja MIT w `docs/vendor/exceljs.LICENSE`. Nie jest pobierana z CDN podczas importu.
+Decyzja użytkownika 2026-10-11: darmowe widżety obecnie; indywidualny monitoring kursów portfela i alerty do dalszego rozwiązania po uzyskaniu źródła danych z prawem do publikacji wspólnej bazy. Import portfela służy obecnie filtrowaniu artykułów, nie cen.
 
-## Aktualizacja
+## Pełny zakres nowych artykułów
 
-`python scripts/update.py` — Python 3.12+; wcześniej `python -m pip install -r requirements.txt`.
+Zbieranie nie stosuje filtra branż ani ograniczenia do wybranych prefiksów artykułów. Globalny RSS wydawcy, strona główna i listy działów są sprawdzane co 30 minut (17,47 * * * *, UTC; Actions może opóźnić lub pominąć uruchomienie). Dodajemy też blogi, edukację, analizy, podcasty i czaty z dostępnym tekstem. Nawigacja, notowania i pliki nie są artykułami; datę i korpus potwierdzamy na stronie. Nie omijamy logowania/płatnego dostępu, nie archiwizujemy zdjęć i nie transkrybujemy filmów.
 
-Kolektor sprawdza osiem list źródłowych z konfiguracji (strona główna, dwie strony wiadomości i działy tematyczne), respektuje robots.txt, odrzuca obce domeny, usuwa duplikaty i zachowuje wcześniejsze wpisy. Pobiera publiczną treść bez reklam i skryptów, zachowując akapity, nagłówki i tekst tabel. Nie archiwizuje obrazów. Ostatnie dostępne skróty są ponownie odczytywane dla korekt. Nie omija logowania ani płatnego dostępu.
+Limity: 60 stron list i 80 tekstów na przebieg. Niedokończone strony pozostają w discovery_pending, teksty w pending; kolejne przebiegi kontynuują pracę. Paginacja kończy się na liście bez nieznanych adresów. Nowe odkrycia mają priorytet nad wcześniejszą kolejką; nieudane pobrania są ponawiane z niższym priorytetem. Jedna awaria nie usuwa zapisanych tekstów. Brak wszystkich źródeł pozostawia bazę bez zmian.
 
-Nowe teksty są zapisywane po potwierdzeniu daty i minimalnej treści. Maksymalnie 80 pobrań na przebieg; reszta pozostaje w trwałej kolejce `pending` do kolejnych odczytów. Nieudane pobrania są ponawiane z niższym priorytetem, bez blokowania innych nowych artykułów. Pojedynczy błąd zostawia poprzedni tekst i jest raportowany w `warnings`; awaria odkrywania wszystkich źródeł pozostawia bazę bez zmian. Wskaźnik strony rozróżnia aktualizację częściową i przeterminowaną. Monitoring obejmuje wpisy widoczne na skonfigurowanych listach, nie całą historię serwisu; między odczytami mogą wystąpić pominięcia. Zmiana struktury źródła może wymagać poprawy kolektora.
+Pełny zakres oznacza brak selekcji tematycznej dla rozpoznanych publikacji; nie jest bezwarunkową gwarancją przechwycenia każdego adresu ani kompletnym historycznym zrzutem serwisu. Źródło może ukryć/usunąć publikację między odczytami; struktura strony może się zmienić. Kolejki i błędy są widoczne na blogu. Sekcje wybierają reguły z docs/data/topics.json; jeden tekst może mieć kilka sekcji.
 
-GitHub Actions: `17 */2 * * *` (UTC), trwały zapis w repozytorium i publikacja GitHub Pages. GitHub może opóźnić lub pominąć zaplanowany przebieg; w publicznych repozytoriach wyłącza harmonogram po 60 dniach braku aktywności. Status aktualności jest widoczny na stronie. Ręczne uruchomienie: Actions → Update archive and publish → Run workflow.
+Wysłanie kodu publikuje ostatnią zapisaną bazę po testach bez pobierania artykułów. Pobieranie wykonuje harmonogram i ręczne uruchomienie Actions → Update archive and publish → Run workflow. W publicznych repozytoriach harmonogram może zostać wyłączony po 60 dniach braku aktywności.
 
-## Uruchomienie GitHub
+## Uruchomienie i weryfikacja
 
-Po zatwierdzeniu publikacji: utworzyć repozytorium, wysłać gałąź `main`, ustawić Pages → Source → GitHub Actions. Zweryfikować udany przebieg i opublikowany plik `data/archive.json`.
+Python 3.12+: python -m pip install -r requirements.txt, następnie python scripts/update.py i python scripts/build-calendar.py.
 
-## Weryfikacja
+Node 24: npm ci --ignore-scripts, npm run build:search; npm run build:client odtwarza lokalny silnik AI. Licencje bibliotek są w docs/vendor.
 
-`python -m unittest discover -s tests -v`
-
-`node --check docs/app.js`
-
-`npm ci --ignore-scripts && npm test` — testy filtrów sekcji i spółek, przeglądarkowej biblioteki XLSX, importu lokalnego, wykluczenia danych finansowych i dopasowania portfela. Przykłady brokerów są wyłącznie syntetyczne. Nie zweryfikowano rzeczywistego eksportu użytkownika ani wyglądu w przeglądarce.
-
-Testy uruchamiają się również w GitHub Actions przed odczytem źródeł i publikacją.
-
-## Wyszukiwanie AI i analiza kart
-
-Wpisz temat lub firmę w wyszukiwarkę. Wyszukiwanie słowami działa od razu. „Włącz lokalne AI” uruchamia multilingual-e5-small w przeglądarce. Pierwsze użycie pobiera około 118 MB modelu, 17 MB tokenizera i 27 MB silnika. Bez klucza API i opłat za zapytania. Pobieranie wymaga Internetu; pliki pozostają w pamięci podręcznej przeglądarki. Zapytania i portfel nie są wysyłane do usługi AI. Pobieranie z Hugging Face przekazuje jej zwykłe dane połączenia.
-
-AI porównuje znaczenie zapytania z tytułem, podsumowaniem i nagłówkami artykułów. Wyszukiwanie słowami obejmuje pełną treść. Wyniki AI pokazują najwyżej 30 dopasowań po filtrach. Dostępne jest sortowanie według daty i skal. Model i wersja są przypięte w `docs/data/ai-config.json`; indeks aktualizuje się z bazą.
-
-Karty oraz pełne artykuły zawierają 2–3 zdania wybrane przez analizę tekstu. To podsumowanie ekstrakcyjne oparte na regułach, nie generowanie przez model językowy. Daty pokazują godzinę i minutę źródła; brak czasu jest oznaczony jawnie.
-
-Skale ⚡ znaczenia branżowego i 🧨 potencjału reakcji kursu mają zakres 0–100. Wykorzystują wyniki, prognozy, kapitał, kontrakty, regulacje i ryzyka. Są heurystyką selekcji wiadomości; nie oznaczają procentu zmiany, prawdopodobieństwa ani kierunku kursu. Bez konsensusu, cen i kalibracji historycznej pewność jest niska. Rozwijane uzasadnienie pokazuje przesłanki i ograniczenia.
-
-Powiązane spółki są rozróżnione na wymienione w tekście i wywnioskowane z tematu. Profile działalności i źródła emitentów zapisano w `docs/data/exposures.json`. To lista do dalszego badania, nie rekomendacja kupna.
-
-Budowa klienta: `npm run build:client`. Aktualizacja indeksu: `npm run build:search`. Transformers.js i ONNX Runtime mają dołączone licencje. Rzeczywisty model sprawdzono na polskich zapytaniach i silniku WASM; wygląd strony wymaga osobnej kontroli w przeglądarce.
-
-## Ilustracje i wskaźniki
-
-Karty i strony artykułów mają własne ilustracje wektorowe dopasowane do dziewięciu sekcji. Są oznaczone jako ilustracje tematyczne, bez sugestii, że dokumentują wydarzenie lub notowania. Pliki są hostowane lokalnie w `docs/images`; nie pobierają zdjęć z zewnętrznych serwisów. Odtworzenie grafik: `python scripts/build-artwork.py`.
-
-Wskaźniki mają ciemne panele, turkusową i koralową skalę, animowane wypełnienie oraz liczbę punktów. Są odczytowe i dostępne dla czytników ekranu jako mierniki. Animacje działają tylko dla widocznych elementów; ustawienie systemowe zmniejszonego ruchu je wyłącza. Wygląd określa `docs/editorial.css`.
-
-Wysłanie zmian kodu publikuje ostatnią zapisaną bazę po testach, bez zależności od bieżącej dostępności źródła artykułów. Pobieranie nowych tekstów wykonuje harmonogram oraz ręczne uruchomienie workflow.
+Testy: python -m unittest discover -s tests -v oraz npm test. Obejmują kolektor/RSS/paginację, analizę, wyszukiwanie, prywatny import CSV/XLSX, UI, kalendarz i izolację portfela od widżetu. Rzeczywisty model i WASM sprawdzono osobno. Pełny widok i rzeczywiste wartości w zewnętrznym widżecie nie zostały sprawdzone w przeglądarce w tej sesji.

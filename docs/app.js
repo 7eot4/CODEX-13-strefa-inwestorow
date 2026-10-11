@@ -1,6 +1,7 @@
 'use strict';
 const $ = id => document.getElementById(id);
 let articles = [], sections = [], selectedSection = new URLSearchParams(location.search).get('section') || '', onlySaved = false, onlyPortfolio=false, bookmarks;
+let visibleArticleLimit=40;
 try { bookmarks = new Set(JSON.parse(localStorage.getItem('investor-bookmarks') || '[]')); } catch { bookmarks = new Set(); }
 function element(tag, text, className) { const el = document.createElement(tag); if (text) el.textContent = text; if (className) el.className = className; return el; }
 function safeURL(value) { const u = new URL(value); if (u.protocol !== 'https:' || u.hostname !== 'strefainwestorow.pl') throw Error('Nieprawidłowe źródło'); return u.href; }
@@ -16,8 +17,10 @@ function render() {
  const order=$('sort').value;
  filtered.sort((a,b)=>order==='interest'?(b.analysis?.interest_score||0)-(a.analysis?.interest_score||0):order==='impact'?(b.analysis?.impact_score||0)-(a.analysis?.impact_score||0):order==='latest'||!query?(b.published_at||b.date).localeCompare(a.published_at||a.date):relevance(b)-relevance(a));
  const total=filtered.length;if(semantic&&query)filtered=filtered.slice(0,30);
+ const available=filtered.length;filtered=filtered.slice(0,visibleArticleLimit);
+ $('more-articles').hidden=filtered.length>=available;$('more-articles').textContent=`Pokaż kolejne artykuły · pozostało ${available-filtered.length}`;
  window.clearArticleMotion($('articles'));$('articles').replaceChildren(); $('saved-count').textContent = articles.filter(a => bookmarks.has(a.id)).length;
- $('count').textContent = semantic&&query?`Najlepsze ${filtered.length} z ${total} wyników AI`:`${filtered.length} z ${articles.length} wpisów`;
+ $('count').textContent = semantic&&query?`Najlepsze ${filtered.length} z ${total} wyników AI`:`${total} z ${articles.length} wpisów · pokazano ${filtered.length}`;
  for (const a of filtered) {
   const card = element('article', '', 'card');
   card.append(window.articleArtworkUI(a,{linked:true}));
@@ -41,6 +44,7 @@ function render() {
  if (!filtered.length) $('articles').append(element('p', onlyPortfolio ? 'Brak dopasowań do portfela dla tych filtrów. Zaimportuj listę lub popraw nazwy firm; kolejne pobrane artykuły będą dopasowywane automatycznie.' : onlySaved ? 'Nie ma zapisanych wpisów dla tych filtrów.' : 'Brak wpisów dla tych filtrów.', 'empty'));
 }
 function chooseSection(id) {
+ visibleArticleLimit=40;
  selectedSection=id;
  const section=sections.find(s=>s.id===id);
  $('section-title').textContent=section?.name || 'Wszystkie sekcje';
@@ -56,19 +60,22 @@ function chooseSection(id) {
  const url=new URL(location.href);id?url.searchParams.set('section',id):url.searchParams.delete('section');history.replaceState(null,'',url);
  render();
 }
-for (const id of ['search', 'month','company','kind','sort']) $(id).addEventListener('input', render);
+for (const id of ['search', 'month','company','kind','sort']) $(id).addEventListener('input',()=>{visibleArticleLimit=40;render();});
+$('more-articles').onclick=()=>{visibleArticleLimit+=40;render();};
 window.addEventListener('search-updated',render);
 for (const id of ['all','saved','portfolio-tab']) $(id).onclick = () => { onlySaved=id==='saved';onlyPortfolio=id==='portfolio-tab'; for (const name of ['all','saved','portfolio-tab']) { $(name).classList.toggle('active', name === id); $(name).setAttribute('aria-pressed', String(name === id)); } render(); };
 window.addEventListener('portfolio-changed',render);
 fetch('data/archive.json', {cache:'no-store'}).then(r => {if (!r.ok) throw Error('HTTP ' + r.status); return r.json();}).then(data => {
  articles = data.articles; sections=data.sections || []; for (const a of articles) safeURL(a.url);
+ const pending=data.pending||[];$('pending-count').textContent=pending.length;$('pending-section').hidden=!pending.length;
+ for(const item of pending){const li=element('li');li.append(externalLink(item.title,item.url));$('pending-links').append(li);}
  for(const section of [{id:'',name:'Wszystkie'},...sections]){const count=articles.filter(a=>!section.id||a.sections?.includes(section.id)).length;const b=element('button', `${section.name} · ${count}`);b.dataset.section=section.id;b.onclick=()=>chooseSection(section.id);$('sections').append(b);}
  if(!sections.some(s=>s.id===selectedSection))selectedSection='';
  const months = [...new Set(articles.map(a => a.date.slice(0,7)))].sort().reverse();
  for (const month of months) { const option = element('option', new Date(month + '-01T12:00:00').toLocaleDateString('pl-PL', {month:'long',year:'numeric'})); option.value=month; $('month').append(option); }
  const checked = new Date(data.last_checked); const stale = Date.now() - checked.getTime() > 6*3600*1000;
  $('status').textContent = stale ? 'Archiwum wymaga aktualizacji' : data.warnings?.length ? 'Aktualizacja częściowa' : 'Archiwum zaktualizowane';
- $('checked').textContent = `Ostatni odczyt: ${checked.toLocaleString('pl-PL')}. Harmonogram co 2 godziny; uruchomienia mogą się opóźnić.`;
+ $('checked').textContent = `Ostatni odczyt: ${checked.toLocaleString('pl-PL')}. Harmonogram co 30 minut; uruchomienia mogą się opóźnić.`;
  $('collection-status').textContent=`${data.pending?.length || 0} tekstów oczekuje na pobranie. ${data.warnings?.length || 0} ostrzeżeń ostatniego odczytu.`;
  chooseSection(selectedSection);
  const requestedCompany=new URLSearchParams(location.search).get('company');if(requestedCompany&&[...$('company').options].some(o=>o.value===requestedCompany)){$('company').value=requestedCompany;render();}

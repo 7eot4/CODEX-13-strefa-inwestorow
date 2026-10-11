@@ -368,6 +368,7 @@
     }
   ],
   "source_paths": [
+    "/rss.xml",
     "/",
     "/wiadomosci",
     "/wiadomosci?page=1",
@@ -375,7 +376,36 @@
     "/gaming",
     "/nieruchomosci",
     "/strefa-global-market",
-    "/w-zielonej-strefie"
+    "/w-zielonej-strefie",
+    "/?page=1",
+    "/blog",
+    "/gospodarka",
+    "/analizy",
+    "/debiut-ipo",
+    "/obligacje",
+    "/czaty-inwestorskie",
+    "/podcast",
+    "/artykuly-edukacyjne",
+    "/dywidendy",
+    "/spolki?page=1",
+    "/gaming?page=1",
+    "/nieruchomosci?page=1",
+    "/strefa-global-market?page=1",
+    "/w-zielonej-strefie?page=1",
+    "/blog?page=1",
+    "/gospodarka?page=1",
+    "/analizy?page=1",
+    "/debiut-ipo?page=1",
+    "/obligacje?page=1",
+    "/czaty-inwestorskie?page=1",
+    "/podcast?page=1",
+    "/artykuly-edukacyjne?page=1",
+    "/dywidendy?page=1",
+    "/artykuly/rekomendacje",
+    "/artykuly/raporty",
+    "/artykuly/dywidendy",
+    "/artykuly/obligacje",
+    "/artykuly/debiut-ipo"
   ],
   "article_prefixes": [
     "/wiadomosci/",
@@ -386,7 +416,17 @@
     "/w-zielonej-strefie/",
     "/obligacje/",
     "/debiut-ipo/",
-    "/wywiad/"
+    "/wywiad/",
+    "/artykuly/",
+    "/blog/",
+    "/gospodarka/",
+    "/analizy/",
+    "/czaty-inwestorskie/",
+    "/webinary/",
+    "/podcast/",
+    "/artykuly-edukacyjne/",
+    "/dywidendy/"
   ],
-  "max_new_articles_per_run": 80
+  "max_new_articles_per_run": 80,
+  "max_listing_pages_per_run": 60
 }

@@ -7,8 +7,10 @@ import time
 import sys
 from datetime import datetime, timezone
 from html.parser import HTMLParser
+from html import escape
+from xml.etree import ElementTree
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, parse_qs
 from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 
@@ -43,8 +45,8 @@ class Article(HTMLParser):
         self.stack.append(tag)
         if tag == 'h1':
             self.in_title = True
-        classes = attrs.get('class', '').split()
-        if 'field--name-field-body' in classes:
+        classes = (attrs.get('class') or '').split()
+        if set(classes) & {'field--name-field-body','field--name-field-chat-description','field--name-field-announcement-text'}:
             self.body_depth = len(self.stack)
         if 'user-name' in classes:
             self.author_depth = len(self.stack)
@@ -89,7 +91,7 @@ class Article(HTMLParser):
 def parse_article(html, roundup=True):
     parser = Article()
     parser.feed(html)
-    if len(parser.paragraphs) < (5 if roundup else 1) or sum(len(p['text']) for p in parser.paragraphs) < (500 if roundup else 200):
+    if len(parser.paragraphs) < (5 if roundup else 1) or sum(len(p['text']) for p in parser.paragraphs) < (500 if roundup else 1):
         raise ValueError('Missing or incomplete article body; refusing to archive')
     result = {'body': parser.paragraphs, 'author': ' '.join(' '.join(parser.author_parts).split()),
             'published_display': ' '.join(parser.times[:2]),
@@ -101,29 +103,36 @@ def parse_article(html, roundup=True):
     return result
 
 def discover(html, rules):
+    if html.lstrip().startswith('<?xml'):
+        # Publisher's global RSS feed complements every section listing.
+        feed=ElementTree.fromstring(html)
+        html=''.join('<a href="'+escape(item.findtext('link') or '',quote=True)+'">'+escape(item.findtext('title') or '')+'</a>' for item in feed.findall('.//item'))
     parser = Links()
     parser.feed(html)
     found = {a['url']: {**a, 'kind': 'roundup'} for a in parse(html)}
+    listing_paths={urlparse(path).path.rstrip('/') for path in rules.get('source_paths',[])}
     for href, title in parser.items:
         parsed = urlparse(urljoin(ORIGIN, href))
-        if parsed.scheme != 'https' or parsed.netloc != 'strefainwestorow.pl' or len(title) < 25:
+        if parsed.scheme != 'https' or parsed.netloc != 'strefainwestorow.pl' or not title.strip():
             continue
-        if not any(parsed.path.startswith(prefix) and len(parsed.path.strip('/').split('/')) >= 2 for prefix in rules['article_prefixes']):
+        parts=parsed.path.strip('/').split('/')
+        if parsed.path.rstrip('/') in listing_paths:
             continue
-        if any(x in parsed.path for x in ['/page/', '/feed', '/rss', '/users/']) or '.' in parsed.path.rsplit('/', 1)[-1]:
+        if len(parts)<2 or parts[0] in ('notowania','dane','user','users','sites','tags','taxonomy','media','files'):
+            continue
+        if any(x in parts for x in ['page','feed','rss','users','tag','tags']) or '.' in parsed.path.rsplit('/', 1)[-1]:
             continue
         url = ORIGIN + parsed.path.rstrip('/')
         if url in found:
             continue
         labels = classify(title, [], url, rules)
-        # Collect all company/editorial/news headlines, so private browser-side
-        # portfolios are not restricted to the example company watchlists.
-        if labels['sections'] or parsed.path.startswith(('/wiadomosci/', '/spolki/', '/debiut-ipo/')):
-            if not labels['sections']:
-                labels['sections'] = ['pozostale']
-                labels['match_reasons'] = {'pozostale': ['Wiadomość lub artykuł o spółkach spoza podstawowych reguł']}
-            found[url] = {'id': hashlib.sha256(url.encode()).hexdigest()[:16], 'title': title,
-                          'url': url, 'source': 'Strefa Inwestorów', 'kind': 'article', **labels}
+        # Collection is independent of topical routing. Every supported article
+        # is archived; classification only chooses its display sections.
+        if not labels['sections']:
+            labels['sections'] = ['pozostale']
+            labels['match_reasons'] = {'pozostale': ['Artykuł spoza reguł tematycznych']}
+        found[url] = {'id': hashlib.sha256(url.encode()).hexdigest()[:16], 'title': title,
+                      'url': url, 'source': 'Strefa Inwestorów', 'kind': 'article', **labels}
     return list(found.values())
 
 class Links(HTMLParser):
@@ -178,6 +187,24 @@ def fetch(url):
                 raise
             time.sleep(2 ** attempt)
 
+def next_listing_page(html, current):
+    """Only follow numeric pagination on the same listing, never a new host."""
+    parsed=urlparse(urljoin(ORIGIN,current))
+    raw_page=parse_qs(parsed.query).get('page',['0'])[0]
+    if not raw_page.isdigit():return None
+    page=int(raw_page)
+    parser=Links();parser.feed(html);candidates=[]
+    for href,_ in parser.items:
+        target=urlparse(urljoin(ORIGIN,href))
+        if target.scheme!='https' or target.netloc!=urlparse(ORIGIN).netloc or target.path!=parsed.path:
+            continue
+        query=parse_qs(target.query)
+        if set(query)!= {'page'} or len(query['page'])!=1 or not query['page'][0].isdigit():
+            continue
+        number=int(query['page'][0])
+        if number>page:candidates.append((number,target.path+'?page='+str(number)))
+    return min(candidates)[1] if candidates else None
+
 def merge(existing, new, now):
     records = {item['url']: item for item in existing}
     for item in new:
@@ -190,29 +217,46 @@ def update():
     exposures = json.loads((ROOT / 'docs/data/exposures.json').read_text(encoding='utf-8'))
     robots = RobotFileParser()
     robots.parse(fetch(ORIGIN + '/robots.txt').splitlines())
+    target = ROOT / 'docs/data/archive.json'
+    previous = json.loads(target.read_text(encoding='utf-8')) if target.exists() else {'articles': []}
+    known={a['url'] for a in previous['articles']} | {a['url'] for a in previous.get('pending',[])}
+    allowed_listing_paths={urlparse(path).path for path in rules['source_paths']}
+    continued=[path for path in previous.get('discovery_pending',[]) if urlparse(path).path in allowed_listing_paths]
+    work=list(dict.fromkeys(rules['source_paths']+continued))
+    retry=[];visited=set();cursor=0
     discovered, warnings, successful_sources = [], [], 0
-    for path in rules['source_paths']:
+    while cursor<len(work) and len(visited)<rules.get('max_listing_pages_per_run',60):
+        path=work[cursor];cursor+=1
+        if path in visited:continue
+        visited.add(path)
         url = ORIGIN + path
         if not robots.can_fetch(AGENT, url):
             raise RuntimeError('Source disallows collection: ' + path)
         try:
-            discovered.extend(discover(fetch(url), rules))
+            html=fetch(url);items=discover(html,rules);discovered.extend(items)
             successful_sources += 1
+            # Scan until a page has no unknown articles. Persist remaining
+            # pages between runs, so the per-run limit never discards work.
+            if any(a['url'] not in known for a in items):
+                following=next_listing_page(html,path)
+                if following and following not in visited and following not in work:work.append(following)
         except Exception as error:
             warnings.append({'url': url, 'error': type(error).__name__})
+            retry.append(path)
         time.sleep(1)
     if not discovered or not successful_sources:
         raise RuntimeError('No relevant entries found; archive remains unchanged')
-    target = ROOT / 'docs/data/archive.json'
-    previous = json.loads(target.read_text(encoding='utf-8')) if target.exists() else {'articles': []}
     now = datetime.now(timezone.utc).isoformat(timespec='seconds')
     records = {a['url']: a for a in previous['articles']}
     queue = {a['url']: a for a in previous.get('pending', [])}
+    listing_paths={urlparse(path).path.rstrip('/') for path in rules['source_paths']}
+    queue={url:a for url,a in queue.items() if urlparse(url).path.rstrip('/') not in listing_paths}
     for item in discovered:
         if item['url'] not in records or item['kind'] == 'roundup':
-            queue[item['url']] = item
+            old=queue.get(item['url'],{})
+            queue[item['url']] = {**old,**item,'attempts':old.get('attempts',0),'discovered_at':old.get('discovered_at',now)}
     # Refresh roundups first; remaining new articles are persisted for later runs.
-    ordered = sorted(queue.values(), key=lambda a: (a.get('kind') != 'roundup', a.get('attempts', 0)))
+    ordered = sorted(queue.values(), key=lambda a: (a.get('kind') != 'roundup', a.get('attempts', 0),-datetime.fromisoformat(a.get('discovered_at',now)).timestamp()))
     for item in ordered[:rules['max_new_articles_per_run']]:
         try:
             if not robots.can_fetch(AGENT, item['url']):
@@ -241,7 +285,8 @@ def update():
     articles = sorted(records.values(), key=lambda a: (a['date'], a.get('published_display', ''), a['url']), reverse=True)
     result = {'schema_version': 4, 'last_checked': now, 'mode': 'full_text', 'articles': articles,
               'sections': rules['sections'], 'pending': list(queue.values()), 'warnings': warnings,
-              'collector': {'successful_sources': successful_sources, 'total_sources': len(rules['source_paths'])}}
+              'discovery_pending':list(dict.fromkeys(work[cursor:]+retry)),
+              'collector': {'successful_sources': successful_sources, 'total_sources': len(visited),'mode':'all_public_articles','configured_sources':len(rules['source_paths'])}}
     target.parent.mkdir(parents=True, exist_ok=True)
     temporary = target.with_suffix('.tmp')
     temporary.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

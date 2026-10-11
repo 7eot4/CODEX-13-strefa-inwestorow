@@ -4,7 +4,8 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="Archiwum wiadomości i artykułów o spółkach, gospodarce i sektorach ze Strefy Inwestorów.">
 <title>Notatnik inwestora · Archiwum wiadomości</title>
-<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="editorial.css">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="editorial.css"><link rel="stylesheet" href="market.css"><link rel="stylesheet" href="archive-lists.css">
+<script src="market-core.js" defer></script><script src="market.js" defer></script>
 <script src="portfolio-core.js" defer></script><script src="portfolio.js" defer></script><script src="search-core.js" defer></script><script src="article-ui.js" defer></script><script src="app.js" defer></script><script src="search-ai.js" defer></script>
 </head>
 <body>
@@ -12,6 +13,16 @@
 <main>
 <section class="intro"><div><p class="eyebrow">STREFA INWESTORÓW · TWOJA BIBLIOTEKA</p><h1>Wiadomości, do których<br>warto wracać.</h1><p class="lead">Spółki, sektory i gospodarka. Pełne artykuły przypisane do tematów, które chcesz śledzić.</p></div><aside><span class="status-dot"></span><strong id="status">Wczytywanie archiwum</strong><p id="checked">Sprawdzanie źródła co 2 godziny.</p><p>Pełne teksty czytasz tutaj, także po ich usunięciu ze źródła.</p><p id="collection-status"></p></aside></section>
 <section class="library" aria-label="Archiwum wiadomości">
+<section class="market-desk" aria-label="Harmonogram giełd i notowania">
+<div class="market-heading"><div><p class="eyebrow">PULPIT RYNKOWY</p><h2>Giełdy: otwarcie, zamknięcie i kursy</h2><p id="market-now">Wczytywanie czasu i kalendarza</p></div><label>Dzień sesji<input id="market-date" type="date"></label></div>
+<div class="market-table-scroll"><table class="market-table"><thead><tr><th>Giełda</th><th>Godziny w Polsce</th><th>Czas giełdy</th><th>Status teraz / najbliższe zdarzenie</th><th>Zakres</th></tr></thead><tbody id="market-sessions"></tbody></table></div>
+<p id="market-calendar-note">Sprawdzanie harmonogramu sesji akcji.</p>
+<h2 class="market-feed-heading">Indeksy i spółki</h2>
+<p class="market-delay">GPW i Xetra: dane po zakończeniu sesji (EOD), nie bieżący kurs. Pozostałe rynki według opóźnienia pokazanego przez dostawcę. Widżet aktualizuje się przy otwartej stronie; nie jest usługą alertów.</p>
+<iframe id="public-market-widget" class="market-widget" title="Publiczne notowania indeksów i spółek — TradingView" referrerpolicy="no-referrer" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups" src="about:blank"></iframe>
+<p class="market-widget-credit">Notowania: <a href="https://www.tradingview.com/widget-docs/markets/" target="_blank" rel="noopener noreferrer">TradingView — dostępne rynki i rodzaje danych</a>. Stała lista publiczna; portfel nie jest przekazywany dostawcy.</p>
+<details><summary>Monitoring mojego portfela</summary><p>Import portfela nadal dopasowuje artykuły lokalnie. Automatyczny monitoring kursów i alerty portfela nie są aktywne: wymagają osobnego źródła danych z prawem do publikacji wspólnej bazy. Zgodnie z Twoim wyborem obecnie pokazujemy darmowy widżet rynku.</p></details>
+</section>
 <section class="research-search" aria-label="Wyszukiwarka do badania tematów"><label for="search">Zbadaj temat lub firmę</label><div class="search-line"><input id="search" type="search" placeholder="Np. jak stopy procentowe wpływają na sprzedaż mieszkań"><button id="search-run">Szukaj</button><button id="ai-enable">Włącz lokalne AI</button></div><p id="ai-status" role="status" aria-live="polite">Od razu działa wyszukiwanie słów, odmian i pojęć pokrewnych. AI dodaje podobieństwo znaczeniowe.</p><p class="search-privacy">AI pobiera model z Hugging Face (około 120 MB + pliki językowe), a następnie oblicza zapytania lokalnie. Model nie generuje odpowiedzi ani prognoz giełdowych. Dane portfela pozostają w przeglądarce.</p></section>
 <details class="portfolio-panel"><summary>Import portfela z konta maklerskiego</summary><p>Plik CSV / TSV / XLSX odczytujemy tylko na Twoim urządzeniu. Do dopasowania zapisujemy lokalnie nazwy, tickery i ISIN — bez liczby akcji, salda, cen, wartości pozycji i numeru rachunku.</p><p>Importuj aktualne pozycje. Sprawdź nazwy przed zapisaniem; dla samego kodu wpisz nazwę firmy używaną w artykułach. Lista nie jest wysyłana na GitHub ani synchronizowana między urządzeniami.</p><label>Wybierz plik aktualnych pozycji<input id="portfolio-file" type="file" accept=".csv,.tsv,.txt,.xlsx"></label><p id="portfolio-import-status" role="status" aria-live="polite"></p><div id="portfolio-preview"></div><button id="portfolio-save" hidden>Zapisz sprawdzoną listę spółek</button><button id="portfolio-clear">Usuń lokalną listę</button><p id="portfolio-status"></p><p>Automatyzacja zbiera wspólne archiwum. „Mój portfel” wyszukuje w nim artykuły o Twoich spółkach; nie jest to osobny serwerowy monitoring rachunku.</p></details>
 <nav id="sections" class="section-nav" aria-label="Sekcje tematyczne"></nav>
@@ -20,6 +31,8 @@
 <div class="filters"><label>Firma<select id="company"><option value="">Wszystkie firmy</option></select></label><label>Miesiąc<select id="month"><option value="">Całe archiwum</option></select></label><label>Rodzaj tekstu<select id="kind"><option value="">Wszystkie teksty</option><option value="article">Artykuły indywidualne</option><option value="roundup">Skróty dnia</option></select></label><label>Kolejność<select id="sort"><option value="relevance">Trafność wyszukiwania</option><option value="latest">Najnowsze</option><option value="interest">Znaczenie tematu</option><option value="impact">Potencjał reakcji kursu</option></select></label></div>
 <div class="results"><h2>Biblioteka artykułów</h2><span id="count" role="status" aria-live="polite"></span></div>
 <div id="articles" class="articles" aria-busy="true"></div>
+<button id="more-articles" class="more-articles" hidden>Pokaż kolejne artykuły</button>
+<details id="pending-section" class="pending-section" hidden><summary>Teksty oczekujące na zapis: <span id="pending-count">0</span></summary><p>Te publikacje są już wykryte. Kopia trafi do bazy w kolejnych przebiegach; do tego czasu możesz czytać u źródła. Część adresów może wymagać dostępu u wydawcy.</p><ul id="pending-links"></ul></details>
 <p class="storage">Lista „Do przeczytania” jest zapisywana tylko w tej przeglądarce. Bazę wpisów możesz pobrać jako plik.</p>
 </section>
 </main>

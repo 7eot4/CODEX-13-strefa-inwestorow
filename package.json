@@ -2,7 +2,7 @@
   "name": "codex-13-strefa-inwestorow",
   "private": true,
   "scripts": {
-    "test": "node tests/test_portfolio.cjs && node tests/test_search.cjs && node tests/test_ui.cjs && node tests/test_ai_ui.cjs",
+    "test": "node tests/test_portfolio.cjs && node tests/test_search.cjs && node tests/test_ui.cjs && node tests/test_ai_ui.cjs && node tests/test_markets.cjs",
     "build:client": "node scripts/build-client.mjs",
     "build:search": "node scripts/build-search.mjs"
   },
