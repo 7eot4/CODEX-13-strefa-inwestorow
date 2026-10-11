@@ -401,11 +401,10 @@
     "/podcast?page=1",
     "/artykuly-edukacyjne?page=1",
     "/dywidendy?page=1",
-    "/artykuly/rekomendacje",
-    "/artykuly/raporty",
-    "/artykuly/dywidendy",
-    "/artykuly/obligacje",
-    "/artykuly/debiut-ipo"
+    "/rekomendacje",
+    "/rekomendacje?page=1",
+    "/raporty",
+    "/raporty?page=1"
   ],
   "article_prefixes": [
     "/wiadomosci/",
