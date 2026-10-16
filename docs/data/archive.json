@@ -1,8 +1,588 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-16T00:26:42+00:00",
+  "last_checked": "2026-10-16T05:05:16+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "5cbff510d37c0e2e",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-16",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-16",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "PGE"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-16"
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 16 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ARP - Agencja Rozwoju Przemysłu S.A. oraz Crist S.A. zapraszają na uroczyste podpisanie umowy, dotyczącej budowy pierwszego polskiego specjalistycznego statku do układania kabli podmorskich. Wydarzeniu towarzyszyć będzie briefing prasowy z planowanym udziałem ministra aktywów państwowych Wojciecha Balczuna oraz przedstawicieli firm, biorących udział w projekcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:30 - Ogólnopolskie Forum Stabilność Finansów Publicznych"
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 19 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ZBP - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online Związku Banków Polskich. Wśród tematów: podsumowanie debaty dot. rynku roszczeń konsumenckich, prezentacja raportu „Polska między długiem a rozwojem. Jak wyjść z fiskalnego zakrętu, nie osłabić banków i utrzymać wzrost?”, przedstawienie raportu InfoDOK za III kwartał 2026 r. i prezentacja Monitora Bankowego za październik 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:30 - PGE - Konferencja prasowa spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa PGE, podczas której zostanie przedstawiona aktualizacja Strategii PGE."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 20 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - Deloitte; ZPPP Browary Polskie - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Briefing prasowy dot. prezentacji raportu Deloitte \"System kaucyjny 2026 – rok po starcie\"."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - RynekPierwotny.pl - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online portalu RynekPierwotny.pl \"Czy to dobry moment na zakup mieszkania?\"."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - Federacja Przedsiębiorców Polskich - V Kongres Federacji Przedsiębiorców Polskich (FPP) \"Dialog o gospodarce 2026\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biznes Zesp.Emitencki (PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 07:01",
+      "content_sha256": "ac054c6bbf25080372c1d6146ea77aec2767d26d8b1acda755ae5a958c055e39",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-16T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "10:00 - ARP - Agencja Rozwoju Przemysłu S.A. oraz Crist S.A. zapraszają na uroczyste podpisanie umowy, dotyczącej budowy pierwszego polskiego specjalistycznego statku do układania kabli podmorskich.",
+          "Jak wyjść z fiskalnego zakrętu, nie osłabić banków i utrzymać wzrost?”, przedstawienie raportu InfoDOK za III kwartał 2026 r. i prezentacja Monitora Bankowego za październik 2026 r.",
+          "Briefing prasowy dot. prezentacji raportu Deloitte \"System kaucyjny 2026 – rok po starcie\"."
+        ],
+        "interest_score": 47,
+        "impact_score": 36,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "10:00 - ARP - Agencja Rozwoju Przemysłu S.A. oraz Crist S.A. zapraszają na uroczyste podpisanie umowy, dotyczącej budowy pierwszego polskiego specjalistycznego statku do układania kabli podmorskich."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ac054c6bbf25080372c1d6146ea77aec2767d26d8b1acda755ae5a958c055e39"
+      }
+    },
+    {
+      "id": "c6c98a978123a871",
+      "title": "Kalendarium rynku NewConnect 2026-10-16",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/kalendarium-rynku-newconnect-2026-10-16",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-10-16"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 20 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "13:00 - UNIVERSE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. upoważnienia zarządu do podwyższenia kapitału zakł., zmian w RN."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - TECHROBOT - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. emisji akcji serii H, zmian w radzie nadzorczej, przyjęcia polityki wynagrodzeń członków zarządu i RN."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - FARMINN - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji zwykłych na okaziciela serii D, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - 4MASS - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. zgody na sfinansowanie przez spółkę nabycia akcji przez członków zarządu, zmiany polityki wynagrodzeń."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 07:01",
+      "content_sha256": "67341343c99212d9b8800cabb6ab8eee975e0d66551b72c9ee1f3d8060153ccc",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-16T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie m.in. upoważnienia zarządu do podwyższenia kapitału zakł., zmian w RN.",
+          "W sprawie m.in. emisji akcji serii H, zmian w radzie nadzorczej, przyjęcia polityki wynagrodzeń członków zarządu i RN.",
+          "W sprawie emisji akcji zwykłych na okaziciela serii D, zmian w radzie nadzorczej."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "67341343c99212d9b8800cabb6ab8eee975e0d66551b72c9ee1f3d8060153ccc"
+      }
+    },
+    {
+      "id": "00112423289f7440",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-10-16",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/kalendarium-rynku-kapitalowego-gpw-2026-10-16",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Alior"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-10-16"
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 19 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - XTPL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji zwykłych na okaziciela serii Z."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 20 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ALIOR - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie rady nadzorczej, zmiany zasad kształtowania wynagrodzeń członków zarządu i RN."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - GRODNO - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - MOSTALWAR - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "C.d. obrad NWZ z 6.10.2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "- ATREM - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzecia transza wypłaty. Łączna dywidenda w wysokości 2,16 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - PCCEXOL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. zgody na ustanowienie ograniczonych praw rzeczowych na zorganizowanych częściach przedsiębiorstwa."
+        },
+        {
+          "type": "paragraph",
+          "text": "- VOTUM - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 2,50 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ERG - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W srawie zamknięcia programu skupu akcji własnych (uchw. nr 5 WZ z 20.03.2020 r.), zgody na nabycie akcji własnych do dalszej odsprzedaży lub umorzenia."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 07:01",
+      "content_sha256": "2693d829c2105985e4e04eeeed63c88539349ff1a955cf1169608dee840dc4d1",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-16T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie emisji akcji zwykłych na okaziciela serii Z.",
+          "Łączna dywidenda w wysokości 2,16 PLN na akcję.",
+          "Zaliczka na poczet dywidendy w wysokości 2,50 PLN na akcję."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2693d829c2105985e4e04eeeed63c88539349ff1a955cf1169608dee840dc4d1"
+      }
+    },
+    {
+      "id": "8c59001b2d05bfe9",
+      "title": "WIG-Banki walczy na wsparciu",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/wig-banki-walczy-na-wsparciu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "16.10.2026 06:05",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "published_time": "06:05",
+      "published_at": "2026-10-16T06:05+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
+    {
+      "id": "a02bb4a6a00f0de3",
+      "title": "HiProMine przedłuża budowę księgi popytu na akcje serii T do 20 X",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/hipromine-przedluza-budowe-ksiegi-popytu-na-akcje-serii-t-do-20-x",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "HiProMine zdecydował, że budowa księgi popytu na akcje serii T potrwa do 20 października 2026 roku, nie później niż do godz. 17:00 - poinformowała spółka w komunikacie. Wcześniej zakończenie budowy księgi popytu planowane było na 15 października."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, pozostałe postanowienia uchwały zarządu z 13 października w sprawie rozpoczęcia budowania księgi popytu w ramach oferowania akcji serii T pozostają bez zmian."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje serii T zostały zaoferowane w liczbie nie większej niż 703.176 sztuk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przeprowadzenie budowy księgi popytu zostało powierzone firmie Trigon Dom Maklerski."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 05:55",
+      "content_sha256": "b616203f5c386fa5884e8bbccfc21719e6ae4242e6819cf2a8b2085826a24549",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "published_time": "05:55",
+      "published_at": "2026-10-16T05:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "HiProMine zdecydował, że budowa księgi popytu na akcje serii T potrwa do 20 października 2026 roku, nie później niż do godz.",
+          "Wcześniej zakończenie budowy księgi popytu planowane było na 15 października.",
+          "Jak podano, pozostałe postanowienia uchwały zarządu z 13 października w sprawie rozpoczęcia budowania księgi popytu w ramach oferowania akcji serii T pozostają bez zmian."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b616203f5c386fa5884e8bbccfc21719e6ae4242e6819cf2a8b2085826a24549"
+      }
+    },
     {
       "id": "580e31c4d72d7b17",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty głównych indeksów",
@@ -225,7 +805,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-16T00:26:42+00:00",
+      "discovered_at": "2026-10-16T05:05:16+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -668,7 +1248,7 @@
       "published_display": "15.10.2026 21:02",
       "content_sha256": "bd3ad51ae906a05f12c3649c2c280c1e79da583bc47a0dda1b8c41d7d7610748",
       "saved_at": "2026-10-15T21:49:56+00:00",
-      "content_checked_at": "2026-10-16T00:26:42+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3079,7 +3659,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-16T00:26:42+00:00",
+      "discovered_at": "2026-10-16T05:05:16+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3482,7 +4062,7 @@
       "published_display": "15.10.2026 17:06",
       "content_sha256": "1017257aaf885a8b9b951a3a3dda0bb907438edb61ea5a92e34d56188ace0896",
       "saved_at": "2026-10-15T18:43:22+00:00",
-      "content_checked_at": "2026-10-16T00:26:42+00:00",
+      "content_checked_at": "2026-10-16T05:05:16+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -224475,7 +225055,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224493,7 +225073,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224512,7 +225092,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224530,7 +225110,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224548,7 +225128,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224566,7 +225146,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224584,7 +225164,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224602,7 +225182,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224620,7 +225200,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224638,7 +225218,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224656,7 +225236,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224674,7 +225254,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224692,7 +225272,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224710,7 +225290,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224728,7 +225308,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224748,7 +225328,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224768,7 +225348,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224786,7 +225366,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224914,7 +225494,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224932,7 +225512,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224950,7 +225530,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224970,7 +225550,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -224988,7 +225568,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225006,7 +225586,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225024,7 +225604,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225044,7 +225624,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225062,7 +225642,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225080,7 +225660,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225098,7 +225678,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225118,7 +225698,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225136,7 +225716,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225154,7 +225734,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225172,7 +225752,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225190,7 +225770,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225210,7 +225790,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225228,7 +225808,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225246,7 +225826,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225264,7 +225844,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225285,7 +225865,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225303,7 +225883,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225321,7 +225901,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225342,7 +225922,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225360,7 +225940,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 11,
+      "attempts": 12,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225378,7 +225958,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225396,7 +225976,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225414,7 +225994,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225432,7 +226012,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225450,7 +226030,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225468,7 +226048,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225488,7 +226068,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225506,7 +226086,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225526,7 +226106,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225544,7 +226124,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225562,7 +226142,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225580,7 +226160,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225600,7 +226180,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225618,7 +226198,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225636,7 +226216,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225654,7 +226234,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225674,7 +226254,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225692,7 +226272,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225710,7 +226290,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225728,7 +226308,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225746,7 +226326,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225766,7 +226346,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225784,7 +226364,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225802,7 +226382,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225820,7 +226400,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225838,7 +226418,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -225856,7 +226436,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -225874,7 +226454,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -225892,7 +226472,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -225910,11 +226490,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
       "error": "ValueError"
@@ -226201,30 +226785,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
       "error": "ValueError"
     }
   ],
