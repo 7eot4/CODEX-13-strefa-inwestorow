@@ -1,8 +1,2941 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-16T14:53:37+00:00",
+  "last_checked": "2026-10-16T18:51:15+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "4e2c12e35f8a2760",
+      "title": "Dekpol w III kw. sprzedał 146 lokali",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dekpol-w-iii-kw-sprzedal-146-lokali",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Temat: deweloper"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Dekpol w trzecim kwartale 2026 roku sprzedał 146 lokali - podał deweloper w komunikacie. Dodano, że na wartość tę wpłynęło rozwiązanie 23 umów dotyczących projektu Oval Sky w Warszawie, który został wycofany z oferty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, grupa rozpozna w wyniku finansowym za trzeci kwartał 2026 roku 42 lokale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na koniec września 2026 roku łączna liczba lokali oferowanych przez grupę do sprzedaży wynosiła 1.043 lokale."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 19:52",
+      "content_sha256": "2a51f2889289d3026af88bd42e0b32fda9a48f3171e543f0acbf4f305d69d0df",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "19:52",
+      "published_at": "2026-10-16T19:52+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Dekpol w trzecim kwartale 2026 roku sprzedał 146 lokali - podał deweloper w komunikacie.",
+          "Dodano, że na wartość tę wpłynęło rozwiązanie 23 umów dotyczących projektu Oval Sky w Warszawie, który został wycofany z oferty.",
+          "Jak podano, grupa rozpozna w wyniku finansowym za trzeci kwartał 2026 roku 42 lokale."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Jak podano, grupa rozpozna w wyniku finansowym za trzeci kwartał 2026 roku 42 lokale."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Dodano, że na wartość tę wpłynęło rozwiązanie 23 umów dotyczących projektu Oval Sky w Warszawie, który został wycofany z oferty."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "deweloper*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "deweloper*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2a51f2889289d3026af88bd42e0b32fda9a48f3171e543f0acbf4f305d69d0df"
+      }
+    },
+    {
+      "id": "651c379a040bde2d",
+      "title": "Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na Zabka Group przedłużone do 2 XII '26",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/przyjmowanie-zapisow-w-wezwaniu-alimentation-couche-tard-na-zabka-group",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Żabka"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Żabka"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na akcje Zabka Group zostało przedłużone do 2 grudnia 2026 r. - poinformował pośredniczący w wezwaniu Ipopema Securities. Cena podana w wezwaniu pozostaje bez zmian."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu informowano o przedłużeniu zapisów w wezwaniu na akcję Grupy Żabka do 26 października 2026 r. Przyjmowanie zapisów rozpoczęło się 27 sierpnia i początkowo miało potrwać do 25 września 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "26 sierpnia 2026 r. Alimentation Couche-Tard ogłosił wezwanie na 1.002.974.605 akcji Zabka Group, stanowiących 100 proc. akcji, po cenie 32 zł/szt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewidywany termin zawarcia transakcji nabycia akcji to obecnie 7 grudnia 2026 r., a termin rozliczenia transakcji nabycia akcji to 10 grudnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, w pozostałym zakresie treść wezwania pozostaje bez zmian."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podmiotem nabywającym akcje w wezwaniu będzie Circle K Polska sp. z o.o."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak informowano wcześniej, zamiarem wzywającego jest przejęcie kontroli nad spółką, a docelowo nabycie do 100 proc. jej akcji oraz całkowitej liczby głosów na walnym zgromadzeniu. Wzywający może też podjąć działania mające na celu wycofanie akcji z obrotu na rynku regulowanym."
+        },
+        {
+          "type": "paragraph",
+          "text": "W wyniku zawartych wcześniej umów spółki Heket i PG Investment Company nieodwołalnie zobowiązały się do sprzedaży wszystkich swoich akcji w ramach wezwania. Do sprzedaży akcji w wezwaniu zobowiązali się także menadżerowie: Tomasz Suchański, Tomasz Blicharski, Adam Manikowski, Jolanta Bańczerowska, Anna Grabowska, Marta Wrochna-Łastowska oraz Wojciech Krok."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniej podano także, że łącznie zobowiązania do sprzedaży wynikające z tych umów dotyczą 574.153.132 akcji, co stanowi 57,245 proc. kapitału zakładowego spółki oraz całkowitej liczby głosów na WZ."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 19:20",
+      "content_sha256": "484b971e047debfd342f6f2e879d92871b6b87a752f0114d249a66ee6e863ed2",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "19:20",
+      "published_at": "2026-10-16T19:20+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na akcje Zabka Group zostało przedłużone do 2 grudnia 2026 r. - poinformował pośredniczący w wezwaniu Ipopema Securities.",
+          "We wrześniu informowano o przedłużeniu zapisów w wezwaniu na akcję Grupy Żabka do 26 października 2026 r. Przyjmowanie zapisów rozpoczęło się 27 sierpnia i początkowo miało potrwać do 25 września 2026 r.",
+          "26 sierpnia 2026 r. Alimentation Couche-Tard ogłosił wezwanie na 1.002.974.605 akcji Zabka Group, stanowiących 100 proc. akcji, po cenie 32 zł/szt."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "484b971e047debfd342f6f2e879d92871b6b87a752f0114d249a66ee6e863ed2"
+      }
+    },
+    {
+      "id": "8b75a2fb07341ddb",
+      "title": "Spółka zależna Grupy Azoty Police wstrzymała czasowo część pracy przy Porcie Morskim Police",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/spolka-zalezna-grupy-azoty-police-wstrzymala-czasowo-czesc-pracy-przy-porcie",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [
+        "Grupa Azoty"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: chemiczn",
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Zarząd Morskiego Portu Police, spółka zależna Grupy Azoty Zakłady Chemiczne Police, zdecydowała o czasowym, częściowym wstrzymaniu prac ziemnych na terenie budowy węzła kolejowego dla Portu Police w związku z wykryciem historycznego zanieczyszczenia gruntu - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, w trakcie prowadzenia prac ziemnych na terenie realizowanej inwestycji pod nazwą \"Budowa węzła kolejowego dla Portu Police wraz z niezbędną infrastrukturą techniczną w ramach budowy linii kolejowej nr 437 do Portu Morskiego Police\", realizowanej przez spółkę zależną, wykryto występowanie w podłożu substancji ropopochodnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Z pozyskanych przez spółkę zależną wstępnych ekspertyz geośrodowiskowych wynika, że zidentyfikowane zanieczyszczenie ma charakter historyczny i stanowi ukrytą wadę fizyczną gruntu, który jest w użytkowaniu wieczystym emitenta. Ani emitent, ani spółka zależna nie ponoszą odpowiedzialności za spowodowanie ujawnionego zanieczyszczenia\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodano, że w celu zabezpieczenia terenu i umożliwienia przeprowadzenia szczegółowych badań wstrzymano prace ziemne wyłącznie w konkretnym, wydzielonym sektorze inwestycji, w którym ujawniono zanieczyszczenie. W pozostałych sektorach oraz w innych branżach prace budowlane są nieprzerwanie kontynuowane przez spółkę zależną."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na dzień publikacji niniejszego raportu precyzyjny wpływ punktowego wstrzymania prac na ostateczny harmonogram całej inwestycji nie jest możliwy do określenia. Będzie on uzależniony od tempa zatwierdzania procedur środowiskowych oraz skali koniecznych prac ziemnych w tym konkretnym sektorze, niemniej istnieje wysokie ryzyko niedotrzymania terminu realizacji inwestycji, o którym emitent informował w raporcie bieżącym nr 73/2024 z dnia 8 października 2024 roku\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "8 października 2024 r. spółka informowała, że planowany termin zakończenia tego projektu przypada na pierwszy kwartał 2028 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie dodano, że koszt unieszkodliwienia zanieczyszczonych mas ziemi oraz ewentualnego przeprowadzenia procedury remediacji mogą obciążyć Grupę Azoty Police, co może mieć przełożenie na jej wyniki finansowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na moment sporządzenia niniejszego raportu szacunkowe koszty tych działań nie są znane. Emitent przystępuje do procedury wyceny prac naprawczych we współpracy z wyspecjalizowanymi podmiotami oraz generalnym wykonawcą, aby opracować plan najbliższego działania i ograniczenie jego wpływu na realizowaną inwestycje oraz wyniki emitenta\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W październiku 2024 r. spółka informowała, że Zarząd Morskiego Portu Police zawarł z Europejską Agencją Wykonawczą ds. Klimatu, Infrastruktury i Środowiska umowę na dofinansowanie projektu pn. \"Budowa węzła kolejowego dla Portu Police wraz z niezbędną infrastrukturą techniczną w ramach budowy linii kolejowej nr 437 do Portu Morskiego Police\". Jak wówczas informowano, całkowita wartość projektu to 48,3 mln euro, w tym wydatki kwalifikowane to 41,1 mln euro. Kwota dofinansowania przyznana w ramach umowy grantowej to 33,4 mln euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano wówczas, przedmiotem projektu jest wykonanie węzła kolejowego wraz z niezbędną infrastrukturą techniczną w celu poprawy dostępności i zdolności przeładunkowej Morskiego Portu Police poprzez zapewnienie dostępu do sieci kolejowej. Celem projektu jest zwiększenie dostępności Portu Police zarówno od strony lądowej, jak i morskiej, a także zwiększenie wydajności przeładunkowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 19:10",
+      "content_sha256": "d1dff45d669ed3f8c64025ecc61ee77e5d8d01ab7e1da1d2dcaba7cc2f8933d8",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "19:10",
+      "published_at": "2026-10-16T19:10+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zarząd Morskiego Portu Police, spółka zależna Grupy Azoty Zakłady Chemiczne Police, zdecydowała o czasowym, częściowym wstrzymaniu prac ziemnych na terenie budowy węzła kolejowego dla Portu Police w związku z wykryciem historycznego zanieczyszczenia gruntu - podała spółka w komunikacie.",
+          "Jak podano, w trakcie prowadzenia prac ziemnych na terenie realizowanej inwestycji pod nazwą \"Budowa węzła kolejowego dla Portu Police wraz z niezbędną infrastrukturą techniczną w ramach budowy linii kolejowej nr 437 do Portu Morskiego Police\", realizowanej przez spółkę zależną, wykryto występowanie w podłożu substancji ropopochodnych.",
+          "W komunikacie dodano, że koszt unieszkodliwienia zanieczyszczonych mas ziemi oraz ewentualnego przeprowadzenia procedury remediacji mogą obciążyć Grupę Azoty Police, co może mieć przełożenie na jej wyniki finansowe."
+        ],
+        "interest_score": 69,
+        "impact_score": 64,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "\"Z pozyskanych przez spółkę zależną wstępnych ekspertyz geośrodowiskowych wynika, że zidentyfikowane zanieczyszczenie ma charakter historyczny i stanowi ukrytą wadę fizyczną gruntu, który jest w użytkowaniu wieczystym emitenta."
+          },
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Zarząd Morskiego Portu Police, spółka zależna Grupy Azoty Zakłady Chemiczne Police, zdecydowała o czasowym, częściowym wstrzymaniu prac ziemnych na terenie budowy węzła kolejowego dla Portu Police w związku z wykryciem historycznego zanieczyszczenia gruntu - podała spółka w komunikacie."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "infrastruktur*",
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d1dff45d669ed3f8c64025ecc61ee77e5d8d01ab7e1da1d2dcaba7cc2f8933d8"
+      }
+    },
+    {
+      "id": "4f66e894b8d732b9",
+      "title": "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - Dąbrowski, RPP (opis)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/przy-obecnych-danych-nie-widac-potrzeby-podnoszenia-stop-procentowych-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: RPP",
+          "Temat: stop procentowych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - ocenił w Radiu Zet członek Rady Polityki Pieniężnej Ireneusz Dąbrowski. Jego zdaniem, obniżka jest jeszcze mniej prawdopodobna."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przy tych danych, które są w tej chwili, nie widzę potrzeby podnoszenia stóp procentowych, przynajmniej na razie\" - powiedział Dąbrowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Obniżenie jest jeszcze mniej prawdopodobne niż podniesienie, także to jest najmniej w tej chwili prawdopodobny wariant\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie Dąbrowskiego prognozy obarczone są obecnie dużą niepewnością ze względu na zbliżające się wybory połówkowe w USA, które są zaplanowane na 3 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Prognozy są dzisiaj bardzo trudne do oszacowania. Czekam na wybory połówkowe w Stanach Zjednoczonych i czekam na ruch prezydenta Trumpa związany z Iranem po wyborach połówkowych. Czy ta wojna eskaluje, czy będzie szybka, czy nie, co się stanie\" - powiedział członek RPP."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Moim zdaniem rozgrywka między Iranem, Stanami Zjednoczonymi i Izraelem jest jeszcze przed nami. Tam jest w tej chwili zawieszenie broni, oczekiwanie co będzie się dalej działo. Moim zdaniem ta wojna się bardzo odmrozi po wyborach połówkowych albo zakończy, nie wiemy, co się stanie. I wtedy będziemy mogli coś dalej dopiero przewidywać\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem Dąbrowskiego, rządowy program obniżający ceny paliw, tzw. \"CPN\", powinien być kontynuowany. Obecnie obowiązuje on do końca 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jeżeli będą wysokie ceny paliw, prezydent podpisał ustawę, która powoduje, że koncerny paliwowe są opodatkowane, więc są zabezpieczone środki na program 'CPN'. Także moim zdaniem on powinien być kontynuowany\" - powiedział Dąbrowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Członek RPP zapytany, czy rząd prowadzi odpowiedzialną politykę fiskalną, powiedział: \"Rząd jest na granicy\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Nie powinienem krytykować rządu, bo dla mnie polityka fiskalna jest polityką daną i my musimy dopasować politykę monetarną do polityki fiskalnej, więc ja może odpowiem tak - w przypadku dalszego prowadzenia takiej polityki fiskalnej Polska może wpaść w duże kłopoty i Rada Polityki Pieniężnej będzie musiała tu interweniować w jakiś sposób\" - powiedział Dąbrowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 19:06",
+      "content_sha256": "12a79a44aa12e4cd2f5b865312ef25eb0745cb3aeb80fb4a3ebf99681ea08d4d",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "19:06",
+      "published_at": "2026-10-16T19:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - ocenił w Radiu Zet członek Rady Polityki Pieniężnej Ireneusz Dąbrowski.",
+          "\"Przy tych danych, które są w tej chwili, nie widzę potrzeby podnoszenia stóp procentowych, przynajmniej na razie\" - powiedział Dąbrowski.",
+          "W ocenie Dąbrowskiego prognozy obarczone są obecnie dużą niepewnością ze względu na zbliżające się wybory połówkowe w USA, które są zaplanowane na 3 listopada."
+        ],
+        "interest_score": 39,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - ocenił w Radiu Zet członek Rady Polityki Pieniężnej Ireneusz Dąbrowski."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*",
+              "RPP"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "12a79a44aa12e4cd2f5b865312ef25eb0745cb3aeb80fb4a3ebf99681ea08d4d"
+      }
+    },
+    {
+      "id": "fd711d04944a64a5",
+      "title": "Komunikat w sprawie zmiany terminu przyjmowania zapisów określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group SA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/komunikat-w-sprawie-zmiany-terminu-przyjmowania-zapisow-okreslonego-w-wezwaniu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Żabka"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Żabka"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komunikat w sprawie zmiany terminu przyjmowania zapisów określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszone przez Alimentation Couche-Tard Inc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komunikat w sprawie zmiany terminu przyjmowania zapisów określonego w dokumencie wezwania („Wezwanie”) do zapisywania się na sprzedaż akcji Zabka Group S.A. („Spółka”) ogłoszonego 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc. z siedzibą w Laval, Kanada („Wzywający”) na podstawie art. 72a ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (tekst jednolity Dz. U. z 2025 r., poz. 592, z późniejszymi zmianami) („Ustawa\")."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie art. 79f ust. 3 Ustawy, w wykonaniu obowiązku informacyjnego, o którym mowa w art. 79f ust. 5 pkt 1 Ustawy, Wzywający niniejszym informuje o wydłużeniu terminu przyjmowania zapisów w odpowiedzi na Wezwanie, do dnia 2 grudnia 2026 r., a w konsekwencji przesunięcia przewidywanej daty zawarcia transakcji nabycia akcji na dzień 7 grudnia 2026 r. oraz przewidywanej daty rozliczenia transakcji nabycia akcji na dzień 10 grudnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "W związku z powyższym,"
+        },
+        {
+          "type": "paragraph",
+          "text": "terminy określone w punkcie 9. Wezwania zostają zmienione w następujący sposób:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Data przekazania Zawiadomienia do Komisji Nadzoru Finansowego | 31 lipca 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Data ogłoszenia Wezwania: | 26 sierpnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Rozpoczęcie terminu przyjmowania zapisów: | 27 sierpnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Zakończenie terminu przyjmowania zapisów: | 2 grudnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przewidywana data zawarcia transakcji nabycia akcji: | 7 grudnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przewidywana data rozliczenia transakcji nabycia akcji: | 10 grudnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "następujący akapit punktu 24. Wezwania:"
+        },
+        {
+          "type": "paragraph",
+          "text": "„Zgodnie z najlepszą wiedzą Podmiotu Nabywającego oczekuje się, że warunki, o których mowa w niniejszym pkt 24, zostaną spełnione do dnia 26 października 2026 r., jednak termin ten może zostać przedłużony jednokrotnie lub kilkakrotnie w razie konieczności z zastrzeżeniem warunków określonych w pkt 9 dokumentu Wezwania.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "zostaje zmieniony w następujący sposób:"
+        },
+        {
+          "type": "paragraph",
+          "text": "„Zgodnie z najlepszą wiedzą Podmiotu Nabywającego oczekuje się, że warunki, o których mowa w niniejszym pkt 24, zostaną spełnione do dnia 2 grudnia 2026 r., jednak termin ten może zostać przedłużony jednokrotnie lub kilkakrotnie w razie konieczności z zastrzeżeniem warunków określonych w pkt 9 dokumentu Wezwania.”"
+        },
+        {
+          "type": "heading",
+          "text": "PODPISY OSÓB REPREZENTUJĄCYCH WZYWAJĄCEGO:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko: Pełnomocnik"
+        },
+        {
+          "type": "heading",
+          "text": "PODPISY OSÓB REPREZENTUJĄCYCH PODMIOT NABYWAJĄCY:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko: Pełnomocnik"
+        },
+        {
+          "type": "heading",
+          "text": "PODPISY OSÓB REPREZENTUJĄCYCH IPOPEMA SECURITIES S.A.:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "_______________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imię i nazwisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanowisko:"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 19:06",
+      "content_sha256": "216afa0f4c7ff48f03d3629904cbaa67cb0d106e54922c7b700572bf86474b8a",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "19:06",
+      "published_at": "2026-10-16T19:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc.",
+          "Komunikat w sprawie zmiany terminu przyjmowania zapisów określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszone przez Alimentation Couche-Tard Inc.",
+          "Komunikat w sprawie zmiany terminu przyjmowania zapisów określonego w dokumencie wezwania („Wezwanie”) do zapisywania się na sprzedaż akcji Zabka Group S.A. („Spółka”) ogłoszonego 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc. z siedzibą w Laval, Kanada („Wzywający”) na podstawie art."
+        ],
+        "interest_score": 61,
+        "impact_score": 54,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (tekst jednolity Dz."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "216afa0f4c7ff48f03d3629904cbaa67cb0d106e54922c7b700572bf86474b8a"
+      }
+    },
+    {
+      "id": "345843dd59855da2",
+      "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez MORGAN STANLEY & CO. INTERNATIONAL PLC",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-obligacji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1466/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez MORGAN STANLEY & CO. INTERNATIONAL PLC"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 36, § 37 i § 38 ust. 1 i 3 Regulaminu Giełdy oraz § 1 ust. 1 i § 2 ust. 1 Działu V Szczegółowych Zasad Obrotu Giełdowego, Zarząd Giełdy postanawia:"
+        },
+        {
+          "type": "paragraph",
+          "text": "wprowadzić z dniem 20 października 2026 r. do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez MORGAN STANLEY & CO. INTERNATIONAL PLC w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”, rejestrowane przez Krajowy Depozyt Papierów Wartościowych S.A. pod kodem wskazanym w Załączniku właściwym dla obligacji danej serii;"
+        },
+        {
+          "type": "paragraph",
+          "text": "notować obligacje strukturyzowane, o których mowa w pkt 1), w systemie animatora rynku, pod nazwą skróconą wskazaną w Załączniku do niniejszej Uchwały właściwą dla obligacji danej serii;"
+        },
+        {
+          "type": "paragraph",
+          "text": "notować obligacje strukturyzowane, o których mowa w pkt 1), w segmencie instrumentów strukturyzowanych bez dźwigni (Segment B)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Załącznik do Uchwały Nr 1466/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Lp. | Kod ISIN obligacji | Nazwa skrócona obligacji | Wolumen emisji"
+        },
+        {
+          "type": "heading",
+          "text": "| 1. | XS3427919132 | MSIPS19132 | 500.000"
+        },
+        {
+          "type": "heading",
+          "text": "| 2. | XS3458500587 | MSIPS00587 | 240.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:41",
+      "content_sha256": "0c648c44bf3c1c8c85d7cfd8733e681a671f986ce77d2cb45184cb0a3e9c41cb",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:41",
+      "published_at": "2026-10-16T18:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1466/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez MORGAN STANLEY & CO.",
+          "wprowadzić z dniem 20 października 2026 r. do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez MORGAN STANLEY & CO.",
+          "notować obligacje strukturyzowane, o których mowa w pkt 1), w segmencie instrumentów strukturyzowanych bez dźwigni (Segment B)."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "0c648c44bf3c1c8c85d7cfd8733e681a671f986ce77d2cb45184cb0a3e9c41cb"
+      }
+    },
+    {
+      "id": "08482a15f2919553",
+      "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez GOLDMAN SACHS INTERNATIONAL",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1464/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez GOLDMAN SACHS INTERNATIONAL"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 36, § 37 i § 38 ust. 1 i 3 Regulaminu Giełdy oraz § 1 ust. 1 i § 2 ust. 1 Działu V Szczegółowych Zasad Obrotu Giełdowego, Zarząd Giełdy postanawia:"
+        },
+        {
+          "type": "paragraph",
+          "text": "wprowadzić z dniem 20 października 2026 r. do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez GOLDMAN SACHS INTERNATIONAL w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”, rejestrowane przez Krajowy Depozyt Papierów Wartościowych S.A. pod kodem wskazanym w Załączniku właściwym dla obligacji danej serii;"
+        },
+        {
+          "type": "paragraph",
+          "text": "notować obligacje strukturyzowane, o których mowa w pkt 1), w systemie animatora rynku, pod nazwą skróconą wskazaną w Załączniku do niniejszej Uchwały właściwą dla obligacji danej serii;"
+        },
+        {
+          "type": "paragraph",
+          "text": "notować obligacje strukturyzowane, o których mowa w pkt 1), w segmencie instrumentów strukturyzowanych bez dźwigni (Segment B)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Załącznik do Uchwały Nr 1464/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Lp. | Kod ISIN obligacji | Nazwa skrócona obligacji | Wolumen emisji"
+        },
+        {
+          "type": "heading",
+          "text": "| 1. | XS2156099793 | GSI3YCFRPKO | 20.000"
+        },
+        {
+          "type": "heading",
+          "text": "| 2. | XS2116247102 | GSI5YSX7E | 2.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:41",
+      "content_sha256": "1e00482b13378d721250b12b5edfb559e91704f24ec97dc33aacccc4284a869d",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:41",
+      "published_at": "2026-10-16T18:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "notować obligacje strukturyzowane, o których mowa w pkt 1), w segmencie instrumentów strukturyzowanych bez dźwigni (Segment B).",
+          "Załącznik do Uchwały Nr 1464/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "1e00482b13378d721250b12b5edfb559e91704f24ec97dc33aacccc4284a869d"
+      }
+    },
+    {
+      "id": "5dabbd617157a54e",
+      "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez MORGAN STANLEY & CO. INTERNATIONAL PLC",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-obligacji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1465/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez MORGAN STANLEY & CO. INTERNATIONAL PLC"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 3 ust. 1, § 3a ust. 1 i 2, § 5 oraz § 8 ust. 1 i 2 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez MORGAN STANLEY & CO. INTERNATIONAL PLC w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Załącznik do Uchwały Nr 1465/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Lp. | Kod ISIN obligacji | Nazwa skrócona obligacji | Wolumen emisji"
+        },
+        {
+          "type": "heading",
+          "text": "| 1. | XS3427919132 | MSIPS19132 | 500.000"
+        },
+        {
+          "type": "heading",
+          "text": "| 2. | XS3458500587 | MSIPS00587 | 240.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:41",
+      "content_sha256": "c05b703981e5d2abb5f3da2c3f41436493ce739d2a1ad6e22d2e8c38cd1d6d8f",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:41",
+      "published_at": "2026-10-16T18:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1465/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez MORGAN STANLEY & CO.",
+          "1 i 2 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez MORGAN STANLEY & CO.",
+          "INTERNATIONAL PLC w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "INTERNATIONAL PLC w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "c05b703981e5d2abb5f3da2c3f41436493ce739d2a1ad6e22d2e8c38cd1d6d8f"
+      }
+    },
+    {
+      "id": "fbba67800f4310d2",
+      "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez GOLDMAN SACHS INTERNATIONAL",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1463/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW obligacji strukturyzowanych wyemitowanych przez GOLDMAN SACHS INTERNATIONAL"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 3 ust. 1, § 3a ust. 1 i 2, § 5 oraz § 8 ust. 1 i 2 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez GOLDMAN SACHS INTERNATIONAL w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Załącznik do Uchwały Nr 1463/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Lp. | Kod ISIN obligacji | Nazwa skrócona obligacji | Wolumen emisji"
+        },
+        {
+          "type": "heading",
+          "text": "| 1. | XS2156099793 | GSI3YCFRPKO | 20.000"
+        },
+        {
+          "type": "heading",
+          "text": "| 2. | XS2116247102 | GSI5YSX7E | 2.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:41",
+      "content_sha256": "f6a464e37070140be2cb3478a393b30a549c417e31553a3e30427fb8a0c521e5",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:41",
+      "published_at": "2026-10-16T18:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1 i 2 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez GOLDMAN SACHS INTERNATIONAL w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”.",
+          "Załącznik do Uchwały Nr 1463/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "1 i 2 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić do obrotu giełdowego na rynku równoległym obligacje strukturyzowane wyemitowane przez GOLDMAN SACHS INTERNATIONAL w ramach 2 (dwóch) serii obligacji, o których mowa w Załączniku do niniejszej Uchwały, w liczbie nie większej niż liczba obligacji danej serii wskazana w tym Załączniku w kolumnie „Wolumen emisji”."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "f6a464e37070140be2cb3478a393b30a549c417e31553a3e30427fb8a0c521e5"
+      }
+    },
+    {
+      "id": "5eea2bd9e48bfb78",
+      "title": "GPW: w sprawie dopuszczenia do działania na giełdzie spółki INTERKAPITAL vrijednosni papiri d.o.o. (INTERCAPITAL SECURITIES LTD.)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gpw-w-sprawie-dopuszczenia-do-dzialania-na-gieldzie-spolki-interkapital",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1462/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie dopuszczenia do działania na giełdzie spółki INTERKAPITAL vrijednosni papiri d.o.o. (INTERCAPITAL SECURITIES LTD.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 60 ust. 2 pkt 1), § 61, § 65 ust. 1 i § 72 ust. 1 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić spółkę INTERKAPITAL vrijednosni papiri d.o.o. z siedzibą w Zagrzebiu do działania na giełdzie jako członka giełdy - w zakresie obrotu papierami wartościowymi na rachunek własny i na rachunek klienta."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:30",
+      "content_sha256": "52994c287bbf7f214359d292180a48a7070f7af0ff5fe6fc7f286e066b9cfd80",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:30",
+      "published_at": "2026-10-16T18:30+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1 Regulaminu Giełdy, Zarząd Giełdy postanawia dopuścić spółkę INTERKAPITAL vrijednosni papiri d.o.o. z siedzibą w Zagrzebiu do działania na giełdzie jako członka giełdy - w zakresie obrotu papierami wartościowymi na rachunek własny i na rachunek klienta.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "52994c287bbf7f214359d292180a48a7070f7af0ff5fe6fc7f286e066b9cfd80"
+      }
+    },
+    {
+      "id": "e0a1a92f506357aa",
+      "title": "GPW: w sprawie upomnienia spółki \"WAN\" S.A.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gpw-w-sprawie-upomnienia-spolki-wan-sa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1461/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie upomnienia spółki \"WAN\" S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 17 ust. 1 i § 17c ust. 1 pkt 1) Regulaminu Alternatywnego Systemu Obrotu, oraz w związku z § 18 ust. 4 Załącznika Nr 4 do Regulaminu Alternatywnego Systemu Obrotu, Zarząd Giełdy postanawia upomnieć spółkę \"WAN\" S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "heading",
+          "text": "UZASADNIENIE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z § 17 ust. 1 zdanie pierwsze Regulaminu Alternatywnego Systemu Obrotu („Regulamin ASO”) emitenci papierów wartościowych wprowadzonych do alternatywnego systemu obrotu, poza obowiązkami wynikającymi z przepisów prawa, w tym obowiązkiem przekazywania do publicznej wiadomości informacji poufnych, o których mowa w art. 7 Rozporządzenia 596/2014, zobowiązani są przekazywać Organizatorowi Alternatywnego Systemu informacje bieżące i okresowe, w zakresie i na zasadach określonych odpowiednio w Załączniku Nr 3 lub 4 do Regulaminu ASO."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednocześnie zgodnie z przepisami § 17c ust. 1 pkt 1) Regulaminu ASO, jeżeli emitent nie przestrzega zasad lub przepisów obowiązujących w alternatywnym systemie obrotu lub nie wykonuje lub nienależycie wykonuje obowiązki informacyjne określone w Regulaminie ASO Giełda, jako Organizator Alternatywnego Systemu, może upomnieć emitenta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ponadto zgodnie z § 18 ust. 4 Załącznika Nr 4 do Regulaminu ASO emitenci instrumentów finansowych notowanych w alternatywnym systemie obrotu na Catalyst zobowiązani są do opublikowania raportu półrocznego nie później niż w terminie trzech miesięcy od zakończenia półrocza roku obrotowego, którego dotyczy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W powyższym kontekście należy wskazać na niedochowanie przez spółkę \"WAN\" S.A. powyższych wymogów co do trybu i warunków publikacji raportu półrocznego obejmującego okres pierwszych 6 miesięcy roku 2026, obowiązujących w alternatywnym systemie obrotu na Catalyst."
+        },
+        {
+          "type": "paragraph",
+          "text": "W związku z powyższym oraz celem zdyscyplinowania tej spółki do terminowego wypełniania obowiązków informacyjnych na Catalyst w przyszłości, Zarząd Giełdy postanowił o nałożeniu kary upomnienia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mając powyższe na uwadze Zarząd Giełdy postanowił jak w uchwale."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:28",
+      "content_sha256": "cfa6de2fed24461e375a2f6e8facdf6f162491e9a545b22c1943a5fc185e0083",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:28",
+      "published_at": "2026-10-16T18:28+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1461/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 16 października 2026 r. w sprawie upomnienia spółki \"WAN\" S.A.",
+          "1 pkt 1) Regulaminu Alternatywnego Systemu Obrotu, oraz w związku z § 18 ust.",
+          "4 Załącznika Nr 4 do Regulaminu Alternatywnego Systemu Obrotu, Zarząd Giełdy postanawia upomnieć spółkę \"WAN\" S.A."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "cfa6de2fed24461e375a2f6e8facdf6f162491e9a545b22c1943a5fc185e0083"
+      }
+    },
+    {
+      "id": "f9262e3f9e29c0c1",
+      "title": "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - Dąbrowski, RPP",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/przy-obecnych-danych-nie-widac-potrzeby-podnoszenia-stop-procentowych-dabrowski",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: RPP",
+          "Temat: stop procentowych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - ocenił w Radiu Zet członek RPP Ireneusz Dąbrowski. Jego zdaniem, obniżka stóp jest jeszcze mniej prawdopodobna."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przy tych danych, które są w tej chwili, nie widzę potrzeby podnoszenia stóp procentowych, przynajmniej na razie\" - powiedział Dąbrowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Obniżenie jest jeszcze mniej prawdopodobne niż podniesienie, także to jest najmniej w tej chwili prawdopodobny wariant\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:27",
+      "content_sha256": "31ba7873810888a4b920f51216614ffd4393f0f2e589a79dcafbc8a13362b762",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:27",
+      "published_at": "2026-10-16T18:27+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - ocenił w Radiu Zet członek RPP Ireneusz Dąbrowski.",
+          "Jego zdaniem, obniżka stóp jest jeszcze mniej prawdopodobna.",
+          "\"Przy tych danych, które są w tej chwili, nie widzę potrzeby podnoszenia stóp procentowych, przynajmniej na razie\" - powiedział Dąbrowski."
+        ],
+        "interest_score": 39,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Przy obecnych danych nie widać potrzeby podnoszenia stóp procentowych - ocenił w Radiu Zet członek RPP Ireneusz Dąbrowski."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*",
+              "RPP"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "31ba7873810888a4b920f51216614ffd4393f0f2e589a79dcafbc8a13362b762"
+      }
+    },
+    {
+      "id": "bb81a50e1411ba66",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w Europie kończą sesję na plusach, na Wall Street przewaga spadków",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-rynkach-gieldy-w-europie-koncza-sesje-na-plusach-na-wall-street",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "finanse",
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "finanse": [
+          "Temat: bank"
+        ],
+        "energia": [
+          "Temat: energi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Główne indeksy giełdowe w Europie zakończyły piątkową sesję na plusach; na Wall Street przeważają spadki. Pod koniec tygodnia uwaga inwestorów skupia się na wynikach finansowych największych spółek, wysokich cenach energii spowodowanych wojną na Bliskim Wschodzie oraz na perspektywach dla polityki banków centralnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zamknięciu sesji indeks Euro Stoxx 50 wzrósł o 0,58 proc., niemiecki DAX zwyżkował o 0,95 proc., brytyjski FTSE poszedł w górę o 0,38 proc., a francuski CAC 40 wzrósł o 0,28 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks Stoxx Europe 600 wzrósł o 0,67 proc., napędzany przede wszystkim przez akcje spółek motoryzacyjnych oraz z sektora spożywczego. Najsłabiej radziły sobie akcje spółek z sektora opieki zdrowotnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs Nordex SE wzrósł o ponad 4 proc. po tym, jak producent turbin wiatrowych ogłosił wyniki finansowe, które znacznie przekroczyły oczekiwania w trzecim kwartale, oraz podniósł swój docelowy poziom marży na cały rok."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs Commerzbank AG wzrósł o 0,1 proc. po tym, jak UniCredit uzyskał zgodę EBC na zwiększenie udziału w niemieckim banku, torując drogę dyrektorowi generalnemu Andrei Orcelowi do przejęcia kontroli nad nim."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje brytyjskich banków spadły po pojawieniu się doniesień, że minister skarbu John Healey zamierza podnieść podatki nakładane na te instytucje w ramach budżetu na ten miesiąc. NatWest Group Plc i Lloyds Banking Group Plc straciły po ok. 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oprócz wyników finansowych inwestorzy nadal skupiają się na wysokich cenach energii spowodowanych konfliktem w Iranie oraz na perspektywach polityki banków centralnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dane gospodarcze ze strefy euro stanowią wsparcie dla rynków, pomimo napięć spowodowanych ryzykiem geopolitycznym i rosnącą inflacją\" – powiedział Guillermo Hernandez Sampere, dyrektor ds. handlu w MPPM."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jednocześnie uwaga skupia się również na rynkach obligacji, ponieważ rentowności niektórych krajów strefy euro mogą nadal rosnąć, wywierając dalszą presję na walutę i Europejski Bank Centralny\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nastroje na rynkach poprawiły się w piątek dzięki zmniejszeniu się oczekiwań dotyczących podwyżki stóp procentowych przez Rezerwę Federalną podczas posiedzenia 27–28 października."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes Fed Kevin Warsh zabrał głos w nocy podczas wydarzenia MFW w Bangkoku i choć nie wypowiedział się na temat tego, czy Fed podniesie stopy przed końcem roku, inwestorzy odebrali to jako sygnał, że bank centralny utrzyma politykę pieniężną na niezmienionym poziomie jeszcze w tym miesiącu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Narzędzie FedWatch grupy CME wskazuje na 85-procentowe prawdopodobieństwo, że Fed utrzyma stopę overnight na niezmienionym poziomie podczas październikowego posiedzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA w pierwszych godzinach handlu na Wall Street przeważają spadki - przed godz. 18.00 S&P500 traci 0,3 proc., Nasdaq Comp. idzie w dół 1,2 proc., a DJI rośnie o 0,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje producentów chipów ponownie notują spadki. Sektor półprzewodników borykał się w tym tygodniu z trudnościami w związku z obawami dotyczącymi konkurencji ze strony Chin. Spadki te, w połączeniu z obniżkami kursów innych akcji związanych ze sztuczną inteligencją, sprawiły, że indeks S&P 500 zmierza ku tygodniowej stracie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku surowców ceny ropy zwyżkują. Baryłka ropy West Texas Intermediate kosztuje na NYMEX w Nowym Jorku 98,1 USD - wyżej o ok. 0,1 proc. Brent na ICE jest wyceniana po 106,3 USD za baryłkę, wyżej o ok. 0,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku walutowym dolar traci względem euro; notowania EUR/USD wynoszą 1,1235, po wzroście o 0,24 proc. Kwotowanie USD/JPY traci 0,10 proc. do 157,98."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:07",
+      "content_sha256": "1d15f03bdc40f55fecc02b8566fb2e75c50a7bc1bd1fcb144f27f3c57affb4ff",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:07",
+      "published_at": "2026-10-16T18:07+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Główne indeksy giełdowe w Europie zakończyły piątkową sesję na plusach; na Wall Street przeważają spadki.",
+          "Kurs Nordex SE wzrósł o ponad 4 proc. po tym, jak producent turbin wiatrowych ogłosił wyniki finansowe, które znacznie przekroczyły oczekiwania w trzecim kwartale, oraz podniósł swój docelowy poziom marży na cały rok.",
+          "Nastroje na rynkach poprawiły się w piątek dzięki zmniejszeniu się oczekiwań dotyczących podwyżki stóp procentowych przez Rezerwę Federalną podczas posiedzenia 27–28 października."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Pod koniec tygodnia uwaga inwestorów skupia się na wynikach finansowych największych spółek, wysokich cenach energii spowodowanych wojną na Bliskim Wschodzie oraz na perspektywach dla polityki banków centralnych."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "energi*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "1d15f03bdc40f55fecc02b8566fb2e75c50a7bc1bd1fcb144f27f3c57affb4ff"
+      }
+    },
+    {
+      "id": "f00f5686ff179573",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/zamkniecia-na-gieldach-w-europie-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeksy | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Euro Stoxx 50 | Strefa euro | 6204,23 | 0,58 | 0,50 | -0,99 | 9,77 | 7,13"
+        },
+        {
+          "type": "paragraph",
+          "text": "| DAX | Niemcy | 25622,61 | 0,95 | 2,13 | 0,33 | 5,56 | 4,62"
+        },
+        {
+          "type": "paragraph",
+          "text": "| FTSE 100 | W.Brytania | 10881,90 | 0,38 | 3,13 | 1,81 | 15,32 | 9,57"
+        },
+        {
+          "type": "paragraph",
+          "text": "| CAC 40 | Francja | 7956,70 | 0,28 | 1,97 | -2,26 | -2,83 | -2,37"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBEX 35 | Hiszpania | 19326,30 | 0,77 | 1,54 | -1,58 | 23,52 | 11,66"
+        },
+        {
+          "type": "paragraph",
+          "text": "| FTSE MIB | Włochy | 49857,18 | 0,93 | 0,22 | -4,06 | 17,66 | 10,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ASE | Grecja | 2613,49 | 1,22 | 2,12 | -3,16 | 29,78 | 23,24"
+        },
+        {
+          "type": "paragraph",
+          "text": "| BUX | Węgry | 145471,10 | 0,70 | 2,68 | -5,65 | 41,14 | 31,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PX | Czechy | 2657,34 | 0,26 | 3,13 | -3,18 | 11,72 | -1,05"
+        },
+        {
+          "type": "paragraph",
+          "text": "| BIST 100 | Turcja | 11721,72 | -2,89 | -4,44 | -10,68 | 13,03 | 4,09"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20 | Polska | 4247,22 | 0,92 | 1,47 | 4,02 | 47,11 | 33,39"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG | Polska | 160221,60 | 1,03 | 1,47 | 4,29 | 48,06 | 36,66"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40 | Polska | 10826,99 | 1,47 | 1,65 | 4,98 | 37,94 | 32,33"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 18:03",
+      "content_sha256": "7a72d5b87bac7d8c18443944dd155627621e645ed4e0f10624db4ab62dd1bc1b",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "18:03",
+      "published_at": "2026-10-16T18:03+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "7a72d5b87bac7d8c18443944dd155627621e645ed4e0f10624db4ab62dd1bc1b"
+      }
+    },
+    {
+      "id": "13ef5ff7cd932ac2",
+      "title": "Sąd restrukturyzacyjny zatwierdził układ przyjęty w postępowaniu sanacyjnym PKP Cargotabor (opis)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/sad-restrukturyzacyjny-zatwierdzil-uklad-przyjety-w-postepowaniu-sanacyjnym-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Sąd Rejonowy dla m.st. Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, zatwierdzenie układu jest kolejnym etapem postępowania sanacyjnego PKP Cargotabor. Przesądza ono - choć jeszcze nieprawomocnie - że układ, przyjęty przez wierzycieli wymaganą większością głosów został również uznany przez sąd restrukturyzacyjny za zgodny z prawem."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Postanowienie o zatwierdzeniu układu nie jest prawomocne, przysługuje na nie zażalenie. Z dniem uprawomocnienia się postanowienia o zatwierdzeniu układu postępowanie sanacyjne PKP Cargotabor zostanie zakończone, a PKP Cargotabor przystąpi do wykonywania układu, w tym do spłaty wierzycieli objętych układem, zgodnie z jego postanowieniami\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano w komunikacie prasowym, zatwierdzenie to poprzedziło głosowanie wierzycieli (pod koniec sierpnia br.), w którym za układem opowiedziało się 250 spośród 271 uprawnionych do głosowania wierzycieli. Następnie, 10 września br., sędzia-komisarz stwierdził przyjęcie układu przez wierzycieli."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Zatwierdzenie układu PKP Cargotabor przez sąd to bardzo ważny moment dla spółki i całej Grupy PKP Cargo. To decyzja, która daje PKP Cargotabor szansę dalszego stabilnego funkcjonowania i tworzy solidne podstawy do odbudowy jego potencjału oraz dalszego rozwoju. Wierzę, że wypracowane rozwiązania pozwolą PKP Cargotabor skoncentrować się na działalności operacyjnej i wykorzystać szanse rozwojowe w nadchodzących latach\" - powiedział, cytowany w komunikacie prasowym, Paweł Głodek, zarządca masy sanacyjnej PKP Cargo w restrukturyzacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes PKP Cargotabor Marcin Butryn dodał, że po sierpniowym głosowaniu, w którym wierzyciele reprezentujący ponad 96 proc. sumy wierzytelności poparli przedstawione propozycje układowe, spółka osiągnęła kolejny kluczowy etap."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Uprawomocnienie się postanowienia będzie oznaczało zakończenie postępowania sanacyjnego i rozpoczęcie realizacji postanowień Układu przez Spółkę, w tym spłaty wierzytelności na określonych w nim warunkach\" - powiedział Butryn."
+        },
+        {
+          "type": "paragraph",
+          "text": "O uprawomocnieniu się postanowienia o zatwierdzeniu układu spółka poinformuje osobno."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:37",
+      "content_sha256": "ac810c40347d0c631cd3228ec2cb9f307534e15c390f7774b5c9187ba0a58aa7",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:37",
+      "published_at": "2026-10-16T17:37+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie.",
+          "Jak podano, zatwierdzenie układu jest kolejnym etapem postępowania sanacyjnego PKP Cargotabor.",
+          "Przesądza ono - choć jeszcze nieprawomocnie - że układ, przyjęty przez wierzycieli wymaganą większością głosów został również uznany przez sąd restrukturyzacyjny za zgodny z prawem."
+        ],
+        "interest_score": 43,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ac810c40347d0c631cd3228ec2cb9f307534e15c390f7774b5c9187ba0a58aa7"
+      }
+    },
+    {
+      "id": "b1eb27f69a547bd3",
+      "title": "WIG20 na zamknięciu wyniósł 4247,22 pkt (0,92%)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/wig20-na-zamknieciu-wyniosl-424722-pkt-092",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "GPW SA - Wartość indeksów na zamknięciu sesji"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026.10.16"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nazwa | Otwarcie | Zamknięcie | Zmiana (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG20 | 4218,93 | 4247,22 | 0,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGdivplus | 3259,66 | 3283,94 | 1,04"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NCFIndex | 1723,42 | 1726,50 | -0,45"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG30 | 5372,75 | 5406,26 | 1,11"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG | 159337,58 | 160221,62 | 1,03"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40 | 10706,45 | 10826,99 | 1,47"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80 | 30742,91 | 30863,64 | 0,90"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG140 | 3102,23 | 3119,67 | 1,04"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-BANKI | 27101,68 | 27275,04 | 1,09"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-BUDOW | 10057,21 | 10257,88 | 2,39"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-CHEMIA | 7778,90 | 7722,76 | 0,15"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-ENERG | 5592,36 | 5392,39 | -3,55"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.GAMES5 | 18057,81 | 17995,51 | -0,18"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-GORNIC | 10563,23 | 10461,11 | 0,98"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-GRY | 22452,43 | 22224,65 | -0,64"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-INFO | 11179,17 | 11243,79 | 1,64"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-LEKI | 2856,47 | 2911,11 | 2,41"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-MEDIA | 8158,09 | 8354,21 | 2,44"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-MOTO | 13948,51 | 13917,44 | 0,49"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-NRCHOM | 5924,67 | 5952,71 | 0,66"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-ODZIEZ | 15398,89 | 15417,66 | 0,13"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-PALIWA | 19253,66 | 19282,70 | 0,35"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-SPOZYW | 3030,27 | 3038,15 | 0,28"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGmed | 19171,48 | 19290,85 | 0,66"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGind | 19838,37 | 19840,03 | 0,63"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG-CEE | 3600,95 | 3636,45 | 1,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG-Poland | 165538,86 | 166009,70 | 1,05"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG-Ukrain | 519,76 | 517,35 | -0,59"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGdiv | 3336,04 | 3365,21 | 1,17"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20dvp | 157,40 | 157,40 | 0,00"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG20TR | 9722,41 | 9787,61 | 0,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20TRlev | 11899,50 | 12058,72 | 1,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIG20TRsht | 1840,06 | 1827,66 | -0,90"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG30TR | 12071,26 | 12146,56 | 1,11"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40dvp | 330,13 | 330,13 | 0,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40TR | 17302,77 | 17497,57 | 1,47"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40TRlv | 35153,59 | 35942,56 | 2,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40TRsh | 1781,85 | 1761,65 | -1,45"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80dvp | 762,02 | 762,02 | 0,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80TR | 49451,55 | 49645,75 | 0,90"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGtechTR | 21916,00 | 22098,85 | 1,40"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.MS-BAS | 31828,11 | 31004,24 | -2,16"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.MS-FIN | 28316,59 | 28578,31 | 1,28"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG.MS-ECM | 11772,65 | 11950,24 | 1,91"
+        },
+        {
+          "type": "heading",
+          "text": "| INNOVATOR | 1725,36 | 1718,92 | -0,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NCIndex | 275,19 | 275,76 | 0,04"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:33",
+      "content_sha256": "cd957190b49966d324d9e52e44ff0d75af27aec8cf2011f3bf38c209954b0c37",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:33",
+      "published_at": "2026-10-16T17:33+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "WIG20 na zamknięciu wyniósł 4247,22 pkt (0,92%).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "cd957190b49966d324d9e52e44ff0d75af27aec8cf2011f3bf38c209954b0c37"
+      }
+    },
+    {
+      "id": "c60b46eca1dac648",
+      "title": "Kruk szacuje zysk netto w III kw. 2026 r. na 198 mln zł (opis)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/kruk-szacuje-zysk-netto-w-iii-kw-2026-r-na-198-mln-zl-opis",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Kruk szacuje skonsolidowany zysk netto w trzecim kwartale 2026 r. na 198 mln zł - podała spółka w komunikacie. Wstępna EBITDA gotówkowa grupy wyniosła 651 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, szacunkowy wskaźnik długu netto do EBITDA gotówkowej grupy na koniec III kwartału wynosi 2,7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skonsolidowany zysk netto grupy za okres od 1 stycznia 2026 r. do 30 września 2026 r. wyniósł, według szacunków, 753 mln zł, a wstępna EBITDA gotówkowa grupy za dziewięć miesięcy 2026 r. wynosi 2.052 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Szacujemy, że poziom zysku netto w trzecim kwartale może wynieść 198 mln zł i wynik narastająco po trzech kwartałach będzie wówczas niższy niż rok wcześniej. Negatywny wpływ na szacowane wyniki miały niższe niż operacyjnie planowaliśmy spłaty z portfeli wierzytelności, głównie w Hiszpanii i Rumunii. W samym tylko trzecim kwartale odchylenia wpłat rzeczywistych od planowanych wyniosły 8 mln zł w porównaniu do 64 mln zł rok wcześniej, a narastająco 87 mln zł vs 192 mln zł\" - powiedział, cytowany w komunikacie prasowym, Piotr Krupa, CEO i prezes Kruka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka podała, że chodzi o pozycję \"Odchylenie wpłat rzeczywistych, zmniejszenia z tytułu wcześniejszej realizacji wpłat na sprawach zabezpieczonych, wpłaty od pierwotnego wierzyciela\" w sprawozdaniu finansowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Niższe pozytywne odchylenia przekładają się wprost na niższe przychody rok do roku, ale mają też wpływ na rozpoznanie łącznie niższej niż się spodziewaliśmy pozytywnej aktualizacji prognozy wpływów z portfeli. W efekcie szacowany zysk netto jest niższy w porównaniu do poprzedniego roku, ale nasza sytuacja finansowa pozostaje bardzo mocna. EBITDA gotówkowa może być najwyższa historycznie dla pierwszych trzech kwartałów\" - dodał Krupa."
+        },
+        {
+          "type": "paragraph",
+          "text": "CEO przypomniał, że do końca września grupa zainwestowała ponad 1,2 mld zł w portfele wierzytelności."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Mamy bardzo dobrą sytuację finansową i możliwości operacyjne, aby realizować inwestycje. Zmienił się natomiast rynek. Konkurencja jest większa, a część graczy akceptuje niższe oczekiwane stopy zwrotu. My nie chcemy iść tą drogą. Wolimy chronić jakość naszych inwestycji, nawet jeśli oznacza to mniejszą skalę działania przez jakiś czas. Nadal widzimy atrakcyjne możliwości na rynku, ale nie będziemy kupować wzrostu za wszelką cenę\" - powiedział Krupa."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To jest ważne, bo Kruk ma dzisiaj mocne aktywa, które będą generowały przepływy gotówkowe przez wiele kolejnych lat. Dlatego coraz większą uwagę poświęcamy produktywności, technologii i lepszemu wykorzystaniu danych\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes poinformował też, że podejście grupy do alokacji kapitału ewoluuje."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jeśli pojawią się atrakcyjne portfele, mamy odpowiednie finansowanie, żeby z nich skorzystać. Ale jeśli takich możliwości będzie mniej, a bilans pozostanie bezpieczny, nadwyżka kapitału powinna wracać do akcjonariuszy\" powiedział Krupa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka opublikuje wyniki za III kwartał 27 października."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:29",
+      "content_sha256": "f66d81a74d9fb16e3d58e12801db48df4a473177e7c5771eae03796ccf930c8e",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:29",
+      "published_at": "2026-10-16T17:29+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Kruk szacuje skonsolidowany zysk netto w trzecim kwartale 2026 r. na 198 mln zł - podała spółka w komunikacie.",
+          "Jak podano, szacunkowy wskaźnik długu netto do EBITDA gotówkowej grupy na koniec III kwartału wynosi 2,7.",
+          "Skonsolidowany zysk netto grupy za okres od 1 stycznia 2026 r. do 30 września 2026 r. wyniósł, według szacunków, 753 mln zł, a wstępna EBITDA gotówkowa grupy za dziewięć miesięcy 2026 r. wynosi 2.052 mln zł."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Grupa Kruk szacuje skonsolidowany zysk netto w trzecim kwartale 2026 r. na 198 mln zł - podała spółka w komunikacie."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Jak podano, szacunkowy wskaźnik długu netto do EBITDA gotówkowej grupy na koniec III kwartału wynosi 2,7."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "f66d81a74d9fb16e3d58e12801db48df4a473177e7c5771eae03796ccf930c8e"
+      }
+    },
+    {
+      "id": "1abac4320f9b87f7",
+      "title": "DZIEŃ NA FX/FI: PLN w skali tygodnia umocnił się do EUR i USD; pozostanie pod wpływem otoczenia",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-fxfi-pln-w-skali-tygodnia-umocnil-sie-do-eur-i-usd-pozostanie-pod",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: walut"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W piątek po południu EUR/PLN znajduje się na poziomie odniesienia, a USD/PLN lekko spada. Rentowności SPW nieznacznie rosną, co może być korektą czwartkowych spadków. W skali tygodnia, złoty umocnił się wobec głównych walut. Zdaniem ekonomistów, w przyszłym tygodniu krajowe aktywa będą przede wszystkim pod wpływem otoczenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "O godz. 17.00 kurs EUR/PLN spada o 0,01 proc. do 4,366, a USD/PLN idzie w dół o 0,41 proc. do 3,8803. EUR/USD zwyżkuje o 0,4 proc. do 1,1252."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po wzrostach kursu EUR/PLN z pierwszej dekady października, ten tydzień przyniósł umocnienie złotego. EUR/PLN w skali tygodnia spadł o ok. 0,5 proc., a USD/PLN zniżkował o 0,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności krajowych obligacji w piątek po południu są na poziomach zbliżonych do tych z piątku 9 października, jednak w trakcie tygodnia dochodowości SPW notowały spore wahania. W przypadku obligacji 10-letnich ich zakres to ok. 6,25-6,42 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jesteśmy pod koniec dosyć burzliwego tygodnia na rynkach finansowych i widać uspokojenie przez weekendem. Zazwyczaj weekend wiąże się z jakąś niepewnością, ale wydaje się, że te ostatnie dni jakby trochę wyczerpały rynki i mamy dziś nawet delikatne wzrosty na giełdach\" - powiedziała PAP Biznes Monika Kurtek, główna ekonomistka Banku Pocztowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jej zdaniem, w piątek inwestorzy śledzili przede wszystkim wystąpienie prezesa Fed Kevina Warsha."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dzisiejsze dane makroekonomiczne ze strefy euro, dotyczące inflacji nie przyniosły zaskoczeń. W Stanach Zjednoczonych produkcja przemysłowa była troszkę lepsza od oczekiwań, ale rynki walut i długu nie zareagowały. W większym stopniu dzisiejsze nastroje zdeterminował udział Kevina Warsha w zjeździe MFW i Banku Światowego w Bangkoku\" - powiedziała Monika Kurtek."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynki wyczekiwały, czy coś powie na temat polityki monetarnej, a w szczególności czy wskaże, że październik może być miesiącem kolejnej podwyżki stóp proc. Prezes Fedu jednak nic nie powiedział, a ponieważ nie pojawiły się jastrzębie sygnały, to rynki uznały, że jednak ta podwyżka przesuwa się na grudzień\" - dodała."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek amerykańska waluta osłabiała się."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Euro-dolar podchodził do góry i w ciągu dnia sięgnął poziomu 1,1270. Złoty, można powiedzieć, że nie przejął się tymi zmianami. Co prawda były wahania na EUR/PLN, ale obecnie jesteśmy w okolicach poziomu otwarcia\" - powiedziała ekonomistka."
+        },
+        {
+          "type": "heading",
+          "text": "RYNEK DŁUGU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Monika Kurtek zwróciła uwagę, że w tym tygodniu na rynku długu widoczna była duża zmienność."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W środę nastąpiły gwałtowne wzrosty rentowności obligacji w Stanach Zjednoczonych, po wyższej od oczekiwań inflacji, co pociągnęło inne rynki ze sobą, również nasz. W czwartek mieliśmy z kolei duże odreagowanie i spadki, a dziś delikatne wzrosty\" - powiedziała."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Te dzisiejsze wzrosty rentowności, które są widoczne zarówno w Stanach Zjednoczonych, jak i w Niemczech i u nas, potraktowałabym jako korektę tych wczorajszych dosyć istotnych spadków\" - dodała."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jej zdaniem, w przyszłym tygodniu krajowe aktywa będą przede wszystkim pod wpływem otoczenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W przyszłym tygodniu, nasz kalendarz danych makroekonomicznych jest dosyć mocno zapełniony, jednak wydaje się, że tylko naprawdę duże odchylenia od konsensusów mogłyby wpływać na rynek walutowy, czy na obligacje. Prawdopodobnie będziemy cały czas podążać za rynkami bazowymi\" - powiedziała Monika Kurtek."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynki bazowe będą się coraz bardziej skupiać na jeszcze kolejnym tygodniu, w którym decyzje będą podejmować Fed i Europejski Bank Centralny\" - dodała."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zastrzegła, że najważniejsze pozostaną wydarzenia na Bliskim Wschodzie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Istotne będzie, jakie informacje napłyną stamtąd przez weekend i potem w kolejnych dniach. Wiemy, że te informacje potrafią dosyć mocno ruszyć rynkami\" - powiedziała ekonomistka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fed 28 października podejmie decyzję w sprawie stóp procentowych w Stanach Zjednoczonych. Dzień później analogiczną decyzję dla strefy euro podejmie Europejski Bank Centralny."
+        },
+        {
+          "type": "paragraph",
+          "text": "| | piątek | piątek | czwartek"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | 17:00 | 09:01 | 16:30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| EUR/PLN | 4,366 | 4,3683 | 4,3707"
+        },
+        {
+          "type": "heading",
+          "text": "| USD/PLN | 3,8803 | 3,8871 | 3,8958"
+        },
+        {
+          "type": "heading",
+          "text": "| CHF/PLN | 4,7163 | 4,7066 | 4,7036"
+        },
+        {
+          "type": "heading",
+          "text": "| EUR/USD | 1,1252 | 1,1238 | 1,1219"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| PS0728 | 4,69 | 4,67* | 4,67"
+        },
+        {
+          "type": "heading",
+          "text": "| PS1031 | 5,86 | 5,84* | 5,83"
+        },
+        {
+          "type": "heading",
+          "text": "| DS0436 | 6,28 | 6,24* | 6,24"
+        },
+        {
+          "type": "paragraph",
+          "text": "* - dane z 15.10"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pam/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:21",
+      "content_sha256": "8c0458bdfb7f12edcf1d45fa092355d5935d256fc720c4b131a6d91a6d188acc",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:21",
+      "published_at": "2026-10-16T17:21+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W skali tygodnia, złoty umocnił się wobec głównych walut.",
+          "Rentowności krajowych obligacji w piątek po południu są na poziomach zbliżonych do tych z piątku 9 października, jednak w trakcie tygodnia dochodowości SPW notowały spore wahania.",
+          "Jej zdaniem, w przyszłym tygodniu krajowe aktywa będą przede wszystkim pod wpływem otoczenia."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8c0458bdfb7f12edcf1d45fa092355d5935d256fc720c4b131a6d91a6d188acc"
+      }
+    },
+    {
+      "id": "3d48eb8779d5b4b6",
+      "title": "Kruk szacuje zysk netto w III kw. 2026 r. na 198 mln zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/kruk-szacuje-zysk-netto-w-iii-kw-2026-r-na-198-mln-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Kruk szacuje skonsolidowany zysk netto w trzecim kwartale 2026 r. na 198 mln zł - podała spółka w komunikacie. Wstępna EBITDA gotówkowa grupy wyniosła 651 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szacunkowy wskaźnik długu netto do EBITDA gotówkowej grupy na koniec III kwartału wynosi 2,7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka opublikuje wyniki za III kwartał 27 października."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:16",
+      "content_sha256": "27784dab5825b7078655649ac03cad11c2428d1bd72c40654207a2226c7d58c9",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:16",
+      "published_at": "2026-10-16T17:16+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Kruk szacuje skonsolidowany zysk netto w trzecim kwartale 2026 r. na 198 mln zł - podała spółka w komunikacie.",
+          "Wstępna EBITDA gotówkowa grupy wyniosła 651 mln zł.",
+          "Szacunkowy wskaźnik długu netto do EBITDA gotówkowej grupy na koniec III kwartału wynosi 2,7."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Grupa Kruk szacuje skonsolidowany zysk netto w trzecim kwartale 2026 r. na 198 mln zł - podała spółka w komunikacie."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Szacunkowy wskaźnik długu netto do EBITDA gotówkowej grupy na koniec III kwartału wynosi 2,7."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "27784dab5825b7078655649ac03cad11c2428d1bd72c40654207a2226c7d58c9"
+      }
+    },
+    {
+      "id": "6b78de512c148f70",
+      "title": "Grupa KRUK szacuje zysk netto za 3 kwartały 2026 roku w wysokości 753 mln zł i 2 052 mln zł gotówkowej EBITDA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/grupa-kruk-szacuje-zysk-netto-za-3-kwartaly-2026-roku-w-wysokosci-753-mln-zl-i",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Komunikat od Kruk SA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd KRUK S.A. dzisiaj poinformował o szacunkowym zysku netto Grupy KRUK za 3 kwartały 2026 rok w wysokości 753 mln zł. EBITDA gotówkowa za ten okres została oszacowana na kwotę 2 052 mln zł. Szacunkowy wskaźnik długu netto do EBITDA gotówkowej na koniec września 2026 to 2,7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szacujemy, że poziom zysku netto w 3 kwartale może wynieść 198 mln zł i wynik narastająco po trzech kwartałach będzie wówczas niższy niż rok wcześniej. Negatywny wpływ na szacowane wyniki miały niższe niż operacyjnie planowaliśmy spłaty z portfeli wierzytelności, głównie w Hiszpanii i Rumunii. W samym tylko trzecim kwartale odchylenia wpłat rzeczywistych od planowanych wyniosły 8 mln zł w porównaniu do 64 mln zł rok wcześniej, a narastająco 87 mln zł vs 192 mln zł*. Niższe pozytywne odchylenia przekładają się wprost na niższe przychody rok do roku, ale mają też wpływ na rozpoznanie łącznie niższej niż się spodziewaliśmy pozytywnej aktualizacji prognozy wpływów z portfeli. W efekcie szacowany zysk netto jest niższy w porównaniu do poprzedniego roku, ale nasza sytuacja finansowa pozostaje bardzo mocna. EBITDA gotówkowa może być najwyższa historycznie dla pierwszych trzech kwartałów - mówi Piotr Krupa, CEO i prezes KRUK S.A. - Do września zainwestowaliśmy ponad 1,2 mld zł w portfele wierzytelności. Mamy bardzo dobrą sytuację finansową i możliwości operacyjne, aby realizować inwestycje. Zmienił się natomiast rynek. Konkurencja jest większa, a część graczy akceptuje niższe oczekiwane stopy zwrotu. My nie chcemy iść tą drogą. Wolimy chronić jakość naszych inwestycji, nawet jeśli oznacza to mniejszą skalę działania przez jakiś czas. Nadal widzimy atrakcyjne możliwości na rynku, ale nie będziemy kupować wzrostu za wszelką cenę. To jest ważne, bo KRUK ma dzisiaj mocne aktywa, które będą generowały przepływy gotówkowe przez wiele kolejnych lat. Dlatego coraz większą uwagę poświęcamy produktywności, technologii i lepszemu wykorzystaniu danych. Nasze podejście do alokacji kapitału ewoluuje. Jeśli pojawią się atrakcyjne portfele mamy odpowiednie finansowanie, żeby z nich skorzystać. Ale jeśli takich możliwości będzie mniej, a bilans pozostanie bezpieczny, nadwyżka kapitału powinna wracać do akcjonariuszy."
+        },
+        {
+          "type": "paragraph",
+          "text": "- powiedział Piotr Krupa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostateczne wyniki finansowe zostaną przedstawione w skonsolidowanym raporcie Grupy Kapitałowej KRUK za 3 kwartały 2026 roku, którego publikacja została przewidziana na 27 października 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "* Pozycja \"Odchylenie wpłat rzeczywistych, zmniejszenia z tytułu wcześniejszej realizacji wpłat na sprawach zabezpieczonych, wpłaty od pierwotnego wierzyciela\" w sprawozdaniu finansowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: Kruk SA"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:14",
+      "content_sha256": "3e1cab5352af196eb5bb00b18c672b9e9c811a5cd1195a4551e2735dd909ddb1",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:14",
+      "published_at": "2026-10-16T17:14+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zarząd KRUK S.A. dzisiaj poinformował o szacunkowym zysku netto Grupy KRUK za 3 kwartały 2026 rok w wysokości 753 mln zł.",
+          "Szacunkowy wskaźnik długu netto do EBITDA gotówkowej na koniec września 2026 to 2,7.",
+          "Szacujemy, że poziom zysku netto w 3 kwartale może wynieść 198 mln zł i wynik narastająco po trzech kwartałach będzie wówczas niższy niż rok wcześniej."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Zarząd KRUK S.A. dzisiaj poinformował o szacunkowym zysku netto Grupy KRUK za 3 kwartały 2026 rok w wysokości 753 mln zł."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Zarząd KRUK S.A. dzisiaj poinformował o szacunkowym zysku netto Grupy KRUK za 3 kwartały 2026 rok w wysokości 753 mln zł."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3e1cab5352af196eb5bb00b18c672b9e9c811a5cd1195a4551e2735dd909ddb1"
+      }
+    },
+    {
+      "id": "c252b4d764920759",
+      "title": "OFE wartości jednostek rozrachunkowych z 2026.10.15",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/ofe-wartosci-jednostek-rozrachunkowych-z-20261015",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "PZU"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania jednostek rozrachunkowych OFE"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026.10.15"
+        },
+        {
+          "type": "paragraph",
+          "text": "| JEDNOSTKI OFE | 15.10 | 14.10 | zmiana(%) | aktywa(zł)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Allianz | 115,58 | 115,93 | -0,30 | 91694151891,31"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PKOBPBankowy | 125,47 | 125,78 | -0,25 | 17790045432,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nationale-Nederlanden | 125,83 | 126,30 | -0,37 | 103282332023,86"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Vienna | 111,16 | 111,48 | -0,29 | 31611950427,44"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Pocztylion | 110,29 | 110,77 | -0,43 | 6456618256,08"
+        },
+        {
+          "type": "heading",
+          "text": "| PZU | 123,88 | 124,32 | -0,35 | 49649514523,06"
+        },
+        {
+          "type": "heading",
+          "text": "| UNIQA | 113,34 | 113,66 | -0,28 | 22808233949,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Generali | 115,55 | 115,92 | -0,32 | 47245623728,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra/ abs/ amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:09",
+      "content_sha256": "21cedf8ecfc76bdaf204acdcaedb8dd05d174a1547114058e2639eb9157005e3",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "published_time": "17:09",
+      "published_at": "2026-10-16T17:09+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "OFE wartości jednostek rozrachunkowych z 2026.10.15.",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "21cedf8ecfc76bdaf204acdcaedb8dd05d174a1547114058e2639eb9157005e3"
+      }
+    },
+    {
+      "id": "53af097a05ea2caf",
+      "title": "Skrót wiadomości - piątek, 16 października, 17.00",
+      "date": "2026-10-16",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/skrot-wiadomosci-piatek-16-pazdziernika-1700",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "attempts": 0,
+      "discovered_at": "2026-10-16T18:51:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "GUS zrewidował szacunek wzrostu PKB w II kwartale '26 do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inflacja liczona według HICP w Polsce we wrześniu w ujęciu rocznym wyniosła 4,0 proc., wobec 3,5 proc. w sierpniu - podał Eurostat. Miesięcznie ceny wzrosły o 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Barometr Ofert Pracy, mierzący liczbę internetowych ogłoszeń o zatrudnieniu, spadł we wrześniu drugi miesiąc z rzędu. Jednocześnie liczba ofert była nieco niższa niż rok wcześniej, choć autorzy badania wskazują, że na rynku pracy nadal trudno dostrzec jednoznaczny trend rozwojowy.- wynika z opracowania Biura Inwestycji i Cykli Ekonomicznych (BIEC) oraz Katedry Makroekonomii Wyższej Szkoły Informatyki i Zarządzania w Rzeszowie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jest szansa, że NBP osiągnie zysk w 2026 roku - poinformował w Programie I Polskiego Radia członek RPP, Ludwik Kotecki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny konsumpcyjne w strefie euro wzrosły o 3,8 proc. we wrześniu w ujęciu rdr - podał w końcowym szacunku Eurostat, biuro statystyczne Unii Europejskiej. Wstępnie szacowano wzrost o 3,7 proc. wobec +3,2 proc. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks cen zbóż i nasion oleistych GOI, publikowany przez Międzynarodową Radę Zbożową (IGC), obniżył się w ciągu miesiąca o 4 proc., odzwierciedlając spadek notowań większości głównych produktów rolnych na rynkach eksportowych - wynika z październikowego raportu IGC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Międzynarodowa Rada Zbożowa (IGC) podniosła o 7 mln ton prognozę światowej produkcji zbóż w sezonie 2026/27 do 2,427 mld ton, głównie za sprawą lepszych perspektyw zbiorów kukurydzy oraz jęczmienia - wynika z październikowego raportu IGC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja przemysłowa w USA we wrześniu urosła o 0,7 proc. mdm - podała Rezerwa Federalna USA. Oczekiwano, że produkcja wzrośnie o 0,4 proc. mdm wobec wzrostu o 0,1 proc. miesiąc wcześniej, po korekcie."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wartość gwarancji udzielonych przez Bank Gospodarstwa Krajowego w ramach programu de minimis, według stanu na 30 września 2026 r., wyniosła 292,867 mld zł wobec 290,249 mld zł na koniec poprzedniego miesiąca - wynika z danych BGK."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent RP K. Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego i Marty Kghtley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przywódcom na szczycie w czwartek nie udało się zasypać podziałów w sprawie budżetu UE, dlatego jego gospodarz Antonio Costa zapowiedział wyjście z kompromisowym projektem. Premier Donald Tusk przekonywał, że UE nie może sobie pozwolić na cięcia w związku z największym od dekad zagrożeniem ze strony Rosji."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "W III kw. w grupie JSW produkcja węgla ogółem wyniosła 3,31 mln ton i była niższa o ok. 0,2 proc. rdr. W III kw. w grupie JSW sprzedaż węgla ogółem wyniosła ok. 3,21 mln ton i była niższa o ok. 9,7 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Bogdanka szacuje, że miała w okresie I-III kw. 2026 roku 195 mln zł EBITDA i 27,6 mln zł skonsolidowanego zysku netto - podała spółka w komunikacie. Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agencja Rozwoju Przemysłu udzieli Synthaverse pożyczki w kwocie 45 mln zł z przeznaczeniem na refinansowanie zadłużenia wobec ACP - podała spółka w komunikacie. Synthaverse planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sąd Rejonowy dla m.st. Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Celon Pharma złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań w ramach dwóch odrębnych procedur zdecentralizowanych (DCP) obejmujących kilkanaście państw członkowskich UE - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa MOL uruchomiła pierwszą instalację do produkcji biometanu w miejscowości Szarvas na Węgrzech - podał MOL w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka zależna Develii, Develia Południe, nabyła nieruchomości w Krakowie pod budowę ok.97 lokali mieszkalnych - podała spółka w komunikacie. Planowany termin rozpoczęcia sprzedaży w ramach tego projektu inwestycyjnego to 2026 rok."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polregio podpisało umowę z Public Transport Service na zakup 15 używanych jednostek spalinowych za łącznie 515 mln zł brutto - podało Polregio w komunikacie prasowym. Przewoźnik będzie dążyć do skorzystania z prawa opcji, które umożliwia dokupienie kolejnych 8 pojazdów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oferta spółki z Grupy Mirbud - Kobylarnia o wartości 361,8 mln zł brutto na zaprojektowanie i wybudowanie drogi ekspresowej S17 Piaski - Hrebenne odc. realizacyjny nr 5: węzeł \"Zamość Sitaniec\" bez węzła - węzeł \"Zamość Wschód\" bez węzła, została wybrana jako najkorzystniejsza przez Generalną Dyrekcję Dróg Krajowych i Autostrad Oddział w Lublinie - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1253 USD i 177,82 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "W dniach 17-19 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,89 zł/l, dla benzyny Pb98 7,68 zł/l, a dla oleju napędowego 8,00 zł/l - poinformował minister energii w obwieszczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rząd proponuje przesunięcie części wsparcia dla PEJ na lata 2029-2030 przy zachowaniu całości kwoty ogólnej - podano w projekcie ustawy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W sierpniu cena referencyjna węgla, służąca do ustalania wysokości potencjalnych budżetowych dopłat dla kopalń, wyniosła 18,90 zł za gigadżul uzyskiwanej z węgla energii - poinformowała Agencja Rozwoju Przemysłu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gaz-System zakończył wbijanie ponad 500 pali stanowiących fundament nabrzeża dla pływającego terminala LNG w Zatoce Gdańskiej - podała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "W I półroczu liczba zmian sprzedawcy prądu w taryfie G wzrosła o 1,85 proc. rdr - podał Urząd Regulacji Energetyki w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Koncern paliwowy bp ocenia polski rynek detaliczny jako bardzo atrakcyjny i chce utrzymać na nim pozycję wicelidera - poinformował dziennikarzy prezes bp w Polsce Michał Obiegała."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polskie Elektrownie Jądrowe wdrożyły już część rekomendacji Najwyższej Izby Kontroli wskazane w raporcie z kontroli realizacji Programu polskiej energetyki jądrowej - podała w piątek spółka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moc zainstalowana farm wiatrowych w polskim systemie elektroenergetycznym na dzień 1 października 2026 roku wynosiła 11.794 MW, o 5,7 proc. więcej w stosunku do stanu z 1 października 2025 r. - wynika z danych PSE, opublikowanych na platformie X."
+        },
+        {
+          "type": "heading",
+          "text": "NIERUCHOMOŚCI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych będzie wyższy w 2026 r. w porównaniu do zeszłego - wynika z szacunków AXI IMMO. Inwestycjami na terenie Polski interesują się znaczący inwestorzy z USA, Azji i zachodniej Europy, aktywny jest kapitał z Czech oraz krajów bałtyckich, a także kapitał rodzimy."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Międzynarodowa Rada Zbożowa (IGC) podniosła o 7 mln ton prognozę światowej produkcji zbóż w sezonie 2026/27 do 2,427 mld ton, głównie za sprawą lepszych perspektyw zbiorów kukurydzy oraz jęczmienia - wynika z październikowego raportu IGC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ekonomiści Banku Pekao podnieśli prognozę wzrostu PKB Polski w 2026 r. do 4 proc. z 3,7 proc. prognozowanych wcześniej. W piątek GUS zrewidował w górę szacunek wzrostu PKB w I kw. i II kw. 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Auchan liderem najniższych cen we wrześniu, wyprzedził Makro Cash & Carry oraz Aldi - podała agencja badawcza ASM SFA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Circle K Polska złożył do UOKiK wniosek o przejęcie kontroli nad Zabka Group - podano na stronie Urzędu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 11,2 pkt. proc. i wyniósł 53,6 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 14,4 pkt. proc. i wynosi 16,1 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drony i systemy antydronowe, niskokosztowe i precyzyjne środki dalekiego rażenia, a także sztuczna inteligencja - takie są trzy priorytety dla Wojska Polskiego, o których powiedział w piątek szef MON, wicepremier Władysław Kosiniak-Kamysz. Dodał, że zarządził „mały przegląd strategiczny dla Wojska Polskiego”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister cyfryzacji Krzysztof Gawkowski poinformował, że na piątkowym spotkaniu z przedstawicielami platform cyfrowych zażądał od nich m.in. skutecznej weryfikacji wieku użytkowników i usuwania kont osób poniżej 13. roku życia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzynastolatki z krajów UE są narażone na kontakt z treściami o charakterze seksualnym, gdyż stosowane przez platformę X mechanizmy obronne nie są skuteczne – oceniło Centrum Przeciwdziałania Nienawiści Cyfrowej (CCDH). Zdaniem ekspertów system weryfikacji wieku użytkownika nie chroni niepełnoletnich."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeśli prezydent ma informacje o tym, że Rosjanie nie zamierzają intensyfikować ataków na Polskę, zanotujmy to - powiedział minister spraw zagranicznych w wywiadzie dla „Gazety Wyborczej”. Jak dodał, lekceważenie niebezpieczeństwa, które ewidentnie rośnie, jest nieodpowiedzialne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister sprawiedliwości, prokurator generalny Waldemar Żurek powiedział, że prokuratura będzie zmierzać do tego, żeby prezes TK Bogdan Święczkowski „w przyszłości stanął przed niezależnym, niezawisłym bezstronnym sądem”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odsetek Polaków oceniających negatywnie sytuację w kraju wzrósł w październiku do 55 proc. z 54 proc. we wrześniu - wynika z badania CBOS. Jednocześnie z 26 proc. do 24 proc. spadł odsetek osób pozytywnie oceniających kierunek zmian w kraju."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po atakach w szkołach resort edukacji szykuje zmiany w przepisach. W piątek do konsultacji trafi projekt rozporządzenia dotyczący praktycznych ćwiczeń na wypadek sytuacji kryzysowych. Będą też zmiany ustawowe – przekazała w piątek wiceszefowa MEN Paulina Piechna-Więckiewicz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ośmioro wybranych przez Sejm tej kadencji sędziów TK zapowiada podjęcie wszystkich przewidzianych prawem działań, aby przywrócić i zapewnić zgodne z prawem funkcjonowanie tego organu. Ich zdaniem zaproszenie do Pałacu tylko trojga z nich jest arbitralną próbą selekcji sędziów TK przez prezydenta Karola Nawrockiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokurator Andrzej Piaseczny udał się w piątek do Trybunału Konstytucyjnego w celu zabezpieczenia monitoringu i dokumentacji niezbędnej do postępowania – potwierdziła PAP Katarzyna Calów-Jaszewska z działu prasowego Prokuratury Krajowej. Jak podał TK, prezes Bogdan Święczkowski „podjął decyzję o dobrowolnym wydaniu żądanych dokumentów”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokurator Generalny Waldemar Żurek skierował do przewodniczącej PE wniosek o uchylenie immunitetu Grzegorzowi Braunowi za jego słowa, w których po raz kolejny publicznie zaprzeczał zbrodniom ludobójstwa i mordowaniu ludzi w komorach gazowych w KL Auschwitz-Birkenau."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokuratura Regionalna w Rzeszowie dokonała kolejnych zabezpieczeń majątkowych na mieniu podejrzanych w sprawie dot. kampanii „Sprawiedliwe Sądy” Polskiej Fundacji Narodowej - Anny P. i Piotra M."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pożar magazynu oraz sklepu z częściami do ciągników rolniczych w Nisku został opanowany. Trwa dogaszanie – poinformował w piątek PAP rzecznik podkarpackich strażaków st. bryg. Marcin Betleja. Dwóch strażaków zginęło podczas akcji gaśniczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po raz pierwszy w Polsce stwierdzono występowanie azjatyckiego szerszenia żółtonogiego (Vespa velutina). To gatunek inwazyjny, który jest szczególnie niebezpieczny dla pszczół miodnych. W ocenie naukowców zagrożenie dla pszczelarzy jest duże, chociaż na razie znaleziono tylko jedno gniazdo."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen poinformowała w piątek, że UE nie zniesie żadnych sankcji wobec Rosji, dopóki kraj ten nie zakończy wojny przeciw Ukrainie. Jak dodała, trwają już prace nad 22. pakietem sankcji wobec Moskwy w związku z rozpętanym przez nią konfliktem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unia Europejska nie zwróci Rosji zamrożonych aktywów, dopóki Moskwa nie wypłaci Ukrainie reparacji wojennych – poinformowała w piątek szefowa unijnej dyplomacji Kaja Kallas podczas drugiego dnia szczytu UE w Brukseli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ukrainie niemal skończyły się pociski do systemów obrony przeciwlotniczej Patriot, które mogą przechwytywać rosyjskie pociski balistyczne, a dostawy nowych w ramach inicjatywy PURL stały się nieregularne już w maju – poinformowali ukraińscy urzędnicy w rozmowie z dziennikiem \"Washington Post\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Ukrainy Wołodymyr Zełenski powiedział w piątek w Brukseli, że mimo napięć w stosunkach z prezydentem USA Donaldem Trumpem oba kraje pozostają w kontakcie i prowadzą rozmowy. Podkreślił jednak, że jego obowiązkiem jest obrona interesów Ukrainy, także wtedy, gdy nie zgadza się z decyzjami Waszyngtonu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wstrzymanie przez USA wsparcia wywiadowczego Ukrainy i ograniczenie Kijowowi dostępu do łączności satelitarnej Starlink wywołało w niemieckiej prasie falę krytycznych komentarzy pod adresem Donalda Trumpa. Europa powinna jak najszybciej uniezależnić się od USA - uważają komentatorzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump porzuca Ukrainę, aby zatuszować swoją wojnę z Iranem - ocenia amerykański historyk Timothy Snyder na łamach \"Sueddeutsche Zeitung\". Według niego, to już nie polityczna porażka, a \"wykalkulowane samobójstwo supermocarstwa\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skrajnie prawicowa kandydatka na urząd prezydenta Francji Marine Le Pen wyraziła chęć przyjazdu na Ukrainę. Uczyniła to na platformie X. Byłaby to jej pierwsza wizyta w tym kraju od rozpętania przeciwko niemu przez Rosję pełnoskalowej wojny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapewniłem prezydenta Ukrainy Wołodymyra Zełenskiego o mojej pełnej solidarności w obliczu nieludzkiej rosyjskiej agresji na jego kraj, która trwa już blisko pięć lat - napisał w piątek na Facebooku premier Węgier Peter Magyar, komentując swoje spotkanie z ukraińskim prezydentem w Brukseli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bułgaria zwróciła się z prośbą do NATO o wysłanie m.in. samolotów bojowych i systemów antydronowych, aby zwiększyć bezpieczeństwo przestrzeni powietrznej po serii ataków na statki handlowe na Morzu Czarnym – poinformował w piątek tamtejszy minister obrony Dimitar Stojanow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlament Grenlandii opowiedział się za wprowadzeniem zakazu wydobycia surowców mineralnych z dna morskiego. Decyzję w tej sprawie podjęto po deklaracji prezydenta USA Donalda Trumpa o rozpoczęciu poszukiwań złóż na wyspie na szeroką skalę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nie widzimy ze strony rosyjskiej sygnałów, że jest gotowa zakończyć tę wojnę, dlatego musimy przygotować się na zimę – oświadczył w piątek prezydent Ukrainy Wołodymyr Zełenski w trakcie szczytu UE w Brukseli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosja opracowała plan miesięcznej kampanii zmasowanych ataków, które miałyby odciąć Kijów, Charków i Odessę od dostaw energii elektrycznej, wody i ogrzewania - napisał w czwartek „New York Times”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Władze Rosji objęły tymczasowym zarządem aktywa firm z Francji, Niemiec, Szwecji i Holandii - wynika z dekretu przywódcy kraju Władimira Putina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amerykański resort finansów przedłużył w czwartek do 24 kwietnia 2027 r. dwie licencje zezwalające na transakcje z podmiotami rosyjskiego koncernu Łukoil objętymi amerykańskimi sankcjami. Dotyczą one stacji paliw działających poza Rosją oraz spółek koncernu w Bułgarii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo obrony Mołdawii poinformowało w piątek, że podczas rosyjskich ataków na Ukrainę minionej nocy cztery bezzałogowce naruszyły mołdawską przestrzeń powietrzną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co najmniej dwie osoby zginęły, a około 10 odniosło obrażenia w czwartek w eksplozjach, do których doszło w pobliżu pałacu w Adenie, w którym siedzibę ma uznawany na arenie międzynarodowej rząd Jemenu. Do ostrzału pałacu przyznali się wspierani przez Iran rebelianci Huti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brytyjski premier Andy Burnham wezwał w czwartek Reform UK do natychmiastowej interwencji po tym, jak dziennikarze śledczy ITV zaprezentowali nagrania, na których kilku polityków partii Nigela Farage'a wyraża rasistowskie i seksistowskie poglądy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powiedział w czwartek stacji Newsmax, że z przywódcą Ukrainy Wołodymyrem Zełenskim negocjuje mu się trudniej niż z przywódcą Rosji Władimirem Putinem. Przyznał, że nie jest fanem Zełenskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według najnowszego sondażu Fox News poparcie dla prezydenta Donalda Trumpa spadło do najniższego poziomu podczas obu jego kadencji. Badanie wskazuje na rosnące niezadowolenie wyborców, przede wszystkim z powodu inflacji, kosztów energii i sytuacji gospodarczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unia Europejska nie może powtarzać błędów z przeszłości i znów uzależniać się od rosyjskiej energii – powiedział w piątek BBC News minister finansów Andrzej Domański. Zaznaczył, że potrzebne są kolejne sankcje wobec Rosji, a zamrożone w UE rosyjskie aktywa należy wykorzystać do wsparcia Ukrainy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do poważnych utrudnień w ruchu lotniczym doszło w piątek we Włoszech z powodu awarii sieci systemu kontroli. W jej wyniku liczba lotów została zredukowana o połowę, dziesiątki połączeń odwołano. Wykluczono hipotezę ataku hakerskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Departament Stanu w czwartek ogłosił sankcje gospodarcze wobec Międzynarodowego Banku Handlowego Kuby (BICSA) z powodu jego powiązań z irańskim Bankiem Karafarin, objętym sankcjami od 2020 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Burmistrz Lizbony Carlos Moedas ogłosił zakończenie programu wynajmu hulajnóg elektrycznych w stolicy Portugalii. Głównym powodem tej decyzji była duża liczba ofiar wypadków z udziałem tych pojazdów."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "asa/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 17:01",
+      "content_sha256": "6610b6810e090385bce6102c9c9cc35321008e26271865b30a4a6a5df03f24db",
+      "saved_at": "2026-10-16T18:51:15+00:00",
+      "content_checked_at": "2026-10-16T18:51:15+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Develia",
+        "JSW",
+        "Mirbud",
+        "Pekao",
+        "Żabka"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: inflacj",
+          "Temat: PKB",
+          "Temat: NBP",
+          "Temat: RPP",
+          "Temat: EBC"
+        ],
+        "finanse": [
+          "Firma: Pekao",
+          "Temat: bank"
+        ],
+        "energia": [
+          "Firma: JSW",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: węgl",
+          "Temat: elektrowni"
+        ],
+        "technologie": [
+          "Temat: sztuczn* inteligenc",
+          "Temat: informaty"
+        ],
+        "przemysl": [
+          "Firma: Mirbud",
+          "Temat: przemysł",
+          "Temat: produkcj",
+          "Temat: transport",
+          "Temat: obronn",
+          "Temat: kolej"
+        ],
+        "konsumpcja": [
+          "Firma: Żabka",
+          "Temat: detaliczn"
+        ],
+        "nieruchomosci": [
+          "Firma: Develia",
+          "Temat: nieruchomoś"
+        ]
+      },
+      "published_time": "17:01",
+      "published_at": "2026-10-16T17:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Inflacja liczona według HICP w Polsce we wrześniu w ujęciu rocznym wyniosła 4,0 proc., wobec 3,5 proc. w sierpniu - podał Eurostat.",
+          "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych będzie wyższy w 2026 r. w porównaniu do zeszłego - wynika z szacunków AXI IMMO.",
+          "Międzynarodowa Rada Zbożowa (IGC) podniosła o 7 mln ton prognozę światowej produkcji zbóż w sezonie 2026/27 do 2,427 mld ton, głównie za sprawą lepszych perspektyw zbiorów kukurydzy oraz jęczmienia - wynika z październikowego raportu IGC."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6610b6810e090385bce6102c9c9cc35321008e26271865b30a4a6a5df03f24db"
+      }
+    },
     {
       "id": "e12dd790154e02fb",
       "title": "DZIEŃ NA GPW: Główne indeksy kończą tydzień na nowych maksimach",
@@ -231375,7 +234308,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231393,7 +234326,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231412,7 +234345,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231430,7 +234363,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231448,7 +234381,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231466,7 +234399,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231484,7 +234417,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231502,7 +234435,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231520,7 +234453,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231538,7 +234471,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231556,7 +234489,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231574,7 +234507,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231592,7 +234525,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231610,7 +234543,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231628,7 +234561,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231648,7 +234581,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231668,7 +234601,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231686,7 +234619,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231704,7 +234637,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231722,7 +234655,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231740,7 +234673,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231758,7 +234691,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231778,7 +234711,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231796,7 +234729,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231814,7 +234747,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231832,7 +234765,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -231850,7 +234783,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -232260,7 +235193,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -232278,7 +235211,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232296,7 +235229,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232314,7 +235247,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232332,7 +235265,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232350,7 +235283,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232368,7 +235301,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232388,7 +235321,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232406,7 +235339,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232426,7 +235359,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232444,7 +235377,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232462,7 +235395,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232480,7 +235413,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232500,7 +235433,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232518,7 +235451,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232536,7 +235469,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232554,7 +235487,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232574,7 +235507,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232592,7 +235525,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232610,7 +235543,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232628,7 +235561,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232646,7 +235579,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232666,7 +235599,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232684,7 +235617,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232702,7 +235635,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232720,7 +235653,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -232738,7 +235671,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -232756,7 +235689,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -232774,7 +235707,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -232792,7 +235725,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -232810,11 +235743,95 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 14,
+      "attempts": 15,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/raporty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
       "error": "ValueError"
@@ -232961,90 +235978,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
       "error": "ValueError"
     }
   ],
