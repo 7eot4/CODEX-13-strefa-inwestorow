@@ -1,8 +1,2894 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-16T09:51:57+00:00",
+  "last_checked": "2026-10-16T14:53:37+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "e12dd790154e02fb",
+      "title": "DZIEŃ NA GPW: Główne indeksy kończą tydzień na nowych maksimach",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-gpw-glowne-indeksy-koncza-tydzien-na-nowych-maksimach",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse",
+        "energia",
+        "konsumpcja"
+      ],
+      "companies": [
+        "Alior",
+        "Allegro",
+        "Budimex",
+        "JSW",
+        "KGHM",
+        "Modivo",
+        "Orlen",
+        "PGE",
+        "PKO BP",
+        "Pekao",
+        "Tauron",
+        "XTB",
+        "mBank",
+        "Żabka"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG",
+          "Temat: WIG20"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ],
+        "energia": [
+          "Firma: PGE"
+        ],
+        "konsumpcja": [
+          "Firma: Allegro"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Piątkowa sesja przebiega przy wzrostach głównych indeksów. WIG i mWIG40 przebiły swoje historyczne maksima i wraz z WIG20 są na drodze do przebicia rekordów na zamknięciu. Na rynek pozytywnie wpływają wzrosty Allegro, Pepco i niektórych banków. Po kilka proc. przecenione są akcje PGE i Tauronu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ok. godz. 16.10 WIG20 rośnie o 0,4 proc. do ok. 4.227 pkt., WIG zwyżkuje o 0,6 proc. do ok. 159.564 pkt. mWIG40 idzie w górę o 1,3 proc. do ok. 10.813 pkt., a sWIG80 zyskuje 1 proc. i wynosi 30.881 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gdyby główne indeksy zakończyły sesję na obecnych poziomach, WIG20 w ciągu całego tygodnia wzrósłby o 1 proc., a wartość WIG zwiększyłaby się o 1,2 proc. Wskaźnik mWIG40 zyskałby 1,7 proc., a indeks sWIG80 poszedłby w górę o 0,2 proc. Dla WIG, WIG20 i mWIG40 byłyby to najwyższe poziomy zamknięcia w historii."
+        },
+        {
+          "type": "paragraph",
+          "text": "W trakcie dnia swoje rekordy śródsesyjne przebiły WIG i mWIG40, które od początku sesji najwyżej były odpowiednio na 160.279,74 pkt. oraz 10.843,79 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek rośnie większość spółek notowanych w WIG20, a najmocniej idzie do góry kurs Pepco, o 4,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pepco rośnie systematycznie od ponad miesiąca, choć w międzyczasie notuje spadki. Łącznie od 11 września do 15 października kurs Pepco poszedł do góry o niemal 14 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po niemal 3 proc. rosną Allegro i Budimex. Kurs Allegro systematycznie zwyżkuje od miesiąca i łącznie poszedł do góry o ponad 22 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "O 1,6 proc. zyskuje Modivo. Od czterech miesięcy kurs Modivo porusza się bez wyraźnego kierunku, natomiast od 1 października do czwartkowego zamknięcia łącznie wzrósł o 7,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek o ponad 3 proc. zwyżkuje Grupa Kęty. Kurs spółki od trzech miesięcy porusza się w wąskim zakresie, a łącznie niemal nie zmienił się."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pozytywnie na rynek wpływają wzrosty kilku banków. mBank zyskuje 1,4 proc., a Pekao niemal 1 proc. Alior, Millennium i PKO BP rosną o 0,5-0,7 proc. Wśród banków notowanych w WIG20 lub mWIG40 spadają tylko Handlowy (-0,8 proc.) i Erste (-0,4 proc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs Orlenu od rana waha się wokół poziomu odniesienia, a po południu niemal nie zmienia się. Orlen w czwartek stracił 1,16 proc., natomiast od 5 października do czwartkowego zamknięcia łącznie wzrósł 7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "KGHM, który rano rósł o ok. 0,6 proc., obecnie znajduje się w pobliżu poziomu odniesienia. Na poprzedniej sesji spółka straciła 2,07 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po przeciwnej stronie tabeli znajdują się spółki energetyczne. PGE traci 5,5 proc., a Tauron zniżkuje o ponad 4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "O ponad 2 proc. spada Enea, notowana w mWIG40, w efekcie WIG Energia traci 4,2 proc., a więc najmocniej z indeksów sektorowych i wynosi 5.358 pkt. W środę 14 października WIG Energia był na najwyższym poziomie w historii, było to 5.640.87 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs PGE rósł niemal bez przerwy od 28 września i do czwartkowego zamknięcia poszedł do góry o ponad 32 proc. W tym samym czasie Tauron zyskał ponad 11 proc., a Enea wzrosła o ponad 14 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lekko spada Żabka, do 31,68 zł. Circle K Polska złożył do UOKiK wniosek o przejęcie kontroli nad Zabka Group."
+        },
+        {
+          "type": "paragraph",
+          "text": "26 sierpnia 2026 r. Alimentation Couche-Tard ogłosił wezwanie na 1.002.974.605 akcji Zabka Group, stanowiących 100 proc. akcji, po cenie 32 zł/szt. Przyjmowanie zapisów potrwa do 26 października 2026 r. Kurs spółki od 1 sierpnia oscyluje w zakresie 31,25-31,79 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród spółek notowanych w mWIG40 najmocniej zwyżkuje Cyfrowy Polsat, o 6,4 proc. Kurs spółki zwyżkuje od początku tego roku, choć w międzyczasie notuje korekty spadkowe. Łącznie od 2 stycznia do 15 października poszedł do góry o ponad 42 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednym z liderów zwyżek w indeksie jest XTB, jego akcje drożeją o 4,9 proc. Spółka od początku września przeważnie spadała, natomiast od trzech dni próbuje nadrabiać spadki. Łącznie od 1 września do czwartkowego zamknięcia akcje XTB staniały o 24 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lekko rośnie Asbis, po czwartkowym spadku o 6,88 proc. Spółka dynamicznie rosła do końca września tego roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek Asbis i XTB wyróżniają się wysokimi obrotami. Wynoszą one odpowiednio 60,5 mln zł i 78,5 mln zł. Obroty na akcjach wszystkich spółek z mWIG40 wynoszą niecałe 326 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród średnich spółek najmocniej spada Enea, a następnie JSW, o 1,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W III kw. w grupie JSW produkcja węgla ogółem wyniosła 3,31 mln ton i była niższa o ok. 0,2 proc. rdr. W III kw. w grupie JSW sprzedaż węgla ogółem wyniosła ok. 3,21 mln ton i była niższa o ok. 9,7 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "W indeksie sWIG80 do wzrostowych spółek należy Bogdanka, ze zwyżką o 1,2 proc. Spółka szacuje, że w okresie I-III kw. 2026 r. miała 195 mln zł EBITDA i 26,7 mln zł zysku netto. Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu, od poniedziałku do czwartku kurs Bogdanki poszedł w dół o 5,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ok. 1,8 proc. zyskuje Celon Pharma. Spółka złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań w ramach dwóch odrębnych procedur zdecentralizowanych (DCP) obejmujących kilkanaście państw członkowskich UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agencja Rozwoju Przemysłu udzieli Synthaverse pożyczki w kwocie 45 mln zł z przeznaczeniem na refinansowanie zadłużenia wobec ACP. Synthaverse planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji. Kurs spółki rośnie o 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najsłabszą spółką w sWIG80 jest Bioceltix, ze zniżką o 4,3 proc. Od końca lipca spółka jest w tendencji spadkowej, a do 15 października łącznie straciła 31 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na szerokim rynku rośnie m. in. Mostostal Warszawa, o 7 proc. Spółka szacuje, że narastająco po trzech kwartałach 2026 r. miał 11,6 mln zł zysku netto i 10,1 mln zł zysku netto przypisanego akcjonariuszom spółki dominującej. Przychody wyniosły 793 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie, indeks FTSE 100 rośnie o 0,4 proc., DAX zyskuje 1,1 proc., a CAC 40 zwyżkuje o 0,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA Dow Jones Industrial rośnie o 0,5 proc., S&P500 traci 0,1 proc., a Nasdaq Comp. idzie w dół o 0,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pam/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 16:23",
+      "content_sha256": "bbec710726e8c4786349dc6d3677dae78b90983f888c2e2f2f62906cec65ae3f",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "16:23",
+      "published_at": "2026-10-16T16:23+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "WIG i mWIG40 przebiły swoje historyczne maksima i wraz z WIG20 są na drodze do przebicia rekordów na zamknięciu.",
+          "Gdyby główne indeksy zakończyły sesję na obecnych poziomach, WIG20 w ciągu całego tygodnia wzrósłby o 1 proc., a wartość WIG zwiększyłaby się o 1,2 proc. Wskaźnik mWIG40 zyskałby 1,7 proc., a indeks sWIG80 poszedłby w górę o 0,2 proc. Dla WIG, WIG20 i mWIG40 byłyby to najwyższe poziomy zamknięcia w historii.",
+          "Pozytywnie na rynek wpływają wzrosty kilku banków. mBank zyskuje 1,4 proc., a Pekao niemal 1 proc. Alior, Millennium i PKO BP rosną o 0,5-0,7 proc. Wśród banków notowanych w WIG20 lub mWIG40 spadają tylko Handlowy (-0,8 proc.) i Erste (-0,4 proc.)."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "10.813 pkt., a sWIG80 zyskuje 1 proc. i wynosi 30.881 pkt."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "bbec710726e8c4786349dc6d3677dae78b90983f888c2e2f2f62906cec65ae3f"
+      }
+    },
+    {
+      "id": "d728e14abb48db2d",
+      "title": "Euro w EBC: 1,1253 USD i 177,82 JPY",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/euro-w-ebc-11253-usd-i-17782-jpy",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: EBC"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1253 USD i 177,82 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania euro EBC (spot) - tabela:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Kraj | Waluta | Kurs"
+        },
+        {
+          "type": "heading",
+          "text": "| USA | USD | 1,1253"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | JPY | 177,82"
+        },
+        {
+          "type": "paragraph",
+          "text": "| W. Brytania | GBP | 0,8439"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dania | DKK | 7,4748"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Szwecja | SEK | 11,1450"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Norwegia | NOK | 10,6240"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | CZK | 24,323"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | PLN | 4,3700"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | HUF | 363,08"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Szwajcaria | CHF | 0,9272"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Kanada | CAD | 1,5935"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Australia | AUD | 1,6171"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 15:59",
+      "content_sha256": "b69bd3538a357c0d5c53d87bfebe1b090e422b05ccb18bc901b06f22819e7c12",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "15:59",
+      "published_at": "2026-10-16T15:59+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1253 USD i 177,82 JPY - podał bank na swojej stronie internetowej.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b69bd3538a357c0d5c53d87bfebe1b090e422b05ccb18bc901b06f22819e7c12"
+      }
+    },
+    {
+      "id": "a3ce37e2d319f759",
+      "title": "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych wzrośnie w '26 - AXI IMMO",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/wolumen-inwestycyjny-na-polskim-rynku-nieruchomosci-komercyjnych-wzrosnie-w-26",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Temat: nieruchomoś"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych będzie wyższy w 2026 r. w porównaniu do zeszłego - wynika z szacunków AXI IMMO. Inwestycjami na terenie Polski interesują się znaczący inwestorzy z USA, Azji i zachodniej Europy, aktywny jest kapitał z Czech oraz krajów bałtyckich, a także kapitał rodzimy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano w komunikacie prasowym, tegoroczne targi EXPO REAL w Monachium potwierdziły, że europejski rynek nieruchomości komercyjnych stopniowo odzyskuje aktywność. Jednocześnie nie jest to powrót do realiów znanych z poprzedniego cyklu. Coraz mniej widać inwestorów czekających na poprawę warunków rynkowych, a coraz więcej koncentrujących się na możliwościach realizacji transakcji w obecnym otoczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Polska pozostaje dobrze widoczna na radarach inwestorów analizujących możliwości lokowania kapitału w regionie. Jednym z atutów rynku jest obecność kapitału reprezentującego różne strategie inwestycyjne i profile ryzyka\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Polska pozostaje jednym z rynków, które korzystają na zmianach zachodzących w europejskich łańcuchach dostaw. W wielu rozmowach prowadzonych podczas EXPO REAL logistyka była wskazywana jako jeden z sektorów posiadających największy potencjał wzrostu w kolejnych latach. Wspierają go zarówno rozwój e-commerce, jak i procesy związane z nearshoringiem oraz reorganizacją sieci dostaw\" - powiedział, cytowany w komunikacie prasowym, Grzegorz Chmielak, Head of Capital Markets & Valuation, AXI IMMO."
+        },
+        {
+          "type": "paragraph",
+          "text": "Joanna Lewandowska, Associate Director, Capital Markets, poinformowała, że Polska jest postrzegana jako rynek wyróżniający się na tle innych europejskich krajów przede wszystkim pozytywnymi wskaźnikami makroekonomicznymi, ale również wysokim stopniem dywersyfikacji źródeł wzrostu gospodarczego."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na rynku znajduje się obecnie szereg transakcji w toku, które z dużym prawdopodobieństwem zostaną sfinalizowane. Spodziewamy się, że wolumen inwestycyjny będzie wyższy w tym roku w porównaniu do zeszłego. Struktura kapitału, który kupuje dziś nieruchomości w Polsce, jest bardzo zróżnicowana, co ma pozytywny wpływ na płynność aktywów. Inwestycjami na terenie Polski interesują się w tej chwili znaczący inwestorzy z USA, Azji i zachodniej Europy. Jest aktywny kapitał z Czech oraz krajów bałtyckich, a także kapitał rodzimy\" - powiedziała."
+        },
+        {
+          "type": "paragraph",
+          "text": "W jej ocenie, jednym z atutów rynku pozostaje zdrowy miks kapitału pochodzącego z różnych kierunków oraz aktywność zróżnicowanych grup inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według AXI IMMO perspektywy dla polskiego rynku nieruchomości komercyjnych pozostają stabilne."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Być może najważniejszą obserwacją ostatnich miesięcy jest jednak zmiana charakteru prowadzonych rozmów. Jeszcze niedawno dominowały dyskusje dotyczące powodów, dla których transakcje były trudne do przeprowadzenia. Dziś coraz częściej dotyczą one sposobów ich skutecznej realizacji. To wyraźny sygnał, że rynek nie tylko odzyskuje aktywność, ale także stopniowo dostosowuje się do nowej rzeczywistości inwestycyjnej\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 15:43",
+      "content_sha256": "3241b3d133e7e795669ccc7f1a5f38000f3a212e7211abf10616116baf249a99",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "15:43",
+      "published_at": "2026-10-16T15:43+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych będzie wyższy w 2026 r. w porównaniu do zeszłego - wynika z szacunków AXI IMMO.",
+          "Jak podano w komunikacie prasowym, tegoroczne targi EXPO REAL w Monachium potwierdziły, że europejski rynek nieruchomości komercyjnych stopniowo odzyskuje aktywność.",
+          "Według AXI IMMO perspektywy dla polskiego rynku nieruchomości komercyjnych pozostają stabilne."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych będzie wyższy w 2026 r. w porównaniu do zeszłego - wynika z szacunków AXI IMMO."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Wolumen inwestycyjny na polskim rynku nieruchomości komercyjnych będzie wyższy w 2026 r. w porównaniu do zeszłego - wynika z szacunków AXI IMMO."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3241b3d133e7e795669ccc7f1a5f38000f3a212e7211abf10616116baf249a99"
+      }
+    },
+    {
+      "id": "019d71a7edc2dfc6",
+      "title": "Po otwarciu sesji DJI rośnie 0,34 proc., a S&P500 zyskuje 0,11 proc.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/po-otwarciu-sesji-dji-rosnie-034-proc-sp500-zyskuje-011-proc",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,34 proc. do 52.355 pkt., S&P500 zyskuje 0,11 proc. i wynosi 7.753 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Comp. spada o 0,24 proc. do poziomu 26.649 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 15:34",
+      "content_sha256": "c2686f24d3d76d2bbd371455524c600f800e22aca5878c11523e6902a0632566",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "15:34",
+      "published_at": "2026-10-16T15:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,34 proc. do 52.355 pkt., S&P500 zyskuje 0,11 proc. i wynosi 7.753 pkt.",
+          "Nasdaq Comp. spada o 0,24 proc. do poziomu 26.649 pkt."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,34 proc. do 52.355 pkt., S&P500 zyskuje 0,11 proc. i wynosi 7.753 pkt."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "c2686f24d3d76d2bbd371455524c600f800e22aca5878c11523e6902a0632566"
+      }
+    },
+    {
+      "id": "c7f020b2566e7b71",
+      "title": "Oferta spółki zależnej Mirbudu za 361,8 mln zł brutto najkorzystniejsza na odcinek drogi S17",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/oferta-spolki-zaleznej-mirbudu-za-3618-mln-zl-brutto-najkorzystniejsza-na",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [
+        "Mirbud"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Firma: Mirbud"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Oferta spółki z Grupy Mirbud - Kobylarnia o wartości 361,8 mln zł brutto na zaprojektowanie i wybudowanie drogi ekspresowej S17 Piaski - Hrebenne odc. realizacyjny nr 5: węzeł \"Zamość Sitaniec\" bez węzła - węzeł \"Zamość Wschód\" bez węzła, została wybrana jako najkorzystniejsza przez Generalną Dyrekcję Dróg Krajowych i Autostrad Oddział w Lublinie - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 15:30",
+      "content_sha256": "bd1384fd8de857510b3ae26a1fad5b13bcd51430881e07e2c6389e7cb0cae9cd",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "15:30",
+      "published_at": "2026-10-16T15:30+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Oferta spółki z Grupy Mirbud - Kobylarnia o wartości 361,8 mln zł brutto na zaprojektowanie i wybudowanie drogi ekspresowej S17 Piaski - Hrebenne odc. realizacyjny nr 5: węzeł \"Zamość Sitaniec\" bez węzła - węzeł \"Zamość Wschód\" bez węzła, została wybrana jako najkorzystniejsza przez Generalną Dyrekcję Dróg Krajowych i Autostrad Oddział w Lublinie - poinformowała spółka w komunikacie.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "drog*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "bd1384fd8de857510b3ae26a1fad5b13bcd51430881e07e2c6389e7cb0cae9cd"
+      }
+    },
+    {
+      "id": "13190bcd9706c483",
+      "title": "Spółka zależna Develii nabyła nieruchomości w Krakowie pod budowę ok. 97 lokali mieszkalnych",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/spolka-zalezna-develii-nabyla-nieruchomosci-w-krakowie-pod-budowe-ok-97-lokali",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Develia"
+      ],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Firma: Develia",
+          "Temat: nieruchomoś"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Spółka zależna Develii, Develia Południe, nabyła nieruchomości w Krakowie pod budowę ok.97 lokali mieszkalnych - podała spółka w komunikacie. Planowany termin rozpoczęcia sprzedaży w ramach tego projektu inwestycyjnego to 2026 rok."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podano, że Develia Południe nabyła prawo własności nieruchomości położonych w Krakowie w obrębie ewidencyjnym Podgórze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena za nieruchomość została określona na łączną kwotę 21.250.000 zł netto, tj. 26.137.500 zł brutto, przy czym cena może ulec zmianie poprzez jej podwyższenie lub jej obniżenie proporcjonalnie przyjmując cenę jednostkową 3.859 zł netto za 1 m kw. powierzchni nieruchomości wskutek wykonania decyzji ZRID, przy czym przedmiotowa zmiana powierzchni nieruchomości nie powinna być większa niż ok. 60 m kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 14:49",
+      "content_sha256": "32550836593b0441ccefb0b316fd1a29c4c22b351ff79e1c1e760ac75c110a65",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "14:49",
+      "published_at": "2026-10-16T14:49+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Spółka zależna Develii, Develia Południe, nabyła nieruchomości w Krakowie pod budowę ok.97 lokali mieszkalnych - podała spółka w komunikacie.",
+          "Planowany termin rozpoczęcia sprzedaży w ramach tego projektu inwestycyjnego to 2026 rok.",
+          "Podano, że Develia Południe nabyła prawo własności nieruchomości położonych w Krakowie w obrębie ewidencyjnym Podgórze."
+        ],
+        "interest_score": 47,
+        "impact_score": 36,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Planowany termin rozpoczęcia sprzedaży w ramach tego projektu inwestycyjnego to 2026 rok."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "32550836593b0441ccefb0b316fd1a29c4c22b351ff79e1c1e760ac75c110a65"
+      }
+    },
+    {
+      "id": "03c0253bf6741cfd",
+      "title": "Sąd restrukturyzacyjny zatwierdził układ przyjęty w postępowaniu sanacyjnym PKP Cargotabor",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/sad-restrukturyzacyjny-zatwierdzil-uklad-przyjety-w-postepowaniu-sanacyjnym-pkp",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Sąd Rejonowy dla m.st. Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, zatwierdzenie układu jest kolejnym etapem postępowania sanacyjnego PKP Cargotabor. Przesądza ono - choć jeszcze nieprawomocnie - że układ, przyjęty przez wierzycieli wymaganą większością głosów został również uznany przez sąd restrukturyzacyjny za zgodny z prawem."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Postanowienie o zatwierdzeniu układu nie jest prawomocne, przysługuje na nie zażalenie. Z dniem uprawomocnienia się postanowienia o zatwierdzeniu układu postępowanie sanacyjne PKP Cargotabor zostanie zakończone, a PKP Cargotabor przystąpi do wykonywania układu, w tym do spłaty wierzycieli objętych układem, zgodnie z jego postanowieniami\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "O uprawomocnieniu się postanowienia o zatwierdzeniu układu spółka poinformuje osobno."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tom/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 14:41",
+      "content_sha256": "05880158b6263a226bd04fd81333e2a4964e4f6ff4e67643637d21f1bf2fea5f",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "14:41",
+      "published_at": "2026-10-16T14:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie.",
+          "Jak podano, zatwierdzenie układu jest kolejnym etapem postępowania sanacyjnego PKP Cargotabor.",
+          "Przesądza ono - choć jeszcze nieprawomocnie - że układ, przyjęty przez wierzycieli wymaganą większością głosów został również uznany przez sąd restrukturyzacyjny za zgodny z prawem."
+        ],
+        "interest_score": 43,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Warszawy w Warszawie, XVIII Wydział Gospodarczy do spraw upadłościowych i restrukturyzacyjnych (sąd restrukturyzacyjny) przyjął postanowienie o zatwierdzeniu układu przyjętego przez wierzycieli w postępowaniu sanacyjnym prowadzonym wobec PKP Cargotabor - podało PKP Cargo w komunikacie."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "05880158b6263a226bd04fd81333e2a4964e4f6ff4e67643637d21f1bf2fea5f"
+      }
+    },
+    {
+      "id": "8aee07d378e90edb",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA głównie zniżkują; rentowności obligacji rosną",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-rynkach-futures-w-usa-glownie-znizkuja-rentownosci-obligacji-rosna",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj",
+          "Temat: dolar"
+        ],
+        "technologie": [
+          "Temat: technologi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kontrakty w USA są głównie na minusach, a w Europie przeważają wzrosty indeksów. Rynki oceniają perspektywy dla sektora technologicznego. Rentowności obligacji rosną, a dolar osłabia się."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kontrakty na S&P 500 zwyżkują o 0,33 proc., na Dow Jones Industrial tracą 0,03 proc., a na Nasdaq Comp. spadają o 0,12 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Tesli rosną o 3,5 proc. w handlu przedsesyjnym po zaprezentowaniu nowego modelu Roadster, wyposażonego w napęd rakietowy i opracowanego we współpracy ze spółką SpaceX, której akcje zyskują 2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje firmy CoreWeave spadają o 5 proc. przed sesją (po czwartkowym odbiciu) w obliczu utrzymujących się obaw dotyczących zadłużenia tego operatora centrów danych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje innych firm z sektora, Nebius Group oraz Iren, zniżkują o 3 proc. i 3,5 proc. odpowiednio w handlu przedsesyjnym, natomiast producenci układów scalonych, Micron Technology i Broadcom, notują spadki odpowiednio o 2 proc. oraz 0,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje spółki Travelers spadają o 4,5 proc. przed sesją, mimo że opublikowane przez nią wyniki za trzeci kwartał okazały się lepsze od oczekiwań analityków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Varonis Systems zyskują 2,5 proc. przed sesją po tym, jak należąca do Thoma Bravo spółka Proofpoint uzgodniła przejęcie tej firmy zajmującej się bezpieczeństwem danych w ramach transakcji o wartości 6,3 mld USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu inwestorzy, którzy masowo lokowali kapitał w całym łańcuchu dostaw dla sztucznej inteligencji, zaczęli obawiać się, że operatorzy centrów danych mogą nie osiągnąć rentowności na czas, by spłacić swoje długi, zwłaszcza w obliczu oczekiwanego wzrostu kosztów finansowania zewnętrznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Niektóre z tych spółek odnotowały w tym roku bardzo silne wzrosty, co jeszcze w zeszłym tygodniu pomogło głównym indeksom, S&P 500 oraz Nasdaq, osiągnąć rekordowe poziomy."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Jeśli mamy do czynienia z niezwykle optymistyczną narracją, której towarzyszą równie optymistyczne wyniki, a mimo to kurs akcji spada, jest to sygnał techniczny sugerujący, że na rynku znalazło się zbyt wielu graczy” – ocenił James Athey, zarządzający portfelem instrumentów dłużnych w firmie Marlborough."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Kwestia monetyzacji pozostaje dla mnie wciąż wielką niewiadomą, na którą nie ma jeszcze pełnej odpowiedzi. Wciąż istnieją pewne wątpliwości co do trwałości zysków i marż osiąganych przez niektóre podmioty w tym sektorze” – wskazywała Amelie Derambure, starsza zarządzająca portfelami wielu aktywów w Amundi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mimo to Derambure zaznaczyła, że utrzymuje przeważenie amerykańskich akcji w portfelu i spodziewa się, iż zyski spółek okażą się na tyle silne, by ograniczyć ewentualną korektę rynkową."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czwartkowa wyprzedaż akcji spółek z sektora AI doprowadziła do rotacji kapitału w stronę sektorów defensywnych, takich jak opieka zdrowotna, co pozwoliło głównym indeksom zakończyć sesję na niewielkich plusach."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek Dow Jones Industrial na zamknięciu wzrósł o 1,08 proc. i wyniósł 52.177,69 pkt. S&P 500 na koniec dnia wzrósł o 0,33 proc. i wyniósł 7.744,06 pkt. Nasdaq Composite zwyżkował o 0,08 proc. do 26.713,026 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniejsze spadki sprawiły, że indeksy S&P 500 oraz Nasdaq znalazły się w tym tygodniu na minusie, pierwszy z nich stracił dotąd blisko 1 proc., a drugi spadł o ponad 2 proc. Z kolei indeks Dow zmierza ku tygodniowemu wzrostowi o około 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Srebro zwyżkuje o 1,42 proc. do poziomu 57,96 USD za uncję, a złoto rośnie o 0,6 proc. do 4.195 USD za uncję."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bitcoin spada o 0,2 proc. i jego kurs wynosi 82.169 USD za token."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zniżkuje do 16,05 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie indeks Euro Stoxx 50 rośnie o 0,67 proc., niemiecki DAX idzie w górę o 0,89 proc., francuski CAC 40 zwyżkuje o 0,27 proc., a brytyjski FTSE 100 spada o 0,11 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benchmarkowy indeks Europe Stoxx 600 zwyżkuje o 0,49 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solidne wyniki finansowe europejskich spółek pomogły ustabilizować rynki pod koniec tygodnia pełnego wahań, naznaczonego wyprzedażą akcji czołowych spółek technologicznych wobec obaw o konkurencję ze strony Chin oraz rosnące zadłużenie na rzecz rozwoju infrastruktury AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Bardzo udany sezon wyników finansowych znacząco poprawi nastroje inwestorów. Może to pozwolić rynkom na powrót do niedawno obserwowanych szczytów” – ocenił Michael Field, główny strateg ds. rynku akcji w firmie Morningstar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z danych LSEG I/B/E/S wynika, że zyski spółek wchodzących w skład indeksu STOXX 600 mają w trzecim kwartale wzrosnąć o 20,7 proc. rok do roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W przyszłym tygodniu swoje wyniki opublikują m.in. SAP, ABB i Barclays."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs akcji spółki Nordex rośnie o 12,5 proc. po tym, jak ten producent lądowych turbin wiatrowych odnotował w trzecim kwartale zysk operacyjny (wynik podstawowy) lepszy od oczekiwań i podniósł całoroczną prognozę marży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje producenta chipów, firmy Aixtron, zyskują 3,5 proc. po tym, jak spółka przekroczyła prognozy dotyczące napływu zamówień w trzecim kwartale i potwierdziła swoje całoroczne założenia finansowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Nestlé rosną o 1 proc. po tym, jak JPMorgan podniósł rekomendację dla tego szwajcarskiego koncernu spożywczego do „przeważaj”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dolar osłabia się o 0,3 proc. wobec koszyka walut do 101,69 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eurodolar umacnia się o 0,29 proc. do 1,1250."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kwotowanie USD/JPY spada o 0,1 proc. do 157,98."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs funta zwyżkuje o 0,47 proc. wobec dolara do 1,3337."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność 10-letnich UST rośnie o 5 pb. do 5,11 proc. Dochodowość 30-letnich UST zwyżkuje o 5 pb. do 5,46 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spread między dwuletnimi a dziesięcioletnimi UST wynosi +36 pb. Spread między amerykańskimi obligacjami 3-miesięcznymi a 10-letnimi wynosi obecnie +94 pb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność 10-letnich niemieckich bundów rośnie o 2 pb. do 3,44 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zwyżkują o 0,25 proc. do 98,26 USD za baryłkę, a grudniowe futures na Brent rosną o 0,25 proc. do 106,20 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 14:35",
+      "content_sha256": "411b37dcbcd3679118368c38de01fdb5ccc76e6c0852681abdd097735dc7f8a7",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "14:35",
+      "published_at": "2026-10-16T14:35+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Rentowności obligacji rosną, a dolar osłabia się.",
+          "Solidne wyniki finansowe europejskich spółek pomogły ustabilizować rynki pod koniec tygodnia pełnego wahań, naznaczonego wyprzedażą akcji czołowych spółek technologicznych wobec obaw o konkurencję ze strony Chin oraz rosnące zadłużenie na rzecz rozwoju infrastruktury AI.",
+          "Na rynku ropy kontrakty na WTI na listopad zwyżkują o 0,25 proc. do 98,26 USD za baryłkę, a grudniowe futures na Brent rosną o 0,25 proc. do 106,20 USD/b."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Akcje Tesli rosną o 3,5 proc. w handlu przedsesyjnym po zaprezentowaniu nowego modelu Roadster, wyposażonego w napęd rakietowy i opracowanego we współpracy ze spółką SpaceX, której akcje zyskują 2 proc."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Kontrakty w USA są głównie na minusach, a w Europie przeważają wzrosty indeksów."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "411b37dcbcd3679118368c38de01fdb5ccc76e6c0852681abdd097735dc7f8a7"
+      }
+    },
+    {
+      "id": "8dc98e75700ea5bb",
+      "title": "Odsetek \"byków\" na GPW wzrósł do 53,6 proc., spadków oczekuje 16,1 proc. - INI",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/odsetek-bykow-na-gpw-wzrosl-do-536-proc-spadkow-oczekuje-161-proc-ini",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 11,2 pkt. proc. i wyniósł 53,6 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 14,4 pkt. proc. i wynosi 16,1 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniżej przedstawiono wyniki sondażu Indeksu Nastrojów Inwestorów (INI) za tydzień zakończony 15 października."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy oczekują w ciągu najbliższych 6 miesięcy trendu:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- wzrostowego (byki): 53,6 proc. (+11,2 proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "- bocznego (neutralni): 30,4 proc. (+3,2 pkt. proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "- spadkowego (niedźwiedzie): 16,1 proc. (-14,4 pkt. proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks Nastrojów Inwestorów jest cotygodniowym badaniem prowadzonym przez Stowarzyszenie Inwestorów Indywidualnych. W badaniu bierze udział ponad 350 inwestorów tygodniowo."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "hum/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 14:04",
+      "content_sha256": "95beb62f926320e90784f65ca9740feb20a8e52c9ac0800138a77906e5b84a0e",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "14:04",
+      "published_at": "2026-10-16T14:04+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 11,2 pkt. proc. i wyniósł 53,6 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 14,4 pkt. proc. i wynosi 16,1 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
+          "Poniżej przedstawiono wyniki sondażu Indeksu Nastrojów Inwestorów (INI) za tydzień zakończony 15 października.",
+          "Indeks Nastrojów Inwestorów jest cotygodniowym badaniem prowadzonym przez Stowarzyszenie Inwestorów Indywidualnych."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 11,2 pkt. proc. i wyniósł 53,6 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 14,4 pkt. proc. i wynosi 16,1 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "95beb62f926320e90784f65ca9740feb20a8e52c9ac0800138a77906e5b84a0e"
+      }
+    },
+    {
+      "id": "7221cf999ed5153a",
+      "title": "KGHM z prestiżową nagrodą za najlepsze raportowanie roczne",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/kghm-z-prestizowa-nagroda-za-najlepsze-raportowanie-roczne",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [
+        "KGHM"
+      ],
+      "match_reasons": {
+        "energia": [
+          "Firma: KGHM",
+          "Temat: miedź"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Komunikat od KGHM Polska Miedź SA"
+        },
+        {
+          "type": "paragraph",
+          "text": "KGHM Polska Miedź S.A. po raz pierwszy zdobył Diament w konkursie „The Best Annual Report 2025”, organizowanym przez Instytut Rachunkowości i Podatków. Diament przyznawany jest najwyżej ocenionej spółce spośród wielokrotnych laureatów konkursu. W ocenie uwzględniana jest zarówno jakość sprawozdawczości finansowej, jak i raportowania zrównoważonego rozwoju. KGHM po raz szesnasty otrzymała również tytuł „The Best of The Best” oraz po raz pierwszy wyróżnienie w kategorii „Oświadczenie o stosowaniu zasad ładu korporacyjnego”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska Miedź od lat należy do grona najwyżej ocenianych spółek pod względem jakości raportowania rocznego. Po zdobyciu trzech nagród głównych w latach 2007-2009, w 2010 roku KGHM, jako pierwsze spośród przedsiębiorstw, otrzymał tytuł „The Best of The Best”, przyznawany firmom utrzymującym wysoki poziom sprawozdawczości i komunikacji z rynkiem kapitałowym. Przyznany w tym roku po raz szesnasty tytuł potwierdza, że Spółka konsekwentnie utrzymuje bardzo wysoki poziom raportowania i komunikacji z rynkiem kapitałowym."
+        },
+        {
+          "type": "heading",
+          "text": "Najwyższa jakość raportowania"
+        },
+        {
+          "type": "paragraph",
+          "text": "Najwyższą ocenę wśród wielokrotnych laureatów uzyskał KGHM, zdobywając nagrodę „Diament The Best of The Best”. Spółka otrzymała także pierwsze w swojej historii wyróżnienie za oświadczenie o stosowaniu zasad ładu korporacyjnego, stanowiące ważny element informacji przekazywanych akcjonariuszom i inwestorom."
+        },
+        {
+          "type": "paragraph",
+          "text": "– Wiarygodne raportowanie to dla nas coś więcej niż obowiązek informacyjny – to podstawa zaufania inwestorów i odpowiedzialnego budowania wartości KGHM. Przy skali naszej działalności, obejmującej operacje górniczo-hutnicze na trzech kontynentach, kluczowe jest pokazanie pełnego obrazu Spółki: od wyników finansowych i działalności operacyjnej, przez inwestycje, po długoterminowe kierunki rozwoju. Dlatego koncentrujemy się nie na liczbie prezentowanych danych, lecz na ich przejrzystości, spójności i użyteczności. Chcemy, aby inwestorzy mogli na tej podstawie rzetelnie ocenić zarówno obecną sytuację KGHM, jak i jego perspektywy – powiedział Piotr Krzyżewski, Wiceprezes Zarządu ds. Finansowych KGHM Polska Miedź S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprawozdawczość KGHM odzwierciedla skalę i złożoność działalności Grupy prowadzonej w Polsce oraz Ameryce Północnej i Południowej. Obejmuje wyniki finansowe, produkcję i inwestycje, a także czynniki wpływające na działalność górniczą i hutniczą. Ważną część raportowania stanowią kwestie środowiskowe, społeczne i związane z ładem korporacyjnym. Dokumenty przedstawiają również długoterminowe kierunki rozwoju Grupy, w tym inwestycje w krajową bazę zasobową i aktywa zagraniczne."
+        },
+        {
+          "type": "heading",
+          "text": "Z myślą o interesariuszach"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Best Annual Report to konkurs promujący raporty roczne o największej wartości użytkowej dla akcjonariuszy i inwestorów. Co roku biorą w nim udział spółki z rynku regulowanego, przygotowujące skonsolidowane raporty roczne według MSSF/MSR, oraz spółki z rynku alternatywnego, sprawozdające według MSSF/MSR lub ustawy o rachunkowości. Złożona z ekspertów rynku kapitałowego Kapituła ocenia raporty nie tylko w zakresie zastosowania zasad rachunkowości, ale także opisu ryzyk oraz doboru informacji i danych w raporcie przy zachowaniu przejrzystości i użyteczności informacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: KGHM Polska Miedź SA"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 13:56",
+      "content_sha256": "bd7907784a46784d59ac35a001bf25102d303978ea7ff16d49430a48f71ac769",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "13:56",
+      "published_at": "2026-10-16T13:56+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "KGHM Polska Miedź S.A. po raz pierwszy zdobył Diament w konkursie „The Best Annual Report 2025”, organizowanym przez Instytut Rachunkowości i Podatków.",
+          "Po zdobyciu trzech nagród głównych w latach 2007-2009, w 2010 roku KGHM, jako pierwsze spośród przedsiębiorstw, otrzymał tytuł „The Best of The Best”, przyznawany firmom utrzymującym wysoki poziom sprawozdawczości i komunikacji z rynkiem kapitałowym.",
+          "Co roku biorą w nim udział spółki z rynku regulowanego, przygotowujące skonsolidowane raporty roczne według MSSF/MSR, oraz spółki z rynku alternatywnego, sprawozdające według MSSF/MSR lub ustawy o rachunkowości."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "bd7907784a46784d59ac35a001bf25102d303978ea7ff16d49430a48f71ac769"
+      }
+    },
+    {
+      "id": "9d9a1acd4d824a42",
+      "title": "Prezydent ponownie przekaże do kontrasygnaty premiera wnioski o powołanie 4 członków zarządu NBP (opis2)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/prezydent-ponownie-przekaze-do-kontrasygnaty-premiera-wnioski-o-powolanie-4-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP",
+          "Temat: RPP"
+        ],
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pan prezydent ponownie przekaże postanowienie do prezesa Rady Ministrów z wnioskiem o kontrasygnatę (...) o powołanie 4 członków zarządu NBP, proponując w nim (...) te same osoby, które były zgłoszone w drodze konsensu w lutym tego roku\" - powiedział Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ponowiony wniosek, który zostanie złożony, to wniosek o powołanie 4 członków zarządu - Przemysława Litwiniuka, Ludwika Koteckiego, Marcina Zarzeckiego oraz Marty Kightley\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Złożony w lutym br. wniosek prezydenta o powołanie tych samym osób w skład zarządu NBP nie uzyskał kontrasygnaty premiera, co jest konieczne do skutecznego powołania na to stanowisko. W poniedziałek NBP poinformował, że prezes NBP ponownie wystąpił do prezydenta RP z wnioskami o powołanie członków zarządu NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obecny zarząd NBP liczy minimalną przewidzianą prawem liczbę 6 osób. 4 listopada upływa kadencja wiceprezesa NBP Adama Lipińskiego. Jeżeli wakat po nim nie zostanie uzupełniony doszłoby do sytuacji, w której liczba członków zarządu spadłaby poniżej wymaganej ustawowo liczby (6-8 osób, nie licząc prezesa NBP)."
+        },
+        {
+          "type": "paragraph",
+          "text": "W maju Kancelaria Premiera zwróciła do Kancelarii Prezydenta bez kontrasygnaty cztery nominacje do zarządu NBP: Marty Kightley (do marca 2026 r. była pierwszą wiceprezes NBP) i Ludwika Koteckiego (obecny członek RPP), którzy mieli objąć swoje funkcje od dnia powołania, a także Przemysława Litwiniuka i Marcina Zarzeckiego (obecni członkowie RPP), którzy objęliby swoje funkcje odpowiednio od 5 listopada 2026 r. oraz od 2 stycznia 2027 r. (po wygaśnięciu kadencji w zarządzie M. Gajęckiej)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najbliższe posiedzenie RPP zaplanowano w dn. 3-4 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "W skład RPP wchodzi Przewodniczący, którym jest prezes NBP, oraz 9 członków powoływanych w równej liczbie przez prezydenta, Sejm i Senat. Kotecki i Litwiniuk zostali powołani do RPP z ramienia Senatu (ich kadencje upływają 26 stycznia 2028 r.), a Zarzecki przez prezydenta RP (koniec kadencji 22 grudnia 2031 r.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przed ewentualnym objęciem stanowiska członka zarządu NBP wymagane będzie formalne odwołanie z obecnej funkcji członków RPP przez instytucje powołujące."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewodniczący senackiej Komisji Budżetu i Finansów Publicznych Kazimierz Kleina powiedział PAP Biznes, że jeżeli dojdzie do powołania do zarządu NBP Koteckiego i Litwiniuka, to Senat niezwłocznie zajmie się procedurą odwołania ich ze stanowiska."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na pewno po stronie Senatu w sprawach związanych z Narodowym Bankiem Polskim nie będzie żadnej obstrukcji ani przeciągania procedur. Będziemy działali sprawnie, żeby wszystkie sprawy załatwić tak, jak należałoby zrobić\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z ustawą o NBP, organy uprawnione do powołania członka RPP odwołują go w ograniczonej liczbie przypadków, w tym w razie zrzeczenia się swej funkcji. Ostatnio procedura taka miała miejsce w przypadku Rafała Sury, który w 2022 r. zrzekł się mandatu członka RPP, a następnie Senat odwołał go z RPP. Sura został później powołany w skład zarządu NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z ustawą w skład zarządu Narodowego Banku Polskiego wchodzi prezes banku centralnego oraz od sześciu do ośmiu członków, w tym dwóch wiceprezesów. Kadencja członków zarządu trwa 6 lat, a ta sama osoba nie może pełnić tej funkcji dłużej niż dwie kolejne kadencje."
+        },
+        {
+          "type": "paragraph",
+          "text": "Członkowie zarządu są powoływani i odwoływani przez prezydenta na wniosek prezesa NBP. Jednakże, zgodnie z konstytucją, co do zasady akty urzędowe prezydenta wymagają kontrasygnaty premiera z wyjątkiem m.in. wniosku do Sejmu o powołanie prezesa NBP, czy członków RPP. Kontrasygnaty wymaga zatem powołanie członków zarządu banku centralnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aktualny skład zarządu NBP wraz z upływem kadencji: Adam Lipiński - wiceprezes NBP - kadencja do 4 listopada 2026 r., Marta Gajęcka - kadencja do 1 stycznia 2027 r., Paweł Mucha - kadencja do 1 września 2028 r., Artur Soboń - kadencja do 6 grudnia 2029 r., Rafał Sura - kadencja do 28 lipca 2028 r., Paweł Szałamacha - kadencja do 12 października 2028 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 13:10",
+      "content_sha256": "4a102bc17e301e1e4962bf94d0f14f27924e7ee77fdee71876b6064a7fd913b9",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "13:10",
+      "published_at": "2026-10-16T13:10+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker.",
+          "\"Pan prezydent ponownie przekaże postanowienie do prezesa Rady Ministrów z wnioskiem o kontrasygnatę (...) o powołanie 4 członków zarządu NBP, proponując w nim (...) te same osoby, które były zgłoszone w drodze konsensu w lutym tego roku\" - powiedział Szefernaker.",
+          "W maju Kancelaria Premiera zwróciła do Kancelarii Prezydenta bez kontrasygnaty cztery nominacje do zarządu NBP: Marty Kightley (do marca 2026 r. była pierwszą wiceprezes NBP) i Ludwika Koteckiego (obecny członek RPP), którzy mieli objąć swoje funkcje od dnia powołania, a także Przemysława Litwiniuka i Marcina Zarzeckiego (obecni członkowie RPP), którzy objęliby swoje funkcje odpowiednio od 5 listopada 2026 r. oraz od 2 stycznia 2027 r. (po wygaśnięciu kadencji w zarządzie M."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "RPP",
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4a102bc17e301e1e4962bf94d0f14f27924e7ee77fdee71876b6064a7fd913b9"
+      }
+    },
+    {
+      "id": "5302934c59e0e78f",
+      "title": "Cena maksymalna na 17-19 X dla benzyny Pb95 wynosi 6,89 zł/l, a dla ON 8,00 zł/l",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/cena-maksymalna-na-17-19-x-dla-benzyny-pb95-wynosi-689-zll-dla-800-zll",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: energi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W dniach 17-19 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,89 zł/l, dla benzyny Pb98 7,68 zł/l, a dla oleju napędowego 8,00 zł/l - poinformował minister energii w obwieszczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 6,95 zł/l, dla benzyny Pb98 to 7,76 zł/l, a dla oleju napędowego 8,03 zł/l."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 12:55",
+      "content_sha256": "371bd87f425bfa40c393ce57d84468db66a4e591692699e3c9034cdd8d0602fd",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "12:55",
+      "published_at": "2026-10-16T12:55+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W dniach 17-19 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,89 zł/l, dla benzyny Pb98 7,68 zł/l, a dla oleju napędowego 8,00 zł/l - poinformował minister energii w obwieszczeniu.",
+          "Aktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 6,95 zł/l, dla benzyny Pb98 to 7,76 zł/l, a dla oleju napędowego 8,03 zł/l.",
+          "Rząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "paliw*",
+              "energi*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "371bd87f425bfa40c393ce57d84468db66a4e591692699e3c9034cdd8d0602fd"
+      }
+    },
+    {
+      "id": "c62784df2b864f2a",
+      "title": "Ekonomiści Pekao podnieśli prognozę wzrostu PKB Polski w '26 do 4 proc. (opinia)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/ekonomisci-pekao-podniesli-prognoze-wzrostu-pkb-polski-w-26-do-4-proc-opinia",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [
+        "Pekao"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: PKB"
+        ],
+        "finanse": [
+          "Firma: Pekao",
+          "Temat: bank"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ekonomiści Banku Pekao podnieśli prognozę wzrostu PKB Polski w 2026 r. do 4 proc. z 3,7 proc. prognozowanych wcześniej. W piątek GUS zrewidował w górę szacunek wzrostu PKB w I kw. i II kw. 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wracamy do prognozy z początku roku - polska gospodarka urośnie w tym roku o 4 proc. Wygląda na to, że rok 2026 będzie faktycznie rokiem inwestycji, z umiarkowanym wkładem konsumpcji prywatnej. Najbardziej 'czwórce z przodu' pomoże jednak eksport. Wojna w Iranie wojną, ale otoczenie polskiej gospodarki jest obecnie najkorzystniejsze od 4 lat\" - napisali na platformie X ekonomiści."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pierwszy krok zrobiliśmy dwa miesiące temu, gdy pod wpływem danych za II kwartał podwyższyliśmy prognozę wzrostu PKB w 2026 z 3,5 do 3,7 proc. Ostatnia rewizja rachunków narodowych podniosła punkt startowy na cały rok - w I połowie roku gospodarka rosła o 0,2 pkt. proc. szybciej niż się wcześniej wydawało\" - dodali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem ekonomistów Pekao, dane za III kwartał sugerują, że wzrost PKB wyniósł ok. 3,8-3,9 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Co z IV kwartale? Tu nie mamy jeszcze żadnych danych. Poprzeczka do tego, żeby cały rok zamknął się z czwórką z przodu nie jest zawieszona wysoko. Wystarczy niewielkie przyspieszenie w końcówce roku\" - wskazują ekonomiści."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"2027 r. nie ruszamy, tu jest sporo ryzyk i czujemy się całkiem komfortowo z prognozą wzrostu PKB 2,9 proc.\" - dodają."
+        },
+        {
+          "type": "paragraph",
+          "text": "Główny Urząd Statystyczny zrewidował w piątek szacunek wzrostu PKB w II kwartale 2026 r. do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 pkt. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał w piątek GUS."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 12:30",
+      "content_sha256": "81cdab8e204358076aab929c0717744ed2a0b93406f3fa59074a570cd3ccb067",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "12:30",
+      "published_at": "2026-10-16T12:30+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Ekonomiści Banku Pekao podnieśli prognozę wzrostu PKB Polski w 2026 r. do 4 proc. z 3,7 proc. prognozowanych wcześniej.",
+          "W piątek GUS zrewidował w górę szacunek wzrostu PKB w I kw. i II kw. 2026 r.",
+          "\"Pierwszy krok zrobiliśmy dwa miesiące temu, gdy pod wpływem danych za II kwartał podwyższyliśmy prognozę wzrostu PKB w 2026 z 3,5 do 3,7 proc. Ostatnia rewizja rachunków narodowych podniosła punkt startowy na cały rok - w I połowie roku gospodarka rosła o 0,2 pkt. proc. szybciej niż się wcześniej wydawało\" - dodali."
+        ],
+        "interest_score": 43,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Ekonomiści Banku Pekao podnieśli prognozę wzrostu PKB Polski w 2026 r. do 4 proc. z 3,7 proc. prognozowanych wcześniej."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "81cdab8e204358076aab929c0717744ed2a0b93406f3fa59074a570cd3ccb067"
+      }
+    },
+    {
+      "id": "7e11fcee698d93ff",
+      "title": "Prezydent ponownie przekaże do kontrasygnaty premiera wnioski o powołanie 4 członków zarządu NBP (opis)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/prezydent-ponownie-przekaze-do-kontrasygnaty-premiera-wnioski-o-powolanie-4",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP",
+          "Temat: RPP"
+        ],
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pan prezydent ponownie przekaże postanowienie do prezesa Rady Ministrów z wnioskiem o kontrasygnatę (...) o powołanie 4 członków zarządu NBP, proponując w nim (...) te same osoby, które były zgłoszone w drodze konsensu w lutym tego roku\" - powiedział Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ten ponowiony wniosek, który zostanie złożony, to wniosek o powołanie 4 członków zarządu - Przemysława Litwiniuka, Ludwika Koteckiego, Marcina Zarzeckiego oraz Marty Kightley\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Złożony w lutym br. wniosek prezydenta o powołanie tych samym osób w skład zarządu NBP nie uzyskał kontrasygnaty premiera, co jest konieczne do stwierdzenia mocy prawnej powołania na to stanowisko. W poniedziałek NBP poinformował, że prezes NBP ponownie wystąpił do prezydenta Rzeczypospolitej Polskiej z wnioskami o powołanie członków zarządu NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obecny zarząd NBP liczy minimalną przewidzianą prawem liczbę 6 osób. 4 listopada upływa kadencja wiceprezesa NBP Adama Lipińskiego. Jeżeli wakat po nim nie zostanie uzupełniony doszłoby do sytuacji, w której liczba członków zarządu spadłaby poniżej wymaganej ustawowo liczby (6-8 osób, nie licząc prezesa NBP)."
+        },
+        {
+          "type": "paragraph",
+          "text": "W maju Kancelaria Premiera zwróciła do Kancelarii Prezydenta bez kontrasygnaty cztery nominacje do zarządu NBP: Marty Kightley (do marca 2026 r. była pierwszą wiceprezes NBP) i Ludwika Koteckiego (obecny członek RPP), którzy objęliby swoje funkcje od dnia powołania, a także Przemysława Litwiniuka i Marcina Zarzeckiego (obecni członkowie RPP), którzy objęliby swoje funkcje odpowiednio od 5 listopada 2026 r. oraz od 2 stycznia 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kotecki i Litwiniuk zostali powołani do RPP z ramienia Senatu, a Zarzecki przez prezydenta RP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z ustawą w skład zarządu Narodowego Banku Polskiego wchodzi prezes banku centralnego oraz od sześciu do ośmiu członków, w tym dwóch wiceprezesów. Kadencja członków zarządu trwa 6 lat, a ta sama osoba nie może pełnić tej funkcji dłużej niż dwie kolejne kadencje. Członkowie zarządu są powoływani i odwoływani przez prezydenta na wniosek prezesa NBP. Jednakże, zgodnie z konstytucją, co do zasady akty urzędowe prezydenta wymagają kontrasygnaty premiera z wyjątkiem m.in. wniosku do Sejmu o powołanie prezesa NBP, czy członków RPP. Kontrasygnaty wymaga zatem powołanie członków zarządu banku centralnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aktualny skład zarządu NBP wraz z upływem kadencji: Adam Lipiński - wiceprezes NBP -kadencja do 4 listopada 2026 r., Marta Gajęcka - kadencja do 1 stycznia 2027 r., Paweł Mucha - kadencja do 1 września 2028 r., Artur Soboń - kadencja do 6 grudnia 2029 r., Rafał Sura - kadencja do 28 lipca 2028 r., Paweł Szałamacha -kadencja do 12 października 2028 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 12:14",
+      "content_sha256": "46e69323bfe9d4b16de5b98644cad4c31dce63d222643825c4b2efdbf8285658",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "12:14",
+      "published_at": "2026-10-16T12:14+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker.",
+          "\"Pan prezydent ponownie przekaże postanowienie do prezesa Rady Ministrów z wnioskiem o kontrasygnatę (...) o powołanie 4 członków zarządu NBP, proponując w nim (...) te same osoby, które były zgłoszone w drodze konsensu w lutym tego roku\" - powiedział Szefernaker.",
+          "W maju Kancelaria Premiera zwróciła do Kancelarii Prezydenta bez kontrasygnaty cztery nominacje do zarządu NBP: Marty Kightley (do marca 2026 r. była pierwszą wiceprezes NBP) i Ludwika Koteckiego (obecny członek RPP), którzy objęliby swoje funkcje od dnia powołania, a także Przemysława Litwiniuka i Marcina Zarzeckiego (obecni członkowie RPP), którzy objęliby swoje funkcje odpowiednio od 5 listopada 2026 r. oraz od 2 stycznia 2027 r."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Prezydent RP Karol Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "RPP",
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "46e69323bfe9d4b16de5b98644cad4c31dce63d222643825c4b2efdbf8285658"
+      }
+    },
+    {
+      "id": "7fcf5c0ee92b1fe3",
+      "title": "W przyszłym tygodniu możliwe dalsze wzrosty cen autogazu na stacjach - e-petrol",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/w-przyszlym-tygodniu-mozliwe-dalsze-wzrosty-cen-autogazu-na-stacjach-e-petrol",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: paliw"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W przyszłym tygodniu możliwe dalsze wzrosty cen autogazu na stacjach benzynowych - prognozują analitycy e-petrol. W przypadku pozostałych paliw ceny prawdopodobnie spadną."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Prognozy na nadchodzący tydzień dla większości tankujących wyglądają optymistycznie, bo zakładają niższe ceny na stacjach. Wyjątkiem są jedynie kierowcy samochodów z instalacją LPG, bo w związku z gwałtownym wzrostem hurtowych notowań autogazu, podwyżki dla tego paliwa mogą jeszcze przyspieszyć\" - napisano w raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Szacowane przez e-petrol.pl przedziały cenowe dla poszczególnych gatunków paliw to: 6,78-6,89 zł/l dla benzyny E10, dla oleju napędowego 7,86-7,99 zł/l a prognozowana cena dla autogazu to 3,51-3,62 zł/l\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Prognoza cen paliw w sprzedaży detalicznej |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| W okresie | 19-25 października 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Pb98 | 7,58-7,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Pb95 | 6,78-6,89"
+        },
+        {
+          "type": "heading",
+          "text": "| ON | 7,86-7,99"
+        },
+        {
+          "type": "heading",
+          "text": "| LPG | 3,51-3,62"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aktualne średnie ceny paliw w polskich rafineriach (źródło: e-petrol)."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Aktualne średnie ceny netto paliw w polskich rafineriach |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Aktualizacja | 16.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Pb98 | 6812,8"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Pb95 | 6080,2"
+        },
+        {
+          "type": "heading",
+          "text": "| ON | 7109,8"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 12:10",
+      "content_sha256": "c8596d19b1f5e76706c294bebf025ed3e703332134500f106c129e133f8dd564",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "12:10",
+      "published_at": "2026-10-16T12:10+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W przyszłym tygodniu możliwe dalsze wzrosty cen autogazu na stacjach benzynowych - prognozują analitycy e-petrol.",
+          "\"Prognozy na nadchodzący tydzień dla większości tankujących wyglądają optymistycznie, bo zakładają niższe ceny na stacjach.",
+          "\"Szacowane przez e-petrol.pl przedziały cenowe dla poszczególnych gatunków paliw to: 6,78-6,89 zł/l dla benzyny E10, dla oleju napędowego 7,86-7,99 zł/l a prognozowana cena dla autogazu to 3,51-3,62 zł/l\" - dodano."
+        ],
+        "interest_score": 43,
+        "impact_score": 22,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "W przyszłym tygodniu możliwe dalsze wzrosty cen autogazu na stacjach benzynowych - prognozują analitycy e-petrol."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "paliw*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "c8596d19b1f5e76706c294bebf025ed3e703332134500f106c129e133f8dd564"
+      }
+    },
+    {
+      "id": "a0ee9f03e64d60fe",
+      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie głównie rosną; dolar umacnia się",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-rynkach-indeksy-w-europie-glownie-rosna-dolar-umacnia-sie",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: dolar"
+        ],
+        "technologie": [
+          "Temat: sztuczn* inteligenc"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Giełdy w Europie głównie zwyżkują, podobnie jak kontrakty w USA. Inwestorzy oceniają sytuację w branży sztucznej inteligencji wraz z wynikami spółek za III kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie indeks Euro Stoxx 50 rośnie o 0,67 proc., niemiecki DAX idzie w górę o 1 proc., francuski CAC 40 zwyżkuje o 0,17 proc., a brytyjski FTSE 100 spada o 0,13 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benchmarkowy indeks Europe Stoxx 600 zwyżkuje o 0,53 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kontrakty na indeksy w USA są w przedziale od 0,0 proc. do +0,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W skali tygodnia indeks odnotował wzrost o ponad 1,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solidne wyniki finansowe europejskich spółek pomogły ustabilizować rynki pod koniec tygodnia pełnego wahań, naznaczonego wyprzedażą akcji czołowych spółek technologicznych wobec obaw o konkurencję ze strony Chin oraz rosnące zadłużenie na rzecz rozwoju infrastruktury AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Bardzo udany sezon wyników finansowych znacząco poprawi nastroje inwestorów. Może to pozwolić rynkom na powrót do niedawno obserwowanych szczytów” – ocenił Michael Field, główny strateg ds. rynku akcji w firmie Morningstar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z danych LSEG I/B/E/S wynika, że zyski spółek wchodzących w skład indeksu STOXX 600 mają w trzecim kwartale wzrosnąć o 20,7 proc. rok do roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W przyszłym tygodniu swoje wyniki opublikują m.in. SAP, ABB i Barclays."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs akcji spółki Nordex rośnie o 13 proc. po tym, jak ten producent lądowych turbin wiatrowych odnotował w trzecim kwartale zysk operacyjny (wynik podstawowy) lepszy od oczekiwań i podniósł całoroczną prognozę marży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje producenta chipów, firmy Aixtron, zyskują 5 proc. po tym, jak spółka przekroczyła prognozy dotyczące napływu zamówień w trzecim kwartale i potwierdziła swoje całoroczne założenia finansowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Nestlé rosną o 1 proc. po tym, jak JPMorgan podniósł rekomendację dla tego szwajcarskiego koncernu spożywczego do „przeważaj”."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Jednym z głównych wyzwań, z jakimi mierzymy się w sektorze sztucznej inteligencji i szerzej w całej branży technologicznej w ciągu ostatnich 6–12 miesięcy, jest fakt, że znaczna część zachodzących procesów rozgrywa się na rynkach prywatnych” – powiedział w CNBC Jeff Richards, partner zarządzający w Notable Capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy oceniają informacje wojenne z Bliskiego Wschodu. Co najmniej dwie osoby zginęły, a około 10 odniosło obrażenia w czwartek w eksplozjach, do których doszło w pobliżu pałacu w Adenie, w którym siedzibę ma uznawany na arenie międzynarodowej rząd Jemenu. Do ostrzału pałacu przyznali się wspierani przez Iran rebelianci Huti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes Rezerwy Federalnej Kevin Warsh podczas moderowanej dyskusji, która odbyła się w piątek rano w Bangkoku w ramach corocznego spotkania Międzynarodowego Funduszu Walutowego, po raz kolejny powtórzył, że Fed zapewni stabilność cen, a także nie wypowiedział się na temat swoich prognoz dotyczących polityki pieniężnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek Dow Jones Industrial na zamknięciu wzrósł o 1,08 proc. i wyniósł 52.177,69 pkt. S&P 500 na koniec dnia wzrósł o 0,33 proc. i wyniósł 7.744,06 pkt. Nasdaq Composite zwyżkował o 0,08 proc. do 26.713,026 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dolar osłabia się o 0,27 proc. wobec koszyka walut do 101,74 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eurodolar umacnia się o 0,3 proc. do 1,1252."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kwotowanie USD/JPY spada o 0,1 proc. do 157,98."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs funta zwyżkuje o 0,41 proc. wobec dolara do 1,3327."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zniżkują o 0,77 proc. do 97,26 USD za baryłkę, a grudniowe futures na Brent spadają o 0,45 proc. do 105,44 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 12:02",
+      "content_sha256": "30930dff1b80bc3c5df3259c040f4e342f7a31926d499e30e2df2cd02a9afaf0",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "12:02",
+      "published_at": "2026-10-16T12:02+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Giełdy w Europie głównie zwyżkują, podobnie jak kontrakty w USA.",
+          "W Europie indeks Euro Stoxx 50 rośnie o 0,67 proc., niemiecki DAX idzie w górę o 1 proc., francuski CAC 40 zwyżkuje o 0,17 proc., a brytyjski FTSE 100 spada o 0,13 proc.",
+          "Solidne wyniki finansowe europejskich spółek pomogły ustabilizować rynki pod koniec tygodnia pełnego wahań, naznaczonego wyprzedażą akcji czołowych spółek technologicznych wobec obaw o konkurencję ze strony Chin oraz rosnące zadłużenie na rzecz rozwoju infrastruktury AI."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Inwestorzy oceniają sytuację w branży sztucznej inteligencji wraz z wynikami spółek za III kw."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Giełdy w Europie głównie zwyżkują, podobnie jak kontrakty w USA."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "sztuczn* inteligenc*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "30930dff1b80bc3c5df3259c040f4e342f7a31926d499e30e2df2cd02a9afaf0"
+      }
+    },
+    {
+      "id": "98a83add6a7d7695",
+      "title": "Prezydent przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP L. Koteckiego, P. Litwiniuka, M. Zarzeckiego i M. Kightley - szef gabinetu prezydenta",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/prezydent-przekaze-do-kontrasygnaty-premiera-wnioski-o-powolanie-do-zarzadu-nbp",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP"
+        ],
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Prezydent RP K. Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego i Marty Kghtley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pan prezydent ponownie przekaże postanowienie do prezesa Rady Ministrów z wnioskiem o kontrasygnatę (...) postanowienia o powołaniu 4 członków zarządu NBP, proponując w nim (...) te same osoby, które były zgłoszone w drodze konsensu w lutym tego roku\" - powiedział Szefernaker."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ten ponowiony wniosek, który zostanie złożony to wniosek o powołanie 4 członków zarządu - Przemysław Litwiniuka, Ludwika Koteckiego, Marcina Zarzeckiego oraz Marty Kightley\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 12:01",
+      "content_sha256": "6f963ecd8225f8805753e9f8ce97e601e409238fe9afd725e7352845cc63ece2",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "12:01",
+      "published_at": "2026-10-16T12:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego i Marty Kghtley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker.",
+          "\"Pan prezydent ponownie przekaże postanowienie do prezesa Rady Ministrów z wnioskiem o kontrasygnatę (...) postanowienia o powołaniu 4 członków zarządu NBP, proponując w nim (...) te same osoby, które były zgłoszone w drodze konsensu w lutym tego roku\" - powiedział Szefernaker.",
+          "\"Ten ponowiony wniosek, który zostanie złożony to wniosek o powołanie 4 członków zarządu - Przemysław Litwiniuka, Ludwika Koteckiego, Marcina Zarzeckiego oraz Marty Kightley\" - dodał."
+        ],
+        "interest_score": 47,
+        "impact_score": 26,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Nawrocki ponownie przekaże do kontrasygnaty premiera wnioski o powołanie do zarządu NBP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego i Marty Kghtley - poinformował podczas konferencji prasowej szef gabinetu prezydenta RP Paweł Szefernaker."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6f963ecd8225f8805753e9f8ce97e601e409238fe9afd725e7352845cc63ece2"
+      }
+    },
+    {
+      "id": "3832136e19ac0bb8",
+      "title": "Polacy nie rezygnują z nieruchomości w Hiszpanii. Czy utrzymają tempo w III kwartale?",
+      "url": "https://strefainwestorow.pl/nieruchomosci/zakupy-nieruchomosci-hiszpania-wstepne-dane-3q26",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl",
+        "nieruchomosci"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: kolej"
+        ],
+        "nieruchomosci": [
+          "Temat: nieruchomoś",
+          "Dział źródłowy"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Początek III kw. br. na rynku nieruchomości w Hiszpanii był nierówny, po słabszym lipcu sierpień przyniósł odbicie. Polacy II kw. zakończyli wzrostem zakupów, czy to samo pokażą kolejne dane?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polscy nabywcy mają za sobą dwa kwartały wzrostu liczby transakcji po słabszej końcówce 2025 r. W II kw. kupili w Hiszpanii 1143 nieruchomości i utrzymali ósme miejsce wśród zagranicznych kupujących. Teraz najważniejsze będzie to, czy wyniki za III kw. potwierdzą utrzymanie wysokiego popytu. Na dane uwzględniające narodowość nabywców trzeba jednak poczekać do listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z rozmów z klientami wynika też, że te zakupy są dziś mniej spontaniczne. To bardziej dojrzały popyt, dlatego spodziewam się, że zainteresowanie Hiszpanią pozostanie wysokie, nawet jeśli dynamika poszczególnych kwartałów będzie się zmieniać."
+        },
+        {
+          "type": "paragraph",
+          "text": "– skomentowała Tatiana Pękala, założycielka Dream Property Marbella."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska stała się ważnym europejskim ośrodkiem gospodarczym i inwestycyjnym, a Gruzja jest coraz bardziej dostrzegana przez polskich inwestorów i przedsiębiorców – Ilia Tsulaia, Founder and Chairman of Archi Group"
+        },
+        {
+          "type": "heading",
+          "text": "Polacy kupują więcej, choć ich udział w zagranicznym popycie spadł"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pod koniec 2025 r. udział Polaków w zakupach dokonywanych przez cudzoziemców obniżył się do 4,01 proc., o 0,62 pkt proc. względem III kw. Pierwsze miesiące 2026 roku przyniosły jednak wzrost aktywności. W I kw. Polacy kupili 1126 nieruchomości, o 17,8 proc. więcej niż kwartał wcześniej. W II kw. liczba transakcji wzrosła do 1143, czyli o kolejne 1,5 proc. k/k."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mimo większej liczby zakupów udział Polaków w zagranicznym popycie zmniejszył się z 4,61 proc. do 4,33 proc. Nie oznacza to jednak osłabienia ich aktywności. Polacy zachowali ósme miejsce w zestawieniu, za Francuzami, Włochami, Rumunami, Marokańczykami, Niemcami, Holendrami i Brytyjczykami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: Registradores de España"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nie zakładam, że każdy kolejny kwartał musi przynosić rekord. Znacznie ważniejsze jest dla mnie to, że po słabszym końcu ubiegłego roku zainteresowanie polskich inwestorów szybko wróciło i w drugim kwartale nadal rosło."
+        },
+        {
+          "type": "paragraph",
+          "text": "– powiedziała Tatiana Pękala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zmieniło się również podejście inwestorów z Polski. Jak wskazywała Tatiana Pękala przy okazji danych za II kwartał, dla części polskich rodzin nieruchomość w Hiszpanii jest elementem długoterminowego planu, dywersyfikacji majątku, przygotowania do emerytury czy zapewnienia miejsca kolejnym pokoleniom. W ciągu ostatnich pięciu lat Polacy kupili w tym kraju około 17 tys. mieszkań i domów, a jednym z głównych kierunków pozostaje Costa del Sol."
+        },
+        {
+          "type": "heading",
+          "text": "Hiszpański rynek po słabym lipcu wrócił do wzrostu w sierpniu"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze dane z hiszpańskiego rynku za III kw. są niejednoznaczne. Według Colegio de Registradores w lipcu 2026 roku zarejestrowano około 60,5 tys. transakcji mieszkaniowych, o 7,7 proc. mniej niż rok wcześniej. W sierpniu było ich około 48,7 tys., ale tym razem wynik przewyższył ubiegłoroczny o 1,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Był to dopiero drugi miesiąc w 2026 r, po czerwcu, w którym liczba transakcji przekroczyła poziom z analogicznego okresu poprzedniego roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie w lipcu i sierpniu zarejestrowano około 109,2 tys. zakupów mieszkań. Na podstawie zaokrąglonych danych Registradores oznacza to spadek o około 3 proc. r/r. Sierpień ograniczył zatem skalę osłabienia widoczną po lipcu"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wakacje są na rynku nieruchomości specyficznym momentem. Klienci nadal oglądają oferty i prowadzą rozmowy, ale część odkłada decyzje na okres po urlopach. Często umawiają się z wyprzedzeniem na wrzesień i październik. Dlatego sierpniowy wynik jest dla mnie szczególnie ciekawy. Jeżeli już w miesiącu typowo wakacyjnym rynek wrócił powyżej ubiegłorocznego poziomu, to wrzesień też może nas pozytywnie zaskoczyć. Nie traktowałabym jednego miesiąca jako dowodu na odwrócenie trendu, ale zdecydowanie warto obserwować, czy odbicie utrzyma się po wakacjach."
+        },
+        {
+          "type": "paragraph",
+          "text": "– powiedziała Pękala."
+        },
+        {
+          "type": "paragraph",
+          "text": "O wyniku Polaków przesądzą pełne dane za III kw. Sierpniowe odbicie na całym rynku jest pozytywnym sygnałem. Jednak dopiero publikacja Registradores de España za miniony kwartał pokaże, czy Polacy utrzymali tempo zakupów, poprawiającym tym samym, wynik sprzed roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski rynek mieszkań stabilizuje się, budownictwo w europejskiej czołówce. Wnioski z konferencji JLL"
+        }
+      ],
+      "author": "Wiola Hass",
+      "published_display": "16.10.2026 11:53",
+      "content_sha256": "71773f7d0ae0ddf60940d8febcbf7b065944fdf8c09d70460006cda472b0568c",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "11:53",
+      "published_at": "2026-10-16T11:53+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Początek III kw. br. na rynku nieruchomości w Hiszpanii był nierówny, po słabszym lipcu sierpień przyniósł odbicie.",
+          "Polscy nabywcy mają za sobą dwa kwartały wzrostu liczby transakcji po słabszej końcówce 2025 r. W II kw. kupili w Hiszpanii 1143 nieruchomości i utrzymali ósme miejsce wśród zagranicznych kupujących.",
+          "Jednak dopiero publikacja Registradores de España za miniony kwartał pokaże, czy Polacy utrzymali tempo zakupów, poprawiającym tym samym, wynik sprzed roku."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Teraz najważniejsze będzie to, czy wyniki za III kw. potwierdzą utrzymanie wysokiego popytu."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "71773f7d0ae0ddf60940d8febcbf7b065944fdf8c09d70460006cda472b0568c"
+      }
+    },
+    {
+      "id": "feb8d8621295265c",
+      "title": "Latająca Tesla Roadster to inżynieryjny pokaz siły, ale bez jasnej wartości komercyjnej, a produkcja ruszy najwcześniej w 2028 roku",
+      "url": "https://strefainwestorow.pl/strefa-global-market/spolki/latajaca-tesla-akcje-roadster-2028",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: produkcj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Elon Musk po niemal dekadzie zapowiedzi pokazał samochód Tesli zdolny oderwać się od ziemi. Latająca Tesla to elektryczny Roadster 2.0, który jechał po rampie do góry kołami, obracał się w powietrzu i przeskoczył nad pięcioma autami, ale klienci, którzy wpłacili nawet 250 tys. USD zaliczki, poczekają na rozpoczęcie produkcji do 2028 roku. Brak jasnej wartości komercyjnej sprawia jednak, że będzie to miało niewielki wpływ na kurs akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tesla zaprezentowała drugą generację sportowego modelu w czwartek w ośrodku testowym SpaceX w McGregor w Teksasie. Firma wróciła w ten sposób do projektu, który miał wejść do produkcji już w 2020 roku. Wydarzeniu towarzyszyły mgła, czerwone lasery i obecność licznych twórców internetowych, ale najważniejsza pozostawała demonstracja możliwości samochodu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Latająca Tesla Roadster ma pokazać technologiczne ambicje spółki, a jednocześnie przypomnieć o jej podstawowym biznesie motoryzacyjnym. W ostatnich latach auta przeznaczone do ręcznego prowadzenia zeszły w firmie na dalszy plan, ustępując pojazdom autonomicznym i robotyce."
+        },
+        {
+          "type": "heading",
+          "text": "Latająca Tesla i jazda do góry kołami"
+        },
+        {
+          "type": "paragraph",
+          "text": "Najbardziej widowiskowa część pokazu rozegrała się na wysokiej, zakrzywionej rampie przypominającej skateparkową halfpipe. Kanciasty Roadster wspiął się po niej w odwróconej pozycji, oderwał się od konstrukcji, obrócił w powietrzu i kontrolowanie wylądował. Podczas kolejnej próby przeleciał nad pięcioma innymi samochodami Tesli, jednocześnie wykonując obrót."
+        },
+        {
+          "type": "paragraph",
+          "text": "Za utrzymanie auta na rampie odpowiada system wentylatorów zasysających powietrze spod podwozia. Lars Moravy, wiceprezes Tesli ds. inżynierii pojazdów, wyjaśniał, że rozwiązanie zwiększa przyczepność i docisk. Do wykonywania skoków służy natomiast para silników manewrowych zasilanych sprężonym powietrzem, opracowanych przy wykorzystaniu technologii SpaceX."
+        },
+        {
+          "type": "paragraph",
+          "text": "Musk od lat zapowiadał, że Roadster będzie zdolny do krótkich skoków lub lewitacji. Tesla nie pokazała samochodu przemieszczającego się w powietrzu na większym dystansie, ale zademonstrowała kontrolowane oderwanie od ziemi, obrót i lądowanie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moravy określił Roadstera mianem pierwszego na świecie latającego samochodu oraz „ostatniego najlepszego samochodu dla kierowcy”. Tesla zapowiada, że będzie to jej ostatni model projektowany bez podporządkowania konstrukcji autonomicznej jeździe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bloomberg ujawnia kulisy produkcji GTA VI. Co premiera gry oznacza dla wyników Take-Two"
+        },
+        {
+          "type": "heading",
+          "text": "Od 0 do 100 km/h w niecałą sekundę, ale czy zmieni to kurs akcji?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zastosowanie silników manewrowych ma wpływać nie tylko na zdolność auta do wykonywania skoków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tesla twierdzi, że z uruchomionym systemem Roadster może rozpędzić się od zera do około 97 km/h (60 mil/h) w ciągu mniej więcej sekundy. Deklarowana prędkość maksymalna przekracza 370 km/h (230 mil/h)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zmienił się również wygląd samochodu. Prototyp zaprezentowany w listopadzie 2017 roku miał smukłą, obłą sylwetkę typową dla klasycznego auta sportowego. Roadster pokazany w Teksasie otrzymał ostre linie i wyraźnie kanciastą karoserię, przywodzącą na myśl Cybertrucka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Samochód ma trafić do najwyższego segmentu aut luksusowych i wyczynowych, w którym rywalizują Porsche, Lamborghini i Ferrari. Nie będzie jednak modelem masowym. Battle Road Research oceniło w czwartkowej nocie, że Roadster prawdopodobnie nie wniesie znaczącego wkładu w liczbę sprzedawanych przez Teslę samochodów, ale może mieć odczuwalny wpływ na przychody firmy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Znacznie chłodniej pokaz ocenił Gene Munster z Deepwater Asset Management. Jego zdaniem demonstracja była inżynieryjnym pokazem siły pozbawionym wartości komercyjnej poza zawstydzeniem tradycyjnych producentów samochodów. Trudno więc oczekiwać, że taki pokaz będzie miał istotny wpływ na kurs akcji Tesla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paul Tudor Jones wskazuje, co może zakończyć hossę na Wall Street. Legendarny inwestor zapowiada wielką grę na spadki"
+        },
+        {
+          "type": "heading",
+          "text": "Dziewięć lat i miliony USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Czwartkowa prezentacja oznacza powrót projektu ogłoszonego niemal dziewięć lat wcześniej. Tesla po raz pierwszy pokazała prototyp drugiej generacji Roadstera w listopadzie 2017 roku i zaczęła przyjmować zaliczki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podstawowa rezerwacja kosztowała 50 tys. USD. Osoby zainteresowane limitowaną serią Founders wpłacały po 250 tys. USD. Łączna wartość depozytów mogła sięgnąć milionów USD. Wśród uczestników wydarzenia byli entuzjaści marki, którzy zarezerwowali samochód dziewięć lat wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwotny plan zakładał rozpoczęcie produkcji w 2020 roku, ale nie został zrealizowany. Podczas wydarzenia Muskowi towarzyszyli na scenie najważniejsi menedżerowie odpowiedzialni za projektowanie i inżynierię. Prezes Tesli zapowiedział, że Roadster wejdzie do produkcji w 2028 roku. „Tym razem naprawdę” - zapewnił."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena finalnej wersji pozostaje nieznana. Kiedy uczestnicy wydarzenia zaczęli wykrzykiwać pytania o jej wysokość, Musk nie udzielił odpowiedzi. Nie wiadomo więc, czy wcześniejsze poziomy depozytów wskazują na ostateczną cenę, czy były jedynie opłatą za miejsce w kolejce."
+        },
+        {
+          "type": "heading",
+          "text": "Najnowsze rekomendacje dla Tesli"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gdy kurs akcji Tesla oscyluje wokół 360 USD za jedną akcję, rekomendacje analityków są z dużym rozrzutem. Od niecałych 25 USD (!) do nawet 500 USD. Poniżej stan na 16 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Instytucja | Rekomendacja | Data | Cena docelowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "| GLJ Research | Sprzedaj | 15.10.2026 | 24,86 USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Jefferies | Trzymaj | 12.10.2026 | 400 USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Yorkville Ives | Kupuj | 07.10.2026 | 500 USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "| UBS | Kupuj | 06.10.2026 | 391 USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Goldman Sachs | Neutralnie | 06.10.2026 | 360 USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny oleju napędowego zaczynają dusić światową gospodarkę ostrzega ekspert Saxo Bank"
+        },
+        {
+          "type": "heading",
+          "text": "Latająca Tesla: Cena i homologacja"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drugim pytaniem bez odpowiedzi pozostaje dopuszczenie Roadstera do ruchu drogowego. Zapytany, jak samochód wykorzystujący system ssący i silniki manewrowe miałby uzyskać odpowiednie zezwolenia, Musk odpowiedział wymijająco, że „zależy to od ulicy” , ale auto będzie funkcjonalnym pojazdem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brak precyzyjnych informacji o homologacji będzie miał znaczenie także dla potencjalnych klientów w Europie. Trudno więc w tej chwili nawet spekulować, kiedy latająca Tesla w Polsce czy Europie będzie do zobaczenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na tym etapie nie wiadomo, czy wszystkie zaprezentowane rozwiązania znajdą się w wersji dopuszczonej do ruchu ani czy możliwości pokazane na zamkniętym terenie będzie można legalnie wykorzystywać na publicznych drogach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostrożności wymaga również interpretacja notowań. Akcje Tesli spadały o 1,29%. Przy symbolu SPCX widniał spadek o 2,33%. Nie ma też podstaw, aby obie zmiany przedstawiać jako bezpośrednią reakcję inwestorów na premierę Roadstera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najnowsze prognozy stóp procentowych. Fed i EBC szykują się na grudzień, RPP dzieli analityków"
+        },
+        {
+          "type": "heading",
+          "text": "Powrót do pierwszego auta"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nowy model jest kontynuacją samochodu, od którego zaczęła się motoryzacyjna historia Tesli. Pierwszy Roadster, wprowadzony w 2008 roku, był pierwszym pojazdem firmy. Powstał na bazie gruntownie zmodyfikowanego samochodu sportowego Lotusa, wyposażonego w elektryczny napęd zasilany z baterii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs akcji Tesla od dłuższego czasu porusza się w trendzie bocznym i trudno oczekiwać, aby latająca Tesla miała to w jakiś sposób zmienić"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tamten model udowodnił, że auto elektryczne może być szybkie, atrakcyjne i budzić emocje. Pomógł też Tesli przejść od niszowego projektu sportowego do produkcji samochodów przeznaczonych dla znacznie szerszego grona odbiorców."
+        },
+        {
+          "type": "paragraph",
+          "text": "Druga generacja Roadstera pojawia się w zupełnie innym momencie. Tesla coraz mocniej stawia na autonomiczną jazdę i robotykę, a Musk zapowiada, że sportowy model będzie ostatecznie jedynym samochodem marki przeznaczonym do ręcznego prowadzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pokaz potwierdził, że Tesla zbudowała prototyp zdolny wykonać część manewrów zapowiadanych przez Muska od lat. Nadal nie wiadomo jednak, ile samochód będzie kosztował, na jakich zasadach zostanie dopuszczony do ruchu i które rozwiązania trafią do wersji produkcyjnej. Do 2028 roku Roadster musi przejść od efektownego prototypu do auta, które rzeczywiście trafi do klientów i wtedy będzie można próbować rozstrzygnąć jego wpływ na wycenę spółki i kurs akcji."
+        }
+      ],
+      "author": "Szymon Machalica",
+      "published_display": "16.10.2026 11:52",
+      "content_sha256": "9249b370a40969472a47b9abb39991b833242d1a2f4b5394dbc0ace920152643",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "11:52",
+      "published_at": "2026-10-16T11:52+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Latająca Tesla to elektryczny Roadster 2.0, który jechał po rampie do góry kołami, obracał się w powietrzu i przeskoczył nad pięcioma autami, ale klienci, którzy wpłacili nawet 250 tys.",
+          "Jego zdaniem demonstracja była inżynieryjnym pokazem siły pozbawionym wartości komercyjnej poza zawstydzeniem tradycyjnych producentów samochodów.",
+          "Tesla po raz pierwszy pokazała prototyp drugiej generacji Roadstera w listopadzie 2017 roku i zaczęła przyjmować zaliczki."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "9249b370a40969472a47b9abb39991b833242d1a2f4b5394dbc0ace920152643"
+      }
+    },
+    {
+      "id": "bc7757dd993bceaf",
+      "title": "Tabela kursów średnich NBP nr 202/A/NBP/2026",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/tabela-kursow-srednich-nbp-nr-202anbp2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP",
+          "Temat: walut"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Tabela kursów średnich waluty krajowej w stosunku do walut obcych ogłoszona 2026-10-16"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nazwa waluty | Kod waluty | Średni | Zmiana proc.*"
+        },
+        {
+          "type": "paragraph",
+          "text": "| bat (Tajlandia) | 1 THB | 0,1162 | 0,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| dolar amerykański | 1 USD | 3,8827 | -0,32"
+        },
+        {
+          "type": "paragraph",
+          "text": "| dolar australijski | 1 AUD | 2,7025 | 0,12"
+        },
+        {
+          "type": "paragraph",
+          "text": "| dolar Hongkongu | 1 HKD | 0,4947 | -0,34"
+        },
+        {
+          "type": "paragraph",
+          "text": "| dolar kanadyjski | 1 CAD | 2,7417 | -0,07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| dolar nowozelandzki | 1 NZD | 2,2015 | 0,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| dolar singapurski | 1 SGD | 3,0338 | -0,16"
+        },
+        {
+          "type": "paragraph",
+          "text": "| euro | 1 EUR | 4,3661 | -0,07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| forint (Węgry) | 100 HUF | 1,2020 | 0,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "| frank szwajcarski | 1 CHF | 4,7099 | 0,32"
+        },
+        {
+          "type": "paragraph",
+          "text": "| funt szterling | 1 GBP | 5,1746 | 0,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| hrywna (Ukraina) | 1 UAH | 0,0865 | -0,23"
+        },
+        {
+          "type": "paragraph",
+          "text": "| jen (Japonia) | 100 JPY | 2,4574 | -0,42"
+        },
+        {
+          "type": "paragraph",
+          "text": "| korona czeska | 1 CZK | 0,1794 | 0,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| korona duńska | 1 DKK | 0,5841 | -0,07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| korona islandzka | 100 ISK | 3,2057 | 0,08"
+        },
+        {
+          "type": "paragraph",
+          "text": "| korona norweska | 1 NOK | 0,4108 | 0,37"
+        },
+        {
+          "type": "paragraph",
+          "text": "| korona szwedzka | 1 SEK | 0,3925 | 0,49"
+        },
+        {
+          "type": "paragraph",
+          "text": "| lej rumuński | 1 RON | 0,8179 | -0,09"
+        },
+        {
+          "type": "paragraph",
+          "text": "| lira turecka | 1 TRY | 0,0783 | -0,76"
+        },
+        {
+          "type": "paragraph",
+          "text": "| nowy izraelski szekel | 1 ILS | 1,2557 | -0,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| peso chilijskie | 100 CLP | 0,3956 | 0,08"
+        },
+        {
+          "type": "paragraph",
+          "text": "| peso filipińskie | 1 PHP | 0,0617 | -0,16"
+        },
+        {
+          "type": "paragraph",
+          "text": "| peso meksykańskie | 1 MXN | 0,2112 | 0,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| rand (Republika Południowej Afryki) | 1 ZAR | 0,2363 | 0,25"
+        },
+        {
+          "type": "paragraph",
+          "text": "| real (Brazylia) | 1 BRL | 0,7615 | -1,32"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ringgit (Malezja) | 1 MYR | 0,9512 | -0,34"
+        },
+        {
+          "type": "paragraph",
+          "text": "| rupia indonezyjska | 10000 IDR | 2,1565 | -0,77"
+        },
+        {
+          "type": "paragraph",
+          "text": "| rupia indyjska | 100 INR | 4,0883 | -0,30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| won południowokoreański | 100 KRW | 0,2914 | 0,59"
+        },
+        {
+          "type": "paragraph",
+          "text": "| yuan renminbi (Chiny) | 1 CNY | 0,5806 | -0,27"
+        },
+        {
+          "type": "heading",
+          "text": "| SDR (MFW) | 1 XDR | 5,2745 | -0,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "* Zmiana wartości kursu waluty w porównaniu z notowaniem poprzednim w stosunku do złotego."
+        },
+        {
+          "type": "paragraph",
+          "text": "zdz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 11:51",
+      "content_sha256": "789f101772a1d06a9504fe044603de89fdd82d578803ca483b5c40ec305fda76",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "11:51",
+      "published_at": "2026-10-16T11:51+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "* Zmiana wartości kursu waluty w porównaniu z notowaniem poprzednim w stosunku do złotego.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "789f101772a1d06a9504fe044603de89fdd82d578803ca483b5c40ec305fda76"
+      }
+    },
+    {
+      "id": "920746518d6705d8",
+      "title": "Przejęcie Żabki: Circle K złożyło ważny wniosek",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/przejecie-zabki-circle-k-zlozylo-wazny-wniosek",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Żabka"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Żabka"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T14:53:37+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Circle K Polska złożył do UOKiK wniosek o przejęcie kontroli nad Zabka Group - podano na stronie Urzędu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgłaszany zamiar koncentracji dotyczy przejęcia przez Circle K Polska wyłącznej kontroli nad Zabka Group w drodze rozliczenia dobrowolnego wezwania na akcje ogłoszonego 26 sierpnia 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "26 sierpnia 2026 r. Alimentation Couche-Tard ogłosił wezwanie na 1.002.974.605 akcji Zabka Group, stanowiących 100 proc. akcji, po cenie 32 zł/szt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przyjmowanie zapisów rozpoczęło się 27 sierpnia i miało potrwać do 25 września 2026 r. 17 września poinformowano, że przyjmowanie zapisów zostało przedłużone do 26 października 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewidywany termin zawarcia transakcji nabycia akcji to obecnie 29 października 2026 r., a termin rozliczenia transakcji nabycia akcji to 3 listopada 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podmiotem nabywającym akcje w wezwaniu będzie Circle K Polska sp. z o.o."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamiarem wzywającego jest przejęcie kontroli nad spółką, a docelowo nabycie do 100 proc. jej akcji oraz całkowitej liczby głosów na walnym zgromadzeniu. Wzywający może też podjąć działania mające na celu wycofanie akcji z obrotu na rynku regulowanym."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 11:51",
+      "content_sha256": "190712f52bde30dc56aa2c8ff31630247e09e0da882f0d6a4cd4c14a5918b319",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T14:53:37+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
+      "published_time": "11:51",
+      "published_at": "2026-10-16T11:51+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Circle K Polska złożył do UOKiK wniosek o przejęcie kontroli nad Zabka Group - podano na stronie Urzędu.",
+          "Zgłaszany zamiar koncentracji dotyczy przejęcia przez Circle K Polska wyłącznej kontroli nad Zabka Group w drodze rozliczenia dobrowolnego wezwania na akcje ogłoszonego 26 sierpnia 2026 r.",
+          "Zamiarem wzywającego jest przejęcie kontroli nad spółką, a docelowo nabycie do 100 proc. jej akcji oraz całkowitej liczby głosów na walnym zgromadzeniu."
+        ],
+        "interest_score": 49,
+        "impact_score": 40,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Circle K Polska złożył do UOKiK wniosek o przejęcie kontroli nad Zabka Group - podano na stronie Urzędu."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "190712f52bde30dc56aa2c8ff31630247e09e0da882f0d6a4cd4c14a5918b319"
+      }
+    },
     {
       "id": "a110572574696122",
       "title": "W III kw. w grupie JSW produkcja węgla wyniosła 3,31 mln ton; mniej o ok. 0,2 proc. rdr",
@@ -4239,7 +7125,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "discovered_at": "2026-10-16T14:53:37+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -4682,7 +7568,7 @@
       "published_display": "15.10.2026 21:02",
       "content_sha256": "bd3ad51ae906a05f12c3649c2c280c1e79da583bc47a0dda1b8c41d7d7610748",
       "saved_at": "2026-10-15T21:49:56+00:00",
-      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T14:53:37+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -228489,7 +231375,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228507,7 +231393,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228526,7 +231412,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228544,7 +231430,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228562,7 +231448,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228580,7 +231466,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228598,7 +231484,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228616,7 +231502,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228634,7 +231520,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228652,7 +231538,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228670,7 +231556,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228688,7 +231574,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228706,7 +231592,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228724,7 +231610,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228742,7 +231628,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228762,7 +231648,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228782,7 +231668,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228800,7 +231686,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228818,7 +231704,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228836,7 +231722,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228854,7 +231740,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228872,7 +231758,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228892,7 +231778,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228910,7 +231796,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228928,7 +231814,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228946,7 +231832,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228964,7 +231850,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -228984,7 +231870,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229002,7 +231888,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229020,7 +231906,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229038,7 +231924,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229058,7 +231944,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229076,7 +231962,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229094,7 +231980,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229112,7 +231998,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229132,7 +232018,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229150,7 +232036,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229168,7 +232054,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229186,7 +232072,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229204,7 +232090,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229224,7 +232110,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229242,7 +232128,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229260,7 +232146,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229278,7 +232164,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229299,7 +232185,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229317,7 +232203,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229335,7 +232221,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229356,7 +232242,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -229668,7 +232554,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229688,7 +232574,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229706,7 +232592,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229724,7 +232610,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229742,7 +232628,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229760,7 +232646,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229780,7 +232666,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229798,7 +232684,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229816,7 +232702,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229834,7 +232720,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -229929,6 +232815,118 @@
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
       "error": "ValueError"
@@ -230047,90 +233045,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/obligacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/raporty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
       "error": "ValueError"
     }
   ],
