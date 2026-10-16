@@ -1,8 +1,3442 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-16T05:05:16+00:00",
+  "last_checked": "2026-10-16T09:51:57+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "a110572574696122",
+      "title": "W III kw. w grupie JSW produkcja węgla wyniosła 3,31 mln ton; mniej o ok. 0,2 proc. rdr",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/w-iii-kw-w-grupie-jsw-produkcja-wegla-wyniosla-331-mln-ton-mniej-o-ok-02-proc",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "przemysl"
+      ],
+      "companies": [
+        "JSW"
+      ],
+      "match_reasons": {
+        "energia": [
+          "Firma: JSW",
+          "Temat: węgl"
+        ],
+        "przemysl": [
+          "Temat: produkcj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W III kw. w grupie JSW produkcja węgla ogółem wyniosła 3,31 mln ton i była niższa o ok. 0,2 proc. rdr. W III kw. w grupie JSW sprzedaż węgla ogółem wyniosła ok. 3,21 mln ton i była niższa o ok. 9,7 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "W III kwartale produkcja węgla koksowego wyniosła ok. 2,77 mln ton i była wyższa w porównaniu do II kw. 2026 r. o ok. 0,4 proc., a w stosunku do III kw. 2025 r. niższa o ok. 3,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja węgla do celów energetycznych wyniosła ok. 0,54 mln ton i była wyższa w porównaniu do II kw. 2026 r. o ok. 16,1 proc., a w stosunku do III kw. 2025 r. wyższa o ok. 21,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż węgla koksowego wyniosła ok. 2,76 mln ton i była wyższa w porównaniu do II kw. 2026 r. o ok. 14,3 proc., a w porównaniu do III kw. 2025 r. niższa o ok. 4,2 proc., w tym: sprzedaż wewnętrzna wyniosła ok. 0,99 mln ton i była wyższa w porównaniu do II kw. 2026 r. o ok. 8,0 proc., a w porównaniu do III kw. 2025 r. niższa o ok. 19,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż węgla do celów energetycznych wyniosła ok. 0,45 mln ton i była niższa w porównaniu do II kw. 2026 r. o ok. 20,2 proc., a w porównaniu do III kw. 2025 r. niższa o ok. 33,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż węgla do odbiorców zewnętrznych stanowiła w III kw. 2026 r. ok. 69 proc. wolumenu ogółem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja koksu ogółem w III kw. 2026 r. wyniosła 0,74 mln ton i była wyższa o ok. 10,6 proc. w porównaniu do II kw. 2026 r., a w stosunku do III kw. 2025 r. odnotowała spadek o ok. 16,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż koksu ogółem w III kw. wyniosła 0,72 mln ton i była wyższa w porównaniu do II kw. 2026 r. o ok. 4,6 proc., a w stosunku do III kw. 2025 r. niższa o ok. 7,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "alk/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 11:45",
+      "content_sha256": "37eab6446a5ba1304e53b9378c467a83544a960609b08ce3a9ef334fdcb123de",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "11:45",
+      "published_at": "2026-10-16T11:45+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W III kw. w grupie JSW produkcja węgla ogółem wyniosła 3,31 mln ton i była niższa o ok.",
+          "0,2 proc. rdr. W III kw. w grupie JSW sprzedaż węgla ogółem wyniosła ok.",
+          "W III kwartale produkcja węgla koksowego wyniosła ok."
+        ],
+        "interest_score": 47,
+        "impact_score": 36,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "0,2 proc. rdr. W III kw. w grupie JSW sprzedaż węgla ogółem wyniosła ok."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "37eab6446a5ba1304e53b9378c467a83544a960609b08ce3a9ef334fdcb123de"
+      }
+    },
+    {
+      "id": "9c3db0d3f39c50f7",
+      "title": "Grupa MOL uruchomiła pierwszą instalację do produkcji biometanu na Węgrzech",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/grupa-mol-uruchomila-pierwsza-instalacje-do-produkcji-biometanu-na-wegrzech",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: produkcj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa MOL uruchomiła pierwszą instalację do produkcji biometanu w miejscowości Szarvas na Węgrzech - podał MOL w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podano, że dzięki inwestycji o wartości ponad 2,7 mld forintów obiekt może już produkować biometan z biogazu, oczyszczony do jakości umożliwiającej zatłaczanie do krajowej sieci gazowej. Pozwoli to zastąpić ponad 7 mln m sześc. gazu ziemnego rocznie energią ze źródeł odnawialnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Uruchomienie instalacji do produkcji biometanu w Szarvas to strategiczny kamień milowy dla grupy MOL. Dzięki pierwszemu obiektowi tego typu jednocześnie wzmacniamy bezpieczeństwo energetyczne, rozszerzamy portfolio zrównoważonych produktów i wykonujemy kolejny konkretny krok w realizacji strategii SHAPE TOMORROW\" - powiedział cytowany w komunikacie prasowym György Bacsa, dyrektor ds. strategii grupy MOL."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Inwestycja pokazuje również, że wykorzystując potencjał rolniczy regionu oraz istniejącą infrastrukturę gazową, możemy dostarczać konkurencyjne cenowo, wytwarzane lokalnie odnawialne źródło energii. (...) W dłuższej perspektywie grupa MOL może przekształcić biometan w działalność gazową prowadzoną na dużą skalę i opartą na obrocie rynkowym, wykorzystując swoje kompetencje handlowe, finansowe i doświadczenie w realizacji projektów\" – dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa MOL przejęła biogazownię w Szarvas w 2023 r. W ostatnich latach produkowane w niej 11–12 mln m sześc. biogazu wykorzystywano w procesie kogeneracji, uzyskując rocznie niemal 24 GWh energii elektrycznej ze źródeł odnawialnych oraz znaczne ilości energii cieplnej. Dzięki obecnej inwestycji możliwości wykorzystania produkowanego biogazu zostały rozszerzone o wytwarzanie biometanu, który może być zatłaczany do sieci gazowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "alk/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 11:29",
+      "content_sha256": "54211e2a732e141c1259d9a9a0698b5d756a0bc3252a55992d8b5b332830b4e1",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "11:29",
+      "published_at": "2026-10-16T11:29+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa MOL uruchomiła pierwszą instalację do produkcji biometanu w miejscowości Szarvas na Węgrzech - podał MOL w komunikacie prasowym.",
+          "\"Uruchomienie instalacji do produkcji biometanu w Szarvas to strategiczny kamień milowy dla grupy MOL.",
+          "Grupa MOL przejęła biogazownię w Szarvas w 2023 r. W ostatnich latach produkowane w niej 11–12 mln m sześc. biogazu wykorzystywano w procesie kogeneracji, uzyskując rocznie niemal 24 GWh energii elektrycznej ze źródeł odnawialnych oraz znaczne ilości energii cieplnej."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "\"Uruchomienie instalacji do produkcji biometanu w Szarvas to strategiczny kamień milowy dla grupy MOL."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "54211e2a732e141c1259d9a9a0698b5d756a0bc3252a55992d8b5b332830b4e1"
+      }
+    },
+    {
+      "id": "259ed7ed8283314c",
+      "title": "Te spółki z GPW skorzystają na trendzie AI. Kluczowa jedna branża",
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka/energetyka-ai-centra-danych-gpw-tauron-pge-enea-asbis-budimex-kghm",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "technologie",
+        "przemysl"
+      ],
+      "companies": [
+        "Budimex",
+        "KGHM",
+        "PGE",
+        "Tauron"
+      ],
+      "match_reasons": {
+        "energia": [
+          "Firma: PGE",
+          "Temat: energi",
+          "Temat: energety",
+          "Dział źródłowy"
+        ],
+        "technologie": [
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc",
+          "Temat: technologi"
+        ],
+        "przemysl": [
+          "Temat: infrastruktur"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Rozwój sztucznej inteligencji otwiera nowe możliwości przed spółkami notowanymi na GPW. Choć największą uwagę przyciągają producenci zaawansowanych technologii, na inwestycjach w AI mogą zarabiać również firmy energetyczne, budowlane i dostawcy infrastruktury. Szczególnie interesująco wyglądają perspektywy Tauronu i PGE, które już przygotowują się do rosnącego zapotrzebowania na moc obliczeniową i energię elektryczną."
+        },
+        {
+          "type": "heading",
+          "text": "Energetyka fundamentem rozwoju AI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosnąca popularność sztucznej inteligencji oznacza konieczność budowy kolejnych centrów danych. Obiekty te potrzebują nie tylko serwerów, lecz także stabilnych dostaw energii, rozbudowanych sieci elektroenergetycznych i wydajnych systemów chłodzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według firmy doradczej PMR Market Experts by Hume’s w Polsce planowanych jest ponad 20 inwestycji związanych z budową lub rozbudową centrów danych. Z kolei firma doradcza JLL prognozuje, że do 2030 roku ich łączna moc może przekroczyć 500 MW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skala przedsięwzięć stwarza szanse dla krajowych przedsiębiorstw. Coraz większego znaczenia nabiera bowiem dostęp do gruntów wyposażonych w odpowiednią infrastrukturę energetyczną. To właśnie ten czynnik może przesądzić o lokalizacji przyszłych inwestycji."
+        },
+        {
+          "type": "heading",
+          "text": "Spółki z GPW i sztuczna inteligencja? Tauron i PGE dostrzegają nowy rynek"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednym z potencjalnych beneficjentów jest Tauron. Koncern wskazał pięć lokalizacji, w których inwestorzy mogą rozwijać centra danych. Chodzi o tereny w Jaworznie, Bielsku-Białej, Blachowni, Łaziskach i Sierszy. Łącznie do 2035 roku mogłyby one zaoferować 440 MW mocy przyłączeniowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tauron chce wydać miliardy na inwestycje w transformację i wypłacać dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes Grzegorz Lot potwierdza duże zainteresowanie tym segmentem, choć zaznacza, że nie wszystkie rozważane projekty mają równie solidne podstawy biznesowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednym z potencjalnych beneficjentów boomu jaki przeżywa sztuczna inteligencja jest spółka Tauron"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rozwój infrastruktury cyfrowej wpisuje się w transformację Tauronu. Grupa zamierza w ciągu dekady przeznaczyć ponad 25 mld zł na inwestycje na Śląsku, obejmujące m.in. modernizację energetyki i magazyny energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nowe możliwości dostrzega również PGE. Spółka rozpoczęła współpracę z NASK dotyczącą budowy centrów danych na terenach poprzemysłowych koncernu. Wykorzystanie istniejących przyłączy, dróg i światłowodów może ograniczyć koszty inwestycji nawet o jedną trzecią. Dodatkową korzyścią byłoby wykorzystanie ciepła wytwarzanego przez serwery w systemach ciepłowniczych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czytaj także: Akcje PGE w miesiąc wzrosły ponad 25%. Spółka przygotowuje aktualizację strategii"
+        },
+        {
+          "type": "heading",
+          "text": "AI to nie tylko producenci energii. Jakie jeszcze spółki z GPW mogą skorzystać na inwestycjach w AI?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rozwój AI może wspierać także wyniki innych giełdowych przedsiębiorstw. Enea należy np. do spółek, które mogą pośrednio korzystać na rosnącym popycie na energię. Modernizacja sieci stwarza natomiast możliwości dla Apatora, dostarczającego rozwiązania do pomiaru zużycia i inteligentnego zarządzania energią."
+        },
+        {
+          "type": "paragraph",
+          "text": "Znaczenie takich technologii rośnie również w kontekście bezpieczeństwa infrastruktury. Od 1 listopada br. zaostrzone zasady unijnego finansowania projektów wykorzystujących urządzenia od dostawców wysokiego ryzyka mogą zwiększać zainteresowanie bezpieczniejszymi systemami sterowania instalacjami OZE i magazynami energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na inwestycjach infrastrukturalnych mogą skorzystać również Elektrotim, który uczestniczy w postępowaniach dotyczących zasilania centrów danych, oraz APS Energia, rozwijająca modułowe systemy zasilania dla tego rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "KGHM z kluczowym wsparciem UE. Projekty za ponad 9,5 mld zł ze statusem strategicznym"
+        },
+        {
+          "type": "paragraph",
+          "text": "Szanse dostrzegają także Budimex, przygotowujący projekt własnego centrum danych, i Polimex Mostostal, zainteresowany szczególnie skomplikowanymi inwestycjami energetycznymi. KGHM może z kolei pośrednio korzystać ze zwiększonego zapotrzebowania na miedź."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Spółka | Rola w ekosystemie AI | Teza inwestycyjna"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Tauron | Infrastruktura energetyczna | Przygotował 5 lokalizacji pod centra danych (Jaworzno, Bielsko-Biała, Blachownia, Łaziska, Siersza) z potencjałem 440 MW mocy przyłączeniowej do 2035 r. W ciągu dekady planuje ponad 25 mld zł inwestycji m.in. w modernizację i magazyny energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "| PGE | Energetyka i tereny poprzemysłowe | Współpraca z NASK przy budowie centrów danych na terenach poprzemysłowych koncernu. Dostęp do gotowej infrastruktury (przyłącza, drogi, światłowody) pozwala obniżyć koszty CAPEX nawet o 1/3, a ciepło odpadowe z serwerów może zasilić sieci ciepłownicze."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Enea | Dostawca energii | Pośredni beneficjent skokowego wzrostu popytu na energię elektryczną generowanego przez dynamicznie rosnącą liczbę i zapotrzebowanie centrów danych."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Apator | Pomiary i zarządzanie siecią | Dostarcza aparaturę pomiarową i systemy inteligentnego zarządzania energią na potrzeby modernizacji sieci elektroenergetycznych; zyskuje na zaostrzeniu unijnych norm bezpieczeństwa dla dostawców komponentów."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Elektrotim | Instalacje elektroenergetyczne | Bierze bezpośredni udział w postępowaniach przetargowych na realizację dedykowanych układów zasilania pod nowe centra danych."
+        },
+        {
+          "type": "paragraph",
+          "text": "| APS Energia | Zasilanie gwarantowane | Projektuje i dostarcza specjalistyczne systemy zasilania modułowego dedykowane rynkowi data center oraz magazynom energii."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Budimex | Budownictwo / Generalny wykonawca | Przygotowuje projekt budowy własnego centrum danych, poszerzając kompetencje wykonawcze o zaawansowane obiekty technologiczne."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polimex Mostostal | Budownictwo przemysłowe | Potencjalny wykonawca skomplikowanych inwestycji inżynieryjnych i infrastruktury elektroenergetycznej zasilającej centra danych."
+        },
+        {
+          "type": "paragraph",
+          "text": "| KGHM | Surowce (Miedź) | Pośredni beneficjent boomu na infrastrukturę AI z uwagi na skokowy wzrost globalnego zapotrzebowania na miedź niezbędną w kablach, transformatorach i sieciach przesyłowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Asbis | Dystrybucja hardware IT | Najbardziej bezpośredni efekt finansowy w wynikach: w I kwartale 2026 r. zanotował wzrost sprzedaży serwerów i bloków serwerowych o 233% rdr do poziomu 407,9 mln USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najbardziej bezpośredni wpływ AI widać jednak w wynikach Asbisu. Np. w pierwszym kwartale 2026 roku sprzedaż serwerów i bloków serwerowych wzrosła o 233 proc., osiągając 407,9 mln USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czytaj także: Widzimy duże zainteresowanie centrami danych, dywidenda pozostaje dla nas kluczowa - Grzegorz Lot, prezes Tauron"
+        },
+        {
+          "type": "heading",
+          "text": "Perspektywy są obiecujące, ale nie bez ryzyka"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dla inwestorów kluczowe będzie tempo realizacji zapowiadanych przedsięwzięć. Polskie Sieci Elektroenergetyczne uwzględniają w planach rosnący popyt ze strony centrów danych, jednak zapewnienie odpowiednich mocy wymaga kosztownych inwestycji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Samo zainteresowanie AI nie gwarantuje więc, że kurs akcji Tauron, PGE, KGHM czy innych spółek z GPW zacznie rosnąć. Najwięcej mogą zyskać przedsiębiorstwa, które przełożą rozwój infrastruktury cyfrowej na konkretne kontrakty i dodatkowe przychody, a to wymaga czasu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W dłuższej perspektywie to dostępność energii, sprawność sieci i zdolność realizacji inwestycji mogą zdecydować, które spółki z GPW rzeczywiście wykorzystają potencjał sztucznej inteligencji."
+        }
+      ],
+      "author": "Piotr Maciążek",
+      "published_display": "16.10.2026 11:25",
+      "content_sha256": "8938e7458988af15d5e305bc32c7f4d1312569ac4cdc379f37cac7fb86cd6484",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "11:25",
+      "published_at": "2026-10-16T11:25+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Najbardziej bezpośredni wpływ AI widać jednak w wynikach Asbisu.",
+          "Np. w pierwszym kwartale 2026 roku sprzedaż serwerów i bloków serwerowych wzrosła o 233 proc., osiągając 407,9 mln USD.",
+          "Najwięcej mogą zyskać przedsiębiorstwa, które przełożą rozwój infrastruktury cyfrowej na konkretne kontrakty i dodatkowe przychody, a to wymaga czasu."
+        ],
+        "interest_score": 25,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "infrastruktur*",
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "energi*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8938e7458988af15d5e305bc32c7f4d1312569ac4cdc379f37cac7fb86cd6484"
+      }
+    },
+    {
+      "id": "0357e759e7eedc21",
+      "title": "DZIEŃ NA GPW: Główne indeksy zwyżkują; WIG20 tuż poniżej historycznego maksimum",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-gpw-glowne-indeksy-zwyzkuja-wig20-tuz-ponizej-historycznego-maksimum",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia",
+        "konsumpcja"
+      ],
+      "companies": [
+        "Allegro",
+        "KGHM",
+        "Modivo",
+        "Orlen",
+        "PGE",
+        "Tauron",
+        "XTB"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ],
+        "energia": [
+          "Firma: KGHM",
+          "Temat: energety"
+        ],
+        "konsumpcja": [
+          "Firma: Modivo",
+          "Firma: Allegro",
+          "Temat: konsumen"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Główne indeksy warszawskiej giełdy rosną, a WIG20 znajduje się ok. 10 pkt. poniżej historycznego maksimum. Zyskują spółki konsumenckie, w tym Pepco, Allegro i Modivo, a spadają spółki z sektora energetycznego. Po czwartkowych zniżkach odbija KGHM, ale kurs Orlenu kontynuuje spadek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ok. godz. 11.00 WIG20 rośnie o 0,5 proc. do ok. 4.231 pkt., WIG zwyżkuje o 0,7 proc. do ok. 159.667 pkt. mWIG40 idzie w górę o 1,2 proc. do ok. 10.796 pkt., a sWIG80 zyskuje 0,8 proc. i wynosi 30.841 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks WIG20 znajduje się blisko historycznego maksimum, które wynosi 4.241,58 pkt., natomiast indeks WIG przebił już swój historyczny rekord. Podobnie wskaźnik mWIG40 jest na najwyższym poziomie w historii."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek rośnie większość spółek notowanych w WIG20, a najmocniej idzie do góry kurs Pepco, o 5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pepco rośnie systematycznie od ponad miesiąca, choć w międzyczasie notuje spadki. Łącznie od 11 września do 15 października kurs Pepco poszedł do góry o niemal 14 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosną Modivo i Allegro, po 2 proc. Od czterech miesięcy kurs Modivo porusza się bez wyraźnego kierunku, natomiast od 1 października do czwartkowego zamknięcia łącznie wzrósł o 7,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po czwartkowej zniżce odbija kurs KGHM, który rośnie o 0,6 proc. Na poprzedniej sesji spółka straciła 2,07 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "O 2,7 proc. zwyżkuje Grupa Kęty. Kurs spółki od trzech miesięcy porusza się w wąskim zakresie, a łącznie niemal nie zmienił się."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po przeciwnej stronie znajdują się spółki energetyczne. PGE traci 2,4 proc., a Tauron zniżkuje o prawie 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lekko spada Enea, notowana w mWIG40, w efekcie WIG Energia spada o 1,5 proc., a więc najmocniej z indeksów sektorowych i wynosi 5.509 pkt. W środę 14 października WIG Energia był na najwyższym poziomie w historii, było to 5.640.87 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kurs PGE rósł niemal bez przerwy od 28 września i do czwartkowego zamknięcia poszedł do góry o ponad 32 proc. W tym samym czasie Tauron zyskał ponad 11 proc., a Enea wzrosła o ponad 14 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek w WIG20 lekko spada Orlen, który w czwartek stracił 1,16 proc. Orlen od 5 października do czwartkowego zamknięcia łącznie wzrósł 7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród spółek notowanych w mWIG40 najmocniej zwyżkuje Cyfrowy Polsat, o 4,2 proc. Kurs spółki zwyżkuje od początku tego roku, choć w międzyczasie notuje korekty spadkowe. Łącznie od 2 stycznia do 15 października poszedł do góry o ponad 42 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednym z liderów zwyżek w indeksie jest XTB, jego akcje drożeją o ponad 4 proc. Spółka od początku września przeważnie spadała, natomiast od trzech dni próbuje nadrabiać spadki. Łącznie od 1 września do czwartkowego zamknięcia akcje XTB staniały o 24 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lekko rośnie Asbis, po czwartkowym spadku o 6,88 proc. Spółka dynamicznie rosła do końca września tego roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek Asbis i XTB wyróżniają się wysokimi obrotami. Wynoszą one odpowiednio 19,5 mln zł i 32,8 ml zł. Obroty na akcjach wszystkich spółek z mWIG40 wynoszą 102,4 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród średnich spółek najmocniej spada Bank Handlowy, o 0,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W indeksie sWIG80 jednym z liderów wzrostów jest Bogdanka, ze zwyżką o 2,5 proc. Spółka szacuje, że w okresie I-III kw. 2026 r. miała 195 mln zł EBITDA i 26,7 mln zł zysku netto. Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu, od poniedziałku do czwartku kurs Bogdanki poszedł w dół o 5,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ok. 0,8 proc. zyskuje Celon Pharma. Spółka złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań w ramach dwóch odrębnych procedur zdecentralizowanych (DCP) obejmujących kilkanaście państw członkowskich UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lekko zwyżkuje Archicom, który wyemitował obligacje serii 1IA/2026 o łącznej wartości nominalnej 385 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najsłabszą spółką w sWIG80 jest Bioceltix, ze zniżką o 3,4 proc. Od końca lipca spółka jest w tendencji spadkowej, a do 15 października łącznie straciła 31 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na szerokim rynku spada m. in. Grupa Monnari, o 1,5 proc. Spółka szacuje, że w III kw. 2026 roku miała ok. 84,8 mln zł przychodów, o 0,3 proc. więcej rdr. Marża brutto na sprzedaży towarów w III kwartale wyniosła 62,1 proc., w porównaniu do 59,1 proc. w analogicznym okresie 2025 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Natomiast Mostostal Warszawa rośnie o 2,8 proc. Spółka szacuje, że narastająco po trzech kwartałach 2026 r. miał 11,6 mln zł zysku netto i 10,1 mln zł zysku netto przypisanego akcjonariuszom spółki dominującej. Przychody wyniosły 793 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie, indeks FTSE 100 spada o 0,02 proc., DAX zyskuje 1 proc., a CAC 40 zwyżkuje o 0,2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kontrakty na indeksy w USA rosną o 0,1-0,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pam/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 11:12",
+      "content_sha256": "9a82b0fa335db6a87d84b3e438ee24436735208bdcbe3297bc005fec38cc842e",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "11:12",
+      "published_at": "2026-10-16T11:12+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Główne indeksy warszawskiej giełdy rosną, a WIG20 znajduje się ok.",
+          "Indeks WIG20 znajduje się blisko historycznego maksimum, które wynosi 4.241,58 pkt., natomiast indeks WIG przebił już swój historyczny rekord.",
+          "W piątek w WIG20 lekko spada Orlen, który w czwartek stracił 1,16 proc. Orlen od 5 października do czwartkowego zamknięcia łącznie wzrósł 7 proc."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Zyskują spółki konsumenckie, w tym Pepco, Allegro i Modivo, a spadają spółki z sektora energetycznego."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "konsumen*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "9a82b0fa335db6a87d84b3e438ee24436735208bdcbe3297bc005fec38cc842e"
+      }
+    },
+    {
+      "id": "e5a969ee2f610a93",
+      "title": "Inflacja według HICP w Polsce we wrześniu wyniosła 4,0 proc. rdr - Eurostat",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/inflacja-wedlug-hicp-w-polsce-we-wrzesniu-wyniosla-40-proc-rdr-eurostat",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Inflacja liczona według HICP w Polsce we wrześniu w ujęciu rocznym wyniosła 4,0 proc., wobec 3,5 proc. w sierpniu - podał Eurostat. Miesięcznie ceny wzrosły o 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik HICP to zharmonizowany wskaźnik cen konsumpcyjnych, obliczany według ujednoliconej metodologii Biura Statystycznego Unii Europejskiej. Zgodnie z kryterium inflacyjnym, zawartym w Traktacie z Maastricht, HICP jest podstawą do oceny stabilizacji cen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane do inflacji HICP pochodzą z wydatków budżetów gospodarstw domowych oraz z rachunków narodowych, a do CPI tylko z wydatków budżetów domowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 11:06",
+      "content_sha256": "f300df0fe93ab2b44930136b703356a42381bd2561d71ac5fd550d5e25e5cce7",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "11:06",
+      "published_at": "2026-10-16T11:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Inflacja liczona według HICP w Polsce we wrześniu w ujęciu rocznym wyniosła 4,0 proc., wobec 3,5 proc. w sierpniu - podał Eurostat.",
+          "Wskaźnik HICP to zharmonizowany wskaźnik cen konsumpcyjnych, obliczany według ujednoliconej metodologii Biura Statystycznego Unii Europejskiej.",
+          "Zgodnie z kryterium inflacyjnym, zawartym w Traktacie z Maastricht, HICP jest podstawą do oceny stabilizacji cen."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "f300df0fe93ab2b44930136b703356a42381bd2561d71ac5fd550d5e25e5cce7"
+      }
+    },
+    {
+      "id": "3190aa453521510f",
+      "title": "MedTech Solutions SA: Ruszają zapisy w ramach emisji do 15,1 mln zł. Trwa seria zabiegów w ramach pierwszego w Polsce testowego wdrożenie robota ortopedycznego MISSO",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/medtech-solutions-sa-ruszaja-zapisy-w-ramach-emisji-do-151-mln-zl-trwa-seria",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Komunikat od MedTech Solutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dziś, 16 października 2026 r., MedTech Solutions S.A., spółka z sektora technologii medycznych notowana na rynku NewConnect, rozpoczyna zapisy na akcje serii E z zachowaniem prawa poboru. Oferta obejmuje do 75,5 mln akcji po cenie emisyjnej 0,20 zł za akcję, co daje możliwość pozyskania do 15,1 mln zł brutto. Równolegle spółka rozwija komercjalizację systemu robotyki ortopedycznej MISSO, który dziś został wykorzystany podczas kolejnego już zabiegu w Mazowieckim Szpitalu Specjalistycznym w Ostrołęce. Seria operacji stanowi ważny etap pionierskiego wdrożenia tej technologii w rodzimej ortopedii nowej generacji, stwarzając Polsce szansę na odegranie kluczowej roli w testowym wdrożeniu systemu MISSO w Europie. Zdobywane doświadczenia kliniczne i organizacyjne mogą przyczynić się do szerszego wykorzystania MISSO w praktyce ortopedycznej oraz wesprzeć dalszą komercjalizację rozwiązania. Środki pozyskane z emisji akcji serii E mają pomóc MedTech Solutions SA zwiększać skalę sprzedaży systemu, rozbudowywać portfolio oraz realizować kolejne projekty biznesowe i technologiczne."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Łączymy dziś dwa kluczowe obszary rozwoju MedTech Solutions: pozyskanie kapitału na realizację strategii wzrostu oraz dalszą komercjalizację przełomowych technologii medycznych. Część środków z emisji planujemy więc przeznaczyć na dalszy rozwój komercjalizacji systemu MISSO i zwiększanie skali jego sprzedaży. Kolejne już w tym tygodniu testowe zastosowanie MISSO w Mazowieckim Szpitalu w Ostrołęce, połączone z przygotowaniem zespołu medycznego do pracy z tą technologią, stanowi ważny krok w rozwoju jej obecności na rodzimym rynku. To również cenna okazja do zdobywania doświadczeń związanych z wykorzystaniem systemu w praktyce klinicznej, które mogą wspierać jego dalszy rozwój komercyjny. Potencjał wzrostu dostrzegamy zarówno w rozwoju organicznym, jak i w wykorzystaniu nowych możliwości inwestycyjnych, w tym starannie wyselekcjonowanych akwizycji. Naszym celem pozostaje budowa skalowalnego modelu biznesowego, wzmacnianie pozycji konkurencyjnej oraz tworzenie trwałych podstaw długoterminowego wzrostu wartości spółki – ocenia Jarosław Kaim, prezes zarządu MedTech Solutions SA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emisja akcji serii E z zachowaniem prawa poboru"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapisy na akcje serii E w transzy podstawowej i dodatkowej będą przyjmowane od 16 do 30 października 2026 r. Dniem prawa poboru był 14 października 2026 r. Cena emisyjna wynosi 0,20 zł za akcję, a przy objęciu wszystkich oferowanych walorów spółka może pozyskać 15,1 mln zł brutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapisy w transzy podstawowej i dodatkowej będą przyjmowane za pośrednictwem firm inwestycyjnych prowadzących rachunki papierów wartościowych, na których zapisane są akcje uprawniające do udziału w ofercie. Dom Maklerski INC, pełniący funkcję firmy inwestycyjnej w procesie, nie będzie przyjmował zapisów w tych transzach. W przypadku nieobjęcia wszystkich oferowanych akcji w ramach zapisów podstawowych i dodatkowych pozostałe walory mogą zostać zaoferowane w ramach transzy kierowanej do Zarządu za pośrednictwem platformy ofert publicznych DM INC. Szczegółowe informacje dotyczące tej możliwości będą dostępne pod adresem https://platforma.dminc.pl/campaigns/medtechs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Środki z emisji mają wesprzeć realizację priorytetów biznesowych MedTech Solutions. Kluczowym obszarem pozostaje rozwój sprzedaży systemu robotyki ortopedycznej MISSO oraz poszerzanie portfolio produktowego. Spółka zamierza również analizować możliwości przejęć i inwestycji w projekty technologiczne, w tym przedsięwzięcia badawczo-rozwojowe. Kapitał może zostać przeznaczony także na finansowanie bieżącej działalności operacyjnej i kapitału obrotowego. Pozyskane finansowanie ma zwiększyć elastyczność spółki w realizacji strategii, wspierając zarówno rozwój istniejących obszarów działalności, jak i wykorzystanie nowych możliwości rynkowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nowa generacja aktywnej robotyki w ortopedii"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednym z kluczowych obszarów rozwoju MedTech Solutions jest komercjalizacja systemu MISSO, opracowanego przez Meril Life Sciences z myślą o zabiegach ortopedycznych, w tym endoprotezoplastyce stawu kolanowego. Kolejny zabieg przeprowadzony 16 października 2026 r. w Mazowieckim Szpitalu Specjalistycznym w Ostrołęce stanowi następny etap wdrażania rozwiązania w praktyce klinicznej. Spółka zakończyła przygotowania organizacyjne i szkoleniowe do pilotażu, a lekarze z ostrołęckiego szpitala uzyskali certyfikaty uprawniające do pracy z systemem. Polska może dzięki temu odegrać istotną rolę w europejskim rozwoju tej technologii, a doświadczenia zdobyte podczas pilotażu mają stworzyć podstawy do rozważenia jej szerszego wykorzystania w krajowych placówkach medycznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyróżnikiem MISSO jest sposób planowania zabiegu z wykorzystaniem trójwymiarowych obrazów uzyskanych w tomografii komputerowej. Na ich podstawie system tworzy model anatomii pacjenta, który służy do opracowania indywidualnego planu operacji i określenia docelowego położenia implantu. W odróżnieniu od rozwiązań wykorzystujących planowanie oparte na dwuwymiarowych obrazach RTG, podejście bazujące na obrazowaniu 3D pozwala uwzględnić trójwymiarową anatomię pacjenta w przygotowaniu procedury."
+        },
+        {
+          "type": "paragraph",
+          "text": "Producent określa MISSO jako aktywny system robotyczny, który wykonuje zaplanowane cięcia kostne zgodnie z wcześniej zatwierdzonym planem. Zabieg odbywa się pod nadzorem chirurga, który zachowuje kontrolę nad jego przebiegiem, może weryfikować realizację planu i wprowadzać niezbędne zmiany. Połączenie planowania na podstawie obrazowania 3D z robotycznym wykonaniem zaplanowanych cięć ma wspierać standaryzację procedury i powtarzalność jej kluczowych etapów, przy zachowaniu nadrzędnej roli lekarza w podejmowaniu decyzji klinicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Każde kolejne zastosowanie systemu MISSO w warunkach klinicznych przybliża nas do lepszego poznania potencjału tej technologii w codziennej praktyce ortopedycznej. Cieszymy się, że dzięki współpracy z Meril możemy być świadkami i aktywnymi uczestnikami rozwoju robotyki medycznej w Europie, współtworząc proces wprowadzania innowacyjnych rozwiązań do praktyki klinicznej. To dla nas ważne doświadczenie i szansa na udział w rozwoju technologii, które mogą wyznaczać nowe kierunki w nowoczesnej ortopedii. Istotne jest przy tym nie tylko samo wykorzystanie systemu podczas zabiegu, ale również przygotowanie personelu medycznego, organizacji pracy i procedur niezbędnych do jego skutecznego wdrażania. Z perspektywy MedTech Solutions doświadczenia zdobywane w Ostrołęce mogą stanowić ważny punkt wyjścia do dalszego rozwoju komercyjnego MISSO w Polsce. Równolegle pracujemy nad poszerzaniem portfolio, aby budować bardziej zróżnicowaną ofertę i w pełni wykorzystywać potencjał wzrostu sektora medtech. – mówi Michał Janiszewski, wiceprezes zarządu MedTech Solutions S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rozwój MISSO wpisuje się w szerszą strategię budowania oferty MedTech Solutions w obszarze technologii medycznych. Ważnym krokiem w jej realizacji było przejęcie 30 września 2026 r. 100 proc. udziałów w Good For You Medical sp. z o.o. Transakcja ma wspierać rozbudowę portfolio i wzmacnianie obecności spółki w sektorze. MedTech Solutions zamierza kontynuować rozwój oferty oraz analizować kolejne możliwości biznesowe, biorąc pod uwagę ich potencjał rynkowy i znaczenie dla długoterminowej strategii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kierunek: Główny Rynek GPW"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka planuje także przejście z rynku NewConnect na rynek regulowany Giełdy Papierów Wartościowych w Warszawie. Złożenie prospektu do Komisji Nadzoru Finansowego jest planowane na pierwszy kwartał 2027 r. Realizacja tego zamiaru będzie uzależniona od spełnienia wymaganych warunków oraz przebiegu postępowania regulacyjnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emisja akcji serii E, komercjalizacja MISSO i poszerzanie portfolio stanowią powiązane elementy strategii MedTech Solutions SA. Spółka chce wykorzystać pozyskany kapitał do zwiększania skali działalności, rozwijania oferty i realizacji kolejnych inicjatyw wzrostowych. Rozwój pilotażu MISSO może równolegle dostarczyć doświadczeń istotnych dla dalszej komercjalizacji systemu i oceny możliwości jego zastosowania w kolejnych placówkach. W połączeniu z planowanymi inwestycjami i przygotowaniami do potencjalnego przejścia na rynek regulowany GPW działania te mają wspierać długoterminowy rozwój spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: MedTech Solutions"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 10:58",
+      "content_sha256": "f3c884cbf32dca96b5fad9048a84300a17c1a1bab615f46072efde80cd7ea78b",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "10:58",
+      "published_at": "2026-10-16T10:58+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Dziś, 16 października 2026 r., MedTech Solutions S.A., spółka z sektora technologii medycznych notowana na rynku NewConnect, rozpoczyna zapisy na akcje serii E z zachowaniem prawa poboru.",
+          "Środki pozyskane z emisji akcji serii E mają pomóc MedTech Solutions SA zwiększać skalę sprzedaży systemu, rozbudowywać portfolio oraz realizować kolejne projekty biznesowe i technologiczne.",
+          "Emisja akcji serii E, komercjalizacja MISSO i poszerzanie portfolio stanowią powiązane elementy strategii MedTech Solutions SA."
+        ],
+        "interest_score": 81,
+        "impact_score": 68,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "- Łączymy dziś dwa kluczowe obszary rozwoju MedTech Solutions: pozyskanie kapitału na realizację strategii wzrostu oraz dalszą komercjalizację przełomowych technologii medycznych."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Środki pozyskane z emisji akcji serii E mają pomóc MedTech Solutions SA zwiększać skalę sprzedaży systemu, rozbudowywać portfolio oraz realizować kolejne projekty biznesowe i technologiczne."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Środki pozyskane z emisji akcji serii E mają pomóc MedTech Solutions SA zwiększać skalę sprzedaży systemu, rozbudowywać portfolio oraz realizować kolejne projekty biznesowe i technologiczne."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "f3c884cbf32dca96b5fad9048a84300a17c1a1bab615f46072efde80cd7ea78b"
+      }
+    },
+    {
+      "id": "e4284ae860869c7c",
+      "title": "Nowe dane KPMG o wezwaniach na akcje na GPW. Duża skuteczność, ale coraz mniej transakcji",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/nowe-dane-kpmg-o-wezwaniach-na-akcje-na-gpw-duza-skutecznosc-ale-coraz-mniej",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W latach 2016-2025 powodzeniem zakończyło się 89 proc. wezwań przejęciowych, a średnia wartość udanej transakcji wyniosła 669 mln zł - podało KPMG w komunikacie prasowym. Z analizy KPMG w Polsce wynika, że średnia premia za kontrolę w tym okresie wyniosła 15,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazano, w latach 2016-2025 KPMG w Polsce zidentyfikowało 222 udane wezwania, z wyłączeniem skupu akcji własnych. W 75 przypadkach inwestor dążył do przejęcia kontroli nad spółką, a 52 wezwania zostały uwzględnione przy szacowaniu premii za kontrolę. Na tej podstawie KPMG oszacowało premię za kontrolę na poziomie 15,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W stosunku do poprzedniego badania obejmującego okres 2020-2024 premia za kontrolę spadła o 1,4 p.p., z 17,0 proc. do 15,6 proc. Jednocześnie mediana premii obliczona względem ceny akcji z miesiąca przed ogłoszeniem wezwania obniżyła się z 19,6 proc. do 17,2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wyniki najnowszej analizy potwierdzają utrzymujący się spadek liczby wezwań przejęciowych dotyczących spółek notowanych na GPW. W latach 2024-2025 ogłoszono tylko jedno nowe wezwanie, w którym inwestor nieposiadający wcześniej faktycznej kontroli zamierzał ją przejąć. Tendencja ta wpisuje się w szersze zmiany zachodzące na polskim rynku kapitałowym\" - powiedział cytowany w komunikacie prasowym Tomasz Wiśniewski, Partner, Szef Zespołu Wycen w Europie Środkowo-Wschodniej, KPMG w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W 2025 roku z GPW wycofano 15 spółek, podczas gdy przeprowadzono jedynie trzy debiuty giełdowe. Co ciekawe 2026 wygląda już zupełnie inaczej, do daty tego raportu ogłoszono już kilka wezwań (...)\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "W latach 2024-2025 odnotowano tylko jedno nowe wezwanie, w którym inwestor nieposiadający wcześniej faktycznej kontroli nad spółką dążył do jej przejęcia. W samym 2025 roku przeprowadzono dziewięć udanych wezwań, z wyłączeniem skupu akcji własnych, jednak tylko jedno z nich zostało uwzględnione w analizie premii za kontrolę. Pozostałe wezwania zostały ogłoszone przez akcjonariuszy już kontrolujących spółki i miały na celu osiągnięcie 100 proc. własności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podano, że na tle rynków zagranicznych premia za kontrolę w Polsce pozostaje na relatywnie umiarkowanym poziomie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Porównanie premii za kontrolę na wybranych światowych rynkach kapitałowych wskazuje na wyraźne różnice pomiędzy rynkami rozwiniętymi i wschodzącymi. Najwyższe premie odnotowano w Stanach Zjednoczonych oraz na rozwiniętych rynkach Azji i Oceanii, gdzie przekraczają one 30 proc.\" - powiedział Tomasz Regulski, Partner, Szef Zespołu Wycen w KPMG w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Premia dla Polski, obliczona na potrzeby porównania międzynarodowego na poziomie 20,6 proc., jest nieznacznie wyższa niż na rynkach wschodzących, ale istotnie niższa niż na wszystkich analizowanych rynkach rozwiniętych. Wyniki pokazują, że wraz ze stopniem rozwoju rynku finansowego zazwyczaj rośnie również poziom premii oferowanej za przejęcie kontroli\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "alk/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 10:14",
+      "content_sha256": "d6532233e2210b4e19c8ade389dedfdb417fb78914b83eb7f55c9ea7682cfeb7",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "10:14",
+      "published_at": "2026-10-16T10:14+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W latach 2016-2025 powodzeniem zakończyło się 89 proc. wezwań przejęciowych, a średnia wartość udanej transakcji wyniosła 669 mln zł - podało KPMG w komunikacie prasowym.",
+          "Z analizy KPMG w Polsce wynika, że średnia premia za kontrolę w tym okresie wyniosła 15,6 proc.",
+          "Jak wskazano, w latach 2016-2025 KPMG w Polsce zidentyfikowało 222 udane wezwania, z wyłączeniem skupu akcji własnych."
+        ],
+        "interest_score": 67,
+        "impact_score": 52,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Z analizy KPMG w Polsce wynika, że średnia premia za kontrolę w tym okresie wyniosła 15,6 proc."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "W latach 2016-2025 powodzeniem zakończyło się 89 proc. wezwań przejęciowych, a średnia wartość udanej transakcji wyniosła 669 mln zł - podało KPMG w komunikacie prasowym."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d6532233e2210b4e19c8ade389dedfdb417fb78914b83eb7f55c9ea7682cfeb7"
+      }
+    },
+    {
+      "id": "da4dc8cf3ef85c73",
+      "title": "Oferty pracy w IT i budownictwie mocno w dół. Rekordy bije tylko jeden sektor - Nowy Barometr Ofert Pracy BIEC i KM WSIiZ",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/oferty-pracy-w-it-i-budownictwie-mocno-w-dol-rekordy-bije-tylko-jeden-sektor",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: makroekonomi"
+        ],
+        "technologie": [
+          "Temat: informaty"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Barometr Ofert Pracy, mierzący liczbę internetowych ogłoszeń o zatrudnieniu, spadł we wrześniu drugi miesiąc z rzędu. Jednocześnie liczba ofert była nieco niższa niż rok wcześniej, choć autorzy badania wskazują, że na rynku pracy nadal trudno dostrzec jednoznaczny trend rozwojowy.- wynika z opracowania Biura Inwestycji i Cykli Ekonomicznych (BIEC) oraz Katedry Makroekonomii Wyższej Szkoły Informatyki i Zarządzania w Rzeszowie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik obniżył się do 253,9 pkt. z 256,8 pkt. w sierpniu. Rok wcześniej wynosił 258 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Autorzy raportu oceniają, że mimo pogorszenia w ostatnich dwóch miesiącach sytuacja na rynku pracy pozostaje względnie stabilna. Stopa bezrobocia rejestrowanego po wyłączeniu osób wykonujących wyłącznie prace sezonowe utrzymała się w sierpniu na poziomie 5,9 proc., takim samym jak miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu, po wyeliminowaniu wpływu prac sezonowych, wzrost liczby ofert pracy odnotowano jedynie w województwach podkarpackim i lubuskim. W pozostałych regionach liczba wakatów spadła, przy czym największą redukcję zanotowano w województwach śląskim, lubelskim i opolskim."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najsilniejszym segmentem rynku pozostają usługi. Liczba ofert w tej grupie rośnie nieprzerwanie od sześciu miesięcy, a we wrześniu osiągnęła poziom nieznacznie wyższy od dotychczasowego rekordu z maja 2022 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Największe wzrosty liczby ogłoszeń w sektorze usług dotyczyły branży medialnej, turystycznej oraz logistycznej. W turystyce liczba wakatów zwiększa się nieprzerwanie od roku i pozostaje bliska historycznych maksimów. Poprawę odnotowano również w logistyce i spedycji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odmiennie wygląda sytuacja wśród pracowników fizycznych, gdzie od ponad dwóch lat utrzymuje się trend spadkowy liczby ogłoszeń. We wrześniu właśnie ta grupa zawodowa zanotowała najsilniejszy spadek liczby wakatów spośród głównych kategorii rynku pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W zawodach wymagających wykształcenia społecznego lub prawnego wzrost liczby ofert wystąpił jedynie w części kategorii. Największy przyrost odnotowano dla specjalistów ds. HR, grafików oraz pracowników branży nieruchomości. Jednocześnie zmniejszyło się zapotrzebowanie m.in. w finansach i sprzedaży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem autorów raportu, w dłuższej perspektywie wiele kategorii zawodów związanych z naukami społecznymi nadal znajduje się w trendzie spadkowym lub stagnacji. Dotyczy to m.in. bankowości, sprzedaży, marketingu oraz rynku nieruchomości."
+        },
+        {
+          "type": "paragraph",
+          "text": "W grupie zawodów technicznych i inżynieryjnych najwięcej nowych ofert przybyło dla pracowników BHP, działów badawczo-rozwojowych oraz inżynierów. Z kolei największe spadki odnotowano wśród informatyków i pracowników sektora budowlanego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Autorzy zwracają uwagę, że liczba ofert dla programistów maleje trzeci miesiąc z rzędu, natomiast dla stanowisk administracyjnych w IT spadki utrzymują się od czterech miesięcy. Jednocześnie od grudnia systematycznie rośnie liczba ogłoszeń skierowanych do inżynierów."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie twórców Barometru negatywnie na aktywność gospodarczą i plany zatrudnieniowe firm mogą oddziaływać utrzymujące się wysokie ceny surowców energetycznych, związane z sytuacją na Bliskim Wschodzie, a także niepewność dotycząca dalszego kierunku polityki monetarnej i poziomu stóp procentowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 10:05",
+      "content_sha256": "7d3606c2c51bba4385cfeb47a78bd6b283d8c298e35e3340e3c9b7e98c5980c2",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "10:05",
+      "published_at": "2026-10-16T10:05+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Barometr Ofert Pracy, mierzący liczbę internetowych ogłoszeń o zatrudnieniu, spadł we wrześniu drugi miesiąc z rzędu.",
+          "Jednocześnie liczba ofert była nieco niższa niż rok wcześniej, choć autorzy badania wskazują, że na rynku pracy nadal trudno dostrzec jednoznaczny trend rozwojowy.- wynika z opracowania Biura Inwestycji i Cykli Ekonomicznych (BIEC) oraz Katedry Makroekonomii Wyższej Szkoły Informatyki i Zarządzania w Rzeszowie.",
+          "We wrześniu, po wyeliminowaniu wpływu prac sezonowych, wzrost liczby ofert pracy odnotowano jedynie w województwach podkarpackim i lubuskim."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Jednocześnie liczba ofert była nieco niższa niż rok wcześniej, choć autorzy badania wskazują, że na rynku pracy nadal trudno dostrzec jednoznaczny trend rozwojowy.- wynika z opracowania Biura Inwestycji i Cykli Ekonomicznych (BIEC) oraz Katedry Makroekonomii Wyższej Szkoły Informatyki i Zarządzania w Rzeszowie."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "informaty*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "7d3606c2c51bba4385cfeb47a78bd6b283d8c298e35e3340e3c9b7e98c5980c2"
+      }
+    },
+    {
+      "id": "fb5977d85ca8d606",
+      "title": "GUS zrewidował szacunek wzrostu PKB w II kw. '26 do 4,1 proc. z 3,9 proc. rdr",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gus-zrewidowal-szacunek-wzrostu-pkb-w-ii-kw-26-do-41-proc-z-39-proc-rdr-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: PKB"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "GUS zrewidował szacunek wzrostu PKB w II kwartale '26 do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 p. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał GUS."
+        },
+        {
+          "type": "paragraph",
+          "text": "GUS podał też, że w wyniku rewizji danych rocznych za 2025 r. zweryfikowano dynamiki kwartalne realnego PKB. Różnice pomiędzy szacunkami wyniosły +0,2 p. proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniżej najnowsze, zrewidowane składowe PKB za I i II kw. 2026 r.:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wyszczególnienie | 2026 | 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | I kw. | II kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Spożycie ogółem | 4,1 | 2,8"
+        },
+        {
+          "type": "paragraph",
+          "text": "| w tym: | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Spożycie | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| - w sektorze gospodarstw domowych | 3,3 | 2,8"
+        },
+        {
+          "type": "paragraph",
+          "text": "| - publiczne | 6,8 | 3,2"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Akumulacja brutto | 1,5 | 8,4"
+        },
+        {
+          "type": "paragraph",
+          "text": "| w tym: | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nakłady brutto na środki trwałe | 3,1 | 8,5"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Eksport | 6,2 | 8,1"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Import | 6,3 | 7,5"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Popyt krajowy | 3,7 | 3,7"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Produkt krajowy brutto | 3,7 | 4,1"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| w tym: | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wartość dodana brutto | 3,5 | 3,8"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:52",
+      "content_sha256": "99f0e541f5129869d732cc5797876dca175e6b1f9f9d54b7c1288c76accce3b4",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:52",
+      "published_at": "2026-10-16T09:52+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "GUS zrewidował szacunek wzrostu PKB w II kwartale '26 do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr.",
+          "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 p. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał GUS.",
+          "GUS podał też, że w wyniku rewizji danych rocznych za 2025 r. zweryfikowano dynamiki kwartalne realnego PKB."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "GUS podał też, że w wyniku rewizji danych rocznych za 2025 r. zweryfikowano dynamiki kwartalne realnego PKB."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 p. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał GUS."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "99f0e541f5129869d732cc5797876dca175e6b1f9f9d54b7c1288c76accce3b4"
+      }
+    },
+    {
+      "id": "90823156c9b31fa2",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/notowania-metali-bazowych-wegla-i-paliw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: węgl"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Surowiec | Jednostka | Data | Cena | 1D | 1M | YTD | 1Y"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Miedź spot | USD/t | 15.10.2026 | 14421,07 | -1,2% | 2,9% | 15,8% | 35,2%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Miedź 3M | USD/t | 15.10.2026 | 14347,00 | -1,0% | 1,9% | 15,5% | 34,8%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Ołów spot | USD/t | 15.10.2026 | 1840,34 | -1,1% | 0,7% | -6,5% | -5,1%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Ołów 3M | USD/t | 15.10.2026 | 1881,00 | -0,8% | 0,4% | -6,5% | -5,1%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Aluminium spot | USD/t | 15.10.2026 | 2987,06 | 0,0% | -8,9% | 0,6% | 8,5%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Aluminium 3M | USD/t | 15.10.2026 | 2987,00 | 0,0% | -8,1% | -0,3% | 8,8%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Cyna spot | USD/t | 15.10.2026 | 50108,47 | -0,6% | -3,1% | 23,3% | 42,1%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Cyna 3M | USD/t | 15.10.2026 | 50125,00 | -0,6% | -3,5% | 23,6% | 41,6%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nikiel spot | USD/t | 15.10.2026 | 15019,21 | -1,9% | -5,0% | -9,0% | 0,2%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nikiel 3M | USD/t | 15.10.2026 | 15221,00 | -1,9% | -4,7% | -8,6% | 0,2%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Cynk spot | USD/t | 15.10.2026 | 3692,25 | -2,0% | -6,5% | 19,8% | 19,6%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Cynk 3M | USD/t | 15.10.2026 | 3664,50 | -1,5% | -4,2% | 17,5% | 24,3%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Uprawnienia EUA do emisji CO2 | EUR/t | 15.10.2026 | 85,84 | -1,5% | 0,3% | -1,8% | 7,4%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgiel energetyczny ARA 1Y | USD/t | 07:34:56 | 144,58 | 0,0% | 6,3% | 48,3% | 41,0%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Paliwo lotnicze | USD/t | 15.10.2026 | 1620,75 | -2,7% | -5,9% | 133,3% | 137,5%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Olej napędowy 0,1 proc. | USD/t | 15.10.2026 | 1369,50 | -1,2% | -12,1% | 131,9% | 121,2%"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:40",
+      "content_sha256": "7353fea71bc92ec148a6383c56178d81b9c4412e9f024d28eba4c5724f85375c",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:40",
+      "published_at": "2026-10-16T09:40+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+          "Wątek do dalszej analizy: zmiana kapitału lub wypłaty."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "paliw*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "7353fea71bc92ec148a6383c56178d81b9c4412e9f024d28eba4c5724f85375c"
+      }
+    },
+    {
+      "id": "f0296f62a06782d2",
+      "title": "GUS zrewidował szacunek wzrostu PKB w II kw. '26 do 4,1 proc. z 3,9 proc. rdr",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/gus-zrewidowal-szacunek-wzrostu-pkb-w-ii-kw-26-do-41-proc-z-39-proc-rdr",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: PKB"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "GUS zrewidował szacunek wzrostu PKB w II kwartale '26 do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 p. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał GUS."
+        },
+        {
+          "type": "paragraph",
+          "text": "GUS podał też, że w wyniku rewizji danych rocznych za 2025 r. zweryfikowano dynamiki kwartalne realnego PKB. Różnice pomiędzy szacunkami wyniosły +0,2 p. proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:39",
+      "content_sha256": "55162a0971eee118a5544b6ef11113f6f407491145d97ca85b98802b69071000",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:39",
+      "published_at": "2026-10-16T09:39+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "GUS zrewidował szacunek wzrostu PKB w II kwartale '26 do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr.",
+          "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 p. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał GUS.",
+          "GUS podał też, że w wyniku rewizji danych rocznych za 2025 r. zweryfikowano dynamiki kwartalne realnego PKB."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "GUS podał też, że w wyniku rewizji danych rocznych za 2025 r. zweryfikowano dynamiki kwartalne realnego PKB."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "\"W porównaniu z poprzednim szacunkiem dynamika realnego PKB w ujęciu rok do roku wzrosła o 0,2 p. proc. w I i II kwartale 2026 r. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe\" - podał GUS."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "55162a0971eee118a5544b6ef11113f6f407491145d97ca85b98802b69071000"
+      }
+    },
+    {
+      "id": "40b663329abb4981",
+      "title": "Synthaverse z finansowaniem ARP na 45 mln zł. To kluczowy element refinansowania zadłużenia",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/synthaverse-z-finansowaniem-arp-na-45-mln-zl-kluczowy-element-refinansowania",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Komunikat od Synthaverse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski producent leków uzyska pożyczkę od Agencji Rozwoju Przemysłu (ARP) z przeznaczeniem na refinansowanie zadłużenia. Jest to kluczowy element planowanych zmian w strukturze finansowania Spółki, które mają przynieść oszczędności szacowane na około 5,32 mln zł rocznie, poprawić płynność finansową oraz stworzyć korzystniejsze warunki do dalszego rozwoju działalności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Synthaverse otrzymał wiążące potwierdzenie udzielenia przez Agencję Rozwoju Przemysłu finansowania w wysokości 45 mln zł, z przeznaczeniem na refinansowanie zadłużenia wobec ACP CREDIT i SCA SICAV-RAIF. Uzgodnione warunki przewidują jednorazową wypłatę środków oraz 10-letni okres finansowania, liczony od dnia zawarcia umowy. Spółka będzie mogła również skorzystać z karencji w spłacie kapitału wynoszącej do 24 miesięcy, co pozwoli powiązać spłatę kapitału z uruchomieniem nowego zakładu. Po jej zakończeniu spłata pożyczki zostanie rozłożona na 96 równych rat miesięcznych. Zastąpienie zadłużenia w euro finansowaniem w złotych ograniczy także ekspozycję Spółki na ryzyko walutowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "– Ostatnie miesiące poświęciliśmy na przygotowanie Spółki do nowego etapu rozwoju, w którym w pełni wykorzystamy potencjał zrealizowanych już inwestycji. Prace te prowadziliśmy w dwóch obszarach: biznesowym oraz optymalizacji struktury finansowania. Finansowanie z Agencji Rozwoju Przemysłu to kluczowy element naszego planu refinansowania i ważny krok w kierunku przebudowy struktury finansowania Spółki oraz stworzenia solidnych podstaw do jej dalszego rozwoju. Naszym celem jest całkowita spłata zobowiązania wobec ACP CREDIT i SCA SICAV-RAIF oraz zbudowanie bardziej stabilnego modelu finansowania. Dlatego łączymy pożyczkę ARP z refinansowaniem kredytu bankowego oraz planowanym pozyskaniem kapitału z emisji akcji. Chcemy w ten sposób nie tylko zamknąć dotychczasowy etap finansowania, ale przede wszystkim zoptymalizować koszty finansowania i zwiększyć elastyczność finansową Spółki oraz jej możliwości działania w kolejnych latach – mówi Artur Chodkowski, Prezes Zarządu Synthaverse SA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ważnym krokiem w realizacji tych założeń było także uzyskanie w poprzednim miesiącu pozytywnej decyzji kredytowej mBanku, dotyczącej przedłużenia dotychczasowego kredytu w rachunku bieżącym oraz zwiększenia jego limitu z 3,5 mln zł do maksymalnie 15 mln zł. Spółka planuje również przeniesienie obsługi faktoringowej z grupy ING do mFaktoringu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kolejnym elementem nowej struktury finansowania ma być pozyskanie dodatkowego kapitału poprzez emisję akcji. Środki z emisji mają pozwolić na obniżenie zadłużenia podlegającego spłacie ze środków ARP oraz zamknięcie docelowej struktury finansowania. Zarząd analizuje obecnie różne możliwości dokapitalizowania. Ostateczne warunki emisji, w tym liczba i cena oferowanych akcji, sposób przeprowadzenia oferty oraz grono potencjalnych inwestorów, będą zależeć od decyzji korporacyjnych, sytuacji rynkowej i przebiegu procesu pozyskiwania kapitału."
+        },
+        {
+          "type": "paragraph",
+          "text": "– Refinansowanie ma zapewnić Synthaverse stabilniejsze warunki finansowania w okresie poprzedzającym uruchomienie komercyjnej produkcji w nowym zakładzie Onko BCG. Według naszych szacunków realizacja planowanej struktury finansowania pozwoli obniżyć roczne koszty odsetkowe do około 40 proc. poziomu szacowanego na 2026 rok, co oznacza oszczędność około 5,32 mln zł rocznie. To istotne odciążenie dla Spółki, które zwiększy jej zdolność do finansowania działalności i rozwoju."
+        },
+        {
+          "type": "paragraph",
+          "text": "Równie ważne jest pozyskanie finansowania ARP na 10 lat, z możliwością skorzystania z karencji w spłacie kapitału do 24 miesięcy. Pozwoliłoby to rozpocząć spłatę kapitału już po planowanym uruchomieniu komercyjnej produkcji w nowym zakładzie Onko BCG i lepiej dopasować obsługę zadłużenia do przewidywanych przepływów pieniężnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decyzję ARP poprzedziła szczegółowa analiza naszego modelu finansowego. Jej pozytywny wynik umacnia nas w przekonaniu, że przyjęty w ostatnich miesiącach plan refinansowania odpowiada potrzebom Spółki, a założenia dotyczące jej dalszego rozwoju mają solidne podstawy – podkreśla Dariusz Kucowicz, Członek Zarządu Synthaverse SA."
+        },
+        {
+          "type": "paragraph",
+          "text": "W I półroczu 2026 r. Synthaverse osiągnął 26,5 mln zł przychodów, o ponad 34 proc. więcej niż rok wcześniej. Dynamiczny wzrost sprzedaży, przy jednoczesnym utrzymaniu dyscypliny kosztowej w podstawowej działalności, przełożył się na wzrost EBITDA do 5,4 mln zł z 2,2 mln zł w analogicznym okresie 2025 r., czyli o 142 proc. r/r. Wynik netto wyniósł -6,4 mln zł, na co wpływ miały m.in. niegotówkowe koszty amortyzacji nowych aktywów oraz koszty finansowe. Jednocześnie działalność podstawowa jest w pełni rentowna i generuje dodatnie przepływy pieniężne z działalności operacyjnej. Nowy zakład Onko BCG jest obecnie na etapie certyfikacji i walidacji, po których zakończeniu Spółka planuje rozpoczęcie sprzedaży z tego zakładu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Źródło: Synthaverse"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:27",
+      "content_sha256": "fb5792bf4f45afaf363ba3cca6fd4d0c17c1acb8ed6b388b884c489555a10a76",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:27",
+      "published_at": "2026-10-16T09:27+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Polski producent leków uzyska pożyczkę od Agencji Rozwoju Przemysłu (ARP) z przeznaczeniem na refinansowanie zadłużenia.",
+          "Jest to kluczowy element planowanych zmian w strukturze finansowania Spółki, które mają przynieść oszczędności szacowane na około 5,32 mln zł rocznie, poprawić płynność finansową oraz stworzyć korzystniejsze warunki do dalszego rozwoju działalności.",
+          "Synthaverse otrzymał wiążące potwierdzenie udzielenia przez Agencję Rozwoju Przemysłu finansowania w wysokości 45 mln zł, z przeznaczeniem na refinansowanie zadłużenia wobec ACP CREDIT i SCA SICAV-RAIF."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Uzgodnione warunki przewidują jednorazową wypłatę środków oraz 10-letni okres finansowania, liczony od dnia zawarcia umowy."
+          },
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Polski producent leków uzyska pożyczkę od Agencji Rozwoju Przemysłu (ARP) z przeznaczeniem na refinansowanie zadłużenia."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "fb5792bf4f45afaf363ba3cca6fd4d0c17c1acb8ed6b388b884c489555a10a76"
+      }
+    },
+    {
+      "id": "fbf1ee9fe9cbc5e7",
+      "title": "Pożyczka 45 mln zł z ARP dla Synthaverse. Spółka obniży koszty i planuje nową emisję akcji",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/pozyczka-45-mln-zl-z-arp-dla-synthaverse-spolka-obnizy-koszty-i-planuje-nowa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Agencja Rozwoju Przemysłu udzieli Synthaverse pożyczki w kwocie 45 mln zł z przeznaczeniem na refinansowanie zadłużenia wobec ACP - podała spółka w komunikacie. Synthaverse planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka podała, że w związku z warunkami refinansowania ACP, zarząd planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji, pozwalającego na odpowiednie obniżenie zadłużenia podlegającego spłacie ze środków ARP oraz zamknięcie docelowej struktury finansowania. Liczba akcji, cena emisyjna, tryb oferty i grono inwestorów będą zależeć od podejmowanych decyzji korporacyjnych, warunków rynkowych i wyniku procesu pozyskiwania kapitału. Spółka rozważa różne warianty dokapitalizowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Warunki finansowania ARP przewidują jednorazową wypłatę pożyczki, okres finansowania do 120 miesięcy od zawarcia umowy oraz karencję w spłacie kapitału do 24 miesięcy, po której kapitał będzie spłacany w 96 równych ratach miesięcznych. Odsetki będą płatne miesięcznie od daty uruchomienia finansowania. Oprocentowanie ustalono według stawki WIBOR 1M powiększonej o marżę 3,5 punktu procentowego, okresowo podwyższaną do 4,0 punktów procentowych do czasu ustanowienia wymaganych zabezpieczeń. Przewidziano możliwość obniżenia marży do 2,5 punktu procentowego po osiągnięciu wskaźnika dług netto/EBITDA poniżej 3,0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Synthaverse szacuje, że realizacja planowanego refinansowania będzie skutkować redukcją kosztów finansowych w kwocie ok. 5,32 mln zł rocznie oraz poprawą płynności."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przy podpisaniu umowy ARP w IV kwartale 2026 r. i pełnym wykorzystaniu dwuletniego okresu karencji, pierwsze raty kapitałowe przypadać będą do spłaty w IV kwartale 2028 r., zamiast obowiązującego obecnie terminu rozpoczęcia spłaty kapitału ACP w grudniu 2026 r. Pozwoli to lepiej skoordynować obsługę długu z planowanym rozpoczęciem komercyjnej produkcji i rozwojem sprzedaży z nowego Zakładu Produkcyjnego Onko BCG\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamknięcie refinansowania pozostaje uzależnione m.in. od zawarcia wymaganej dokumentacji finansowania, wykonania uzgodnień z wierzycielami, ustanowienia zabezpieczeń oraz skutecznego pozyskania kapitału własnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ostatnie miesiące poświęciliśmy na przygotowanie spółki do nowego etapu rozwoju, w którym w pełni wykorzystamy potencjał zrealizowanych już inwestycji. Prace te prowadziliśmy w dwóch obszarach: biznesowym oraz optymalizacji struktury finansowania. Finansowanie z Agencji Rozwoju Przemysłu to kluczowy element naszego planu refinansowania i ważny krok w kierunku przebudowy struktury finansowania spółki oraz stworzenia solidnych podstaw do jej dalszego rozwoju. Naszym celem jest całkowita spłata zobowiązania wobec ACP CREDIT i SCA SICAV-RAIF oraz zbudowanie bardziej stabilnego modelu finansowania. Dlatego łączymy pożyczkę ARP z refinansowaniem kredytu bankowego oraz planowanym pozyskaniem kapitału z emisji akcji. Chcemy w ten sposób nie tylko zamknąć dotychczasowy etap finansowania, ale przede wszystkim zoptymalizować koszty finansowania i zwiększyć elastyczność finansową spółki oraz jej możliwości działania w kolejnych latach\" – powiedział, cytowany w komunikacie prasowym, prezes Artur Chodkowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "W listopadzie 2022 r. spółka podpisała umowy pożyczki z luksemburską ACP Credit I SCA SICAV-RAIF na 9 mln euro. Pożyczka miała na celu refinansowanie i konsolidacje długu, który przeznaczony był na finansowanie strategicznych inwestycji."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:23",
+      "content_sha256": "5b9815425a7334de3f530ae48a5c7c66deeab2d2823c8edac66a2a7fbad58fd0",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:23",
+      "published_at": "2026-10-16T09:23+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Agencja Rozwoju Przemysłu udzieli Synthaverse pożyczki w kwocie 45 mln zł z przeznaczeniem na refinansowanie zadłużenia wobec ACP - podała spółka w komunikacie.",
+          "Synthaverse planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji.",
+          "Spółka podała, że w związku z warunkami refinansowania ACP, zarząd planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji, pozwalającego na odpowiednie obniżenie zadłużenia podlegającego spłacie ze środków ARP oraz zamknięcie docelowej struktury finansowania."
+        ],
+        "interest_score": 95,
+        "impact_score": 90,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Liczba akcji, cena emisyjna, tryb oferty i grono inwestorów będą zależeć od podejmowanych decyzji korporacyjnych, warunków rynkowych i wyniku procesu pozyskiwania kapitału."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Synthaverse planuje pozyskanie dodatkowego kapitału własnego w drodze emisji akcji."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Warunki finansowania ARP przewidują jednorazową wypłatę pożyczki, okres finansowania do 120 miesięcy od zawarcia umowy oraz karencję w spłacie kapitału do 24 miesięcy, po której kapitał będzie spłacany w 96 równych ratach miesięcznych."
+          },
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Agencja Rozwoju Przemysłu udzieli Synthaverse pożyczki w kwocie 45 mln zł z przeznaczeniem na refinansowanie zadłużenia wobec ACP - podała spółka w komunikacie."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "5b9815425a7334de3f530ae48a5c7c66deeab2d2823c8edac66a2a7fbad58fd0"
+      }
+    },
+    {
+      "id": "4ad14603f7dfed73",
+      "title": "Cena referencyjna węgla w sierpniu wyniosła 18,90 zł za gigadżul - ARP",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/cena-referencyjna-wegla-w-sierpniu-wyniosla-1890-zl-za-gigadzul-arp",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: energi",
+          "Temat: węgl"
+        ],
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W sierpniu cena referencyjna węgla, służąca do ustalania wysokości potencjalnych budżetowych dopłat dla kopalń, wyniosła 18,90 zł za gigadżul uzyskiwanej z węgla energii - poinformowała Agencja Rozwoju Przemysłu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Cena referencyjna, niezbędna do wyliczenia wysokości środków na pokrycie dopłat do redukcji zdolności produkcyjnych przedsiębiorstwa, w rozumieniu wspomnianego rozporządzenia, w sierpniu 2026 roku wyniosła: 18,90 zł/GJ. Cena referencyjna narastająco za okres styczeń-sierpień 2026 roku wynosiła: 17,25 zł/GJ\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Comiesięczne ustalanie przez ARP ceny referencyjnej, wyrażonej w złotych na gigadżul (zł/GJ), wiąże się z wdrożeniem ustawowego mechanizmu dopłat do redukcji zdolności produkcyjnych kopalń węgla kamiennego."
+        },
+        {
+          "type": "paragraph",
+          "text": "W założeniu dopłaty mają pokrywać różnicę między faktycznymi przychodami spółek węglowych a przychodami, jakie producenci węgla uzyskaliby, sprzedając surowiec po cenie referencyjnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:20",
+      "content_sha256": "36cec9620ed9e283694de0314dbee84b3c95ed42a353a5319b2c0385789371fe",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:20",
+      "published_at": "2026-10-16T09:20+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sierpniu cena referencyjna węgla, służąca do ustalania wysokości potencjalnych budżetowych dopłat dla kopalń, wyniosła 18,90 zł za gigadżul uzyskiwanej z węgla energii - poinformowała Agencja Rozwoju Przemysłu.",
+          "\"Cena referencyjna, niezbędna do wyliczenia wysokości środków na pokrycie dopłat do redukcji zdolności produkcyjnych przedsiębiorstwa, w rozumieniu wspomnianego rozporządzenia, w sierpniu 2026 roku wyniosła: 18,90 zł/GJ.",
+          "Cena referencyjna narastająco za okres styczeń-sierpień 2026 roku wynosiła: 17,25 zł/GJ\" - napisano."
+        ],
+        "interest_score": 47,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Comiesięczne ustalanie przez ARP ceny referencyjnej, wyrażonej w złotych na gigadżul (zł/GJ), wiąże się z wdrożeniem ustawowego mechanizmu dopłat do redukcji zdolności produkcyjnych kopalń węgla kamiennego."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "energi*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "36cec9620ed9e283694de0314dbee84b3c95ed42a353a5319b2c0385789371fe"
+      }
+    },
+    {
+      "id": "3fbcfe8c55658fc1",
+      "title": "Ceny miedzi na LME rosną; inwestorzy oceniają perspektywy dla stóp proc. w USA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/ceny-miedzi-na-lme-rosna-inwestorzy-oceniaja-perspektywy-dla-stop-proc-w-usa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: miedzi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) rośnie o 0,87 proc. do 14.423 USD za tonę. Inwestorzy oceniają perspektywy dla polityki monetarnej w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Comex w Nowym Jorku miedź zwyżkuje o 0,82 proc. i kosztuje 6,6138 USD za funt."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek na rynki azjatyckie powrócił apetyt na ryzyko po wyprzedaży z poprzedniego dnia, wywołanej wyższą od oczekiwań inflacją w USA oraz obawami przed podwyżkami stóp procentowych przez Rezerwę Federalną USA. Notowania miedzi przerwały trzydniową serię spadków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polityka monetarna USA prawdopodobnie pozostanie kluczowym czynnikiem kształtującym rynek metali w nadchodzących miesiącach, choć istotny wpływ będą miały również inne czynniki. Geopolityka, polityka handlowa oraz potencjalne skutki inwestycji w sztuczną inteligencję będą miały wpływ na podaż, popyt i ceny."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Wyniki metali przemysłowych pozostaną zróżnicowane; z jednej strony ciąży im trudne otoczenie makroekonomiczne, z drugiej, coraz bardziej rozbieżne fundamenty poszczególnych surowców. Jednocześnie zaostrzenie polityki monetarnej ograniczy potencjał wzrostu cen w całym sektorze” – oceniają analitycy BMI, spółki należącej do Fitch Solutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poprawie nastrojów w piątek sprzyjały komentarze Kevina Warsha z Fed, który wskazywał, że inwestycje w sztuczną inteligencję przynoszą ogromne korzyści gospodarce USA. Choć nie odniósł się bezpośrednio do polityki monetarnej, po jego wystąpieniu w Bangkoku spadły oczekiwania rynku co do podwyżek stóp proc. Wyższe stopy procentowe mogą negatywnie wpływać na rynek metali, osłabiając popyt i zwiększając koszty dla producentów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Citigroup poinformował w swojej analizie, że przyjmuje neutralne stanowisko w krótkim terminie wobec miedzi i aluminium, przewidując, że w ciągu najbliższych trzech miesięcy ich ceny pozostaną zbliżone do obecnych poziomów."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Pozycje inwestycyjne w obu metalach są na wysokim poziomie, a prognozy bilansu na 2027 rok wskazują na niemal całkowitą równowagę w przypadku miedzi oraz nadwyżkę w przypadku aluminium, co wynika z oczekiwań silniejszego wzrostu podaży obu surowców w przyszłym roku” – podał bank."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zakończenie poprzedniej sesji miedź na LME zniżkowała o 144 USD i kosztowała 14.347 USD za tonę."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:19",
+      "content_sha256": "5a1af852d16cf25dda08170eb09fe0764e5985a1935dbb445b2fc124c4cc0b60",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:19",
+      "published_at": "2026-10-16T09:19+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) rośnie o 0,87 proc. do 14.423 USD za tonę.",
+          "Inwestorzy oceniają perspektywy dla polityki monetarnej w USA.",
+          "„Pozycje inwestycyjne w obu metalach są na wysokim poziomie, a prognozy bilansu na 2027 rok wskazują na niemal całkowitą równowagę w przypadku miedzi oraz nadwyżkę w przypadku aluminium, co wynika z oczekiwań silniejszego wzrostu podaży obu surowców w przyszłym roku” – podał bank."
+        ],
+        "interest_score": 57,
+        "impact_score": 40,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "W piątek na rynki azjatyckie powrócił apetyt na ryzyko po wyprzedaży z poprzedniego dnia, wywołanej wyższą od oczekiwań inflacją w USA oraz obawami przed podwyżkami stóp procentowych przez Rezerwę Federalną USA."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "W piątek na rynki azjatyckie powrócił apetyt na ryzyko po wyprzedaży z poprzedniego dnia, wywołanej wyższą od oczekiwań inflacją w USA oraz obawami przed podwyżkami stóp procentowych przez Rezerwę Federalną USA."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "5a1af852d16cf25dda08170eb09fe0764e5985a1935dbb445b2fc124c4cc0b60"
+      }
+    },
+    {
+      "id": "5e22409cac22ea49",
+      "title": "WIG20 na otwarciu wyniósł 4218,93 pkt (0,25%)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/wig20-na-otwarciu-wyniosl-421893-pkt-025",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania indeksów giełdowych Rynku Głównego GPW"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026.10.16"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Wartość | Zmiana %"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG20 | 4218,93 | 0,25"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG30 | 5372,75 | 0,49"
+        },
+        {
+          "type": "heading",
+          "text": "| WIG | 159337,58 | 0,48"
+        },
+        {
+          "type": "paragraph",
+          "text": "| mWIG40 | 10706,45 | 0,34"
+        },
+        {
+          "type": "paragraph",
+          "text": "| sWIG80 | 30742,91 | 0,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WIGdiv | 3336,04 | 0,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NCIndex | 275,19 | -0,17"
+        },
+        {
+          "type": "paragraph",
+          "text": "- zmiana w stosunku do dnia poprzedniego"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:16",
+      "content_sha256": "d56e744018b71f94705f49f7dab2fad7071957c2deac020af5414e553b3ab56a",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:16",
+      "published_at": "2026-10-16T09:16+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "WIG20 na otwarciu wyniósł 4218,93 pkt (0,25%).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d56e744018b71f94705f49f7dab2fad7071957c2deac020af5414e553b3ab56a"
+      }
+    },
+    {
+      "id": "d01701d5ef00049f",
+      "title": "DZIEŃ NA FX/FI: Złoty może umocnić się w piątek, przy stabilizacji na rynku długu",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-fxfi-zloty-moze-umocnic-sie-w-piatek-przy-stabilizacji-na-rynku-dlugu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "PKO BP"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Złoty może w piątek umocnić się, przy stabilizacji na rynku długu - oceniają analitycy."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W piątek, przy pustym krajowym kalendarzu makroekonomicznym, widzimy przestrzeń do dalszego korekcyjnego umocnienia złotego, czemu sprzyjają słabszy dolar, wyhamowanie wzrostu cen ropy oraz stabilizacja francuskiego rynku długu. W takim scenariuszu EURPLN mógłby przetestować wsparcie w pobliżu 4,36, a USDPLN zejść do strefy 3,86–3,88\" - piszą w porannej nocie analitcy PKO BP."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek GUS opublikuje rewizje kwartalnych danych o PKB, łącznie do II kwartału tego roku."
+        },
+        {
+          "type": "heading",
+          "text": "RYNEK DŁUGU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku długu oczekiwana jest stabilizacja notowań."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Podczas dzisiejszej sesji natomiast zmienność krajowych SPW może być ograniczona. Notowania amerykańskich obligacji ustabilizowały się wobec zmniejszenia awersji do ryzyka, a ceny surowców energetycznych cechują się dość niewielkimi wahaniami (ropa naftowa Brent kosztuje ok. 105 USD/bbl). W tej sytuacji rentowność polskiej 10-latki powinna się w naszej ocenie konsolidować w przedziale 6,25-6,30\" - piszą analitcy Banku Millennium."
+        },
+        {
+          "type": "paragraph",
+          "text": "| | piątek | czwartek | czwartek"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | 09:01 | 16:30 | 09:02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| EUR/PLN | 4,3683 | 4,3707 | 4,3718"
+        },
+        {
+          "type": "heading",
+          "text": "| USD/PLN | 3,8871 | 3,8958 | 3,9004"
+        },
+        {
+          "type": "heading",
+          "text": "| CHF/PLN | 4,7066 | 4,7036 | 4,6972"
+        },
+        {
+          "type": "heading",
+          "text": "| EUR/USD | 1,1238 | 1,1219 | 1,1209"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| PS0728 | 4,67* | 4,67 | 4,69"
+        },
+        {
+          "type": "heading",
+          "text": "| PS1031 | 5,84* | 5,83 | 5,85"
+        },
+        {
+          "type": "heading",
+          "text": "| DS0436 | 6,24* | 6,24 | 6,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "* - dane z 15.10"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:08",
+      "content_sha256": "e3cbf5c765e28e2c68a77b061ca801d537b31bdeb428e4f088650cff104cea0f",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:08",
+      "published_at": "2026-10-16T09:08+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Złoty może w piątek umocnić się, przy stabilizacji na rynku długu - oceniają analitycy.",
+          "\"W piątek, przy pustym krajowym kalendarzu makroekonomicznym, widzimy przestrzeń do dalszego korekcyjnego umocnienia złotego, czemu sprzyjają słabszy dolar, wyhamowanie wzrostu cen ropy oraz stabilizacja francuskiego rynku długu.",
+          "Na rynku długu oczekiwana jest stabilizacja notowań."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e3cbf5c765e28e2c68a77b061ca801d537b31bdeb428e4f088650cff104cea0f"
+      }
+    },
+    {
+      "id": "83fd01272d079960",
+      "title": "Ceny ropy w USA spadają, rynki oceniają możliwość eskalacji na linii USA-Iran",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/ceny-ropy-w-usa-spadaja-rynki-oceniaja-mozliwosc-eskalacji-na-linii-usa-iran",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: ropy"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W piątek ceny ropy w USA spadają. Inwestorzy oceniają możliwość wznowienia działań wojennych między USA a Iranem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baryłka ropy West Texas Intermediate w dostawach na listopad zniżkuje na NYMEX w Nowym Jorku o 0,61 proc. do 97,33 USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena Brent na ICE na grudzień spada o 0,56 proc. do 105,30 USD za baryłkę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Administracja Trumpa rozważa zniesienie sankcji na niektóre jednostki z tzw. \"floty cieni\", które przewoziły ropę naftową oraz produkty ropopochodne z krajów takich jak Rosja, Iran i Wenezuela. Jak poinformował w środę przedstawiciel władz USA, ma to na celu obniżenie rekordowo wysokich stawek za fracht morski na świecie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dyskusje te toczą się zaledwie kilka dni po tym, jak prezydent Donald Trump tymczasowo zniósł sankcje na rosyjski olej napędowy. Decyzja ta spotkała się z falą krytyki ze strony prezydenta Ukrainy Wołodymyra Zełenskiego, państw europejskich oraz niektórych członków Partii Republikańskiej w amerykańskim Senacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem eskalacja konfliktu między Arabią Saudyjską a jemeńskimi rebeliantami Huti, wraz z ponownymi atakami na statki w tym regionie, przyczyniła się do utrzymania wysokich cen ropy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ciągu ostatnich 10 dni nasiliły się ataki w rejonie szlaków wodnych; Iran oświadczył, że intensyfikuje swoje działania w odpowiedzi na amerykańską blokadę swoich portów oraz zaostrzenie sankcji wprowadzone w zeszłym miesiącu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek rebelianci Huti ostrzelali rakietami kompleks pałacu prezydenckiego w Adenie na południu kraju, zabijając dwóch strażników. Z kolei dowodzona przez Arabię Saudyjską koalicja w Jemenie poinformowała o dziesiątkach ataków na saudyjską infrastrukturę, co stanowi kolejny przejaw eskalacji konfliktu."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Konflikt prawdopodobnie ulegnie zaostrzeniu. Obecny stan jest dla USA nie do utrzymania” – napisali w raporcie analitycy Eurasia Group, podnosząc szacowane prawdopodobieństwo eskalacji konfliktu do 65 proc. z 35 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei dane z USA wskazują, że w ubiegłym tygodniu zapasy ropy naftowej w USA spadły o 8,6 mln baryłek. Był to największy spadek od lutego, wynikający częściowo z przestojów spowodowanych huraganem Isaias, a także z wysokiego poziomu przerobu w rafineriach oraz eksportu."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 09:06",
+      "content_sha256": "4899224bddf860a8410462732c3befc630db822a846ab8e8f699540315847c80",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "09:06",
+      "published_at": "2026-10-16T09:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Inwestorzy oceniają możliwość wznowienia działań wojennych między USA a Iranem.",
+          "Baryłka ropy West Texas Intermediate w dostawach na listopad zniżkuje na NYMEX w Nowym Jorku o 0,61 proc. do 97,33 USD.",
+          "W ciągu ostatnich 10 dni nasiliły się ataki w rejonie szlaków wodnych; Iran oświadczył, że intensyfikuje swoje działania w odpowiedzi na amerykańską blokadę swoich portów oraz zaostrzenie sankcji wprowadzone w zeszłym miesiącu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4899224bddf860a8410462732c3befc630db822a846ab8e8f699540315847c80"
+      }
+    },
+    {
+      "id": "b4687500e8628c66",
+      "title": "DZIEŃ NA GPW: Początek sesji może być wzrostowy",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-gpw-poczatek-sesji-moze-byc-wzrostowy",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "BNP Paribas",
+        "Orlen"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania kontraktów terminowych na europejskie indeksy sugerują, że piątkowa sesja może rozpocząć się od wzrostów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na moment pisania komentarza na rynkach azjatyckich obserwujemy odbicie po mocnych spadkach z poprzedniej sesji. (...) Pozytywnym sygnałem pozostają wyniki TSMC, największego producenta półprzewodników na świecie. W trzecim kwartale zysk spółki wzrósł o 69 proc., osiągając rekordowe 763,1 mld TWD, czyli ok. 23,6 mld USD, przewyższając oczekiwania rynku\" - napisał w komentarzu Michał Kozak, analityk DI Xelion."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Notowania kontraktów terminowych na główne europejskie indeksy wskazują na pozytywne otwarcie dzisiejszej sesji. Dzisiejszy kalendarz makroekonomiczny zapowiada się stosunkowo spokojnie. Na kolejne ważne publikacje makroekonomiczne inwestorzy będą musieli poczekać do przyszłego tygodnia\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy BM BNP Paribas Bank Polska podali w komentarzu, że najważniejszą publikacją europejskiej części dnia będzie ostateczny odczyt wrześniowej inflacji HICP w strefie euro, zaplanowany na godz. 11.00. Konsensus zakłada utrzymanie rocznej dynamiki cen na poziomie 3,8 proc. wobec 3,2 proc. w sierpniu, przy inflacji bazowej wynoszącej 2,5 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po południu rynek pozna m.in. najnowszy odczyt o produkcji przemysłowej w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "ZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Bogdanka szacuje, że w okresie I-III kw '26 miała 195 mln zł EBITDA i 26,7 mln zł zysku netto. Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Celon Pharma złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań w ramach dwóch odrębnych procedur zdecentralizowanych (DCP) obejmujących kilkanaście państw członkowskich UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Grupa Monnari szacuje, że w III kw. 2026 roku miała ok. 84,8 mln zł przychodów, o 0,3 proc. więcej rdr. Marża brutto na sprzedaży towarów w III kwartale wyniosła 62,1 proc., w porównaniu do 59,1 proc. w analogicznym okresie 2025 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Mostostal Warszawa szacuje, że narastająco po trzech kwartałach 2026 r. miał 11,6 mln zł zysku netto i 10,1 mln zł zysku netto przypisanego akcjonariuszom spółki dominującej. Przychody wyniosły 793 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Archicom wyemitował obligacje serii 1IA/2026 o łącznej wartości nominalnej 385 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Koncern paliwowy bp ocenia polski rynek detaliczny jako bardzo atrakcyjny i chce utrzymać na nim pozycję wicelidera - poinformował prezes bp w Polsce Michał Obiegała."
+        },
+        {
+          "type": "heading",
+          "text": "POLITYKA I WYDARZENIA Z ZAGRANICY:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Amerykański resort finansów przedłużył w czwartek do 24 kwietnia 2027 r. dwie licencje zezwalające na transakcje z podmiotami rosyjskiego koncernu Łukoil objętymi amerykańskimi sankcjami. Dotyczą one stacji paliw działających poza Rosją oraz spółek koncernu w Bułgarii."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Rosja opracowała plan miesięcznej kampanii zmasowanych ataków, które miałyby odciąć Kijów, Charków i Odessę od dostaw energii elektrycznej, wody i ogrzewania - napisał „New York Times”."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Litewski minister finansów Taurimas Valys sceptycznie ocenił w czwartek możliwość dodatkowego opodatkowania spółki Orlen Lietuva przez wprowadzenie podatku od nadzwyczajnych zysków koncernów paliwowych w związku z rosnącymi cenami paliw. Wskazał m.in. na ryzyko pogorszenia stosunków z Polską."
+        },
+        {
+          "type": "heading",
+          "text": "RYNKI AKCJI:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Na azjatyckich giełdach spore wzrosty. W Japonii Nikkei 225 zyskał 1,52 proc. W Hongkongu indeks Hang Seng zwyżkuje o 0,45 proc. W Chinach indeks SSEC spada o 0,22 proc. Południowokoreański Kospi wzrósł o 2,47 proc. W Indiach Sensex zwyżkuje 0,46 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "• W Europie kontrakty na Stoxx 50 rosną o 0,55 proc., na FTSE 100 zniżkują o 0,15 proc., na CAC 40 idą wyżej o 0,5 proc., a na DAX rosną o 0,47 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "• W USA kontrakty na indeksy są w przedziale od 0,06 proc. do 0,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Indeksy giełdowe w Europie głównie zwyżkowały. Na zamknięciu sesji indeks Euro Stoxx 50 stracił 0,36 proc., niemiecki DAX zwyżkował o 0,33 proc., francuski CAC 40 poszedł w górę o 0,78 proc., a brytyjski FTSE wzrósł o 1,08 proc. Benchmarkowy indeks Stoxx Europe 600 zwyżkował o 0,38 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Inwestorzy analizowali najnowsze dane, które wskazują na utrzymującą się w USA inflację."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Dow Jones Industrial na zamknięciu wzrósł o 1,08 proc. i wyniósł 52.177,69 pkt. S&P 500 na koniec dnia wzrósł o 0,33 proc. i wyniósł 7.744,06 pkt. Nasdaq Composite zwyżkował o 0,08 proc. do 26.713,026 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Indeks WIG20 na zamknięciu poprzedniej sesji spadł o 0,14 proc. do 3250,05 pkt., WIG spadł o 0,08 proc. i wyniósł 158.581,36 pkt., mWIG40 spadł o 0,21 proc. do 10.670,5 pkt., natomiast sWIG80 spadł o 0,98 proc. do 30.588,76 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 08:42",
+      "content_sha256": "498a0fe048f4e8dfb1c82e16f4d55704bf3170e2d0650cec6d71d4fd495d136f",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "08:42",
+      "published_at": "2026-10-16T08:42+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Notowania kontraktów terminowych na europejskie indeksy sugerują, że piątkowa sesja może rozpocząć się od wzrostów.",
+          "\"Na moment pisania komentarza na rynkach azjatyckich obserwujemy odbicie po mocnych spadkach z poprzedniej sesji. (...) Pozytywnym sygnałem pozostają wyniki TSMC, największego producenta półprzewodników na świecie.",
+          "W trzecim kwartale zysk spółki wzrósł o 69 proc., osiągając rekordowe 763,1 mld TWD, czyli ok."
+        ],
+        "interest_score": 75,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "\"Na moment pisania komentarza na rynkach azjatyckich obserwujemy odbicie po mocnych spadkach z poprzedniej sesji. (...) Pozytywnym sygnałem pozostają wyniki TSMC, największego producenta półprzewodników na świecie."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "23,6 mld USD, przewyższając oczekiwania rynku\" - napisał w komentarzu Michał Kozak, analityk DI Xelion."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Notowania kontraktów terminowych na europejskie indeksy sugerują, że piątkowa sesja może rozpocząć się od wzrostów."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "498a0fe048f4e8dfb1c82e16f4d55704bf3170e2d0650cec6d71d4fd495d136f"
+      }
+    },
+    {
+      "id": "a4ac7e3fa2e6491e",
+      "title": "DZIEŃ NA RYNKACH: Futures w Europie rosną; indeksy w Azji też na plusach",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/dzien-na-rynkach-futures-w-europie-rosna-indeksy-w-azji-tez-na-plusach",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "technologie",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "technologie": [
+          "Temat: AI"
+        ],
+        "przemysl": [
+          "Temat: infrastruktur"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kontrakty w Europie zwyżkują, podobnie jak giełdy w Azji. Inwestorzy analizują perspektywy dla branży AI wobec rosnącego zadłużenia na budowę infrastruktury centrów danych oraz wzrost konkurencji ze strony Chin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kontrakty na Stoxx 50 Europe rosną o 0,48 proc., na FTSE 100 idą w dół o 0,22 proc., na CAC 40 zwyżkują o 0,36 proc., a na DAX zyskują 0,46 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Japonii Nikkei 225 zyskał 1,52 proc. W Hongkongu indeks Hang Seng zwyżkuje o 0,45 proc. W Chinach indeks SSEC spada o 0,22 proc. Południowokoreański Kospi wzrósł o 2,47 proc. W Indiach Sensex zwyżkuje 0,46 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kontrakty na indeksy w USA są w przedziale od 0,0 proc. do +0,05 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Indonezji akcje odnotowały największy jednodniowy spadek od 1998 roku, czyli od czasu azjatyckiego kryzysu finansowego. Stało się tak po tym, jak dostawca indeksów MSCI ogłosił, że tamtejszy rynek giełdowy nie zasługuje już na klasyfikację „rynku wschodzącego”. Decyzja ta oznacza obniżenie statusu, co zmusi fundusze pasywne do wycofania kapitału z tego kraju."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Po okresie niskiej zmienności na rynkach światowych znów robi się bardzo niespokojnie: na Wall Street obserwujemy gwałtowne wahania, rentowności obligacji mocno fluktuują, rynki walutowe przeżywają istne akrobacje, a ceny surowców zmieniają się w skrajnie różnych kierunkach. Rynki światowe może czekać dłuższy okres takiej zmienności” – napisał w raporcie Kyle Rodda, analityk rynkowy w Capital.com."
+        },
+        {
+          "type": "paragraph",
+          "text": "Utrzymuje się wzrost rentowności obligacji dostawcy usług chmurowych dla sektora AI, firmy CoreWeave, do poziomów typowych dla długu przedsiębiorstw znajdujących się w trudnej sytuacji finansowej. Zjawisko to podsyciło obawy dotyczące narastającego zadłużenia, które finansuje boom w dziedzinie sztucznej inteligencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podobnie sytuacja wygląda w przypadku doniesień o postępach chińskiej spółki CXMT w pracach nad architekturą pamięci DRAM nowej generacji. Informacje te osłabiły zaufanie do uznanych producentów, takich jak SK Hynix czy Micron."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Jednym z głównych wyzwań, z jakimi mierzymy się w sektorze sztucznej inteligencji i szerzej w całej branży technologicznej w ciągu ostatnich 6–12 miesięcy, jest fakt, że znaczna część zachodzących procesów rozgrywa się na rynkach prywatnych” – powiedział w CNBC Jeff Richards, partner zarządzający w Notable Capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskazywał on, że debiuty giełdowe firm powiązanych z AI, takich jak Anthropic czy OpenAI, mogłyby pomóc rozwiać obawy inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Gdy w 2027 roku na rynek trafi więcej informacji, w tym analizy ekspertów oraz szczegółowe dane dotyczące kluczowych wskaźników, wiele z tych obaw powinno ustąpić” – dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy oceniają informacje wojenne z Bliskiego Wschodu. Co najmniej dwie osoby zginęły, a około 10 odniosło obrażenia w czwartek w eksplozjach, do których doszło w pobliżu pałacu w Adenie, w którym siedzibę ma uznawany na arenie międzynarodowej rząd Jemenu. Do ostrzału pałacu przyznali się wspierani przez Iran rebelianci Huti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od 1 października jemeńscy rebelianci Huti przeprowadzili 20 ataków na międzynarodowe lotnisko im. króla Chalida w Rijadzie, stolicy Arabii Saudyjskiej. W atakach na stołeczne lotnisko zginęło 17 osób, a ponad 330 zostało rannych. Ataki na wszystkie saudyjskie lotniska spowodowały łącznie śmierć 19 osób, a obrażenia u 364."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes Rezerwy Federalnej Kevin Warsh podczas moderowanej dyskusji, która odbyła się w piątek rano w Bangkoku w ramach corocznego spotkania Międzynarodowego Funduszu Walutowego, po raz kolejny powtórzył, że Fed zapewni stabilność cen, a także nie wypowiedział się na temat swoich prognoz dotyczących polityki pieniężnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek Dow Jones Industrial na zamknięciu wzrósł o 1,08 proc. i wyniósł 52.177,69 pkt. S&P 500 na koniec dnia wzrósł o 0,33 proc. i wyniósł 7.744,06 pkt. Nasdaq Composite zwyżkował o 0,08 proc. do 26.713,026 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniejsze spadki sprawiły, że indeksy S&P 500 oraz Nasdaq znalazły się w tym tygodniu na minusie, pierwszy z nich stracił dotąd blisko 1 proc., a drugi spadł o ponad 2 proc. Z kolei indeks Dow zmierza ku tygodniowemu wzrostowi o około 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dolar osłabia się o 0,07 proc. wobec koszyka walut do 101,94 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kwotowanie USD/JPY spada o 0,16 proc. do 157,88."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zniżkują o 0,55 proc. do 97,42 USD za baryłkę, a grudniowe futures na Brent spadają o 0,5 proc. do 105,40 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 08:37",
+      "content_sha256": "6243fd7b52970390b77d7383b2a19321f8ff7cc4d56bf28edd678090912a2364",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "08:37",
+      "published_at": "2026-10-16T08:37+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Kontrakty w Europie zwyżkują, podobnie jak giełdy w Azji.",
+          "Inwestorzy analizują perspektywy dla branży AI wobec rosnącego zadłużenia na budowę infrastruktury centrów danych oraz wzrost konkurencji ze strony Chin.",
+          "Kontrakty na Stoxx 50 Europe rosną o 0,48 proc., na FTSE 100 idą w dół o 0,22 proc., na CAC 40 zwyżkują o 0,36 proc., a na DAX zyskują 0,46 proc."
+        ],
+        "interest_score": 83,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Kontrakty na Stoxx 50 Europe rosną o 0,48 proc., na FTSE 100 idą w dół o 0,22 proc., na CAC 40 zwyżkują o 0,36 proc., a na DAX zyskują 0,46 proc."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Kontrakty w Europie zwyżkują, podobnie jak giełdy w Azji."
+          },
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Inwestorzy analizują perspektywy dla branży AI wobec rosnącego zadłużenia na budowę infrastruktury centrów danych oraz wzrost konkurencji ze strony Chin."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "infrastruktur*",
+              "kontrakt*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "AI"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6243fd7b52970390b77d7383b2a19321f8ff7cc4d56bf28edd678090912a2364"
+      }
+    },
+    {
+      "id": "ac6a4def7227afa0",
+      "title": "Jest szansa, że NBP osiągnie zysk w 2026 roku - Kotecki, RPP",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/jest-szansa-ze-nbp-osiagnie-zysk-w-2026-roku-kotecki-rpp",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: NBP",
+          "Temat: RPP"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Jest szansa, że NBP osiągnie zysk w 2026 roku - poinformował w Programie I Polskiego Radia członek RPP, Ludwik Kotecki."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Informacje, które napływają z realizacji planu finansowego NBP wskazują, że zysk jest możliwy\" - powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jak będzie duży zobaczymy 31 grudnia\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "map/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 08:33",
+      "content_sha256": "27dc3d98c17630f84194b8116a45c21350d7978a712286bf5d2bc0d691f65a0c",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "08:33",
+      "published_at": "2026-10-16T08:33+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Jest szansa, że NBP osiągnie zysk w 2026 roku - poinformował w Programie I Polskiego Radia członek RPP, Ludwik Kotecki.",
+          "\"Informacje, które napływają z realizacji planu finansowego NBP wskazują, że zysk jest możliwy\" - powiedział.",
+          "\"Jak będzie duży zobaczymy 31 grudnia\" - dodał."
+        ],
+        "interest_score": 65,
+        "impact_score": 50,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Jest szansa, że NBP osiągnie zysk w 2026 roku - poinformował w Programie I Polskiego Radia członek RPP, Ludwik Kotecki."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Jest szansa, że NBP osiągnie zysk w 2026 roku - poinformował w Programie I Polskiego Radia członek RPP, Ludwik Kotecki."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "RPP",
+              "NBP"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "27dc3d98c17630f84194b8116a45c21350d7978a712286bf5d2bc0d691f65a0c"
+      }
+    },
+    {
+      "id": "cd925d0ea85b19e0",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/najwazniejsze-indeksy-gieldowe-w-azji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej aktualne indeksy wybranych giełd w Azji:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nikkei 225 | Japonia | 65484,91 | 1,64 | -5,15 | 2,44 | 35,64 | 30,09"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SCI | Chiny | 3706,22 | -0,03 | -2,82 | -4,76 | -5,36 | -6,62"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hang Seng | Hongkong | 24223,37 | 0,67 | 0,05 | -1,98 | -6,43 | -5,49"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KOSPI | Korea Płd. | 5655,34 | 1,82 | -14,65 | -15,82 | 50,87 | 34,20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Sensex | Indie | 74675,12 | 0,48 | 3,04 | 0,46 | -10,53 | -12,37"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks Nikkei 225 zamyka się o 8.30 czasu polskiego, KOSPI o 8.05, Shanghai Composite Index o 9.00, Hang Seng o 10.00, a Sensex o 12.45."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 08:23",
+      "content_sha256": "b7a3f6bed3ac65c3238d107e0be79626430888d7e56481e2e66b707f80b6c8cf",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "08:23",
+      "published_at": "2026-10-16T08:23+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Indeks Nikkei 225 zamyka się o 8.30 czasu polskiego, KOSPI o 8.05, Shanghai Composite Index o 9.00, Hang Seng o 10.00, a Sensex o 12.45.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b7a3f6bed3ac65c3238d107e0be79626430888d7e56481e2e66b707f80b6c8cf"
+      }
+    },
+    {
+      "id": "c440b31cbbf7fcb1",
+      "title": "Bogdanka szacuje, że miała w okresie I-III kw. 195 mln zł EBITDA i 26,7 mln zł zysku netto",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/bogdanka-szacuje-ze-miala-w-okresie-i-iii-kw-195-mln-zl-ebitda-i-267-mln-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: węgl"
+        ],
+        "przemysl": [
+          "Temat: produkcj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Bogdanka szacuje, że miała w okresie I-III kw. 2026 roku 195 mln zł EBITDA i 27,6 mln zł skonsolidowanego zysku netto - podała spółka w komunikacie. Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa szacuje, że w I-III kw. 2026 r. miała 2.046,9 mln zł przychodów ze sprzedaży i 35,3 mln zł EBIT."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, na wyniki bieżącego okresu obrotowego istotny wpływ miały niższe ceny węgla na rynku krajowym, co bezpośrednio przełożyło się na ceny węgla energetycznego sprzedawanego przez LW Bogdanka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostateczne wyniki zostaną przedstawione w raporcie za III kw. 2026 r., którego publikację zaplanowano na 18 listopada 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 08:08",
+      "content_sha256": "bbae1fa69edbdcee0dc46f5a17a613050e368291949ec4f4a9d93455e29d5b95",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "08:08",
+      "published_at": "2026-10-16T08:08+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Bogdanka szacuje, że miała w okresie I-III kw. 2026 roku 195 mln zł EBITDA i 27,6 mln zł skonsolidowanego zysku netto - podała spółka w komunikacie.",
+          "Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton.",
+          "Grupa szacuje, że w I-III kw. 2026 r. miała 2.046,9 mln zł przychodów ze sprzedaży i 35,3 mln zł EBIT."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Grupa Bogdanka szacuje, że miała w okresie I-III kw. 2026 roku 195 mln zł EBITDA i 27,6 mln zł skonsolidowanego zysku netto - podała spółka w komunikacie."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Produkcja węgla handlowego w tym okresie wyniosła 6,36 mln ton, a sprzedaż 6,05 mln ton."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "bbae1fa69edbdcee0dc46f5a17a613050e368291949ec4f4a9d93455e29d5b95"
+      }
+    },
+    {
+      "id": "df31d02369b448b9",
+      "title": "bp ocenia polski rynek paliw jako bardzo atrakcyjny, chce utrzymać pozycję wicelidera",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/bp-ocenia-polski-rynek-paliw-jako-bardzo-atrakcyjny-chce-utrzymac-pozycje",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "konsumpcja"
+      ],
+      "companies": [
+        "Orlen"
+      ],
+      "match_reasons": {
+        "energia": [
+          "Temat: paliw"
+        ],
+        "konsumpcja": [
+          "Temat: detaliczn"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Koncern paliwowy bp ocenia polski rynek detaliczny jako bardzo atrakcyjny i chce utrzymać na nim pozycję wicelidera - poinformował dziennikarzy prezes bp w Polsce Michał Obiegała."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Obecnie posiadamy 577 stacji w Polsce. Zamierzamy pozostać wiceliderem rynku. Madal będziemy otwierać nowe stacje paliw\" - powiedział dziennikarzom w kuluarach Europejskiego Forum Nowych Idei prezes bp w Polsce Michał Obiegała."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liderem na polskim rynku jest grupa Orlen, która na koniec II kwartału 2026 roku zarządzała 1.966 stacjami paliw w Polsce. Trzecia jest sieć Moya, która liczy około 550 punktów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynek detaliczny w Polsce nadal pozostaje bardzo atrakcyjny do nas. Jest to de facto jedyny rynek w obszarze Europy Środkowo-Wschodniej i starych krajów Unii Europejskiej, który pokazuje długoterminowe wzrosty w popycie na produkty paliwowe z uwagi na wzrost gospodarvczy, dużą skalę branży logistyczno-transportowej, jak i relatywnie wolną konwersję na auta elektryczne\" - powiedział Michał Obiegała."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To z kolei powoduje, że zamierzamy na tym rynku konsekwentnie inwestować\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 08:01",
+      "content_sha256": "fabf0ec7f0dc7ea496ad08e3e466f264101664a491cf3b9596d5bd938caaf4fd",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "08:01",
+      "published_at": "2026-10-16T08:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Koncern paliwowy bp ocenia polski rynek detaliczny jako bardzo atrakcyjny i chce utrzymać na nim pozycję wicelidera - poinformował dziennikarzy prezes bp w Polsce Michał Obiegała.",
+          "Liderem na polskim rynku jest grupa Orlen, która na koniec II kwartału 2026 roku zarządzała 1.966 stacjami paliw w Polsce.",
+          "\"Rynek detaliczny w Polsce nadal pozostaje bardzo atrakcyjny do nas."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "paliw*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "fabf0ec7f0dc7ea496ad08e3e466f264101664a491cf3b9596d5bd938caaf4fd"
+      }
+    },
+    {
+      "id": "d17b22d2420f4a26",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 16.10.2026 | 1D | 5D | 1M | 3M | 12M"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,70 | 4,77 | 4,75 | 4,72 | 4,16 | 4,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,86 | 5,94 | 5,89 | 5,95 | 4,87 | 4,81"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,25 | 6,35 | 6,31 | 6,40 | 5,48 | 5,40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,62 | 5,67 | 5,81 | 5,72 | 5,30 | 6,37"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,59 | 5,66 | 5,83 | 5,79 | 5,31 | 6,31"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,38 | 5,47 | 5,69 | 5,81 | 5,32 | 6,76"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,23 | 4,25 | 4,25 | 4,19 | 3,93 | 3,57"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,63 | 4,71 | 4,71 | 4,71 | 4,24 | 3,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,26 | 5,33 | 5,37 | 5,42 | 4,81 | 4,36"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,17 | 36,39 | 36,43 | 36,99 | 37,69 | 37,23"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 35,44 | 35,64 | 35,48 | 35,60 | 35,44 | 34,17"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 32,76 | 32,78 | 32,68 | 32,02 | 31,85 | 29,79"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 3,04 | 3,05 | 3,06 | 3,15 | 2,70 | 1,94"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,23 | 3,28 | 3,31 | 3,38 | 2,87 | 2,26"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,54 | 3,60 | 3,63 | 3,65 | 3,28 | 2,79"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,45 | 3,47 | 3,44 | 3,44 | 2,93 | 2,13"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 3,93 | 3,98 | 4,01 | 3,88 | 3,31 | 2,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,48 | 4,55 | 4,60 | 4,42 | 3,91 | 3,38"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,19 | 3,24 | 3,24 | 3,26 | 2,73 | 1,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,46 | 3,51 | 3,55 | 3,49 | 3,00 | 2,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,88 | 3,95 | 3,99 | 3,91 | 3,48 | 2,95"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,23 | 3,28 | 3,27 | 3,27 | 2,80 | 2,01"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,53 | 3,58 | 3,59 | 3,54 | 3,04 | 2,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 4,03 | 4,09 | 4,12 | 4,01 | 3,58 | 3,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,11 | 3,13 | 3,11 | 3,26 | 2,75 | 1,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,21 | 3,25 | 3,26 | 3,35 | 2,83 | 2,17"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,41 | 3,47 | 3,50 | 3,54 | 3,12 | 2,57"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,59 | 3,62 | 3,66 | 3,48 | 2,91 | 2,14"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,22 | 4,29 | 4,28 | 3,96 | 3,34 | 2,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,80 | 4,88 | 4,90 | 4,51 | 3,91 | 3,34"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,89 | 4,90 | 4,91 | 4,89 | 4,32 | 3,90"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 4,97 | 5,00 | 5,03 | 4,96 | 4,50 | 4,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,37 | 5,42 | 5,48 | 5,39 | 4,94 | 4,54"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,92 | 1,91 | 1,92 | 1,86 | 1,44 | 0,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,34 | 2,31 | 2,36 | 2,29 | 1,97 | 1,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,94 | 2,90 | 3,02 | 3,01 | 2,72 | 1,67"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,74 | 4,74 | 4,79 | 4,74 | 4,14 | 3,42"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,90 | 4,88 | 5,02 | 4,88 | 4,27 | 3,55"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 5,08 | 5,06 | 5,24 | 5,02 | 4,55 | 3,97"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 07:39",
+      "content_sha256": "df0af6d5c9df8da586bf68904a22daed97d7aecc9877816e13e734572cc4458b",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "07:39",
+      "published_at": "2026-10-16T07:39+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "df0af6d5c9df8da586bf68904a22daed97d7aecc9877816e13e734572cc4458b"
+      }
+    },
+    {
+      "id": "3aa0c9ba3b63ef0b",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Kolumbii i Argentynie:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7744,06 | 0,33 | -0,27 | 2,55 | 16,82 | 13,13"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 52177,69 | 1,08 | 1,85 | 1,39 | 13,55 | 8,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 26713,03 | 0,08 | -1,77 | 2,83 | 18,40 | 14,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2767,269 | 1,38 | -0,96 | -3,20 | 12,17 | 11,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 36137,10 | 1,55 | 3,13 | 1,82 | 18,64 | 13,96"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 67663,29 | 1,31 | 4,12 | 6,54 | 8,18 | 5,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 204324,26 | -1,06 | 0,01 | 10,12 | 43,69 | 26,81"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2580,50 | -0,07 | 2,16 | 2,74 | 35,90 | 24,78"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MERVAL | Argentyna | 2859051,00 | 0,82 | 1,24 | -5,61 | 48,18 | -6,31"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "kek/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 07:37",
+      "content_sha256": "6a389b0eed9807c0158894699211d2d2a1eeceb42604269ba1464613c04eba3a",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "07:37",
+      "published_at": "2026-10-16T07:37+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6a389b0eed9807c0158894699211d2d2a1eeceb42604269ba1464613c04eba3a"
+      }
+    },
+    {
+      "id": "263dae8a86376c78",
+      "title": "Celon Pharma złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261016/celon-pharma-zlozyla-wnioski-o-wydanie-pozwolenia-na-dopuszczenie-do-obrotu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-16T09:51:57+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Celon Pharma złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań w ramach dwóch odrębnych procedur zdecentralizowanych (DCP) obejmujących kilkanaście państw członkowskich UE - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, państwami referencyjnymi (RMS) dla procedur są odpowiednio: Niemcy i Austria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka poinformowała, że złożenie wniosków stanowi realizację przyjętej strategii rozwoju regulacyjnego i komercjalizacji dla produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań, a także etap procesu, zmierzającego do wprowadzenia tego produktu do obrotu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Złożenie wniosku nie jest równoznaczne z uzyskaniem pozwolenia na dopuszczenie produktu do obrotu."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.10.2026 07:24",
+      "content_sha256": "443fd73cd1355ad45b0fb049220c27d417a429fcd42eed283e955e4b8af4fe67",
+      "date": "2026-10-16",
+      "saved_at": "2026-10-16T09:51:57+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
+      "published_time": "07:24",
+      "published_at": "2026-10-16T07:24+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Celon Pharma złożyła wnioski o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań w ramach dwóch odrębnych procedur zdecentralizowanych (DCP) obejmujących kilkanaście państw członkowskich UE - podała spółka w komunikacie.",
+          "Spółka poinformowała, że złożenie wniosków stanowi realizację przyjętej strategii rozwoju regulacyjnego i komercjalizacji dla produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań, a także etap procesu, zmierzającego do wprowadzenia tego produktu do obrotu.",
+          "Złożenie wniosku nie jest równoznaczne z uzyskaniem pozwolenia na dopuszczenie produktu do obrotu."
+        ],
+        "interest_score": 43,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Spółka poinformowała, że złożenie wniosków stanowi realizację przyjętej strategii rozwoju regulacyjnego i komercjalizacji dla produktu leczniczego zawierającego semaglutyd w postaci roztworu do wstrzykiwań, a także etap procesu, zmierzającego do wprowadzenia tego produktu do obrotu."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "443fd73cd1355ad45b0fb049220c27d417a429fcd42eed283e955e4b8af4fe67"
+      }
+    },
     {
       "id": "5cbff510d37c0e2e",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-16",
@@ -805,7 +4239,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "discovered_at": "2026-10-16T09:51:57+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1248,7 +4682,7 @@
       "published_display": "15.10.2026 21:02",
       "content_sha256": "bd3ad51ae906a05f12c3649c2c280c1e79da583bc47a0dda1b8c41d7d7610748",
       "saved_at": "2026-10-15T21:49:56+00:00",
-      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3659,7 +7093,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-16T05:05:16+00:00",
+      "discovered_at": "2026-10-16T09:51:57+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -4062,7 +7496,7 @@
       "published_display": "15.10.2026 17:06",
       "content_sha256": "1017257aaf885a8b9b951a3a3dda0bb907438edb61ea5a92e34d56188ace0896",
       "saved_at": "2026-10-15T18:43:22+00:00",
-      "content_checked_at": "2026-10-16T05:05:16+00:00",
+      "content_checked_at": "2026-10-16T09:51:57+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -225384,7 +228818,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225402,7 +228836,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225420,7 +228854,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225438,7 +228872,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225458,7 +228892,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225476,7 +228910,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225494,7 +228928,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225512,7 +228946,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225530,7 +228964,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225550,7 +228984,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225568,7 +229002,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225586,7 +229020,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225604,7 +229038,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225624,7 +229058,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225642,7 +229076,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225660,7 +229094,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225678,7 +229112,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225698,7 +229132,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225716,7 +229150,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225734,7 +229168,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225752,7 +229186,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225770,7 +229204,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225790,7 +229224,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225808,7 +229242,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225826,7 +229260,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225844,7 +229278,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225865,7 +229299,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225883,7 +229317,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225901,7 +229335,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225922,7 +229356,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225940,7 +229374,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 12,
+      "attempts": 13,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -225958,7 +229392,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225976,7 +229410,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -225994,7 +229428,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226012,7 +229446,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226030,7 +229464,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226048,7 +229482,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226068,7 +229502,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226086,7 +229520,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226106,7 +229540,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226124,7 +229558,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226142,7 +229576,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226160,7 +229594,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226180,7 +229614,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226198,7 +229632,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226216,7 +229650,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -226418,7 +229852,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -226436,7 +229870,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -226454,7 +229888,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -226472,7 +229906,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -226490,11 +229924,35 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 13,
+      "attempts": 14,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
       "error": "ValueError"
@@ -226673,118 +230131,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
       "error": "ValueError"
     }
   ],
