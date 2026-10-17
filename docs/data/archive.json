@@ -1,8 +1,157 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-17T09:23:48+00:00",
+  "last_checked": "2026-10-17T13:16:07+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "897caba919cf1e2e",
+      "title": "Kiedy OKI się opłaca? Analiza na podstawie 20 lat",
+      "url": "https://strefainwestorow.pl/analizy/oki-oplacalnosc",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "PKO BP",
+        "Pekao"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-17T13:16:07+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Od 1 stycznia 2027 roku ruszają osobiste konta inwestycyjne (OKI). Na rynku krąży obawa, że start zbiegnie się ze szczytem hossy. W tym wideo pokazujemy, dlaczego to pytanie ma niewielkie znaczenie i jak naprawdę wygląda opłacalność OKI na tle zwykłego rachunku maklerskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na GPW trwa mocno rozpędzona hossa. WIG jest w tym roku około 34% na plusie, a w ciągu ostatnich 12 miesięcy zyskał ponad 50%. Część rynku przewiduje, że start OKI przyciągnie falę nowych inwestorów akurat na szczycie."
+        },
+        {
+          "type": "paragraph",
+          "text": "BM Pekao demokratyzuje asset management. Profesjonalne inwestowanie nie tylko dla zamożnych"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tylko co z tego? Jeśli kupisz w szczycie hossy, nominalna strata będzie taka sama na OKI, jak na zwykłym rachunku maklerskim. OKI nie jest strategią inwestycyjną. To produkt, który pozwala inwestować w akcje, obligacje, fundusze czy lokaty z przywilejem podatkowym. Dlatego opłacalność OKI trzeba oceniać przez pryzmat podatków, a nie momentu wejścia na rynek."
+        },
+        {
+          "type": "paragraph",
+          "text": "OKI ma być najtańszym sposobem inwestowania w PKO BP. Bank celuje w 30% rynku"
+        },
+        {
+          "type": "heading",
+          "text": "OKI to tak naprawdę wybór podatku"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wybór między OKI a rachunkiem maklerskim sprowadza się do tego, od czego płacisz podatek od zysku czy kapitału. Ekonomiści PKO BP policzyli, ile podatku zapłaciłby inwestor na polskim rynku od 2006 roku. Założenia symulacji przewidują portfel 60/40: 60% to akcje odwzorowujące WIG, 40% to lokaty oprocentowane według WIBOR-u. Wpłata na początku roku i rozliczenie na koniec roku (bez procentu składanego). Portfele od kilkunastu tysięcy do 200 000 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obligacje korporacyjne na OKI. Uwaga na pułapkę aktywów kwalifikowanych"
+        },
+        {
+          "type": "heading",
+          "text": "W tym odcinku:"
+        },
+        {
+          "type": "paragraph",
+          "text": "0:29 Czy OKI wystartuje w szczycie hossy?"
+        },
+        {
+          "type": "paragraph",
+          "text": "2:20 OKI to wybór podatku: 19% od zysku czy 0,85% od aktywów"
+        },
+        {
+          "type": "paragraph",
+          "text": "4:49 Dlaczego nie porównuję OKI z IKE/IKZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "5:29 Symulacja PKO BP: OKI przez ostatnie 20 lat"
+        },
+        {
+          "type": "paragraph",
+          "text": "7:23 Portfele do 100 000 zł – OKI zawsze wygrywa"
+        },
+        {
+          "type": "paragraph",
+          "text": "9:51 Portfel 200 000 zł: 13 lat na plus, 7 lat lekko na minus"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:39 Średnia roczna przewaga OKI wg wielkości portfela"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:19 Jaka stopa zwrotu, żeby OKI się opłacało?"
+        },
+        {
+          "type": "paragraph",
+          "text": "16:40 Oferty banków i „parasolowe” OKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent podpisał ustawę o OKI. Nowe konta ruszą od 2027 roku"
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "17.10.2026 12:34",
+      "content_sha256": "83c044d1eb625960ed4100ed4a4ebeb2933ceb1385490e7a2327e7a623216dbd",
+      "date": "2026-10-17",
+      "saved_at": "2026-10-17T13:16:07+00:00",
+      "content_checked_at": "2026-10-17T13:16:07+00:00",
+      "published_time": "12:34",
+      "published_at": "2026-10-17T12:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Od 1 stycznia 2027 roku ruszają osobiste konta inwestycyjne (OKI).",
+          "W tym wideo pokazujemy, dlaczego to pytanie ma niewielkie znaczenie i jak naprawdę wygląda opłacalność OKI na tle zwykłego rachunku maklerskiego.",
+          "WIG jest w tym roku około 34% na plusie, a w ciągu ostatnich 12 miesięcy zyskał ponad 50%."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "WIG jest w tym roku około 34% na plusie, a w ciągu ostatnich 12 miesięcy zyskał ponad 50%."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "83c044d1eb625960ed4100ed4a4ebeb2933ceb1385490e7a2327e7a623216dbd"
+      }
+    },
     {
       "id": "470f77be3f729452",
       "title": "W poszukiwaniu sygnałów - 17 października 2026 -Nowe maksima historyczne na WIG, WIG20 i MWIG40",
@@ -597,7 +746,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-17T09:23:48+00:00",
+      "discovered_at": "2026-10-17T13:16:07+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1000,7 +1149,7 @@
       "published_display": "16.10.2026 21:06",
       "content_sha256": "41dd5edf54528d0f9e46f6da7848d552c3c95078243eecd8206a5077364b75e6",
       "saved_at": "2026-10-16T22:08:04+00:00",
-      "content_checked_at": "2026-10-17T09:23:48+00:00",
+      "content_checked_at": "2026-10-17T13:16:07+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3715,7 +3864,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-17T09:23:48+00:00",
+      "discovered_at": "2026-10-17T13:16:07+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -4058,7 +4207,7 @@
       "published_display": "16.10.2026 17:01",
       "content_sha256": "6610b6810e090385bce6102c9c9cc35321008e26271865b30a4a6a5df03f24db",
       "saved_at": "2026-10-16T18:51:15+00:00",
-      "content_checked_at": "2026-10-17T09:23:48+00:00",
+      "content_checked_at": "2026-10-17T13:16:07+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -235531,7 +235680,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235549,7 +235698,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235568,7 +235717,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235586,7 +235735,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235604,7 +235753,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235622,7 +235771,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235640,7 +235789,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235658,7 +235807,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235676,7 +235825,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235694,7 +235843,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235712,7 +235861,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235730,7 +235879,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235748,7 +235897,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235766,7 +235915,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235784,7 +235933,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235842,7 +235991,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235860,7 +236009,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235878,7 +236027,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235896,7 +236045,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235914,7 +236063,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235934,7 +236083,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235952,7 +236101,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235970,7 +236119,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235988,7 +236137,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236006,7 +236155,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236026,7 +236175,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236044,7 +236193,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236062,7 +236211,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236080,7 +236229,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236100,7 +236249,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236118,7 +236267,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236136,7 +236285,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236154,7 +236303,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236174,7 +236323,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236192,7 +236341,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236210,7 +236359,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236228,7 +236377,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236246,7 +236395,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236266,7 +236415,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236284,7 +236433,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236302,7 +236451,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236320,7 +236469,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236341,7 +236490,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236359,7 +236508,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236377,7 +236526,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236398,7 +236547,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236416,7 +236565,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 18,
+      "attempts": 19,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236434,7 +236583,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236452,7 +236601,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236470,7 +236619,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236488,7 +236637,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236506,7 +236655,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236524,7 +236673,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236544,7 +236693,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236562,7 +236711,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236582,7 +236731,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236600,7 +236749,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236618,7 +236767,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236636,7 +236785,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236656,7 +236805,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236674,7 +236823,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236692,7 +236841,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236710,7 +236859,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236730,7 +236879,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236748,7 +236897,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236766,7 +236915,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236784,7 +236933,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236802,7 +236951,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236822,7 +236971,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236840,7 +236989,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236858,7 +237007,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236876,7 +237025,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236894,7 +237043,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -236912,7 +237061,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -236930,7 +237079,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -236948,7 +237097,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -236966,11 +237115,19 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 19,
+      "attempts": 20,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
       "error": "ValueError"
@@ -237269,14 +237426,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
       "error": "ValueError"
     }
   ],
