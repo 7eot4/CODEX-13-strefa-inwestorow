@@ -1,8 +1,472 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-18T14:54:15+00:00",
+  "last_checked": "2026-10-18T18:08:20+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "e1a2087d9e9529d9",
+      "title": "Zyski amerykańskich gigantów w górę. Te 2 sektory ciągną notowania USA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261018/zyski-amerykanskich-gigantow-w-gore-te-2-sektory-ciagna-notowania-usa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: S&P 500"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-18T18:08:20+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "9 proc. firm z indeksu S&P 500 do tej pory przedstawiło rzeczywiste wyniki za trzeci kwartał 2026 roku. Spośród nich 84 proc. zgłosiło rzeczywiste EPS (zysk na akcję) powyżej szacunków, co jest powyżej 5-letniej średniej 78 proc. i powyżej 10-letniej średniej 77 proc. - poinformował FactSet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak piszą eksperci FactSet, na początku obecnego sezonu publikacji wyników w Stanach Zjednoczonych za trzeci kwartał odsetek spółek z listy S&P 500 raportujących pozytywne niespodzianki w wynikach jest powyżej ostatnich kwartałów, ale skala niespodzianek jest niższa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie firmy raportują zyski o 2,6 proc. powyżej szacunków, co jest poniżej 5-letniej średniej wynoszącej 7,5 proc. i poniżej 10-letniej średniej 8,0 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ciągu ostatniego tygodnia najmocniej do spadku szacunków EPS przyczyniły się firmy z sektora opieki zdrowotnej, częściowo zrekompensowane przez wyniki firm z sektora energetycznego,. W sektorze finansowym pozytywne i ujemne zaskoczenia EPS zgłaszane przez firmy z tego sektora wzajemnie się zrekompensowały, co skutkowało brakiem zmiany tempa wzrostu zysków w tym sektorze w minionym tygodniu (do 3,0 proc.."
+        },
+        {
+          "type": "paragraph",
+          "text": "W rezultacie spółki z indeksu S&P 500 raportują niższe zyski za trzeci kwartał w porównaniu do końca zeszłego tygodnia. Wskaźnik wzrostu zysków za trzeci kwartał wynosi obecnie 29,0 proc., w porównaniu do tempa wzrostu zysków wynoszącego 29,4 proc. w zeszłym tygodniu oraz 29,2 proc. 30 września."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paul Tudor Jones wskazuje, co może zakończyć hossę na Wall Street. Legendarny inwestor zapowiada wielką grę na spadki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeśli ten wskaźnik utrzyma się na poziomie 29,0 proc., będzie to trzeci z rzędu kwartał wzrostu zysków powyżej 25 proc. oraz ósmy z rzędu kwartał dwucyfrowego wzrostu zysków dla spółek z indeksu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dziesięć z jedenastu sektorów raportuje wzrost zysków rok do roku. Pięć z tych sektorów odnotowuje dwucyfrowy wzrost, na czele z sektorami Energii, Technologii Informacyjnej, Usług Komunikacyjnych oraz Surowców. Z drugiej strony, sektor opieki zdrowotnej jest jedynym sektorem, który odnotowuje spadek zysków rok do roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z szacunków FactSet wynika, że pod względem przychodów 67 proc. firm z indeksu S&P 500 odnotowało rzeczywiste przychody powyżej szacunków, co jest poniżej 5-letniej średniej 70 proc. i poniżej 10-letniej średniej 68 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie firmy raportują przychody o 1,1 proc. powyżej szacunków, co jest poniżej 5-letniej średniej wynoszącej 1,8 proc. i poniżej 10-letniej średniej 1,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik wzrostu przychodów za trzeci kwartał wynosi dziś 12,6 proc., w porównaniu do tempa wzrostu przychodów wynoszącego 12,4 proc. w zeszłym tygodniu oraz 12,2 proc. wzrostu przychodów 30 września. Może to oznaczać trzeci z rzędu kwartał dwucyfrowego wzrostu przychodów dla spółek z indeksu S&P 500."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny oleju napędowego zaczynają dusić światową gospodarkę ostrzega ekspert Saxo Bank"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wszystkie jedenaście sektorów raportuje roczny wzrost przychodów, na czele z sektorami technologii informacyjnych, energii i usług komunikacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na czwarty kwartał 2026 roku analitycy prognozują wzrost zysków na poziomie 28,6 proc. Na cały rok 2026 analitycy przewidują wzrost zysków (rok do roku) na poziomie 32,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W nadchodzącym tygodniu 79 spółek z indeksu S&P 500 (w tym 5 firm z Dow 30) ma opublikować wyniki za trzeci kwartał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "18.10.2026 20:06",
+      "content_sha256": "fa1b1179523c0ecb742cd5bfad36fa432c9b493e63ab829a62aaddc2bc27c25e",
+      "date": "2026-10-18",
+      "saved_at": "2026-10-18T18:08:20+00:00",
+      "content_checked_at": "2026-10-18T18:08:20+00:00",
+      "published_time": "20:06",
+      "published_at": "2026-10-18T20:06+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Spośród nich 84 proc. zgłosiło rzeczywiste EPS (zysk na akcję) powyżej szacunków, co jest powyżej 5-letniej średniej 78 proc. i powyżej 10-letniej średniej 77 proc. - poinformował FactSet.",
+          "Jak piszą eksperci FactSet, na początku obecnego sezonu publikacji wyników w Stanach Zjednoczonych za trzeci kwartał odsetek spółek z listy S&P 500 raportujących pozytywne niespodzianki w wynikach jest powyżej ostatnich kwartałów, ale skala niespodzianek jest niższa.",
+          "Łącznie firmy raportują zyski o 2,6 proc. powyżej szacunków, co jest poniżej 5-letniej średniej wynoszącej 7,5 proc. i poniżej 10-letniej średniej 8,0 proc."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "9 proc. firm z indeksu S&P 500 do tej pory przedstawiło rzeczywiste wyniki za trzeci kwartał 2026 roku."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Spośród nich 84 proc. zgłosiło rzeczywiste EPS (zysk na akcję) powyżej szacunków, co jest powyżej 5-letniej średniej 78 proc. i powyżej 10-letniej średniej 77 proc. - poinformował FactSet."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "fa1b1179523c0ecb742cd5bfad36fa432c9b493e63ab829a62aaddc2bc27c25e"
+      }
+    },
+    {
+      "id": "93fc13c473411154",
+      "title": "Skrót wiadomości: sobota-niedziela, 17-18 października",
+      "date": "2026-10-18",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261018/skrot-wiadomosci-sobota-niedziela-17-18-pazdziernika",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "attempts": 0,
+      "discovered_at": "2026-10-18T18:08:20+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 17-18 października."
+        },
+        {
+          "type": "heading",
+          "text": "WIADOMOŚCI GOSPODARCZE KRAJ I ŚWIAT -----------------------------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump poinformował o uchyleniu stosowania niektórych sankcji i ceł wobec Rosji wynikających z tzw. ustawy Lindseya Grahama, którą podpisał we wrześniu. Amerykański przywódca powołał się przy tym na interes narodowy USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Ukrainy Wołodymyr Zełenski zwrócił się do Polski, Węgier, Słowacji i Rumunii z prośbą o umożliwienie Ukrainie przewozu zboża do krajów zachodnich przez ich terytoria - ujawnił w sobotę w rozmowie z telewizją RTL węgierski premier Peter Magyar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Państwa członkowskie Międzynarodowego Funduszu Walutowego (MFW) wezwały w sobotę w Bangkoku do pilnego wsparcia krajów dotkniętych wojnami i wysokimi cenami energii. W wydanym oświadczeniu podkreślono, że ryzyka gospodarcze pozostają przeważająco negatywne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Terminal naftowy w Petersburgu stanął w ogniu po ataku kilkudziesięciu dronów – poinformowały w niedzielę lokalne władze. Płonie też „infrastruktura cywilna” w mieście. Zaatakowano również centrum danych największego rosyjskiego serwisu społecznościowego VK w obwodzie leningradzkim - podała firma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska gospodarka rośnie, jednak w 2025 r. ubóstwo skrajne utrzymało się na poziomie zbliżonym do poprzedniego roku i dotyczyło około 2 mln osób. Poniżej minimum socjalnego wciąż żyło ich około 15 mln – czytamy w raporcie EAPN Polska (Poverty Watch 2026)."
+        },
+        {
+          "type": "paragraph",
+          "text": "PZU chciałoby sfinalizować transakcję przejęcia wszystkich akcji MetLife Ukraina jak najszybciej, planowany termin to I kwartał 2027 r. - poinformowali PAP prezes PZU Bogdan Benczak oraz szef PZU Ukraina Maciej Szyszko."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od ogłoszenia przez USA rozejmu energetycznego Rosja 76 razy zaatakowała ukraiński sektor energetyczny i naftowo-gazowy - poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szef irańskiej dyplomacji Abbas Aragczi oświadczył w niedzielę, że Iran podtrzymuje propozycję otwarcia cieśniny Ormuz w ciągu siedmiu dni, jeśli USA zaakceptują warunki Teheranu - podał Reuters. Tymczasem minister obrony Mehrdad Achlaghi zagroził USA dotkliwym odwetem w razie kolejnych ataków."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU-----------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "W związku ze sporem politycznym wokół Trybunału Konstytucyjnego w sobotę przed siedzibą TK w Warszawie odbyła się manifestacja, podczas której do zgromadzonych przemówili m.in. prezes PiS Jarosław Kaczyński i szef Gabinetu Prezydenta Paweł Szefernaker. TK i NBP to ostatnie instytucje nieopanowane przez obecną władzę - ocenił lider Prawa i Sprawiedliwości."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policjanci i żołnierze zakończyli poszukiwania niezidentyfikowanego obiektu latającego w okolicy Zalewu Zemborzyckiego w Lublinie. Działania podjęto w reakcji na odgłos, który słyszeli w niedzielę w nocy tamtejsi mieszkańcy. Nic nie znaleziono. Rzecznik prasowy Dowództwa Operacyjnego Rodzajów Sił Zbrojnych (DORSZ) ppłk Jacek Goryszewski poinformował PAP w niedzielę wieczorem, że wynik poszukiwań jest negatywny, a działania będą kontynuowane w poniedziałek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniej DORSZ informowało na portalach społecznościowych, że służby prowadzą poszukiwania w celu weryfikacji informacji związanych z nocnym zdarzeniem dotyczącym podejrzenia naruszenia polskiej przestrzeni powietrznej. Działania te, jak zaznaczano, mają \"charakter prewencyjny i służą wyjaśnieniu wszystkich okoliczności zdarzenia\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co najmniej 1.500 żołnierzy z Wielkiej Brytanii, Francji i Niemiec przyjedzie w listopadzie do Polski na manewry, podczas których przejdą szkolenie dotyczące wysłania europejskiego kontyngentu na Ukrainę po ewentualnym zawarciu rozejmu w wojnie obronnej tego kraju z Rosją – poinformował brytyjski dziennik „The Times”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według 72,5 proc. Polaków ewentualna obowiązkowa służba lub szkolenie wojskowe powinny obejmować również kobiety - wynika z opublikowanego w niedzielę sondażu United Surveys by IBRiS dla Wirtualnej Polski."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY----------------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Setki tysięcy ludzi wzięły udział w sobotę w wielotysięcznych demonstracjach we Francji pod hasłami protestu przeciwko rosnącym kosztom życia. Manifestacje zostały przyćmione przez ataki na budynki publiczne i akty grabieży, do których doszło w większych miastach, w tym w Paryżu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powiedział w sobotę, że jego decyzja w sprawie odstąpienia od nałożenia nowych sankcji na Rosję jest dobra dla kraju i świata. Zasugerował jednak, że sprawa nie jest jeszcze rozstrzygnięta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchylenie przez prezydenta USA Donalda Trumpa stosowania niektórych sankcji przeciwko Rosji jest „historycznym momentem” – napisał w sobotę na platformie X Kiriłł Dmitrijew, doradca rosyjskiego przywódcy Władimira Putina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosja zaatakowała ponad 15 ważnych obiektów ukraińskiej energetyki, używając ponad 320 odrzutowych dronów Shahed, a także pocisków manewrujących i balistycznych – poinformował w sobotę prezydent Ukrainy Wołodymyr Zełenski. Zełenski ocenił, że USA będą kontynuować znoszenie sankcji wobec Rosji, co nie powstrzyma przywódcy Rosji Władimira Putina, i wyraził nadzieję, że prezydent USA Donald Trump doprowadzi do zaprzestania rosyjskich ataków na ludność i ukraińską energetykę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba cywilnych ofiar wojny na Ukrainie utrzymuje się na jednym z najwyższych poziomów od lat – alarmuje ONZ. We wrześniu w rosyjskich atakach zginęło co najmniej 328 cywilów, a 2105 zostało rannych. W październiku nasilają się ostrzały infrastruktury energetycznej przed nadejściem zimy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sekretarz stanu USA Marco Rubio zaprzeczył w sobotę, by administracja Donalda Trumpa odpowiadała za spowolnienie łączności satelitarnej używanej przez ukraińskie wojsko. Stwierdził też - wbrew dotychczasowym informacjom - że Ukraina nie ma obecnie dostępu do wojskowej wersji systemu, Starshield."
+        },
+        {
+          "type": "paragraph",
+          "text": "W pobliżu siedziby premiera Albanii Ediego Ramy w Tiranie doszło w sobotę, piątego dnia antyrządowych protestów, do starć policji z demonstrantami; służby użyły gumowych kul - podała agencja Reutera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kilkadziesiąt tysięcy osób wzięło w sobotę udział w największych miastach Portugalii w protestach przeciwko rosnącym kosztom życia, w szczególności wysokim cenom wynajmu mieszkań. Największy protest odbył się po południu w centrum Lizbony z inicjatywy największej centrali związkowej kraju CGTP. W wydarzeniu uczestniczyło kilkadziesiąt tysięcy osób."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ruch Ano premiera Andreja Babisza według wstępnych wyników nie uzyskał w zakończonych w sobotę częściowych wyborach do Senatu żadnego mandatu. Pierwsze wyniki potwierdziły, że w izbie wyższej większość ma opozycja. Wybory pokazały wzrost znaczenia opozycyjnego ugrupowania Burmistrzowie i Niezależni (STAN)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Władze Litwy poinformowały w niedzielę o wydaniu czerwonego alertu dla dwóch północnych regionów kraju z powodu niezidentyfikowanego obiektu w przestrzeni powietrznej. Na Łotwie wydano żółty alert dla dwóch regionów. Alarmy zostały już odwołane. Na Litwie znaleziono prawdopodobnie szczątki drona."
+        },
+        {
+          "type": "paragraph",
+          "text": "W nocy z soboty na niedzielę na Litwie podjęto próbę podpalenia firmy przechowującej sprzęt łączności satelitarnej Starlink – poinformował na Facebooku premier kraju Mindaugas Sinkeviczius; incydent ocenił jako element rosyjskiej wojny hybrydowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Ukrainy Wołodymyr Zełenski powiedział w wywiadzie dla telewizji NBC, że za zakłóceniami w działaniu systemu satelitarnego Starlink i Starshield na Ukrainie stoi amerykańska administracja. Przestrzegł też, że jeśli USA wezmą stronę Rosji, będzie to historyczny błąd."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w niedzielę, że prowadzi rozmowy z wysłannikami prezydenta USA Donalda Trumpa w sprawie organizacji nowego spotkania pokojowego. W wywiadzie dla Bloomberg News, którego cytuje Reuters, przekazał, że mogłoby do niego dojść już w nadchodzącym tygodniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister energii USA Chris Wright powiedział w niedzielę, że Rosja nie ma wystarczająco dużo oleju napędowego, by móc go eksportować, a porozumienie o imporcie paliwa jest w istocie formą presji, by „stonowała” swoją wojnę."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "18.10.2026 20:02",
+      "content_sha256": "ddd3efaa2f669840431d86e6ce411b6ae92adc6b13626e2f8fa69a231162d351",
+      "saved_at": "2026-10-18T18:08:20+00:00",
+      "content_checked_at": "2026-10-18T18:08:20+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "przemysl"
+      ],
+      "companies": [
+        "PZU"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: NBP",
+          "Temat: walut",
+          "Temat: gospodark"
+        ],
+        "finanse": [
+          "Firma: PZU",
+          "Temat: fundusz"
+        ],
+        "energia": [
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: gazow"
+        ],
+        "przemysl": [
+          "Temat: infrastruktur",
+          "Temat: obronn",
+          "Temat: kolej"
+        ]
+      },
+      "published_time": "20:02",
+      "published_at": "2026-10-18T20:02+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Prezydent USA Donald Trump poinformował o uchyleniu stosowania niektórych sankcji i ceł wobec Rosji wynikających z tzw. ustawy Lindseya Grahama, którą podpisał we wrześniu.",
+          "Prezydent Ukrainy Wołodymyr Zełenski zwrócił się do Polski, Węgier, Słowacji i Rumunii z prośbą o umożliwienie Ukrainie przewozu zboża do krajów zachodnich przez ich terytoria - ujawnił w sobotę w rozmowie z telewizją RTL węgierski premier Peter Magyar.",
+          "Według 72,5 proc. Polaków ewentualna obowiązkowa służba lub szkolenie wojskowe powinny obejmować również kobiety - wynika z opublikowanego w niedzielę sondażu United Surveys by IBRiS dla Wirtualnej Polski."
+        ],
+        "interest_score": 65,
+        "impact_score": 45,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Prezydent USA Donald Trump poinformował o uchyleniu stosowania niektórych sankcji i ceł wobec Rosji wynikających z tzw. ustawy Lindseya Grahama, którą podpisał we wrześniu."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Prezydent USA Donald Trump poinformował o uchyleniu stosowania niektórych sankcji i ceł wobec Rosji wynikających z tzw. ustawy Lindseya Grahama, którą podpisał we wrześniu."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ddd3efaa2f669840431d86e6ce411b6ae92adc6b13626e2f8fa69a231162d351"
+      }
+    },
+    {
+      "id": "233ba862d79b9d74",
+      "title": "Impuls i korekta - 18 października 2026",
+      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-18-pazdziernika-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-18T18:08:20+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Tomasz Krynicki",
+      "published_display": "18.10.2026 17:31",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-10-18",
+      "saved_at": "2026-10-18T18:08:20+00:00",
+      "content_checked_at": "2026-10-18T18:08:20+00:00",
+      "published_time": "17:31",
+      "published_at": "2026-10-18T17:31+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
     {
       "id": "f746a8264caaa20c",
       "title": "Podsumowanie tygodnia - załamanie na giełdzie w Korei",
@@ -130,6 +594,162 @@
         "watch_companies": [],
         "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
         "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
+    {
+      "id": "e4cff27eb32fe1df",
+      "title": "Kryzys mediów, biznes turystyczny i wycena WP na giełdzie - Jacek Świderski | Procent Składany",
+      "url": "https://strefainwestorow.pl/podcast/procent-skladany/jacek-swiderski-wp",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-18T18:08:20+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Czy media w Polsce są w kryzysie, skoro tylu ludzi chce w nie inwestować? Gościem najnowszego odcinka podcastu jest Jacek Świderski, prezes, główny akcjonariusz i współzałożyciel WP Holding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rozmawiamy o tym, dlaczego media społecznościowe są dla wydawców i dla nas wszystkich większym zagrożeniem niż Big Techy, skąd biorą się sukcesy projektów takich jak Kanał Zero i jak AI wyrównuje szanse między lokalnymi graczami a globalnymi platformami. Prezes opowiada o WPartnerze, czyli sposobie WP na omijanie Google’a w reklamie, o strategii na YouTube i o tym, dlaczego Wirtualna Polska nie planuje płatnych treści."
+        },
+        {
+          "type": "paragraph",
+          "text": "W drugiej części schodzimy na turystykę i giełdę: przejęcie Invii i zaskakująco dobry rynek niemiecki, wpływ konfliktu na Bliskim Wschodzie na branżę, agenci AI w sprzedaży wycieczek, a także skup akcji, oferty funduszy private equity i dyskonto holdingowe. Na koniec Świderski tłumaczy, po co WP łączy media i travel w jednej grupie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W co inwestować po 4 latach hossy? - Sebastian Buczek | Procent Składany"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapraszamy do wysłuchania najnowszego odcinka podcastu Procent Składany ."
+        },
+        {
+          "type": "heading",
+          "text": "O czym usłyszysz w podcaście:"
+        },
+        {
+          "type": "paragraph",
+          "text": "03:27 Czy media są w kryzysie?"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:06 Fenomen Kanału Zero i nowych projektów medialnych"
+        },
+        {
+          "type": "paragraph",
+          "text": "15:05 WPartner i ekspansja reklamowa do CEE i DACH"
+        },
+        {
+          "type": "paragraph",
+          "text": "21:39 Strategia na YouTube: Didaskalia, Biznes Klasa, Horyzonty"
+        },
+        {
+          "type": "paragraph",
+          "text": "27:09 Dlaczego WP nie stawia paywalla"
+        },
+        {
+          "type": "paragraph",
+          "text": "30:05 M&A Invia: czy WP przeszarżowało?"
+        },
+        {
+          "type": "paragraph",
+          "text": "41:22 Dlaczego WP nie kupuje mediów za granicą?"
+        },
+        {
+          "type": "paragraph",
+          "text": "45:53 Wstrzymanie przejęć, skup akcji i oferty funduszy PE"
+        },
+        {
+          "type": "paragraph",
+          "text": "52:42 Po co łączyć media i turystykę w jednej grupie"
+        },
+        {
+          "type": "heading",
+          "text": "Pobierz podcast:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast Procent Składany (kliknij prawym klawiszem myszy i wybierz \"Zapisz element docelowy jako\")"
+        },
+        {
+          "type": "paragraph",
+          "text": "Słuchaj podcastu w iTunes: Podcast Procent Składany w iTunes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Słuchaj podcastu na Spotify: Słuchaj podcastu na Spotify"
+        },
+        {
+          "type": "heading",
+          "text": "Jacek Świderski CEO WP Holding"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jacek Świderski to współzałożyciel i prezes zarządu Wirtualnej Polski Holding. Karierę zaczął jeszcze w czasie studiów. W 1999 roku wspólnie z Michałem Brańskim i Krzysztofem Sierotą stworzył darmową pocztę go2.pl, która wyróżniała się na tle konkurencji pojemnością skrzynki. Z czasem zmieniono nazwę usługi, a rok później wystartował portal o2.pl. W zarządzie odpowiadał za kwestie operacyjne i finansowe, a od połączenia o2 z Wirtualną Polską jest prezesem spółki. Portal o2 konkurował z WP do 2014 roku, a funkcję prezesa Wirtualna Polska Holding pełni od 10 lutego 2014 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska giełda się zmienia. Co dziś napędza hossę? – Krisztina Bende | Procent Składany"
+        },
+        {
+          "type": "paragraph",
+          "text": "----"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in. nie opierają się na żadnej metodzie wyceny walorów oraz nie określają ryzyka inwestycyjnego, nie zawierają bezpośrednich zaleceń podjęcia określonych działań inwestycyjnych, przez co nie mogą być traktowane jako doradztwo finansowe, prawne, podatkowe czy też jakiekolwiek inne doradztwo inwestycyjne w rozumieniu art.76 ustawy z dnia 29 lipca 2005r. o obrocie instrumentami finansowymi. Zgodnie z powyższym autorzy nie ponoszą jakiejkolwiek odpowiedzialności za decyzje inwestycyjne podejmowane na podstawie treści zawartych w artykule albowiem nie jest intencją Usługodawcy dokonywanie bezpośrednich porad inwestycyjnych."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "17.10.2026 18:00",
+      "content_sha256": "09dd70d7b8fc146dad8e97e75a01c12c792e5ec889ebbaa2461191dbb2f72fdb",
+      "date": "2026-10-17",
+      "saved_at": "2026-10-18T18:08:20+00:00",
+      "content_checked_at": "2026-10-18T18:08:20+00:00",
+      "published_time": "18:00",
+      "published_at": "2026-10-17T18:00+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Czy media w Polsce są w kryzysie, skoro tylu ludzi chce w nie inwestować?",
+          "Gościem najnowszego odcinka podcastu jest Jacek Świderski, prezes, główny akcjonariusz i współzałożyciel WP Holding.",
+          "Jacek Świderski to współzałożyciel i prezes zarządu Wirtualnej Polski Holding."
+        ],
+        "interest_score": 73,
+        "impact_score": 78,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Prezes opowiada o WPartnerze, czyli sposobie WP na omijanie Google’a w reklamie, o strategii na YouTube i o tym, dlaczego Wirtualna Polska nie planuje płatnych treści."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "W drugiej części schodzimy na turystykę i giełdę: przejęcie Invii i zaskakująco dobry rynek niemiecki, wpływ konfliktu na Bliskim Wschodzie na branżę, agenci AI w sprzedaży wycieczek, a także skup akcji, oferty funduszy private equity i dyskonto holdingowe."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "W drugiej części schodzimy na turystykę i giełdę: przejęcie Invii i zaskakująco dobry rynek niemiecki, wpływ konfliktu na Bliskim Wschodzie na branżę, agenci AI w sprzedaży wycieczek, a także skup akcji, oferty funduszy private equity i dyskonto holdingowe."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "09dd70d7b8fc146dad8e97e75a01c12c792e5ec889ebbaa2461191dbb2f72fdb"
       }
     },
     {
@@ -875,7 +1495,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-18T14:54:15+00:00",
+      "discovered_at": "2026-10-18T18:08:20+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1278,7 +1898,7 @@
       "published_display": "16.10.2026 21:06",
       "content_sha256": "41dd5edf54528d0f9e46f6da7848d552c3c95078243eecd8206a5077364b75e6",
       "saved_at": "2026-10-16T22:08:04+00:00",
-      "content_checked_at": "2026-10-18T14:54:15+00:00",
+      "content_checked_at": "2026-10-18T18:08:20+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3993,7 +4613,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-18T14:54:15+00:00",
+      "discovered_at": "2026-10-18T18:08:20+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -4336,7 +4956,7 @@
       "published_display": "16.10.2026 17:01",
       "content_sha256": "6610b6810e090385bce6102c9c9cc35321008e26271865b30a4a6a5df03f24db",
       "saved_at": "2026-10-16T18:51:15+00:00",
-      "content_checked_at": "2026-10-18T14:54:15+00:00",
+      "content_checked_at": "2026-10-18T18:08:20+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -235809,7 +236429,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235918,7 +236538,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235936,7 +236556,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235954,7 +236574,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235972,7 +236592,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -235990,7 +236610,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236008,7 +236628,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236026,7 +236646,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236044,7 +236664,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236062,7 +236682,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236082,7 +236702,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236102,7 +236722,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236120,7 +236740,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236138,7 +236758,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236156,7 +236776,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236174,7 +236794,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236192,7 +236812,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236212,7 +236832,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236230,7 +236850,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236248,7 +236868,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236266,7 +236886,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236284,7 +236904,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236304,7 +236924,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236322,7 +236942,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236340,7 +236960,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236358,7 +236978,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236378,7 +236998,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236396,7 +237016,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236414,7 +237034,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236432,7 +237052,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236452,7 +237072,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236470,7 +237090,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236488,7 +237108,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236506,7 +237126,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236524,7 +237144,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236544,7 +237164,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236562,7 +237182,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236580,7 +237200,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236598,7 +237218,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236619,7 +237239,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236637,7 +237257,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236655,7 +237275,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236676,7 +237296,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236694,7 +237314,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 27,
+      "attempts": 28,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -236712,7 +237332,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236730,7 +237350,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236748,7 +237368,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236766,7 +237386,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236784,7 +237404,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236802,7 +237422,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236822,7 +237442,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236840,7 +237460,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236860,7 +237480,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236878,7 +237498,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236896,7 +237516,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236914,7 +237534,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236934,7 +237554,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236952,7 +237572,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236970,7 +237590,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -236988,7 +237608,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237008,7 +237628,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237026,7 +237646,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237044,7 +237664,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237062,7 +237682,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237080,7 +237700,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237100,7 +237720,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237118,7 +237738,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237136,7 +237756,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237154,7 +237774,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -237172,7 +237792,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -237190,7 +237810,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -237208,7 +237828,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -237226,7 +237846,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -237244,11 +237864,19 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 28,
+      "attempts": 29,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
       "error": "ValueError"
@@ -237535,26 +238163,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
       "error": "ValueError"
     }
   ],
