@@ -1,8 +1,178 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-20T19:38:25+00:00",
+  "last_checked": "2026-10-20T22:43:15+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "9659bc662715882f",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street przewaga wzrostów, Dow Jones w górę 500 pkt.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/dzien-na-rynkach-na-wall-street-przewaga-wzrostow-dow-jones-w-gore-500-pkt",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: ropy"
+        ],
+        "technologie": [
+          "Temat: sztuczn* inteligenc"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T22:43:15+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów, a Dow Jones zyskał ponad 500 punktów. Porcja pozytywnych wyników amerykańskich spółek oraz spadek cen ropy naftowej przesłoniły obawy związane z ostatnią słabością akcji firm powiązanych z sektorem sztucznej inteligencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu wzrósł o 1,02 proc. i wyniósł 52.495,88 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia wzrósł o 0,28 proc. i wyniósł 7.712,57 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 0,02 proc. do 26.424,817 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 rośnie o 1,75 proc. i wynosi 2.776,21 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje 3M zyskały 5,9 proc. po tym, jak ten konglomerat przemysłowy poinformował o rozszerzeniu współpracy handlowej z Amazonem. W ramach porozumienia 3M przyznało spółce zależnej Amazona prawo do zakupu akcji zwykłych 3M o wartości ponad 521 mln USD. We wtorek firma przedstawiła też lepsze od oczekiwań wyniki i podniosła swoje całoroczne prognozy zysku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po wynikach zwyżkował też kurs Halliburton. Dostawca usług dla sektora naftowego wykazał zysk kwartalny przewyższający prognozy analityków z Wall Street. Kurs wzrósł blisko 1,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ostatnim czasie na rynku dały się odczuć obawy dotyczące trwałości hossy związanej ze sztuczną inteligencją w kontekście problemów z zadłużeniem i popytem. Nastroje na rynku technologicznym uległy też pogorszeniu po tym, jak kurs akcji koreańskiej firmy Elice, zajmującej się infrastrukturą centrów danych, spadł o ponad 30 proc. podczas debiutu giełdowego w Seulu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Od kilku dni narastają obawy dotyczące inwestycji w centra danych i infrastrukturę na potrzeby sztucznej inteligencji. Rynek prawdopodobnie potrzebuje pewnego zapewnienia, że te ogromne nakłady inwestycyjne przynoszą zwrot. Na razie trudno to dostrzec\" - powiedział analityk Roger Lee z Cavendish."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podczas wtorkowych notowań akcje spółek związanych z AI odnotowały spadki. Kurs Advanced Micro Devices spadł 0,6 proc. Akcje Micron Technology straciły z kolei ok. 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania CoreWeave zwyżkowały ok. 1,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek po zamknięciu sesji kwartalne raporty przedstawią m.in. SpaceX i Netflix. W środę po zamknięciu rynku swoje dane za trzeci kwartał przedstawią Tesla i Meta, a także IBM, Lam Research i Texas Instruments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania General Motors poszły w dół we wtorek 6,8 proc., mimo że koncern osiągnął lepsze od oczekiwań wyniki za trzeci kwartał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Słabsze od oczekiwań okazały się wyniki Steel Dynamics. Kurs stracił 0,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek ceny ropy naftowej spadały. Inwestorzy mieli nadzieję na postępy w rozmowach dyplomatycznych między Stanami Zjednoczonymi a Iranem, mimo że w ostatnim czasie nasiliły się ataki na tankowce oraz uderzenia wymierzone w Arabię Saudyjską."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na listopad zniżkują o 2,48 proc. do 101,09 USD za baryłkę, a grudniowe futures na Brent spadają o 0,25 proc. do 109,28 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 22:13",
+      "content_sha256": "a3ce5aa4ff8847357f79f0fda94072fd4f45f284c9ed64946025885c67770130",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T22:43:15+00:00",
+      "content_checked_at": "2026-10-20T22:43:15+00:00",
+      "published_time": "22:13",
+      "published_at": "2026-10-20T22:13+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów, a Dow Jones zyskał ponad 500 punktów.",
+          "Dow Jones Industrial na zamknięciu wzrósł o 1,02 proc. i wyniósł 52.495,88 pkt.",
+          "Dostawca usług dla sektora naftowego wykazał zysk kwartalny przewyższający prognozy analityków z Wall Street."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów, a Dow Jones zyskał ponad 500 punktów."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "sztuczn* inteligenc*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "a3ce5aa4ff8847357f79f0fda94072fd4f45f284c9ed64946025885c67770130"
+      }
+    },
     {
       "id": "1d162ee52985a6dd",
       "title": "Skrót wiadomości - wtorek, 20 października, 21.00",
@@ -12,7 +182,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-20T19:38:25+00:00",
+      "discovered_at": "2026-10-20T22:43:15+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -475,7 +645,7 @@
       "published_display": "20.10.2026 21:06",
       "content_sha256": "aaf8732bf40b15b4237213526500e15bd4b4e72ebc53f822278af840c3bcb6ba",
       "saved_at": "2026-10-20T19:38:25+00:00",
-      "content_checked_at": "2026-10-20T19:38:25+00:00",
+      "content_checked_at": "2026-10-20T22:43:15+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -1925,7 +2095,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-20T19:38:25+00:00",
+      "discovered_at": "2026-10-20T22:43:15+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2352,7 +2522,7 @@
       "published_display": "20.10.2026 17:06",
       "content_sha256": "b7837aa20a5cd2e69305e4a254f87f10fbeca5a7fc0de84a4632485677724add",
       "saved_at": "2026-10-20T15:25:08+00:00",
-      "content_checked_at": "2026-10-20T19:38:25+00:00",
+      "content_checked_at": "2026-10-20T22:43:15+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -262193,7 +262363,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262211,7 +262381,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262230,7 +262400,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262248,7 +262418,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262266,7 +262436,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262284,7 +262454,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262302,7 +262472,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262320,7 +262490,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262338,7 +262508,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262356,7 +262526,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262374,7 +262544,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262392,7 +262562,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262410,7 +262580,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262428,7 +262598,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262446,7 +262616,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262466,7 +262636,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262486,7 +262656,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262504,7 +262674,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262522,7 +262692,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262540,7 +262710,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262558,7 +262728,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262576,7 +262746,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262596,7 +262766,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262614,7 +262784,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262632,7 +262802,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262650,7 +262820,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262668,7 +262838,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262688,7 +262858,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262706,7 +262876,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262724,7 +262894,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262742,7 +262912,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262762,7 +262932,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262780,7 +262950,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262798,7 +262968,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262816,7 +262986,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262836,7 +263006,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262854,7 +263024,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262872,7 +263042,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262890,7 +263060,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262908,7 +263078,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262928,7 +263098,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262946,7 +263116,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262964,7 +263134,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262982,7 +263152,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263003,7 +263173,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263021,7 +263191,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263039,7 +263209,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263060,7 +263230,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263078,7 +263248,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263096,7 +263266,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263114,7 +263284,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263168,7 +263338,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263186,7 +263356,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263206,7 +263376,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263224,7 +263394,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263244,7 +263414,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263262,7 +263432,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263280,7 +263450,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263298,7 +263468,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263318,7 +263488,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263336,7 +263506,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263354,7 +263524,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263372,7 +263542,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263392,7 +263562,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263410,7 +263580,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263428,7 +263598,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263446,7 +263616,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263464,7 +263634,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263484,7 +263654,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263502,7 +263672,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263520,7 +263690,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263538,7 +263708,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 38,
+      "attempts": 39,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263556,7 +263726,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -263574,7 +263744,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -263592,7 +263762,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -263610,7 +263780,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -263628,11 +263798,63 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 39,
+      "attempts": 40,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
       "error": "ValueError"
@@ -263887,14 +264109,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
       "error": "ValueError"
     }
   ],
