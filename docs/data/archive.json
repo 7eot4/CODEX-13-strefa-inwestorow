@@ -1,8 +1,1088 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-20T00:45:42+00:00",
+  "last_checked": "2026-10-20T05:23:30+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "813396178218091d",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-20",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-20",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-20 - 2026-10-26"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 20 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:30 - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Briefing prasowy, podczas którego zaprezentowane będą statystyki regionalne z poszczególnych województw i sektorów gospodarki, które pozostają największymi beneficjentami instrumentów gwarancyjnych BGK."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - Deloitte; ZPPP Browary Polskie - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Briefing prasowy dot. prezentacji raportu Deloitte \"System kaucyjny 2026 – rok po starcie\"."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - RynekPierwotny.pl - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online portalu RynekPierwotny.pl \"Czy to dobry moment na zakup mieszkania?\"."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - SGE - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Briefing prasowy SGE połączony z uroczystym podpisaniem umów dotyczących małych reaktorów modułowych BWRX-300. W wydarzeniu wezmą udział m.in. Stephen Lecce, minister energii i górnictwa kanadyjskiej prowincji Ontario, a także przedstawiciele Ontario Power Generation (OPG) oraz GE Vernova Hitachi Nuclear Energy."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - Federacja Przedsiębiorców Polskich - V Kongres Federacji Przedsiębiorców Polskich (FPP) \"Dialog o gospodarce 2026\"."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 23 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - Bankier.pl - We Wrocławiu odbędzie się trzecia edycja Forum Finansów Bankier.pl. Dzień 1. PAP Biznes jest patronem medialnym wydarzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:30 - PZFD - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kongres Deweloperski 2026 \"Ekosystem zmian. Geopolityka | Ekonomia | Społeczeństwo\""
+        },
+        {
+          "type": "heading",
+          "text": "SOBOTA, 24 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - Bankier.pl - We Wrocławiu odbędzie się trzecia edycja Forum Finansów Bankier.pl. Dzień 2. PAP Biznes jest patronem medialnym wydarzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 07:01",
+      "content_sha256": "70d2da09647d296356cd7d4350a1fa92766f701f3605e2e8c0ac63ad84d61dd8",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-20T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Briefing prasowy dot. prezentacji raportu Deloitte \"System kaucyjny 2026 – rok po starcie\".",
+          "Briefing prasowy SGE połączony z uroczystym podpisaniem umów dotyczących małych reaktorów modułowych BWRX-300.",
+          "10:00 - Federacja Przedsiębiorców Polskich - V Kongres Federacji Przedsiębiorców Polskich (FPP) \"Dialog o gospodarce 2026\"."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "70d2da09647d296356cd7d4350a1fa92766f701f3605e2e8c0ac63ad84d61dd8"
+      }
+    },
+    {
+      "id": "d4b1a3c7a07f66a7",
+      "title": "Kalendarium rynku NewConnect 2026-10-20",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/kalendarium-rynku-newconnect-2026-10-20",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-10-20 - 2026-10-26"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 20 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "13:00 - UNIVERSE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. upoważnienia zarządu do podwyższenia kapitału zakł., zmian w RN."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - TECHROBOT - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. emisji akcji serii H, zmian w radzie nadzorczej, przyjęcia polityki wynagrodzeń członków zarządu i RN."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - FARMINN - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji zwykłych na okaziciela serii D, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 23 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - 7LEVELS - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "C.d. obrad NWZ z 9.10.2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 26 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - PGH - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. emisji akcji w trybie subskrypcji prywatnej, emisji warrantów subskrypcyjnych, wynagrodzenia członków RN."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 07:01",
+      "content_sha256": "3d0db58ff2ebd0bca668acbaa67c7a92c624f9f57181a766ab847af8794cc26f",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-20T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie m.in. upoważnienia zarządu do podwyższenia kapitału zakł., zmian w RN.",
+          "W sprawie m.in. emisji akcji serii H, zmian w radzie nadzorczej, przyjęcia polityki wynagrodzeń członków zarządu i RN.",
+          "W sprawie emisji akcji zwykłych na okaziciela serii D, zmian w radzie nadzorczej."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3d0db58ff2ebd0bca668acbaa67c7a92c624f9f57181a766ab847af8794cc26f"
+      }
+    },
+    {
+      "id": "dd78a179ae41faf9",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-10-20",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/kalendarium-rynku-kapitalowego-gpw-2026-10-20",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Alior"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-10-20 - 2026-10-26"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 20 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ALIOR - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie rady nadzorczej, zmiany zasad kształtowania wynagrodzeń członków zarządu i RN."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - GRODNO - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - MOSTALWAR - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "C.d. obrad NWZ z 6.10.2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "- ATREM - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzecia transza wypłaty. Łączna dywidenda w wysokości 2,16 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - PCCEXOL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. zgody na ustanowienie ograniczonych praw rzeczowych na zorganizowanych częściach przedsiębiorstwa."
+        },
+        {
+          "type": "paragraph",
+          "text": "- VOTUM - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 2,50 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ERG - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W srawie zamknięcia programu skupu akcji własnych (uchw. nr 5 WZ z 20.03.2020 r.), zgody na nabycie akcji własnych do dalszej odsprzedaży lub umorzenia."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 23 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - TORPOL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie rady nadzorczej, przyjęcia polityki równowagi płci, zmian w statucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - KPPD - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zgody na nabycie prawa własności niezabudowanej działki."
+        },
+        {
+          "type": "paragraph",
+          "text": "- PJPMAKRUM - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Druga transza wypłaty dywidendy w łącznej wysokości 0,61 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 26 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- JWWINVEST - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,12 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 07:01",
+      "content_sha256": "90ebf0137aca8b58f47889870610ebda962ae79e9a4b35899e215058a5104bf8",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-20T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Łączna dywidenda w wysokości 2,16 PLN na akcję.",
+          "Zaliczka na poczet dywidendy w wysokości 2,50 PLN na akcję.",
+          "Druga transza wypłaty dywidendy w łącznej wysokości 0,61 PLN na akcję."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "90ebf0137aca8b58f47889870610ebda962ae79e9a4b35899e215058a5104bf8"
+      }
+    },
+    {
+      "id": "7fb2aba408ec1654",
+      "title": "DEBATA: Obligacje wracają do gry, większość negatywnych czynników jest już w cenach",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/debata-obligacje-wracaja-do-gry-wiekszosc-negatywnych-czynnikow-jest-juz-w",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie"
+      ],
+      "companies": [
+        "Pekao",
+        "Skarbiec"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ],
+        "technologie": [
+          "Temat: gry"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W obliczu gwałtownych wzrostów rentowności i zwiększonej zmienności na globalnych rynkach uczestnicy debaty poświęconej perspektywom rynku długu oceniają, że otoczenie pozostaje wymagające, ale obecne poziomy rentowności zaczynają tworzyć atrakcyjny punkt wejścia dla inwestorów długoterminowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie uczestników debaty podczas zorganizowanego przez DI Xelion Warsaw Investment Summit, za wzrostem rentowności stała kombinacja czynników geopolitycznych, inflacyjnych, fiskalnych oraz zmian w polityce banków centralnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Trzeba patrzeć na inwestycję na rynku długu w odpowiednim horyzoncie i nie koncentrować się na krótkoterminowych zmianach wycen” - ocenia Anna Bąkała, członek zarządu TFI Allianz Polska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bogusław Stefaniak, dyrektor biura zarządzania funduszami dłużnymi, zarządzający funduszam Ipopema TFI zwracał uwagę, że rynek długu funkcjonuje dziś w zupełnie innych realiach niż jeszcze kilkanaście lat temu. Przypominał, że dawniej inwestorzy często koncentrowali się na samym kuponie odsetkowym, nie analizując codziennych zmian cen obligacji. W jego ocenie współczesny rynek jest znacznie bardziej podatny na zmienność wynikającą z nieprzewidywalności globalnych wydarzeń."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Jak pieniądze lubią ciszę, tak obligacje lubią przewidywalność. Jeżeli jesteśmy w stanie zaprogramować, co będzie się działo z gospodarką, inflacją czy wzrostem gospodarczym, to mamy dużo niższą zmienność. Dzisiaj mamy jednak wojny, napięcia geopolityczne i ogromną niepewność, a to wszystko przekłada się na wyższą premię za ryzyko” - powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odpowiadając na pytania dotyczące atrakcyjności różnych segmentów rynku, zarządzający funduszami Ipopema TFI zwracał uwagę, że fundusze obligacyjne poradziły sobie w minionym roku zaskakująco dobrze mimo wyjątkowo trudnego środowiska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazywał, w przypadku funduszy o duration przekraczającym sześć lat możliwe było osiąganie wyników lepszych niż przy prostym utrzymywaniu obligacji skarbowych o podobnej charakterystyce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Radosław Cholewiński, członek zarządu Skarbiec TFI, mówiąc o źródłach tegorocznych problemów rynku długu, zwracał uwagę, że inwestorzy mieli do czynienia z trzema jednoczesnymi negatywnymi czynnikami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po pierwsze wskazał na gwałtownie rosnące wydatki inwestycyjne związane ze sztuczną inteligencją. Jak argumentował, największe firmy technologiczne na świecie zwiększają nakłady szybciej, niż rynek jeszcze niedawno zakładał, co prowadzi do rosnącej konkurencji o kapitał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem Cholewińskiego jeszcze dekadę temu ekonomiści debatowali nad przyczynami wyjątkowo niskich stóp procentowych i niedostatecznego popytu na kapitał inwestycyjny. Dziś sytuacja wygląda odwrotnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Największe podmioty na świecie inwestują i to bardzo dużo” - powiedział, wskazując, że skala tych inwestycji jest regularnie rewidowana w górę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drugim czynnikiem pozostaje inflacja. Zarządzający przypominał, że konflikt na Bliskim Wschodzie doprowadził do wzrostu cen ropy i podbił oczekiwania inflacyjne. Jednocześnie zauważył, że ceny ropy przestały ustanawiać nowe szczyty, co może oznaczać stopniowe wygasanie tego źródła presji inflacyjnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzecim elementem była zmiana sposobu komunikacji amerykańskiej Rezerwy Federalnej. Cholewiński mówił, że przez wiele lat Fed stosował politykę forward guidance, sygnalizując przyszłą ścieżkę stóp procentowych, co zwiększało przewidywalność rynku. Obecnie inwestorzy mają do czynienia z większą niepewnością."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Dużo negatywnych rzeczy dla rynku długu zostało już wycenione. Wszystkie te negatywne czynniki już się wydarzyły historycznie i rynek w bardzo szybkim tempie je wycenił. Dlatego jestem w stanie postawić hipotezę, że w perspektywie kilku najbliższych miesięcy możemy obserwować stabilizację, a nawet sytuację, w której rynek zacznie odwracać wcześniejszy trend” - powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Nikt z nas nie lubi nieprzewidywalności, nikt z nas nie lubi być zaskakiwany. Ta nieprzewidywalność ma swoją cenę, a tą ceną jest premia za ryzyko i wyższa rentowność obligacji” - dodał członek zarządu Skarbiec TFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anna Bąkała z TFI Allianz Polska zwracała natomiast uwagę, że rynek finansowy może obecnie przeceniać znaczenie samych banków centralnych. Jej zdaniem coraz większego znaczenia nabiera polityka fiskalna i skala zadłużenia państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Wydaje mi się, że na rynku finansowym przeceniamy działania banków centralnych. Teraz znacznie większy wpływ na ceny obligacji ma polityka fiskalna, czyli to, co robią rządy. Ogromne zadłużenie powoduje, że inwestorzy bardzo mocno śledzą, czy chcą jeszcze pożyczyć kapitał danemu emitentowi i na jakich warunkach. Coraz ważniejsze jest nie to, jakie jest dzisiaj zadłużenie, ale przede wszystkim ścieżka wyjścia z tych ogromnych zadłużeń\" - powiedziała."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskazywała, że inwestorzy coraz dokładniej analizują zdolność państw do obsługi długu i ich długoterminowe plany redukcji deficytów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jako przykład podała Francję, której rentowności obligacji znajdują się wyraźnie powyżej niemieckich bundów i przewyższają nawet rentowności niektórych polskich emisji w euro. W jej ocenie świadczy to o rosnącej koncentracji inwestorów na ocenie sytuacji fiskalnej poszczególnych krajów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tomasz Pawluć, dyrektor Zespołu Zarządzania Instrumentami Dłużnymi Pekao TFI ocenia, że wysoka inflacja pozostaje historycznie najprostszą metodą obniżania relacji długu publicznego do PKB. Wskazywał na przykład Grecji, Hiszpanii czy Portugalii, gdzie po okresie wysokiej inflacji wskaźniki zadłużenia zaczęły się poprawiać."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Za pomocą wysokiej inflacji dług do PKB nam drastycznie spadł” - zauważył, dodając jednocześnie, że koszt takiego rozwiązania ponoszą wszyscy uczestnicy gospodarki."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Inwestorzy oczekiwaliby jakiejś ścieżki redukcji deficytu i nam naprawdę nie potrzeba byłoby dużo. Nawet gdybyśmy zobaczyli, że za trzy lata deficyt schodzi do 5 proc., to jest zupełnie inna sytuacja niż wtedy, kiedy słyszymy, że planu w zasadzie nie ma. To właśnie ta dynamika deficytu jest dzisiaj najbardziej niepokojąca” - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Znacząca część debaty została poświęcona sytuacji polskich obligacji. Paneliści byli zgodni, że głównym źródłem presji pozostają obecnie czynniki międzynarodowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskazywano, że skoro rentowności amerykańskich obligacji skarbowych, uznawanych za najbezpieczniejsze aktywa świata, utrzymują się na wysokich poziomach, trudno oczekiwać znaczącego oderwania się polskiego rynku od globalnych trendów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bogusław Stefaniak z Ipopema TFI podkreślał, że wojna za wschodnią granicą Polski dodatkowo zwiększa wymaganą przez inwestorów premię za ryzyko. Jednocześnie oceniał, że przy rentownościach dziesięcioletnich obligacji przekraczających 6 proc. bardzo wiele negatywnych scenariuszy zostało już uwzględnionych w cenach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tomasz Pawluć zwracał uwagę na wpływ sytuacji fiskalnej Polski. Szacował, że gdyby nasz kraj miał parametry fiskalne zbliżone do Czech, rentowności mogłyby być nawet o około 100 punktów bazowych niższe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paneliści skupili się też na perspektywach rynku długu. Radosław Cholewiński ocenił, że w horyzoncie kilku najbliższych miesięcy większość negatywnych czynników została już uwzględniona w wycenach obligacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zwracał uwagę, że wzrost cen ropy wyhamował, zmiany w polityce Fed są już znane rynkom, a inwestycje związane ze sztuczną inteligencją stały się elementem bazowego scenariusza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uczestnicy panelu zgodzili się również, że przy obecnych poziomach rentowności obligacje mogą ponownie pełnić funkcję stabilizującą w portfelach inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anna Bąkała z TFI Allianz Polska przypominała, że w odróżnieniu od sytuacji z 2022 r., kiedy rynek startował z niemal zerowych stóp procentowych, dziś inwestorzy wchodzą na rynek przy wysokich rentownościach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jej zdaniem, obecne warunki stwarzają szansę na atrakcyjne stopy zwrotu zarówno dzięki wysokiemu bieżącemu dochodowi, jak i potencjalnym wzrostom cen obligacji w przypadku przyszłego spadku rentowności."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Dzisiaj moment wejścia do funduszy dłużnych jest idealny, gdyż mamy wysokie rentowności. Jeżeli te rentowności utrzymają się dłużej, to inwestorzy przez długi czas będą mogli korzystać z wysokiego dochodu, a kiedyś dodatkowo mogą jeszcze skorzystać na wzroście cen obligacji” - oceniła."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zastrzegła jednocześnie, że kierunek rynku w krótkim terminie pozostaje uzależniony od rozwoju sytuacji geopolitycznej, inflacyjnej i fiskalnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Oczywiście największe zyski osiągniemy wtedy, kiedy rentowności zaczną spadać. Nie wiemy, czy stanie się to za pół roku, za rok czy za dwa lata. Ale nawet gdyby utrzymywały się na podobnych poziomach, to przy dzisiejszym punkcie startowym jesteśmy w bardzo dobrej sytuacji, jeśli chodzi o inwestowanie w fundusze długu” - powiedziała."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Gorzej wydaje się, że nie będzie, bo inwestorzy dobrze wiedzą, jak wygląda sytuacja Polski. Duża część ryzyk jest już znana i uwzględniona przez rynek. Inwestorzy oczekują przede wszystkim wiarygodnej ścieżki ograniczania deficytu, a nie rewolucyjnych zmian” - dodał Tomasz Pawluć z Pekao TFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 06:41",
+      "content_sha256": "1b8f83359391b4e1933f2b62e2922365329d1a9c67825ab6a914527798615268",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "06:41",
+      "published_at": "2026-10-20T06:41+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W ocenie uczestników debaty podczas zorganizowanego przez DI Xelion Warsaw Investment Summit, za wzrostem rentowności stała kombinacja czynników geopolitycznych, inflacyjnych, fiskalnych oraz zmian w polityce banków centralnych.",
+          "Jednocześnie oceniał, że przy rentownościach dziesięcioletnich obligacji przekraczających 6 proc. bardzo wiele negatywnych scenariuszy zostało już uwzględnionych w cenach.",
+          "Radosław Cholewiński ocenił, że w horyzoncie kilku najbliższych miesięcy większość negatywnych czynników została już uwzględniona w wycenach obligacji."
+        ],
+        "interest_score": 25,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "gry"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "1b8f83359391b4e1933f2b62e2922365329d1a9c67825ab6a914527798615268"
+      }
+    },
+    {
+      "id": "c41fb42bb96b5836",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 20.10.2026 | 1D | 5D | 1M | 3M | 12M |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,78 | 4,72 | 4,76 | 4,86 | 4,20 | 4,11 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,96 | 5,87 | 5,92 | 5,93 | 4,96 | 4,82 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,34 | 6,29 | 6,34 | 6,29 | 5,57 | 5,40 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,63 | 5,57 | 5,74 | 5,67 | 5,35 | 6,39 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,58 | 5,53 | 5,73 | 5,72 | 5,35 | 6,31 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,34 | 5,31 | 5,56 | 5,68 | 5,37 | 6,78 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,24 | 4,24 | 4,25 | 4,16 | 3,96 | 3,58 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,75 | 4,68 | 4,74 | 4,63 | 4,32 | 3,93 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,34 | 5,30 | 5,37 | 5,36 | 4,88 | 4,38 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,29 | 36,24 | 36,18 | 36,74 | 37,90 | 37,17 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 35,70 | 35,58 | 35,22 | 35,70 | 35,70 | 34,33 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 32,93 | 32,91 | 32,67 | 32,49 | 31,89 | 29,82 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 3,07 | 3,04 | 3,10 | 3,17 | 2,75 | 1,94 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,26 | 3,24 | 3,31 | 3,37 | 2,90 | 2,27 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,57 | 3,55 | 3,61 | 3,62 | 3,29 | 2,82 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,52 | 3,45 | 3,49 | 3,52 | 2,99 | 2,13 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 4,01 | 3,93 | 4,01 | 3,92 | 3,36 | 2,64 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,57 | 4,49 | 4,57 | 4,43 | 3,95 | 3,38 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,21 | 3,17 | 3,26 | 3,30 | 2,77 | 1,91 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,49 | 3,46 | 3,54 | 3,52 | 3,02 | 2,29 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,94 | 3,89 | 3,97 | 3,90 | 3,49 | 2,96 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,24 | 3,21 | 3,30 | 3,33 | 2,85 | 2,00 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,56 | 3,53 | 3,60 | 3,56 | 3,06 | 2,46 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 4,07 | 4,03 | 4,10 | 4,00 | 3,59 | 3,11 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,13 | 3,11 | 3,16 | 3,28 | 2,79 | 1,91 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,25 | 3,22 | 3,27 | 3,36 | 2,86 | 2,17 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,46 | 3,43 | 3,48 | 3,52 | 3,13 | 2,58 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,66 | 3,58 | 3,66 | 3,55 | 2,95 | 2,13 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,34 | 4,22 | 4,32 | 4,02 | 3,36 | 2,66 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,94 | 4,81 | 4,90 | 4,57 | 3,93 | 3,36 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,93 | 4,88 | 4,91 | 4,84 | 4,35 | 3,88 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 5,01 | 4,96 | 5,01 | 4,91 | 4,51 | 3,97 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,43 | 5,37 | 5,44 | 5,30 | 4,95 | 4,53 | 19.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,90 | 1,90 | 1,93 | 1,86 | 1,44 | 0,95 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,31 | 2,32 | 2,35 | 2,29 | 1,92 | 1,25 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,91 | 2,91 | 3,01 | 2,99 | 2,70 | 1,67 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,76 | 4,77 | 4,79 | 4,74 | 4,21 | 3,46 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,92 | 4,94 | 5,00 | 4,86 | 4,32 | 3,57 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 5,12 | 5,14 | 5,21 | 5,00 | 4,59 | 3,98 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 06:35",
+      "content_sha256": "b2ec5faa051a36c4a5eb42b28583600e87a8e65748d949eaebcd44e44afd7c72",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "06:35",
+      "published_at": "2026-10-20T06:35+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b2ec5faa051a36c4a5eb42b28583600e87a8e65748d949eaebcd44e44afd7c72"
+      }
+    },
+    {
+      "id": "7ac79b4067b2ce05",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Kolumbii i Argentynie:"
+        },
+        {
+          "type": "paragraph",
+          "text": "***Argentyna z 16.10."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7690,73 | 0,41 | -1,49 | 0,53 | 14,19 | 12,35"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 51966,03 | -0,07 | 0,22 | 0,55 | 11,26 | 8,12"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 26430,89 | 1,11 | -2,99 | -0,35 | 14,96 | 13,72"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2728,298 | 0,25 | -2,37 | -4,62 | 9,14 | 9,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 35928,63 | -0,69 | 0,74 | 0,34 | 18,12 | 13,30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 69010,67 | 0,12 | 3,39 | 8,89 | 11,90 | 7,31"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 205079,25 | -0,17 | -1,91 | 10,72 | 41,91 | 27,28"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2521,34 | -1,75 | -1,91 | -1,05 | 32,88 | 21,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MERVAL | Argentyna | 2848945,00 | -0,35 | 0,74 | -5,72 | 44,00 | -6,64"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 06:34",
+      "content_sha256": "cbb66af95c0deddd4395d8f1683f916ae30e494e633545d9a3092718ae55e2ce",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "06:34",
+      "published_at": "2026-10-20T06:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "cbb66af95c0deddd4395d8f1683f916ae30e494e633545d9a3092718ae55e2ce"
+      }
+    },
+    {
+      "id": "90ce8ffc4a476ca2",
+      "title": "Jest przełom ws. uprawnień ETS. Przemysł zaoszczędzi miliardy, a do Polski popłyną wielkie środki",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261020/jest-przelom-ws-uprawnien-ets-przemysl-zaoszczedzi-miliardy-do-polski-poplyna",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-20T05:23:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komisja środowiska ENVI w Parlamencie Europejskim zdecydowaną większością opowiedziała się w poniedziałek za zwiększeniem liczby darmowych uprawnień ETS dla przemysłu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Za projektem rozporządzenia w sprawie darmowych uprawnień głosowało 66 europosłów, a 11 było przeciwko."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To jest krok w dobrym kierunku, ale na fanfary jest jeszcze za wcześnie\" - powiedział europoseł Adam Jarubas PSL, odpowiedzialny za ten projekt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedowane w trybie pilnym przez PE zmiany mają zwiększyć pulę darmowych uprawnień dla przemysłów energochłonnych w perspektywie do 2030 r. Skorzystają z nich sektory takie jak hutnictwo, cementownie, produkcja nawozów czy chemia. Instalacje te oszczędzą na kupowaniu pozwoleń na aukcjach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z wyjściową propozycją Komisji Europejskiej do systemu ma trafić dodatkowe 80 mln darmowych pozwoleń o wartości ok. 6 mld euro. Komisja ENVI w PE w poniedziałek przegłosowała poprawkę, która zwiększy tę pulę o dodatkowe 33 mln uprawnień. Chodzi o pozwolenia, których wcześniej przemysł nie wykorzystał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja ENVI nie zgodziła się jednak na to, by cała dodatkowa transza uprawnień trafiła bezpośrednio do przemysłu. 33 mln pozwoleń zostaną podzielone na trzy równe części, z czego tylko jedna trzecia będzie wykorzystana przez zakłady. 11 mln uprawnień trafi do Funduszu Modernizacyjnego, który wspiera inwestycje w biedniejszych krajach, a kolejne 11 mln zasili Fundusz Innowacyjny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jarubas wskazał, że jeśli przejdzie poprawka komisji ENVI, to będzie to oznaczać, że Fundusz Modernizacyjny zostanie zwiększony po raz pierwszy od 2014 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jest to bardzo dobry sygnał dla Polski, bo jesteśmy największym jego biorcą, w ok. 40 proc.\" - powiedział. Według niego mowa jest nawet o 1,5 mld zł dla polskiej gospodarki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlament Europejski przyjmie swoje stanowisko w sprawie procedowanego rozporządzenia w czwartek na posiedzeniu w Strasburgu. Potem izba przystąpi do rozmów z krajami członkowskimi w Radzie UE nad ostatecznym kształtem przepisów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Państwa chcą jednak, by cała dodatkowa pula 33 mln uprawnień trafiła do przemysłu. Jarubas, pytany o to, które rozwiązanie jest lepsze z polskiego punktu widzenia, powiedział, że oba rozwiązania są dla Polski dobre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rozporządzenie ma obowiązywać od 1 stycznia 2027 r. Będzie jednak działać z mocą wsteczną, co oznacza, że obejmie także 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obecnie 43 proc. wszystkich uprawnień do emisji CO2 w systemie ETS trafia do przemysłu za darmo, a 57 proc. jest sprzedawana na aukcjach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ze Strasburga Magdalena Cedro (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "mce/ ap/ ktl/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "20.10.2026 06:14",
+      "content_sha256": "6f4914024fd0f5dbf622c36d9d0317292a09ea67d6ee2ce4f9ee658bbcef58a5",
+      "date": "2026-10-20",
+      "saved_at": "2026-10-20T05:23:30+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
+      "published_time": "06:14",
+      "published_at": "2026-10-20T06:14+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Komisja środowiska ENVI w Parlamencie Europejskim zdecydowaną większością opowiedziała się w poniedziałek za zwiększeniem liczby darmowych uprawnień ETS dla przemysłu.",
+          "Za projektem rozporządzenia w sprawie darmowych uprawnień głosowało 66 europosłów, a 11 było przeciwko.",
+          "Obecnie 43 proc. wszystkich uprawnień do emisji CO2 w systemie ETS trafia do przemysłu za darmo, a 57 proc. jest sprzedawana na aukcjach."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6f4914024fd0f5dbf622c36d9d0317292a09ea67d6ee2ce4f9ee658bbcef58a5"
+      }
+    },
     {
       "id": "8fb4c933d7969f98",
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, inwestorzy wrócili do sektora technologicznego",
@@ -188,7 +1268,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-20T00:45:42+00:00",
+      "discovered_at": "2026-10-20T05:23:30+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -531,7 +1611,7 @@
       "published_display": "19.10.2026 21:06",
       "content_sha256": "6cbb515aacdf84a208b38f12fdf13c51050a397c9523c750aa8c6f43bb3c8863",
       "saved_at": "2026-10-19T21:47:22+00:00",
-      "content_checked_at": "2026-10-20T00:45:42+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2458,7 +3538,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-20T00:45:42+00:00",
+      "discovered_at": "2026-10-20T05:23:30+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2745,7 +3825,7 @@
       "published_display": "19.10.2026 17:01",
       "content_sha256": "3bdf86b72475706e1bb121087ec6445f096e16ea5b9382f003e8a38112320d6a",
       "saved_at": "2026-10-19T17:36:31+00:00",
-      "content_checked_at": "2026-10-20T00:45:42+00:00",
+      "content_checked_at": "2026-10-20T05:23:30+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -248542,7 +249622,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248560,7 +249640,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248579,7 +249659,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248597,7 +249677,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248615,7 +249695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248633,7 +249713,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248651,7 +249731,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248669,7 +249749,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248687,7 +249767,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248705,7 +249785,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248723,7 +249803,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248741,7 +249821,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248759,7 +249839,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248777,7 +249857,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248795,7 +249875,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248815,7 +249895,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248835,7 +249915,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248853,7 +249933,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248871,7 +249951,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248889,7 +249969,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248907,7 +249987,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248925,7 +250005,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248945,7 +250025,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248963,7 +250043,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248981,7 +250061,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -248999,7 +250079,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249017,7 +250097,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249037,7 +250117,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249055,7 +250135,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249073,7 +250153,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249091,7 +250171,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249111,7 +250191,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249129,7 +250209,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249147,7 +250227,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249165,7 +250245,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249185,7 +250265,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249203,7 +250283,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249221,7 +250301,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249239,7 +250319,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249257,7 +250337,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249277,7 +250357,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249295,7 +250375,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249313,7 +250393,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249331,7 +250411,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249352,7 +250432,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249370,7 +250450,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249388,7 +250468,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249409,7 +250489,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249427,7 +250507,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -249445,7 +250525,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249463,7 +250543,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249481,7 +250561,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249499,7 +250579,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249517,7 +250597,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249535,7 +250615,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249555,7 +250635,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249573,7 +250653,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249593,7 +250673,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249611,7 +250691,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249629,7 +250709,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249795,7 +250875,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249813,7 +250893,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249833,7 +250913,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249851,7 +250931,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249869,7 +250949,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249887,7 +250967,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 35,
+      "attempts": 36,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -249905,7 +250985,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -249923,7 +251003,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -249941,7 +251021,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -249959,7 +251039,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -249977,11 +251057,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 36,
+      "attempts": 37,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
       "error": "ValueError"
@@ -250260,38 +251344,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
       "error": "ValueError"
     }
   ],
