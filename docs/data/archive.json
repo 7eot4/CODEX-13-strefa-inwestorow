@@ -1,8 +1,1620 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-21T01:01:32+00:00",
+  "last_checked": "2026-10-21T06:04:22+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "231a4e152e6051d7",
+      "title": "Ceny miedzi w Londynie rosną; Chiny importują więcej czerwonego metalu",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/ceny-miedzi-w-londynie-rosna-chiny-importuja-wiecej-czerwonego-metalu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: miedzi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania miedzi na giełdzie metali LME w Londynie rosną w środę. Inwestorzy oceniają dane o imporcie metalu przez Chiny, największego odbiorcę metali bazowych na świecie - informują maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miedź w dostawach 3-miesięcznych na LME jest wyceniana wyżej wobec 14.420,50 USD za tonę, notowanych na zakończenie poprzedniej sesji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Comex w Nowym Jorku miedź kosztuje 6,6165 USD za funt, wyżej o 0,20 proc. Metal zyskał w tym roku na Comex 16,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 109.820 juanów za tonę, po zwyżce o 0,58 proc. i po wzroście od początku roku o 11,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy oceniają dane o imporcie miedzi do Chin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Import miedzi rafinowanej do Chin we wrześniu wzrósł o 25 proc. mdm i wyniósł 311.551 ton - wynika z danych urzędu celnego, opublikowanych w środę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei import odpadów i złomu miedzi wzrósł w ub. miesiącu o 33 proc. mdm i wyniósł 236.614 ton. - podali chińscy celnicy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem gracze zastanawiają się nad możliwym wprowadzeniem ceł na miedź w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Macquarie oceniają, że ceny miedzi mogą spaść nawet do 10.000 USD za tonę, jeśli cła w USA na miedź nie zostaną wprowadzone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeśli amerykańskie taryfy zostaną ogłoszone z opóźnieniem - miedź może zdrożeć nawet do 18.000 USD za tonę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zakończenie poprzedniej sesji miedź na LME kosztowała 14.420,50 USD za tonę, wyżej o 82 USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od początku 2026 r. cena miedzi na LME wzrosła o 16,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 07:53",
+      "content_sha256": "20cd6b75850655e87aee88bb8f58a482aea80fdcb7596feb3f5d173e682a44ad",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "07:53",
+      "published_at": "2026-10-21T07:53+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Notowania miedzi na giełdzie metali LME w Londynie rosną w środę.",
+          "Inwestorzy oceniają dane o imporcie metalu przez Chiny, największego odbiorcę metali bazowych na świecie - informują maklerzy.",
+          "Analitycy Macquarie oceniają, że ceny miedzi mogą spaść nawet do 10.000 USD za tonę, jeśli cła w USA na miedź nie zostaną wprowadzone."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Na Comex w Nowym Jorku miedź kosztuje 6,6165 USD za funt, wyżej o 0,20 proc. Metal zyskał w tym roku na Comex 16,5 proc."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "20cd6b75850655e87aee88bb8f58a482aea80fdcb7596feb3f5d173e682a44ad"
+      }
+    },
+    {
+      "id": "fbd8e04d6259b204",
+      "title": "Ceny ropy rosną; ataki na statki w cieśninie Ormuz zagrażają dostawom surowca",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/ceny-ropy-rosna-ataki-na-statki-w-ciesninie-ormuz-zagrazaja-dostawom-surowca",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: ropa",
+          "Temat: ropy",
+          "Temat: surowc"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ropa na globalnych rynkach zwyżkuje w trakcie sesji w środę, bo ataki na statki w cieśninie Ormuz zagrażają dostawom surowca z Zatoki Perskiej. Na dodatek w USA maleją zapasy ropy i jej produktów - podają maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 98,97 USD - wyżej o 1,18 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brent na ICE na XII jest wyceniana po 110,26 USD za baryłkę, w górę o 1,35 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ropa drożeje, bo ataki na statki w cieśninie Ormuz zagrażają dostawom surowca z Zatoki Perskiej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W weekend w południowej części cieśniny Ormuz tankowiec wpłynął na minę morską."
+        },
+        {
+          "type": "paragraph",
+          "text": "W maszynowni doszło do wybuchu i pożaru - informował Korpus Strażników Rewolucji Islamskiej (IRGC)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tankowiec zamierzał wypłynąć z cieśniny przy wyłączonych systemach lokalizacji i nawigacji, ignorując zasady przemieszczania się przez cieśninę ustalone przez władze irańskie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem rzecznik Korpusu Strażników Rewolucji Islamskiej (IRGC) Hosejn Mohebbi zasugerował w poniedziałek, że celem ataków Iranu mogą stać się też kable podmorskie w cieśninie Ormuz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podkreślił, że \"zależą od nich wszystkie światowe dane internetowe i komercyjne\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przez cieśninę Ormuz przebiega siedem głównych kabli, od których zależą wszystkie światowe dane internetowe i komercyjne\" – powiedział Mohebbi."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przypominamy o tym wrogowi, żeby wiedział\" - ostrzegł przedstawiciel IRGC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem w USA maleją zapasy ropy i jej produktów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wynika z branżowego raportu Amerykańskiego Instytutu Paliw (API), w ub. tygodniu zapasy ropy w USA spadły o 4,9 mln baryłek."
+        },
+        {
+          "type": "paragraph",
+          "text": "To trzeci z kolei tydzień spadku tych zapasów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapasy benzyny spadły z kolei o 2 mln baryłek, a paliw destylowanych - spadły o 2,6 mln baryłek."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dane ze Stanów Zjednoczonych potwierdzają oznaki coraz bardziej ograniczonych globalnych dostaw i wspierają ceny ropy\" - powiedział Yutaro Nishi, starszy analityk w Rakuten Securities Inc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ceny ropy mogą jeszcze wzrosnąć, jeśli w cieśninie Ormuz dojdzie do dalszych zakłóceń w dostawach nośników energii\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z danych Vortexy dot. śledzenia ruchu statków wynika, że w ciągu pierwszych 20 dni października z Zatoki Perskiej transportowano dziennie przez Ormuz ok. 9,1 mln baryłek ropy."
+        },
+        {
+          "type": "paragraph",
+          "text": "To znacznie mniej niż sugerowały Stany Zjednoczone, które podawały w tym miesiącu, że przez Ormuz przepływa 20 mln baryłek ropy dziennie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem trwają rozmowy mające na celu zawarcie porozumienia pokojowego kończącego wojnę pomiędzy USA a Iranem - informowały o tym we wtorek anonimowe źródła zbliżone do sprawy."
+        },
+        {
+          "type": "paragraph",
+          "text": "To we wtorek wywołało na rynkach spadki cen ropy naftowej i gazu, ale źródła zdementowały doniesienia o rychłym zawarciu umowy."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Trwają rozmowy mające na celu zawarcie porozumienia pokojowego kończącego wojnę pomiędzy USA a Iranem, ale doniesienia o rychłym zawarciu umowy są nieprawdziwe\" - powiedział we wtorek anonimowy dyplomata biorący udział w negocjacjach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Niepotwierdzone doniesienia mówiły, że przełom spodziewany jest już w tym tygodniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ropa WTI od początku tego roku zyskała 72,5 proc., a Brent zdrożała o 81,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 07:39",
+      "content_sha256": "50f1a26a42231a1cd9b49e1b38db1f34f7f496e7acdff7033eb62b111d2239ba",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "07:39",
+      "published_at": "2026-10-21T07:39+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Ropa na globalnych rynkach zwyżkuje w trakcie sesji w środę, bo ataki na statki w cieśninie Ormuz zagrażają dostawom surowca z Zatoki Perskiej.",
+          "\"Ceny ropy mogą jeszcze wzrosnąć, jeśli w cieśninie Ormuz dojdzie do dalszych zakłóceń w dostawach nośników energii\" - dodał.",
+          "Z danych Vortexy dot. śledzenia ruchu statków wynika, że w ciągu pierwszych 20 dni października z Zatoki Perskiej transportowano dziennie przez Ormuz ok."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropa",
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "50f1a26a42231a1cd9b49e1b38db1f34f7f496e7acdff7033eb62b111d2239ba"
+      }
+    },
+    {
+      "id": "2d1d0a967004617f",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-21",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-21",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-21 - 2026-10-27"
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - RynekPierwotny.pl - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online portalu RynekPierwotny.pl \"Czy to dobry moment na zakup mieszkania?\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - Debiut na rynku NewConnect"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debiut spółki HYPE na rynku NewConnect."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - SGE - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Briefing prasowy SGE połączony z uroczystym podpisaniem umów dotyczących małych reaktorów modułowych BWRX-300. W wydarzeniu wezmą udział m.in. Stephen Lecce, minister energii i górnictwa kanadyjskiej prowincji Ontario, a także przedstawiciele Ontario Power Generation (OPG) oraz GE Vernova Hitachi Nuclear Energy."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - Federacja Przedsiębiorców Polskich - V Kongres Federacji Przedsiębiorców Polskich (FPP) \"Dialog o gospodarce 2026\"."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 23 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - Bankier.pl - We Wrocławiu odbędzie się trzecia edycja Forum Finansów Bankier.pl. Dzień 1. PAP Biznes jest patronem medialnym wydarzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:30 - PZFD - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kongres Deweloperski 2026 \"Ekosystem zmian. Geopolityka | Ekonomia | Społeczeństwo\""
+        },
+        {
+          "type": "heading",
+          "text": "SOBOTA, 24 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - Bankier.pl - We Wrocławiu odbędzie się trzecia edycja Forum Finansów Bankier.pl. Dzień 2. PAP Biznes jest patronem medialnym wydarzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biznes Zesp.Emitencki (PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 07:01",
+      "content_sha256": "dc8f3f10eef862b92a31287b801f66f04a7b2a5340fd16ed0f29dcfeb059f12c",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-21T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Briefing prasowy SGE połączony z uroczystym podpisaniem umów dotyczących małych reaktorów modułowych BWRX-300.",
+          "W wydarzeniu wezmą udział m.in. Stephen Lecce, minister energii i górnictwa kanadyjskiej prowincji Ontario, a także przedstawiciele Ontario Power Generation (OPG) oraz GE Vernova Hitachi Nuclear Energy.",
+          "10:00 - Federacja Przedsiębiorców Polskich - V Kongres Federacji Przedsiębiorców Polskich (FPP) \"Dialog o gospodarce 2026\"."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "dc8f3f10eef862b92a31287b801f66f04a7b2a5340fd16ed0f29dcfeb059f12c"
+      }
+    },
+    {
+      "id": "e3135e5e3809b690",
+      "title": "Kalendarium rynku NewConnect 2026-10-21",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/kalendarium-rynku-newconnect-2026-10-21",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-10-21 - 2026-10-27"
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - TECHROBOT - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. emisji akcji serii H, zmian w radzie nadzorczej, przyjęcia polityki wynagrodzeń członków zarządu i RN."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - Debiut na rynku NewConnect"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debiut spółki HYPE na rynku NewConnect."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - FARMINN - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji zwykłych na okaziciela serii D, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 23 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - 7LEVELS - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "C.d. obrad NWZ z 9.10.2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 26 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - PGH - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. emisji akcji w trybie subskrypcji prywatnej, emisji warrantów subskrypcyjnych, wynagrodzenia członków RN."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 07:01",
+      "content_sha256": "228b19035d2f5f2284d300fa2b61ef553ed59e1595b2f9b1811451fea4b4b6b7",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-21T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie m.in. emisji akcji serii H, zmian w radzie nadzorczej, przyjęcia polityki wynagrodzeń członków zarządu i RN.",
+          "W sprawie emisji akcji zwykłych na okaziciela serii D, zmian w radzie nadzorczej.",
+          "W sprawie m.in. emisji akcji w trybie subskrypcji prywatnej, emisji warrantów subskrypcyjnych, wynagrodzenia członków RN."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "228b19035d2f5f2284d300fa2b61ef553ed59e1595b2f9b1811451fea4b4b6b7"
+      }
+    },
+    {
+      "id": "0ebc5677c18396d5",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-10-21",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/kalendarium-rynku-kapitalowego-gpw-2026-10-21",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-10-21 - 2026-10-27"
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 21 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - PCCEXOL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. zgody na ustanowienie ograniczonych praw rzeczowych na zorganizowanych częściach przedsiębiorstwa."
+        },
+        {
+          "type": "paragraph",
+          "text": "- VOTUM - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 2,50 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 22 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ERG - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W srawie zamknięcia programu skupu akcji własnych (uchw. nr 5 WZ z 20.03.2020 r.), zgody na nabycie akcji własnych do dalszej odsprzedaży lub umorzenia."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 23 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - TORPOL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie rady nadzorczej, przyjęcia polityki równowagi płci, zmian w statucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - KPPD - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zgody na nabycie prawa własności niezabudowanej działki."
+        },
+        {
+          "type": "paragraph",
+          "text": "- PJPMAKRUM - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Druga transza wypłaty dywidendy w łącznej wysokości 0,61 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 26 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- JWWINVEST - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,12 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 27 PAŹDZIERNIKA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - ENERGOINS - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie połączenia ze spółkami zależnymi, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "- IMMOBILE - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsza transza wypłaty dywidendy w łącznej wysokości 0,13 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 07:01",
+      "content_sha256": "8b24c45c2115ef5118d9a14193c99fd5752ba295b0b7fa72aeafd48d4c9e32ec",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-10-21T07:01+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zaliczka na poczet dywidendy w wysokości 2,50 PLN na akcję.",
+          "W srawie zamknięcia programu skupu akcji własnych (uchw. nr 5 WZ z 20.03.2020 r.), zgody na nabycie akcji własnych do dalszej odsprzedaży lub umorzenia.",
+          "Druga transza wypłaty dywidendy w łącznej wysokości 0,61 PLN na akcję."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8b24c45c2115ef5118d9a14193c99fd5752ba295b0b7fa72aeafd48d4c9e32ec"
+      }
+    },
+    {
+      "id": "c3945a40dc890813",
+      "title": "Środa z Siłą Relatywną (SzSR): 21 października 2026 r.",
+      "url": "https://strefainwestorow.pl/blog/sroda-z-sila-relatywna/sroda-z-sila-relatywna-szsr-21-pazdziernika-2026-r",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Piotr Kwestarz",
+      "published_display": "21.10.2026 07:00",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "07:00",
+      "published_at": "2026-10-21T07:00+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
+    {
+      "id": "04e2e742cfd8b3ca",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 21.10.2026 | 1D | 5D | 1M | 3M | 12M |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,80 | 4,78 | 4,77 | 4,86 | 4,23 | 4,10 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,97 | 5,96 | 5,94 | 5,93 | 4,99 | 4,80 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,37 | 6,34 | 6,35 | 6,29 | 5,59 | 5,38 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,68 | 5,63 | 5,73 | 5,67 | 5,39 | 6,39 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,70 | 5,58 | 5,72 | 5,72 | 5,40 | 6,31 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,46 | 5,34 | 5,53 | 5,68 | 5,42 | 6,78 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,26 | 4,24 | 4,25 | 4,16 | 3,97 | 3,57 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,74 | 4,75 | 4,72 | 4,63 | 4,32 | 3,88 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,32 | 5,34 | 5,34 | 5,36 | 4,88 | 4,34 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,25 | 36,29 | 36,29 | 36,74 | 38,08 | 36,93 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 35,54 | 35,70 | 35,47 | 35,70 | 35,82 | 34,06 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 32,85 | 32,93 | 32,78 | 32,49 | 32,03 | 29,68 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 3,04 | 3,07 | 3,11 | 3,17 | 2,75 | 1,94 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,22 | 3,26 | 3,31 | 3,37 | 2,91 | 2,28 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,51 | 3,57 | 3,60 | 3,62 | 3,31 | 2,82 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,51 | 3,52 | 3,47 | 3,52 | 2,99 | 2,12 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 3,98 | 4,01 | 3,97 | 3,92 | 3,37 | 2,63 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,52 | 4,57 | 4,53 | 4,43 | 3,97 | 3,37 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,18 | 3,21 | 3,25 | 3,30 | 2,77 | 1,89 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,46 | 3,49 | 3,52 | 3,52 | 3,03 | 2,29 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,89 | 3,94 | 3,94 | 3,90 | 3,50 | 2,96 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,21 | 3,24 | 3,29 | 3,33 | 2,84 | 2,00 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,52 | 3,56 | 3,58 | 3,56 | 3,07 | 2,46 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 4,03 | 4,07 | 4,08 | 4,00 | 3,61 | 3,10 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,08 | 3,13 | 3,15 | 3,28 | 2,79 | 1,91 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,20 | 3,25 | 3,27 | 3,36 | 2,87 | 2,17 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,40 | 3,46 | 3,47 | 3,52 | 3,15 | 2,58 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,67 | 3,66 | 3,63 | 3,55 | 2,96 | 2,13 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,34 | 4,34 | 4,26 | 4,02 | 3,37 | 2,67 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,93 | 4,94 | 4,84 | 4,57 | 3,95 | 3,36 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,96 | 4,93 | 4,93 | 4,84 | 4,40 | 3,85 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 5,03 | 5,01 | 5,02 | 4,91 | 4,58 | 3,95 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,41 | 5,43 | 5,45 | 5,30 | 5,03 | 4,51 | 20.10.2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,90 | 1,90 | 1,93 | 1,86 | 1,44 | 0,94 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,31 | 2,31 | 2,36 | 2,29 | 1,95 | 1,23 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,89 | 2,90 | 3,00 | 2,99 | 2,73 | 1,66 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,79 | 4,78 | 4,80 | 4,75 | 4,26 | 3,46 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,94 | 4,93 | 4,99 | 4,83 | 4,37 | 3,56 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 5,12 | 5,11 | 5,19 | 4,95 | 4,63 | 3,96 | 06:32:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 06:34",
+      "content_sha256": "9a906d5edf41efa03a8e4721e63ae3bc7c2a3c0083d72590efeae35784531f6b",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:34",
+      "published_at": "2026-10-21T06:34+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "9a906d5edf41efa03a8e4721e63ae3bc7c2a3c0083d72590efeae35784531f6b"
+      }
+    },
+    {
+      "id": "ba1ad02f12a1c1ef",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Kolumbii i Argentynie:"
+        },
+        {
+          "type": "paragraph",
+          "text": "***Argentyna z 16.10."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7712,57 | 0,28 | -1,19 | -0,67 | 14,51 | 12,67"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 52495,88 | 1,02 | 1,60 | 0,86 | 11,87 | 9,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 26424,82 | -0,02 | -2,87 | -2,57 | 15,12 | 13,69"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2773,42 | 1,65 | -0,36 | -3,55 | 11,49 | 11,75"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 36107,96 | 0,50 | 0,34 | 0,27 | 20,81 | 13,86"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 69258,58 | 0,36 | 3,42 | 9,01 | 13,96 | 7,70"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 208295,98 | 1,57 | 0,68 | 11,63 | 44,56 | 29,28"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2533,22 | 0,47 | -1,90 | -1,26 | 34,13 | 22,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MERVAL | Argentyna | 2848945,00 | -0,35 | -0,70 | -5,00 | 42,24 | -6,64"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 06:33",
+      "content_sha256": "93459535baa1610f0719e7acc3c8e23d5d207f2d15a08149135d1fbca155bda9",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:33",
+      "published_at": "2026-10-21T06:33+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "93459535baa1610f0719e7acc3c8e23d5d207f2d15a08149135d1fbca155bda9"
+      }
+    },
+    {
+      "id": "d2074ee6ed0658aa",
+      "title": "DM BDM obniżył cenę docelową dla akcji ATM Grupa do 5,10 zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/dm-bdm-obnizyl-cene-docelowa-dla-akcji-atm-grupa-do-510-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Analitycy DM BDM, w raporcie z 20 października, obniżyli cenę docelową akcji ATM Grupa do 5,10 zł z 5,41 zł wcześniej, podtrzymując rekomendację \"kupuj\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raport wydano przy kursie 3,55 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Według naszych szacunków spółka jest obecnie notowana przy mnożnikach skor. EV/EBITDA na lata 2026–2027 wynoszących odpowiednio około 3,9x i 3,7x. W naszej ocenie akcje ATM Grupy są obecnie wyceniane przy historycznie niskich mnożnikach, szczególnie w kontekście prognozowanego przez nas rekordowego poziomu skor. EBITDA z działalności audiowizualnej\" - napisano w raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dostrzegamy silny portfel projektów w segmencie produkcji telewizyjnej i filmowej, dlatego oczekujemy dobrych wyników finansowych w II półroczu 2026 r. Głównym motorem poprawy rezultatów ATM Grupy powinien być zatem segment produkcji telewizyjnej i filmowej. Szacujemy, że w całym 2026 roku skor. EBITDA z działalności audiowizualnej wyniesie około 68,4 mln zł, co oznacza wzrost o 10,2 proc. rdr. W latach 2027–2028 zakładamy dalszy wzrost skor. EBITDA z działalności audiowizualnej, odpowiednio o 4,6 proc. i 11,2 proc. rdr\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depesza jest skrótem rekomendacji wydanej przez Dom Maklerski BDM. Jej autorem jest Maciej Bobrowski. Pierwsze rozpowszechnienie rekomendacji nastąpiło 20 października 2026 roku, o godzinie 23:58."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raport został przygotowany w ramach Programu Wsparcia Pokrycia Analitycznego GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "W załączniku znajduje się plik PDF z raportem."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "alk/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 06:32",
+      "content_sha256": "2b8d52643c10448531c4405124fd6101321cd6bc41ae2c3740e7d8327c9e5337",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:32",
+      "published_at": "2026-10-21T06:32+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Analitycy DM BDM, w raporcie z 20 października, obniżyli cenę docelową akcji ATM Grupa do 5,10 zł z 5,41 zł wcześniej, podtrzymując rekomendację \"kupuj\".",
+          "\"Według naszych szacunków spółka jest obecnie notowana przy mnożnikach skor.",
+          "EV/EBITDA na lata 2026–2027 wynoszących odpowiednio około 3,9x i 3,7x."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "EV/EBITDA na lata 2026–2027 wynoszących odpowiednio około 3,9x i 3,7x."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "\"Według naszych szacunków spółka jest obecnie notowana przy mnożnikach skor."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2b8d52643c10448531c4405124fd6101321cd6bc41ae2c3740e7d8327c9e5337"
+      }
+    },
+    {
+      "id": "58c0d3ce48831f6d",
+      "title": "sWIG80 przełamuje wsparcie?",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/swig80-przelamuje-wsparcie-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "21.10.2026 06:15",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:15",
+      "published_at": "2026-10-21T06:15+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
+    {
+      "id": "d39135adf7a95296",
+      "title": "Trigon DM podwyższył cenę docelową akcji Voxel do 180 zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/trigon-dm-podwyzszyl-cene-docelowa-akcji-voxel-do-180-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Analitycy Trigon DM, w raporcie z 15 października, podwyższylii cenę docelową akcji Voxel do 180 zł, z 130 zł wcześniej, utrzymując rekomendację \"kupuj\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Niedoceniana odporność na zmiany w systemie refundacji stwarza dodatkowy potencjał wzrostowy. Uważamy, że obawy rynku dotyczące zmian w systemie refundacji NFZ były zbyt pesymistyczne, a firma Voxel z powodzeniem dostosowała się do sytuacji, kładąc większy nacisk na poszerzanie popytu w segmencie prywatnym oraz przechodząc na zabiegi o wyższej marży\" - napisano w raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trigon DM prognozuje, wykorzystując pozycję spółki w pierwszej trójce rynku, wzrost przychodów z działalności diagnostyki obrazowej (DI) z 434 mln zł w 2026 r. do 557 mln zł w 2028 r., przy wsparciu ze strony poprawiającej się struktury płatników oraz lepszego wykorzystania aktywów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy podtrzymują rekomendację \"kupuj\" z 12-miesięczną ceną docelową na poziomie 180 zł za akcję, co oznacza potencjał wzrostu o ok. 22 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depesza jest skrótem rekomendacji Trigon DM. Autorem raportu jest Katarzyna Kosiorek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zastrzeżenia prawne są dostępne w załączniku PDF do depeszy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze rozpowszechnienie raportu nastąpiło 15 października, o godzinie 8.30."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 06:02",
+      "content_sha256": "62b646868108bec5bb2c48b73b6da6a516abda786de5da40708182b320e886c3",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:02",
+      "published_at": "2026-10-21T06:02+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Analitycy Trigon DM, w raporcie z 15 października, podwyższylii cenę docelową akcji Voxel do 180 zł, z 130 zł wcześniej, utrzymując rekomendację \"kupuj\".",
+          "Uważamy, że obawy rynku dotyczące zmian w systemie refundacji NFZ były zbyt pesymistyczne, a firma Voxel z powodzeniem dostosowała się do sytuacji, kładąc większy nacisk na poszerzanie popytu w segmencie prywatnym oraz przechodząc na zabiegi o wyższej marży\" - napisano w raporcie.",
+          "Trigon DM prognozuje, wykorzystując pozycję spółki w pierwszej trójce rynku, wzrost przychodów z działalności diagnostyki obrazowej (DI) z 434 mln zł w 2026 r. do 557 mln zł w 2028 r., przy wsparciu ze strony poprawiającej się struktury płatników oraz lepszego wykorzystania aktywów."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Uważamy, że obawy rynku dotyczące zmian w systemie refundacji NFZ były zbyt pesymistyczne, a firma Voxel z powodzeniem dostosowała się do sytuacji, kładąc większy nacisk na poszerzanie popytu w segmencie prywatnym oraz przechodząc na zabiegi o wyższej marży\" - napisano w raporcie."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Trigon DM prognozuje, wykorzystując pozycję spółki w pierwszej trójce rynku, wzrost przychodów z działalności diagnostyki obrazowej (DI) z 434 mln zł w 2026 r. do 557 mln zł w 2028 r., przy wsparciu ze strony poprawiającej się struktury płatników oraz lepszego wykorzystania aktywów."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "62b646868108bec5bb2c48b73b6da6a516abda786de5da40708182b320e886c3"
+      }
+    },
+    {
+      "id": "3de9ccecef76a37a",
+      "title": "Trigon DM obniżył cenę docelową akcji Synektik do 377 zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/trigon-dm-obnizyl-cene-docelowa-akcji-synektik-do-377-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Analitycy Trigon DM, w raporcie z 15 października, obniżyli cenę docelową akcji Synektik do 377 zł z 398 zł wcześniej, utrzymując rekomendację \"trzymaj\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Przychody cykliczne muszą zastąpić szczytowy poziom przychodów z tytułu KPO. Prognozujemy spowolnienie tempa wzrostu przychodów Grupy z 30 proc. w 2026 r. do 8 proc. w 2028 r. w miarę normalizacji zakupów sprzętu. Tymczasem baza zainstalowanych systemów da Vinci powinna wzrosnąć ze 129 w 2025 r. do 226 w 2028 r., a przychody cykliczne niemal podwoją się z 334 mln zł do 662 mln zł\" - napisano w raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie analityków kluczową kwestią jest to, czy monetyzacja bazy zainstalowanych systemów będzie w stanie zrównoważyć spadającą sprzedaż sprzętu i utrzymać wzrost zysków."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Edison oraz ekspansja geograficzna stwarzają potencjał wzrostowy, jednak ryzyko związane z realizacją tych planów uzasadnia nasze neutralne stanowisko\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depesza jest skrótem rekomendacji Trigon DM. Autorem raportu jest Katarzyna Kosiorek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zastrzeżenia prawne są dostępne w załączniku PDF do depeszy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze rozpowszechnienie raportu nastąpiło 15 października, o godzinie 8.30."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 06:02",
+      "content_sha256": "caee51e3ddaf1a3a2d0149e5aa50c07050fa9f872ef38b7310b0f94808287196",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:02",
+      "published_at": "2026-10-21T06:02+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Analitycy Trigon DM, w raporcie z 15 października, obniżyli cenę docelową akcji Synektik do 377 zł z 398 zł wcześniej, utrzymując rekomendację \"trzymaj\".",
+          "\"Przychody cykliczne muszą zastąpić szczytowy poziom przychodów z tytułu KPO.",
+          "Prognozujemy spowolnienie tempa wzrostu przychodów Grupy z 30 proc. w 2026 r. do 8 proc. w 2028 r. w miarę normalizacji zakupów sprzętu."
+        ],
+        "interest_score": 75,
+        "impact_score": 60,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "\"Przychody cykliczne muszą zastąpić szczytowy poziom przychodów z tytułu KPO."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Prognozujemy spowolnienie tempa wzrostu przychodów Grupy z 30 proc. w 2026 r. do 8 proc. w 2028 r. w miarę normalizacji zakupów sprzętu."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "W ocenie analityków kluczową kwestią jest to, czy monetyzacja bazy zainstalowanych systemów będzie w stanie zrównoważyć spadającą sprzedaż sprzętu i utrzymać wzrost zysków."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "caee51e3ddaf1a3a2d0149e5aa50c07050fa9f872ef38b7310b0f94808287196"
+      }
+    },
+    {
+      "id": "d961fc7538cded58",
+      "title": "Trigon DM obniżył cenę docelową akcji Diagnostyki do 181 zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261021/trigon-dm-obnizyl-cene-docelowa-akcji-diagnostyki-do-181-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-21T06:04:22+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Analitycy Trigon DM, w raporcie z 15 października, obniżyli cenę docelową akcji Diagnostyki do 181 zł, z 198 zł wcześniej, utrzymując rekomendację \"trzymaj\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Kluczowym czynnikiem napędzającym wzrost pozostaje poprawa marży. Prognozujemy wzrost przychodów z 2,41 mld zł w 2025 r. do 3,19 mld zł w 2028 r., wspierany przez stabilny popyt na usługi diagnostyczne, politykę cenową oraz ekspansję w segmencie B2B\" - napisano w rekomendacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Liczba przeprowadzanych przez MLT testów powinna wzrosnąć o 6,0 proc./3,5 proc./3,0 proc. w latach 2026–28E, podczas gdy przychód na test wzrośnie z 13,8 zł do 16,1 zł. Jednak rosnący udział segmentu B2B, inflacja płacowa oraz bieżące inwestycje operacyjne powinny negatywnie wpłynąć na rentowność w najbliższym czasie\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy uważają, że rok 2026 będzie punktem najniższego poziomu marży, a dźwignia operacyjna będzie się stopniowo poprawiać w latach 2027–28E w miarę normalizacji kosztów optymalizacji oraz zwiększania się różnicy między przychodem na test a kosztem na test."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Utrzymujemy neutralne stanowisko do czasu pojawienia się dowodów na trwałe ożywienie marży i lepszą konwersję wolnych przepływów pieniężnych\" - napisali analitycy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depesza jest skrótem rekomendacji Trigon DM. Autorem raportu jest Katarzyna Kosiorek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zastrzeżenia prawne są dostępne w załączniku PDF do depeszy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze rozpowszechnienie raportu nastąpiło 15 października, o godzinie 8.30."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "21.10.2026 06:02",
+      "content_sha256": "a6cb817a2aa8bb4a6f1b96e42a85d8f740eed2bedbf7bbcf49f788e05ec2e420",
+      "date": "2026-10-21",
+      "saved_at": "2026-10-21T06:04:22+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
+      "published_time": "06:02",
+      "published_at": "2026-10-21T06:02+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Analitycy Trigon DM, w raporcie z 15 października, obniżyli cenę docelową akcji Diagnostyki do 181 zł, z 198 zł wcześniej, utrzymując rekomendację \"trzymaj\".",
+          "\"Kluczowym czynnikiem napędzającym wzrost pozostaje poprawa marży.",
+          "Prognozujemy wzrost przychodów z 2,41 mld zł w 2025 r. do 3,19 mld zł w 2028 r., wspierany przez stabilny popyt na usługi diagnostyczne, politykę cenową oraz ekspansję w segmencie B2B\" - napisano w rekomendacji."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "\"Kluczowym czynnikiem napędzającym wzrost pozostaje poprawa marży."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Prognozujemy wzrost przychodów z 2,41 mld zł w 2025 r. do 3,19 mld zł w 2028 r., wspierany przez stabilny popyt na usługi diagnostyczne, politykę cenową oraz ekspansję w segmencie B2B\" - napisano w rekomendacji."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "a6cb817a2aa8bb4a6f1b96e42a85d8f740eed2bedbf7bbcf49f788e05ec2e420"
+      }
+    },
     {
       "id": "9659bc662715882f",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street przewaga wzrostów, Dow Jones w górę 500 pkt.",
@@ -182,7 +1794,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-21T01:01:32+00:00",
+      "discovered_at": "2026-10-21T06:04:22+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -645,7 +2257,7 @@
       "published_display": "20.10.2026 21:06",
       "content_sha256": "aaf8732bf40b15b4237213526500e15bd4b4e72ebc53f822278af840c3bcb6ba",
       "saved_at": "2026-10-20T19:38:25+00:00",
-      "content_checked_at": "2026-10-21T01:01:32+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2095,7 +3707,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-21T01:01:32+00:00",
+      "discovered_at": "2026-10-21T06:04:22+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2522,7 +4134,7 @@
       "published_display": "20.10.2026 17:06",
       "content_sha256": "b7837aa20a5cd2e69305e4a254f87f10fbeca5a7fc0de84a4632485677724add",
       "saved_at": "2026-10-20T15:25:08+00:00",
-      "content_checked_at": "2026-10-21T01:01:32+00:00",
+      "content_checked_at": "2026-10-21T06:04:22+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -262363,7 +263975,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262381,7 +263993,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262400,7 +264012,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262418,7 +264030,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262436,7 +264048,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262454,7 +264066,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262472,7 +264084,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262490,7 +264102,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262508,7 +264120,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262526,7 +264138,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262544,7 +264156,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262562,7 +264174,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262580,7 +264192,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262598,7 +264210,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262616,7 +264228,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262636,7 +264248,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262656,7 +264268,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262674,7 +264286,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262692,7 +264304,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262710,7 +264322,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262728,7 +264340,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262746,7 +264358,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262766,7 +264378,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262784,7 +264396,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262802,7 +264414,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262820,7 +264432,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262838,7 +264450,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262858,7 +264470,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262876,7 +264488,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262894,7 +264506,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262912,7 +264524,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262932,7 +264544,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262950,7 +264562,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262968,7 +264580,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -262986,7 +264598,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263006,7 +264618,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263024,7 +264636,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263042,7 +264654,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263060,7 +264672,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263078,7 +264690,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263098,7 +264710,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -263284,7 +264896,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263302,7 +264914,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263320,7 +264932,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263338,7 +264950,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263356,7 +264968,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263376,7 +264988,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263394,7 +265006,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263414,7 +265026,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263432,7 +265044,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263450,7 +265062,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263468,7 +265080,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263488,7 +265100,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263506,7 +265118,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263524,7 +265136,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263542,7 +265154,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263562,7 +265174,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263580,7 +265192,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263598,7 +265210,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263616,7 +265228,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263634,7 +265246,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263654,7 +265266,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263672,7 +265284,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263690,7 +265302,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263708,7 +265320,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 40,
+      "attempts": 41,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -263803,6 +265415,10 @@
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
       "error": "ValueError"
@@ -264057,62 +265673,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/obligacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/raporty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
       "error": "ValueError"
     }
   ],
