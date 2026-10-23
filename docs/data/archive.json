@@ -1,8 +1,357 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-23T19:15:41+00:00",
+  "last_checked": "2026-10-23T22:15:11+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "35fbb703c9cb6dfe",
+      "title": "DZIEŃ NA RYNKACH: Spadki akcji na Wall Street, bo mocno drożeje ropa",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261023/dzien-na-rynkach-spadki-akcji-na-wall-street-bo-mocno-drozeje-ropa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: dolar"
+        ],
+        "energia": [
+          "Temat: ropa",
+          "Temat: ropy"
+        ],
+        "technologie": [
+          "Temat: technologi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-23T22:15:11+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Giełdy na Wall Street spadły w piątek, ponieważ wyprzedaż w sektorze technologicznym z poprzedniej sesji przeniosła się na inne sektory rynku, a cena amerykańskiej ropy przekroczyła 100 dolarów za baryłkę na tle rosnących obaw o ponowne zaognienie konfliktu między USA a Iranem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu spadł o 1,23 proc., czyli o 650 punktów i wyniósł 52.215,16 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia spadł o 0,52 proc. i wyniósł 7.623,68 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 0,21 proc. do 25.955,34 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o 0,29 proc. i wynosi 2.775,9 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks VIX rośnie o 2,21 proc., do 19,45 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Przez ostatnie dwa tygodnie inwestorzy spieszyli się z przenoszeniem aktywów z akcji technologicznych i akcji spółek korzystających z centrów danych w kierunku bezpiecznych inwestycji, aż w końcu zabrakło chętnych do podjęcia takiego kroku” – powiedział Jed Ellerbroek, zarządzający portfelem w Argent Capital Management, w wywiadzie dla CNBC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ellerbroek dodał, że zyski spółek technologicznych w tym sezonie okazały się wysokie, co dało inwestorom powód, by zainteresować się akcjami technologicznymi."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Emocje i strach odgrywają naprawdę dużą rolę” – powiedział inwestor."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Otrzymaliśmy jednak najnowsze kwartalne raporty finansowe kilku firm technologicznych, a ich wyniki finansowe są dobre” - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność 10-letnich obligacji skarbowych wyniosła około 4,999 proc., co oznacza wzrost o ponad 4 punkty bazowe w ciągu dnia. Rentowność obligacji spadła w czwartek poniżej kluczowego poziomu 5 proc. po raz pierwszy od miesiąca, ponieważ inwestorzy zaczęli ostrożnie podchodzić do masowego zadłużania się w celu sfinansowania budowy centrów danych AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny ropy naftowej również wzrosły w piątek, wywierając dodatkową presję na akcje. Kontrakty terminowe na West Texas Intermediate wzrosły o 3,8 proc. i zamknęły się na poziomie 103,27 USD za baryłkę. Cena ropy Brent wzrosła o 3,1 proc., kończąc sesję na poziomie 116,72 USD, co stanowi najwyższy poziom od kwietnia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wzrosty te następują po doniesieniach, że USA i Izrael mogą opracowywać plany wznowienia ataków na Iran w ramach wojny regionalnej, która rozpoczęła się pod koniec lutego. Iran odpowiedział, że jest również gotowy do kontrataku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek pod presją znalazły się akcje bardziej defensywne, a sektory dóbr konsumpcyjnych, użyteczności publicznej i opieki zdrowotnej odnotowały spadki."
+        },
+        {
+          "type": "paragraph",
+          "text": "American Express spadł o ponad 3 proc. po ogłoszeniu redukcji zatrudnienia o około 5 proc. na całym świecie, powołując się na konieczność „przygotowania się na sztuczną inteligencję”. Goldman Sachs stracił ponad 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje AT&T, Verizon i T-Mobile spadły nawet o 9 proc. po tym, jak w mediach pojawiły się doniesienia, że SpaceX prowadzi rozmowy z firmami z branży infrastruktury telekomunikacyjnej na temat uruchomienia ogólnokrajowego programu usług bezprzewodowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei operatorzy amerykańskich wież telekomunikacyjnych rosły po tych informacjach, w tym Crown Castle i American Tower."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Western Digital spadły o 3 proc. Spółka poinformowała bowiem podczas telekonferencji wynikowej, że w ciągu najbliższych dwóch lat nakłady inwestycyjne będą nieco wyższe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Newmont spadły prawie 5 proc. po przedstawieniu wyników kwartalnych i ostrzeżeniu, że w 2027 roku należy spodziewać się wzrostu kosztów jednostkowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje sprzedawców detalicznych oferujących towary dyskontowe spadły po tym, jak analitycy Wells Fargo ostrzegli w nocie, że rosnące ceny oleju napędowego mogą wywierać presję na zyski w drugiej połowie roku i w 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biorąc pod uwagę wzrost cen oleju napędowego w trzecim kwartale o około 60 proc. rok do roku, analitycy szacują, że średni spadek marży operacyjnej wzrośnie do około 27 punktów bazowych z 18 punktów bazowych w drugim kwartale. Oczekuje się, że spadek zysku na akcję wzrośnie ponad dwukrotnie, do 6,2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dollar Tree i Dollar General spadły o około 5 proc. Wells Fargo twierdzi, że Dollar Tree jest najbardziej narażony, ponieważ historycznie odnotowuje większe straty niż konkurenci, gdy ceny oleju napędowego rosną. Szacuje się, że wyższe koszty paliwa obciążą zysk w trzecim kwartale o około 25 milionów dolarów, czyli 50 punktów bazowych marży. Wzrost kosztów może oznaczać dodatkową presję na inflację w handlu detalicznym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podała agencja Bloomberga, powołując się na źródła, firma OpenAI, która w ramach nowej rundy finansowania stara się pozyskać około 30 mld USD, na końcowym etapie negocjacji dąży do wyceny na poziomie 1,25 biliona USD. Oznacza to spadek o 150 mld USD względem kwoty 1,4 bln USD, do której spółka aspirowała jeszcze w zeszłym miesiącu."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Wczoraj rynek nie przestał wierzyć w sztuczną inteligencję. Zaczął po prostu pytać, kto za nią płaci, a przy rentowności obligacji na poziomie 5 proc. pytanie to wiąże się z kosztem alternatywnym” – powiedział Florian Ielpo, szef działu badań makroekonomicznych w Lombard Odier Asset Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Sektor sztucznej inteligencji znalazł się pod silną presją. Amerykańskie obligacje skarbowe znów pełnią funkcję zabezpieczenia portfela. Rynek bowiem w czasie rzeczywistym koryguje wyceny, uwzględniając rosnące prawdopodobieństwo spowolnienia gospodarczego w USA, co jest pokłosiem załamania w branży AI” – napisał w raporcie Charlie McElligott, dyrektor zarządzający ds. strategii obejmującej różne klasy aktywów w Nomura Securities International."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed Yardeni, prezes firmy Yardeni Research, określił w czwartek inwestycje związane ze sztuczną inteligencją mianem bańki, dodając jednak, że pewne spuszczenie powietrza z tego rynku wcale nie musi być czymś złym."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Zmniejszenie napięcia w bańce AI to dobry sygnał. Nie sądzę, by miała ona pęknąć i wywołać problemy dla całej gospodarki” – powiedział Yardeni, wskazując jednocześnie na rynek obligacji jako źródło konkurencji w walce o kapitał, który mógłby trafić na giełdę akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według Michaela Hartnetta z Bank of America niechęć inwestorów do ryzyka prawdopodobnie utrzyma się aż do listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak zauważa strateg, rynki nie uwzględniły jeszcze w pełni scenariusza zwycięstwa Demokratów zarówno w Izbie Reprezentantów, jak i w Senacie. Taki wynik wyborów mógłby negatywnie wpłynąć na wzrost zysków spółek, kładąc kres obecnemu otoczeniu sprzyjającemu niskim podatkom i ograniczonym regulacjom."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Do połowy listopada utrzymujemy taktyczne nastawienie zakładające unikanie ryzyka. Należy spodziewać się spadków rentowności obligacji, przecen na giełdach oraz osłabienia dolara amerykańskiego” – napisał strateg w raporcie do klientów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks sentymentu wśród konsumentów amerykańskich, opracowywany przez Uniwersytet Michigan, w październiku wyniósł 48,0 pkt. wobec 48,1 pkt. w poprzednim miesiącu - podano w końcowym wyliczeniu. Wstępnie szacowano wskaźnik na 46,3 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oczekiwana przez badanych w bieżącym miesiącu inflacja w horyzoncie roku wyniosła 4,7 proc. (wstępnie 4,7 proc.) wobec 4,6 proc. przed miesiącem. Długoterminowe oczekiwania inflacyjne wyniosły 3,5 proc. (wstępnie 3,5 proc.) i 3,4 proc. poprzednio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks PMI composite w USA, przygotowywany przez S&P Global, wyniósł w październiku 57,6 pkt. wobec 58,4 pkt. w poprzednim miesiącu - podano we wstępnym wyliczeniu. Rynek oczekiwał 57,6 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks PMI, określający koniunkturę w amerykańskim sektorze usługowym przygotowywany przez S&P Global, wyniósł w październiku 57,9 pkt. wobec 58,8 pkt. w poprzednim miesiącu - podano we wstępnym. Rynek oczekiwał 58,0 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks PMI, określający koniunkturę w amerykańskim sektorze przemysłowym, przygotowywany przez S&P Global, wyniósł w październiku 56,0 pkt. wobec 55,9 pkt. w poprzednim miesiącu - podano we wstępnym odczycie. To najwyższy odczyt od maja 2022 r. Rynek oczekiwał 55,5 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "23.10.2026 22:20",
+      "content_sha256": "e0517d860188a4537df8e040a53dfb59cfcf4a11842a27a5c43da6b73f07b305",
+      "date": "2026-10-23",
+      "saved_at": "2026-10-23T22:15:11+00:00",
+      "content_checked_at": "2026-10-23T22:15:11+00:00",
+      "published_time": "22:20",
+      "published_at": "2026-10-23T22:20+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Giełdy na Wall Street spadły w piątek, ponieważ wyprzedaż w sektorze technologicznym z poprzedniej sesji przeniosła się na inne sektory rynku, a cena amerykańskiej ropy przekroczyła 100 dolarów za baryłkę na tle rosnących obaw o ponowne zaognienie konfliktu między USA a Iranem.",
+          "Dow Jones Industrial na zamknięciu spadł o 1,23 proc., czyli o 650 punktów i wyniósł 52.215,16 pkt.",
+          "Biorąc pod uwagę wzrost cen oleju napędowego w trzecim kwartale o około 60 proc. rok do roku, analitycy szacują, że średni spadek marży operacyjnej wzrośnie do około 27 punktów bazowych z 18 punktów bazowych w drugim kwartale."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropa",
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e0517d860188a4537df8e040a53dfb59cfcf4a11842a27a5c43da6b73f07b305"
+      }
+    },
+    {
+      "id": "39c053e62fff1da0",
+      "title": "KNF zgadza się, by cena w wezwaniu na akcje Mostostalu Warszawa była niższa niż wynika z ustawy",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261023/knf-zgadza-sie-cena-w-wezwaniu-na-akcje-mostostalu-warszawa-byla-nizsza-niz",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-23T22:15:11+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komisja Nadzoru Finansowego zgodziła się na zaproponowanie przez Acciona Consttrucción Polonia w wezwaniu do sprzedaży akcji Mostostalu Warszawa ceny niespełniającej kryteria z ustawy o ofercie, ale nie niższej niż wartość godziwa tych akcji, tj. ceny nie niższej niż 2,75 zł za sztukę - poinformowała KNF w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "KNF określa, że termin, w którym powinno nastąpić ogłoszenie wezwania po cenie wskazanej w decyzji, upływa nie później niż do dnia 23 października 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Acciona Consttrucción Polona, główny akcjonariusz Mostostal Warszawa, złożył w maju tego roku wniosek o udzielenie przez Komisję Nadzoru Finansowego zgody na zaoferowanie w planowanym wezwaniu do sprzedaży wszystkich pozostałych akcji spółki ceny, która nie spełnia kryteriów ustawy o ofercie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena, która została zaproponowana przez wnioskodawcę we wniosku wynosiła 1,00 zł za jedną akcję Mostostalu Warszawa. Przyczyną złożenia wniosku było trwałe, istotne i nieincydentalne pogorszenie kondycji finansowej spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "W uzasadnieniu wniosku Acciona podniosła, że zarząd Mostostalu Warszawa podjął działania mające na celu dokapitalizowanie spółki, polegające na umieszczeniu w porządku walnego zgromadzenia uchwały w sprawie podwyższenia jej kapitału zakładowego w drodze emisji akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do wniosku Acciona załączyła wycenę wartości godziwej akcji Mostostalu Warszawa, która została sporządzona przez firmę audytorską Deloitte Assurance Polska. Zgodnie z tą wyceną wartość godziwa jednej akcji spółki na 20 maja 2026 r. wynosiła zero złotych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ze względu na powzięcie wątpliwości co do prawidłowości wyceny akcji spółki przedstawionej w wycenie Deloitte, UKNF zawarł z SWGK Audyt Polska umowę, na podstawie której SWGK miał dokonać wyceny akcji spółki sporządzonej według wartości godziwej na dzień 20 maja 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "SWGK przekazał do UKNF 15 października raport z wyceny wartości godziwej akcji Mostostalu Warszawa. Zgodnie z wyceną SWGK wartość godziwa 1 akcji spółki na wyniosła 2,75 zł. Wycena SWGK została przeprowadzona przy założeniu kontynuowania działalności przez spółkę w przyszłości."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie Komisji w niniejszej sprawie wystąpiły okoliczności, które świadczą o znacznym pogorszeniu sytuacji finansowej lub majątkowej Mostostalu Warszawa. Strona w swoim wniosku wykazała również, że pogorszenie to było następstwem zdarzeń lub okoliczności o charakterze obiektywnym i pozostającym poza sferą możliwości przewidzenia lub zapobieżenia przez spółkę."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie Komisji w przedmiotowej sprawie Strona uprawdopodobniła również, że cena rynkowa akcji znacznie odbiega od wartości godziwej tych akcji. Wnioskodawca wykazał, że płynność w obrocie akcjami Mostostalu Warszawa jest obecnie ograniczona, a spółka posiada ujemne kapitały własne, strukturalne problemy z płynnością finansową oraz trudności z pozyskaniem finansowania zewnętrznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wnioskodawca, mając na względzie wyniki wyceny SWGK wniósł o udzielenie przez Komisję zgody na zaproponowanie w wezwaniu ceny w wysokości 2,75 zł za jedną akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja postanowiła wyrazić zgodę na zaproponowanie w wezwaniu takiej ceny."
+        },
+        {
+          "type": "paragraph",
+          "text": "W opinii Komisji ogłoszenie wezwania po takiej cenie nie naruszy uzasadnionych interesów akcjonariuszy mniejszościowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W opinii Komisji, cena akcji zgodna z wyceną SWGK pozwoli zabezpieczyć interesy wszystkich akcjonariuszy. Z jednej strony umożliwi bowiem akcjonariuszom mniejszościowym spółki wyjście z inwestycji po cenie odpowiadającej wartości godziwej, z drugiej zaś strony, uwzględni również interes strony jako akcjonariusza większościowego, umożliwiając mu dokapitalizowanie spółki zgodnie z intencją wyrażoną we wniosku\" - napisano w komunikacie KNF."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "23.10.2026 21:59",
+      "content_sha256": "e68bb869318af018934f823d13d1233ac47882f0a417c4dfdb74b97f7c095bbd",
+      "date": "2026-10-23",
+      "saved_at": "2026-10-23T22:15:11+00:00",
+      "content_checked_at": "2026-10-23T22:15:11+00:00",
+      "published_time": "21:59",
+      "published_at": "2026-10-23T21:59+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Komisja Nadzoru Finansowego zgodziła się na zaproponowanie przez Acciona Consttrucción Polonia w wezwaniu do sprzedaży akcji Mostostalu Warszawa ceny niespełniającej kryteria z ustawy o ofercie, ale nie niższej niż wartość godziwa tych akcji, tj. ceny nie niższej niż 2,75 zł za sztukę - poinformowała KNF w komunikacie.",
+          "Acciona Consttrucción Polona, główny akcjonariusz Mostostal Warszawa, złożył w maju tego roku wniosek o udzielenie przez Komisję Nadzoru Finansowego zgody na zaoferowanie w planowanym wezwaniu do sprzedaży wszystkich pozostałych akcji spółki ceny, która nie spełnia kryteriów ustawy o ofercie.",
+          "Cena, która została zaproponowana przez wnioskodawcę we wniosku wynosiła 1,00 zł za jedną akcję Mostostalu Warszawa."
+        ],
+        "interest_score": 79,
+        "impact_score": 66,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Wnioskodawca, mając na względzie wyniki wyceny SWGK wniósł o udzielenie przez Komisję zgody na zaproponowanie w wezwaniu ceny w wysokości 2,75 zł za jedną akcję."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Komisja Nadzoru Finansowego zgodziła się na zaproponowanie przez Acciona Consttrucción Polonia w wezwaniu do sprzedaży akcji Mostostalu Warszawa ceny niespełniającej kryteria z ustawy o ofercie, ale nie niższej niż wartość godziwa tych akcji, tj. ceny nie niższej niż 2,75 zł za sztukę - poinformowała KNF w komunikacie."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Komisja Nadzoru Finansowego zgodziła się na zaproponowanie przez Acciona Consttrucción Polonia w wezwaniu do sprzedaży akcji Mostostalu Warszawa ceny niespełniającej kryteria z ustawy o ofercie, ale nie niższej niż wartość godziwa tych akcji, tj. ceny nie niższej niż 2,75 zł za sztukę - poinformowała KNF w komunikacie."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e68bb869318af018934f823d13d1233ac47882f0a417c4dfdb74b97f7c095bbd"
+      }
+    },
     {
       "id": "2432db30766da6d2",
       "title": "Skrót wiadomości - piątek, 23 października, 21.00",
@@ -12,7 +361,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-23T19:15:41+00:00",
+      "discovered_at": "2026-10-23T22:15:11+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -359,7 +708,7 @@
       "published_display": "23.10.2026 21:02",
       "content_sha256": "40ea28c55d99cd3f6f6d4e91e29896561be526fccfb7ba240afc47ed8a3e0cff",
       "saved_at": "2026-10-23T19:15:41+00:00",
-      "content_checked_at": "2026-10-23T19:15:41+00:00",
+      "content_checked_at": "2026-10-23T22:15:11+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2469,7 +2818,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-23T19:15:41+00:00",
+      "discovered_at": "2026-10-23T22:15:11+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2772,7 +3121,7 @@
       "published_display": "23.10.2026 17:01",
       "content_sha256": "ff48459cac7b27677b3a880701d16dab37b9b3d9c548f0920d0072a1bdda5fb5",
       "saved_at": "2026-10-23T15:07:02+00:00",
-      "content_checked_at": "2026-10-23T19:15:41+00:00",
+      "content_checked_at": "2026-10-23T22:15:11+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -295376,7 +295725,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295394,7 +295743,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295413,7 +295762,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295431,7 +295780,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295449,7 +295798,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295467,7 +295816,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295485,7 +295834,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295503,7 +295852,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295521,7 +295870,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295539,7 +295888,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295557,7 +295906,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295575,7 +295924,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295593,7 +295942,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295611,7 +295960,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295629,7 +295978,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295649,7 +295998,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295669,7 +296018,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295687,7 +296036,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295705,7 +296054,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295723,7 +296072,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295741,7 +296090,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295759,7 +296108,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295779,7 +296128,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295797,7 +296146,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295815,7 +296164,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295833,7 +296182,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295851,7 +296200,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295871,7 +296220,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295889,7 +296238,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295907,7 +296256,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295925,7 +296274,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295945,7 +296294,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295963,7 +296312,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295981,7 +296330,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295999,7 +296348,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296019,7 +296368,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296037,7 +296386,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296055,7 +296404,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296073,7 +296422,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296091,7 +296440,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296111,7 +296460,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296186,7 +296535,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 50,
+      "attempts": 51,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296204,7 +296553,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 50,
+      "attempts": 51,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296222,7 +296571,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 50,
+      "attempts": 51,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296243,7 +296592,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 50,
+      "attempts": 51,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296261,7 +296610,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 50,
+      "attempts": 51,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296279,7 +296628,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296297,7 +296646,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296315,7 +296664,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296333,7 +296682,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296351,7 +296700,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296369,7 +296718,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296389,7 +296738,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296407,7 +296756,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296427,7 +296776,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296445,7 +296794,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296463,7 +296812,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296481,7 +296830,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296501,7 +296850,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296519,7 +296868,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296537,7 +296886,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296555,7 +296904,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296575,7 +296924,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296593,7 +296942,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296611,7 +296960,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296629,7 +296978,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296647,7 +296996,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296667,7 +297016,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296685,7 +297034,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296703,7 +297052,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296721,7 +297070,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296739,7 +297088,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -296757,7 +297106,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -296775,7 +297124,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -296793,7 +297142,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -296811,11 +297160,95 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 51,
+      "attempts": 52,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/raporty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
       "error": "ValueError"
@@ -297034,18 +297467,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
       "error": "ValueError"
     }
   ],
