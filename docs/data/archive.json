@@ -1,8 +1,122 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-24T09:34:40+00:00",
+  "last_checked": "2026-10-24T13:38:39+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "dd3566a4fd9c76ef",
+      "title": "Produkcja Dębicy i zatrudnienie w najbliższych latach powinny być stabilne lub rosnąć",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261024/produkcja-debicy-i-zatrudnienie-w-najblizszych-latach-powinny-byc-stabilne-lub",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: produkcj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-24T13:38:39+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Pozycja Firmy Oponiarskiej Dębica w strukturach koncernu Goodyear pozostaje bardzo mocna, a poziom produkcji i zatrudnienia w najbliższych latach powinien pozostać stabilny lub rosnąć – powiedział PAP Jacek Pryczek, prezes Goodyear Polska oraz przewodniczący rady nadzorczej dębickiej spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przedstawiciel koncernu przypomniał, że podkarpacki zakład jest największą fabryką Goodyeara w Europie. Od momentu prywatyzacji i wejścia inwestora strategicznego w 1995 r. nakłady inwestycyjne w spółce przekroczyły 500 mln dolarów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dębica wypracowała sobie bardzo korzystną pozycję konkurencyjną wewnątrz koncernu. Nie chodzi tylko o wolumen, ale o to, jak i co produkuje. Doświadczony zespół udowodnił, że radzi sobie z wyzwaniami technologicznymi i sprawnym wdrażaniem skomplikowanych produktów\" – wskazał Pryczek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pytany o ryzyko przeniesienia produkcji do tańszych regionów w związku ze wzrostem płacy minimalnej i cen energii, Pryczek zauważył, że koszty rosną w całej branży."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Koszty rosną wszędzie, ale u nas ciągle rosną wolniej niż urosły w innych regionach. Dębica ciągle jest konkurencyjna. Poziom zatrudnienia (ok. 3 tys. osób) jest stabilny i mimo postępującej automatyzacji oraz robotyzacji procesów nie widzę dla niego zagrożeń w przyszłości\" – powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodał, że wyzwaniem pozostaje, podobnie jak dla innych pracodawców, pozyskiwanie nowych pracowników na lokalnym rynku pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pryczek zapewnił również, że zeszłoroczna decyzja koncernu o sprzedaży licencji na markę Dunlop na rzecz grupy Sumitomo w żaden sposób nie wpłynęła niekorzystnie na wolumeny produkcyjne polskiej fabryki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes Goodyear Polska zwrócił uwagę na zmiany w branży motoryzacyjnej, w tym rosnącą wagę segmentu aut elektrycznych oraz hybrydowych. Zaznaczył, że pojazdy te, o dużej masie i wysokim momencie obrotowym, generują nowe wymagania stawiane oponom. Wskazał na konieczność obniżania oporów toczenia przy jednoczesnym zachowaniu krótkiej drogi hamowania na mokrej nawierzchni oraz utrzymanie niskiego poziom hałasu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pryczek wskazał także na trend rynkowy w kierunku opon o coraz większej średnicy osadzenia, od 18 do nawet 24 cali oraz rosnący udział opon wielosezonowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według prognoz Goodyeara segment opon całorocznych będzie rósł w Europie do 2030 r., wypierając głównie opony letnie, podczas gdy opony zimowe pozostaną kluczowe na rynkach o ostrzejszym klimacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szef Goodyear Polska odniósł się również do konkurencji ze strony azjatyckich producentów. Zauważył, że wprowadzone przez Unię Europejską cła na opony ciężarowe z Chin zostały w dużej mierze zniwelowane przez przeniesienie produkcji do innych krajów Azji Południowo-Wschodniej (m.in. Wietnamu, Kambodży, Tajlandii)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przypomniał, że w lipcu weszły w życie nowe regulacje celne dotyczące opon osobowych z Chin."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Nie jestem zwolennikiem administracyjnego ingerowania w rynek, ale kluczowe jest zapewnienie uczciwych warunków konkurencji. Chodzi nie tylko o ceny czy subsydia, ale też o spełnianie norm środowiskowych, skład chemiczny mieszanek oraz odpowiedzialność za pełny cykl życia opony, w tym jej recykling i utylizację\" – podkreślił Pryczek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Powołując się na testy Polskiego Związku Przemysłu Oponiarskiego i Politechniki Rzeszowskiej, zaznaczył, że najtańsze opony azjatyckie wykazują znacząco dłuższą drogę hamowania w porównaniu do produktów europejskich marek budżetowych i premium."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pryczek przyznał jednak, że jakość opon produkowanych przez niektórych azjatyckich producentów sukcesywnie rośnie. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "huk/ mmu/ pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.10.2026 12:20",
+      "content_sha256": "fc2c2faf81580bcbb0bfd084718b26e7abf7d9378293dce54f8cf3cd29c968f8",
+      "date": "2026-10-24",
+      "saved_at": "2026-10-24T13:38:39+00:00",
+      "content_checked_at": "2026-10-24T13:38:39+00:00",
+      "published_time": "12:20",
+      "published_at": "2026-10-24T12:20+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Pozycja Firmy Oponiarskiej Dębica w strukturach koncernu Goodyear pozostaje bardzo mocna, a poziom produkcji i zatrudnienia w najbliższych latach powinien pozostać stabilny lub rosnąć – powiedział PAP Jacek Pryczek, prezes Goodyear Polska oraz przewodniczący rady nadzorczej dębickiej spółki.",
+          "Od momentu prywatyzacji i wejścia inwestora strategicznego w 1995 r. nakłady inwestycyjne w spółce przekroczyły 500 mln dolarów.",
+          "Według prognoz Goodyeara segment opon całorocznych będzie rósł w Europie do 2030 r., wypierając głównie opony letnie, podczas gdy opony zimowe pozostaną kluczowe na rynkach o ostrzejszym klimacie."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Od momentu prywatyzacji i wejścia inwestora strategicznego w 1995 r. nakłady inwestycyjne w spółce przekroczyły 500 mln dolarów."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "fc2c2faf81580bcbb0bfd084718b26e7abf7d9378293dce54f8cf3cd29c968f8"
+      }
+    },
     {
       "id": "5a96c0572d912c42",
       "title": "Polska nauka może zadebiutować na Nasdaq. Paweł Przewięźlikowski o tym, jak powstała NodThera, spin-off Ryvu Therapeutics",
@@ -732,7 +846,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-24T09:34:40+00:00",
+      "discovered_at": "2026-10-24T13:38:39+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1079,7 +1193,7 @@
       "published_display": "23.10.2026 21:02",
       "content_sha256": "40ea28c55d99cd3f6f6d4e91e29896561be526fccfb7ba240afc47ed8a3e0cff",
       "saved_at": "2026-10-23T19:15:41+00:00",
-      "content_checked_at": "2026-10-24T09:34:40+00:00",
+      "content_checked_at": "2026-10-24T13:38:39+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3189,7 +3303,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-24T09:34:40+00:00",
+      "discovered_at": "2026-10-24T13:38:39+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3492,7 +3606,7 @@
       "published_display": "23.10.2026 17:01",
       "content_sha256": "ff48459cac7b27677b3a880701d16dab37b9b3d9c548f0920d0072a1bdda5fb5",
       "saved_at": "2026-10-23T15:07:02+00:00",
-      "content_checked_at": "2026-10-24T09:34:40+00:00",
+      "content_checked_at": "2026-10-24T13:38:39+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -296096,7 +296210,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296114,7 +296228,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296133,7 +296247,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296151,7 +296265,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296169,7 +296283,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296187,7 +296301,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296205,7 +296319,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296223,7 +296337,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296241,7 +296355,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296259,7 +296373,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296277,7 +296391,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296295,7 +296409,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296313,7 +296427,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296331,7 +296445,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296349,7 +296463,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296369,7 +296483,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296389,7 +296503,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296407,7 +296521,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296425,7 +296539,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296443,7 +296557,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296461,7 +296575,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296479,7 +296593,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296499,7 +296613,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296517,7 +296631,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296535,7 +296649,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296553,7 +296667,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296571,7 +296685,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296591,7 +296705,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296609,7 +296723,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296627,7 +296741,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296645,7 +296759,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296665,7 +296779,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296683,7 +296797,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296701,7 +296815,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296757,7 +296871,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296775,7 +296889,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296793,7 +296907,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296811,7 +296925,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296831,7 +296945,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296849,7 +296963,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296867,7 +296981,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296885,7 +296999,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296906,7 +297020,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296924,7 +297038,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296942,7 +297056,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296963,7 +297077,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296981,7 +297095,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296999,7 +297113,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297017,7 +297131,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297035,7 +297149,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297053,7 +297167,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297071,7 +297185,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297089,7 +297203,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297109,7 +297223,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297127,7 +297241,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297147,7 +297261,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297165,7 +297279,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297183,7 +297297,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297201,7 +297315,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297221,7 +297335,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297239,7 +297353,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297257,7 +297371,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297275,7 +297389,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297295,7 +297409,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297313,7 +297427,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297331,7 +297445,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297349,7 +297463,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297367,7 +297481,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297387,7 +297501,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297405,7 +297519,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297423,7 +297537,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297441,7 +297555,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297459,7 +297573,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297477,7 +297591,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297495,7 +297609,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297513,7 +297627,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297531,11 +297645,23 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 55,
+      "attempts": 56,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
       "error": "ValueError"
@@ -297830,14 +297956,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
       "error": "ValueError"
     }
   ],
