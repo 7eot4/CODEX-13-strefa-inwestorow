@@ -1,8 +1,379 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-24T05:05:58+00:00",
+  "last_checked": "2026-10-24T09:34:40+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "5a96c0572d912c42",
+      "title": "Polska nauka może zadebiutować na Nasdaq. Paweł Przewięźlikowski o tym, jak powstała NodThera, spin-off Ryvu Therapeutics",
+      "url": "https://strefainwestorow.pl/wywiady/ryvu-therapeutics-pawel-przewiezlikowski-nodthera-spin-off",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: Nasdaq"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-24T09:34:40+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Na Nasdaq wchodzi amerykańska spółka biotechnologiczna Rezera, wcześniej znana jako NodThera. Firma powstała na projekcie naukowym, który narodził się w krakowskim laboratorium. Co ciekawe, Ryvu Therapeutics pozostaje jej akcjonariuszem. Najbardziej zaawansowana cząsteczka spółki, doustny inhibitor inflamasomu NLRP3, wchodzi do III fazy badań klinicznych w miażdżycy. Polski projekt rzadko dochodzi tak daleko i to na dodatek na największym rynku biotechnologicznym świata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ta historia zaczęła się kilkanaście lat temu w Krakowie. Ryvu, wtedy jeszcze jako Selvita, prowadziło tam niewielki projekt grantowy wokół celu biologicznego, w który mało kto wtedy wierzył. Paweł Przewięźlikowski, założyciel Ryvu, opowiada, jak z tego projektu powstał brytyjsko-amerykański spin-off z udziałem funduszy powiązanych z Eli Lilly. Spółka zebrała później od inwestorów około 200 mln dolarów. Ryvu zarobiło na niej, choć nie wyłożyło dużych pieniędzy, a jednocześnie zyskało w portfelu drugi, sprawdzony model komercjalizacji swoich odkryć."
+        },
+        {
+          "type": "heading",
+          "text": "Z rozmowy dowiesz się"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak kilkuosobowy zespół z Krakowa trafił na lek, który dziś wchodzi do III fazy badań w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dlaczego przez lata nikt nie chciał kupić projektu i co nagle to zmieniło."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ile Ryvu zarobiło na cząsteczce, której samo nie rozwijało."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dlaczego zejście z 49% do około 1% udziałów nie musi oznaczać porażki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jakie dwie drogi komercjalizacji leków ma dziś Ryvu i kiedy wybiera którą."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co debiut na Nasdaq mówi o potencjale polskiej nauki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesteśmy na czele peletonu poszukującego leku na sarkoidozę i inne choroby zapalne i włóknieniowe – mówi CEO Molecure, Marcin Szumowski"
+        },
+        {
+          "type": "heading",
+          "text": "Paweł Biedrzycki: Cofnijmy się do samych początków. Skąd w Ryvu (które wtedy nazywało się Selvita) wziął się pomysł na badania nad inflamasomem, z których narodziła się późniejsza NodThera?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paweł Przewięźlikowski: Aby zrozumieć genezę NodThery, musimy cofnąć się do lat 2005-2006, do pracy akademickiej i doktoratu naszego CSO Krzysztofa Brzózki, opublikowanej m.in. w Journal of Virology i Science. Krzysiek badał wówczas wirusa wścieklizny i opisał jego białko P jako antagonistę interferonu, blokującego fosforylację IRF-3. Zajmował się mechanizmami odpowiedzi immunologicznej i przyszedł do nas jako znakomity naukowiec z unikalnymi kompetencjami w immunologii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Około 2012 roku wróciliśmy w spółce do tych koncepcji i rozpoczęliśmy projekt badawczy ukierunkowany na modulację układu odpornościowego poprzez hamowanie inflamasomu NALP3 (NLRP3). Napisaliśmy wniosek i pozyskaliśmy grant na około milion złotych, do którego dołożyliśmy około 300 tys. złotych własnego kapitału. W tamtym czasie koszty w Polsce były znacznie niższe, a pracami zajmował się zaledwie kilkuosobowy zespół."
+        },
+        {
+          "type": "heading",
+          "text": "Co dalej działo się z tym projektem?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z naszą ówczesną praktyką, od razu zacząłem jeździć po międzynarodowych targach, takich jak Bio-Europe, próbując zainteresować projektem globalne koncerny. Od 2012 roku mieliśmy przygotowane materiały i prezentacje dla projektu o roboczym oznaczeniu SEL212."
+        },
+        {
+          "type": "paragraph",
+          "text": "Początkowo nikt nie chciał tego kupić. Ta koncepcja biologiczna po prostu nie przebijała się do powszechnej świadomości. Żartowałem nawet, że jedynymi dwiema osobami na świecie, które wierzyły wtedy w inflamasom, byli Krzysiek Brzózka oraz John Reed z Sanford Burnham Prebys Medical Discovery Institute w USA. Niedługo później Johna Reeda zrekrutowano prosto z akademii na szefa badań i wczesnego rozwoju w Roche."
+        },
+        {
+          "type": "heading",
+          "text": "Kiedy nastąpił punkt zwrotny?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Przełom przyszedł, gdy w inflamasom uwierzyły czołowe podmioty na świecie. Po publikacji o cząsteczce MCC950 w 2015 roku bostoński fundusz Atlas Venture założył spółkę IFM Therapeutics, a chwilę po nas Novartis zainwestował w Inflazome. Nagle biologiczny cel, o którym od lat mówiliśmy w naszych krakowskich laboratoriach przy ul. Bobrzyńskiego, stał się jednym z najgorętszych tematów w globalnym biotechu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniej nikt nie chciał nas słuchać, ale gdy w Bostonie powiedziano, że inflamasom to przyszłość, rynek natychmiast zaczął szukać projektów w tym obszarze. Skaut z koncernu Eli Lilly, który kojarzył nasze wcześniejsze prezentacje z konferencji partneringowych, skontaktował nas ze szkockim funduszem venture capital Epidarex Capital. Fundusz ten był wspierany przez Eli Lilly oraz szkocki fundusz emerytalny i posiadał siedzibę w Edynburgu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ryvu Therapeutics publikuje wyniki finansowe za I półrocze 2026 r. oraz podsumowuje najważniejsze zdarzenia korporacyjne"
+        },
+        {
+          "type": "heading",
+          "text": "Na jakich warunkach doszło do powołania spółki i komercjalizacji projektu?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eli Lilly było wówczas mocno zorientowane na schorzenia ośrodkowego układu nerwowego (CNS), w szczególności na chorobę Alzheimera. Epidarex zaproponował utworzenie dedykowanej spółki celowej w celu poszukiwania leków w tym wskazaniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ten sposób powstała NodThera, w ramach której częściowo skomercjalizowaliśmy wyniki naszego projektu grantowego. Struktura transakcji opierała się na trzech filarach. W ramach płatności upfront otrzymaliśmy 500 tys. funtów za wniesienie praw i wyników badań. Dodatkowo otrzymaliśmy też kontrakt badawczo-rozwojowy. NodThera powstała jako spółka wirtualna, bez własnych laboratoriów, dlatego zleciła nam dalsze prowadzenie prac B+R. W latach 2016-2018 wpłynęło do nas z tego tytułu, razem z płatnością wstępną, około 8,5 miliona złotych. No i ostatni element transakcji to było equity. Objęliśmy 1,9 miliona akcji nowo powstałej spółki, co na starcie dawało nam blisko 49% udziałów w nowo powołanym podmiocie."
+        },
+        {
+          "type": "heading",
+          "text": "Na jakim etapie rozwoju znajdował się wtedy ten projekt?"
+        },
+        {
+          "type": "paragraph",
+          "text": "To była faza discovery, ale posiadaliśmy już solidny in vivo proof-of-concept. Mieliśmy przetestowaną bibliotekę około 100 cząsteczek chemicznych oraz cząsteczkę wykazującą aktywność w zwierzęcym modelu zapalenia (LPS in vivo challenge), a także podstawowe dane farmakokinetyczne (PK) u gryzoni. To nie była wyłącznie czysta teoria na papierze, lecz zweryfikowane laboratoryjnie wczesne aktywo. Choć w ówczesnym pipeline Ryvu był to najmniej zaawansowany projekt, to właśnie on stał się podstawą powołania międzynarodowej spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Archiwalne prezentacje Selvity dzisiaj Ryvu Therapeutics dla projektu LPS"
+        },
+        {
+          "type": "heading",
+          "text": "Co działo się z NodTherą po wydzieleniu z Ryvu?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka stopniowo się „odwirtualizowała”. Zbudowała własne laboratoria i zespoły badawcze w Cambridge w Wielkiej Brytanii, a następnie w USA w Lexington i Seattle."
+        },
+        {
+          "type": "paragraph",
+          "text": "NodThera pozyskała od syndykatu wiodących funduszy europejskich i amerykańskich, m.in. Sofinnova Partners, 5AM Ventures, F-Prime Capital, Novo Holdings, Sanofi Ventures czy Blue Owl, łącznie około 200 milionów dolarów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projekt Ryvu rekomendowany przez NCBR do dofinansowania w wys. 106,7 mln zł."
+        },
+        {
+          "type": "heading",
+          "text": "Zmieniały się także wskazania terapeutyczne badanych cząsteczek."
+        },
+        {
+          "type": "paragraph",
+          "text": "To prawda. Spółka zaczynała od choroby Alzheimera, potem przeszła w kierunku ogólnych chorób zapalnych i immunologii, miała krótki epizod ukierunkowany na otyłość (obesity), a dziś jej wiodącym kierunkiem jest kardiologia i miażdżyca, w tym miażdżyca zarostowa tętnic kończyn dolnych. Co ciekawe, na naszych wczesnych slajdach z 2016 roku wymienialiśmy onkologię i neurodegenerację, natomiast miażdżycy w ogóle tam nie było. W biotechnologii to jednak naturalna droga, gdy głębsze zrozumienie biologii celu ujawnia nowe, bardziej obiecujące nisze kliniczne."
+        },
+        {
+          "type": "heading",
+          "text": "Ile krakowskiego wkładu pozostało w obecnych cząsteczkach klinicznych NodThery?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Część. Program i jego pierwsze wyniki powstały w Krakowie, a w pierwszych latach NodThera zlecała nam prace chemiczne, więc nasi chemicy mają swój udział we wczesnych seriach związków. Kandydat kliniczny, ruvonoflast, i jego dalszy rozwój to praca zespołu NodThery, a cała własność intelektualna należy dziś do Rezery."
+        },
+        {
+          "type": "heading",
+          "text": "NodThera złożyła prospekt emisyjny w amerykańskiej SEC i zmierza na Nasdaq. Jakie to ma znaczenie dla Ryvu?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka przeniosła swoją siedzibę z Wielkiej Brytanii do Stanów Zjednoczonych, by przygotować się do amerykańskiego debiutu giełdowego i pozyskać kapitał na badanie III fazy. Warto dodać jako ciekawostkę biznesową, że sama zmiana jurysdykcji spółki i przeniesienie aktywów poza Europę oznaczało dla nas konieczność zapłacenia 5,5 miliona złotych podatku dochodowego – i to bez uzyskania jakiegokolwiek bezpośredniego przepływu gotówkowego z tej operacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasz udział w wyniku kolejnych rund finansowania uległ rozwodnieniu z początkowych blisko 49% do około 1,2% (a po nowej emisji w ramach IPO wyniesie zapewne około 1%), przy czym Ryvu nie dołożyło do tych rund ani jednej dodatkowej złotówki. Historycznie nasz pakiet był w księgach wyceniany nawet na 30 milionów złotych, obecnie jest to kilka milionów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pipeline projektów Selvita dzisiaj Ryvu Therapeutics z 2016 roku z zaznaczonym projektem NALP3"
+        },
+        {
+          "type": "heading",
+          "text": "Patrząc wstecz: czy decyzja o spin-offie i oddaniu większości udziałów była optymalną ścieżką komercjalizacji?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdecydowanie tak. Historia NodThery doskonale ilustruje dwa skrajne modele komercjalizacji w biotechnologii: pierwszy to model samodzielnego rozwoju – jak przy RVU120 – w którym spółka inwestuje samodzielnie dziesiątki czy setki milionów dolarów, rozwija projekt przez lata, ponosi całe ryzyko, ale zachowuje 100% praw i pełny upside komercyjny; drugi to model wczesnego spin-offu, jak przy SEL212 i NodTherze. W naszym przypadku zainwestowaliśmy minimalny kapitał, niespełna 1,5 mln zł, szybko sprzedaliśmy projekt, dzięki czemu pozyskaliśmy łącznie około 8,5 mln zł w gotówce, które mogliśmy przeznaczyć na inną działalność B+R. Oddaliśmy kontrolę i zgodziliśmy się na rozwodnienie udziałów do 1%, ale dalsze prace o wartości 200 milionów dolarów sfinansowali inwestorzy zewnętrzni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gdybyśmy nie podjęli decyzji o wydzieleniu tego projektu, on w Ryvu po prostu by umarł. Jako średniej wielkości firma biotechnologiczna podjęliśmy świadomą, strategiczną decyzję o koncentracji na onkologii. Nie mieliśmy ani 200 milionów dolarów na badania kardiologiczne, ani wewnętrznych kompetencji klinicznych w leczeniu miażdżycy czy chorób układu krążenia. Przeskakiwanie między zupełnie różnymi obszarami terapeutycznymi to domena Big Pharmy, a nie rozwijającego się biotechu."
+        },
+        {
+          "type": "paragraph",
+          "text": "„W przeszłości nasz doradca sprzedał system Specific Dx za 425 mln dolarów, a BACTEROMIC jest w naszej ocenie jeszcze lepszą platformą” – mówią Piotr Garstecki i Szymon Ruta ze Scope Fluidics"
+        },
+        {
+          "type": "heading",
+          "text": "Ten debiut jest ważny dla Ryvu?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tak. Moim zdaniem debiut NodThery na Nasdaq pokazuje, że wczesny projekt naukowy wywodzący się z krakowskich laboratoriów Ryvu może – dzięki trafnemu modelowi partneringowemu – doprowadzić do leku wchodzącego do III fazy badań klinicznych na największym rynku świata. To potwierdza, że mamy dobre pomysły i potrafimy znaleźć drogę do ich komercjalizacji, nawet jeżeli nie posiadamy kapitału."
+        },
+        {
+          "type": "heading",
+          "text": "Ile może być warta NodThera w IPO?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Teraz już Rezera Inc., bo NodThera przed rozpoczęciem procesu IPO zmieniła nazwę. Szczerze powiedziawszy, to nie wiem. Jako akcjonariusz z małym pakietem akcji wiemy tyle samo, co inni inwestorzy poza spółką. Projekt spółki wchodzi do trzeciej fazy jako najbardziej zaawansowany klinicznie doustny inhibitor NLRP3, także zobaczymy. Trzymamy kciuki za sukces oferty i debiut."
+        },
+        {
+          "type": "heading",
+          "text": "Dziękuję za rozmowę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urteste kilka miesięcy od przełomu. „Rozmawiamy z ponad 10 potencjalnymi partnerami komercyjnymi o zasięgu globalnym” mówi Christian Pangratz, nowy prezes spółki"
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "24.10.2026 11:15",
+      "content_sha256": "6b1367b1a2800085860ec12dddb15bb177ff5de34473f3bdc1f64003fbb3866a",
+      "date": "2026-10-24",
+      "saved_at": "2026-10-24T09:34:40+00:00",
+      "content_checked_at": "2026-10-24T09:34:40+00:00",
+      "published_time": "11:15",
+      "published_at": "2026-10-24T11:15+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Na Nasdaq wchodzi amerykańska spółka biotechnologiczna Rezera, wcześniej znana jako NodThera.",
+          "Paweł Przewięźlikowski, założyciel Ryvu, opowiada, jak z tego projektu powstał brytyjsko-amerykański spin-off z udziałem funduszy powiązanych z Eli Lilly.",
+          "Nasz udział w wyniku kolejnych rund finansowania uległ rozwodnieniu z początkowych blisko 49% do około 1,2% (a po nowej emisji w ramach IPO wyniesie zapewne około 1%), przy czym Ryvu nie dołożyło do tych rund ani jednej dodatkowej złotówki."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Ryvu zarobiło na niej, choć nie wyłożyło dużych pieniędzy, a jednocześnie zyskało w portfelu drugi, sprawdzony model komercjalizacji swoich odkryć."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6b1367b1a2800085860ec12dddb15bb177ff5de34473f3bdc1f64003fbb3866a"
+      }
+    },
+    {
+      "id": "f2bf8bd758be0bf5",
+      "title": "W poszukiwaniu sygnałów - 24 października 2026 - Indeksy GPW na wsparciach",
+      "url": "https://strefainwestorow.pl/blog/w-poszukiwaniu-sygnalow/w-poszukiwaniu-sygnalow-24-pazdziernika-2026-indeksy-gpw-na-wsparciach",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-24T09:34:40+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Ewa Walkowiak",
+      "published_display": "24.10.2026 10:21",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-10-24",
+      "saved_at": "2026-10-24T09:34:40+00:00",
+      "content_checked_at": "2026-10-24T09:34:40+00:00",
+      "published_time": "10:21",
+      "published_at": "2026-10-24T10:21+02:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
     {
       "id": "35fbb703c9cb6dfe",
       "title": "DZIEŃ NA RYNKACH: Spadki akcji na Wall Street, bo mocno drożeje ropa",
@@ -361,7 +732,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-24T05:05:58+00:00",
+      "discovered_at": "2026-10-24T09:34:40+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -708,7 +1079,7 @@
       "published_display": "23.10.2026 21:02",
       "content_sha256": "40ea28c55d99cd3f6f6d4e91e29896561be526fccfb7ba240afc47ed8a3e0cff",
       "saved_at": "2026-10-23T19:15:41+00:00",
-      "content_checked_at": "2026-10-24T05:05:58+00:00",
+      "content_checked_at": "2026-10-24T09:34:40+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2818,7 +3189,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-24T05:05:58+00:00",
+      "discovered_at": "2026-10-24T09:34:40+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3121,7 +3492,7 @@
       "published_display": "23.10.2026 17:01",
       "content_sha256": "ff48459cac7b27677b3a880701d16dab37b9b3d9c548f0920d0072a1bdda5fb5",
       "saved_at": "2026-10-23T15:07:02+00:00",
-      "content_checked_at": "2026-10-24T05:05:58+00:00",
+      "content_checked_at": "2026-10-24T09:34:40+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -295725,7 +296096,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295743,7 +296114,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295762,7 +296133,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295780,7 +296151,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295798,7 +296169,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295816,7 +296187,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295834,7 +296205,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295852,7 +296223,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295870,7 +296241,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295888,7 +296259,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295906,7 +296277,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295924,7 +296295,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295942,7 +296313,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295960,7 +296331,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295978,7 +296349,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -295998,7 +296369,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296018,7 +296389,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296036,7 +296407,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296054,7 +296425,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296072,7 +296443,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296090,7 +296461,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296108,7 +296479,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296128,7 +296499,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296146,7 +296517,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296164,7 +296535,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296182,7 +296553,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296200,7 +296571,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296220,7 +296591,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296238,7 +296609,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296256,7 +296627,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296274,7 +296645,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296294,7 +296665,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296312,7 +296683,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296330,7 +296701,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296348,7 +296719,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296368,7 +296739,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296440,7 +296811,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296460,7 +296831,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296478,7 +296849,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296496,7 +296867,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296514,7 +296885,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296535,7 +296906,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296553,7 +296924,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296571,7 +296942,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296592,7 +296963,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296610,7 +296981,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 53,
+      "attempts": 54,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296628,7 +296999,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296646,7 +297017,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296664,7 +297035,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296682,7 +297053,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296700,7 +297071,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296718,7 +297089,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296738,7 +297109,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296756,7 +297127,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296776,7 +297147,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296794,7 +297165,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296812,7 +297183,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296830,7 +297201,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296850,7 +297221,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296868,7 +297239,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296886,7 +297257,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296904,7 +297275,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296924,7 +297295,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296942,7 +297313,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296960,7 +297331,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296978,7 +297349,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -296996,7 +297367,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297016,7 +297387,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297034,7 +297405,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297052,7 +297423,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297070,7 +297441,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297088,7 +297459,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297106,7 +297477,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297124,7 +297495,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297142,7 +297513,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297160,11 +297531,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 54,
+      "attempts": 55,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
       "error": "ValueError"
@@ -297463,18 +297838,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
       "error": "ValueError"
     }
   ],
