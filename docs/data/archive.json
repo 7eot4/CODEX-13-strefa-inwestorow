@@ -1,8 +1,130 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-25T05:22:31+00:00",
+  "last_checked": "2026-10-25T10:12:26+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "cda5e5b3472fda41",
+      "title": "Mieszane wyniki spółek z S&P 500 w III kw., skala niespodzianek niższa niż wcześniej",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261025/mieszane-wyniki-spolek-z-sp-500-w-iii-kw-skala-niespodzianek-nizsza-niz",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: S&P 500"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-25T10:12:26+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Po około jednej czwartej sezonu publikacji raportów za trzeci kwartał spółki z indeksu S&P 500 raportują mieszane wyniki w porównaniu z oczekiwaniami. Odsetek spółek z indeksu S&P 500, które odnotowały pozytywne niespodzianki w zyskach, jest powyżej ostatnich kwartałów, ale skala niespodzianek jest niższa - wynika z analiz FactSet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogółem 24 proc. spółek z indeksu S&P 500 opublikowało do tej pory wyniki za III kwartał 2026 roku. 83 proc. z tych spółek podało rzeczywisty zysk na akcję (EPS) powyżej szacunków, co stanowi wartość wyższą od 5-letniej średniej wynoszącej 78 proc. i 10-letniej średniej wynoszącej 77 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie spółki raportują zyski o 2,1 proc powyżej szacunków, co jest wartością niższą od 5-letniej średniej wynoszącej 7,5 proc. i 10-letniej średniej wynoszącej 8,0 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ciągu ostatniego tygodnia pozytywne niespodzianki na akcję (EPS) zgłoszone były przez spółki z wielu sektorów, częściowo zrównoważone przez negatywną niespodziankę na akcję (EPS) spółki z sektora usług komunikacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "W rezultacie indeks odnotowuje obecnie nieco wyższe zyski za trzeci kwartał w porównaniu z końcem ubiegłego tygodnia i końcem kwartału. Łączny (łączący rzeczywiste wyniki spółek, które opublikowały raporty, i szacunkowe wyniki spółek, które jeszcze tego nie zrobiły) wskaźnik wzrostu zysków za trzeci kwartał wynosi 29,5 proc., w porównaniu ze wskaźnikiem wzrostu zysków na poziomie 29,2 proc. w zeszłym tygodniu i wskaźnikiem wzrostu zysków na poziomie 29,2 proc. na koniec trzeciego kwartału (30 września)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeśli rzeczywista stopa wzrostu dla tego kwartału utrzyma się na poziomie 29,5 proc., będzie to trzeci z rzędu kwartał wzrostu zysków powyżej 25 proc. i ósmy z rzędu kwartał dwucyfrowego wzrostu zysków indeksu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dziesięć z jedenastu sektorów odnotowuje wzrost zysków rok do roku. Pięć z nich odnotowuje dwucyfrowy wzrost, na czele z sektorem energetycznym, technologii informatycznych, usług komunikacyjnych i surowców. Z drugiej strony, sektor opieki zdrowotnej jest jedynym sektorem, który odnotował spadek zysków rok do roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podaje FactSet, 66 proc. spółek z indeksu S&P 500 odnotowało przychody przekraczające szacunki, co jest wartością niższą od 5-letniej średniej wynoszącej 70 proc. i od 10-letniej średniej wynoszącej 68 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie spółki odnotowują przychody o 1,2 proc. wyższe od szacunków, co jest wartością niższą od 5-letniej średniej wynoszącej 1,8 proc. i od 10-letniej średniej wynoszącej 1,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łączna stopa wzrostu przychodów w trzecim kwartale wynosi obecnie 12,7 proc., w porównaniu do stopy wzrostu przychodów wynoszącej 12,4 proc. w zeszłym tygodniu i stopy wzrostu przychodów wynoszącej 12,2 proc. na koniec trzeciego kwartału (30 września)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeżeli rzeczywista stopa wzrostu przychodów w trzecim kwartale wyniesie 12,7 proc., będzie to trzeci z rzędu kwartał dwucyfrowego wzrostu przychodów indeksu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wszystkie jedenaście sektorów odnotowało wzrost przychodów w ujęciu rok do roku, a na czele znalazły się sektory technologii informatycznych, energetyki i usług komunikacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy prognozują wzrost zysków w IV kw. 2026 r. na poziomie 29,2 proc. Na rok budżetowy 2026 analitycy prognozują wzrost zysków (w ujęciu rok do roku) na poziomie 33,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przyszły 12-miesięczny wskaźnik P/E wynosi 18,7, co jest wartością niższą od średniej 5-letniej (19,8) i 10-letniej (19,1). Wskaźnik P/E jest również niższy od prognozowanego wskaźnika P/E, który na koniec trzeciego kwartału (30 września) wyniósł 19,0."
+        },
+        {
+          "type": "paragraph",
+          "text": "W nadchodzącym tygodniu 179 spółek wchodzących w skład indeksu S&P 500 (w tym 10 spółek wchodzących w skład indeksu Dow 30) ma opublikować wyniki za trzeci kwartał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "25.10.2026 09:20",
+      "content_sha256": "1d6dac5f685008d00402e1fa014812145d1d8ca967f41df029a34b65d568afea",
+      "date": "2026-10-25",
+      "saved_at": "2026-10-25T10:12:26+00:00",
+      "content_checked_at": "2026-10-25T10:12:26+00:00",
+      "published_time": "09:20",
+      "published_at": "2026-10-25T09:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Po około jednej czwartej sezonu publikacji raportów za trzeci kwartał spółki z indeksu S&P 500 raportują mieszane wyniki w porównaniu z oczekiwaniami.",
+          "Odsetek spółek z indeksu S&P 500, które odnotowały pozytywne niespodzianki w zyskach, jest powyżej ostatnich kwartałów, ale skala niespodzianek jest niższa - wynika z analiz FactSet.",
+          "Łączny (łączący rzeczywiste wyniki spółek, które opublikowały raporty, i szacunkowe wyniki spółek, które jeszcze tego nie zrobiły) wskaźnik wzrostu zysków za trzeci kwartał wynosi 29,5 proc., w porównaniu ze wskaźnikiem wzrostu zysków na poziomie 29,2 proc. w zeszłym tygodniu i wskaźnikiem wzrostu zysków na poziomie 29,2 proc. na koniec trzeciego kwartału (30 września)."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Po około jednej czwartej sezonu publikacji raportów za trzeci kwartał spółki z indeksu S&P 500 raportują mieszane wyniki w porównaniu z oczekiwaniami."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Po około jednej czwartej sezonu publikacji raportów za trzeci kwartał spółki z indeksu S&P 500 raportują mieszane wyniki w porównaniu z oczekiwaniami."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "1d6dac5f685008d00402e1fa014812145d1d8ca967f41df029a34b65d568afea"
+      }
+    },
     {
       "id": "dd3566a4fd9c76ef",
       "title": "Produkcja Dębicy i zatrudnienie w najbliższych latach powinny być stabilne lub rosnąć",
@@ -846,7 +968,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-25T05:22:31+00:00",
+      "discovered_at": "2026-10-25T10:12:26+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1193,7 +1315,7 @@
       "published_display": "23.10.2026 21:02",
       "content_sha256": "40ea28c55d99cd3f6f6d4e91e29896561be526fccfb7ba240afc47ed8a3e0cff",
       "saved_at": "2026-10-23T19:15:41+00:00",
-      "content_checked_at": "2026-10-25T05:22:31+00:00",
+      "content_checked_at": "2026-10-25T10:12:26+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3303,7 +3425,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-25T05:22:31+00:00",
+      "discovered_at": "2026-10-25T10:12:26+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3606,7 +3728,7 @@
       "published_display": "23.10.2026 17:01",
       "content_sha256": "ff48459cac7b27677b3a880701d16dab37b9b3d9c548f0920d0072a1bdda5fb5",
       "saved_at": "2026-10-23T15:07:02+00:00",
-      "content_checked_at": "2026-10-25T05:22:31+00:00",
+      "content_checked_at": "2026-10-25T10:12:26+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -296210,7 +296332,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296228,7 +296350,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296247,7 +296369,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296265,7 +296387,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296283,7 +296405,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296301,7 +296423,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296319,7 +296441,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296337,7 +296459,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296355,7 +296477,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296373,7 +296495,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296391,7 +296513,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296409,7 +296531,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296427,7 +296549,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296445,7 +296567,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296463,7 +296585,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296483,7 +296605,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296503,7 +296625,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296521,7 +296643,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296539,7 +296661,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296557,7 +296679,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296575,7 +296697,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296593,7 +296715,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296613,7 +296735,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296631,7 +296753,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296649,7 +296771,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296667,7 +296789,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296685,7 +296807,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296741,7 +296863,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296759,7 +296881,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296779,7 +296901,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296797,7 +296919,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296815,7 +296937,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296833,7 +296955,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296853,7 +296975,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296871,7 +296993,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296889,7 +297011,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296907,7 +297029,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296925,7 +297047,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296945,7 +297067,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296963,7 +297085,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296981,7 +297103,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296999,7 +297121,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297020,7 +297142,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297038,7 +297160,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297056,7 +297178,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297077,7 +297199,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297095,7 +297217,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 60,
+      "attempts": 61,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297113,7 +297235,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297131,7 +297253,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297149,7 +297271,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297167,7 +297289,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297185,7 +297307,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297203,7 +297325,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297223,7 +297345,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297241,7 +297363,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297261,7 +297383,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297279,7 +297401,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297297,7 +297419,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297315,7 +297437,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297335,7 +297457,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297353,7 +297475,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297371,7 +297493,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297389,7 +297511,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297409,7 +297531,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297427,7 +297549,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297445,7 +297567,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297463,7 +297585,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297481,7 +297603,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297501,7 +297623,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297519,7 +297641,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297537,7 +297659,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297555,7 +297677,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297573,7 +297695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297591,7 +297713,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297609,7 +297731,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297627,7 +297749,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297645,11 +297767,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 61,
+      "attempts": 62,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
       "error": "ValueError"
@@ -297952,14 +298078,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
       "error": "ValueError"
     }
   ],
