@@ -1,8 +1,674 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-25T14:24:24+00:00",
+  "last_checked": "2026-10-25T17:54:59+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "7e14bd44b136fa50",
+      "title": "Czy debiut Anthropic na giełdzie zakończy hossę na AI? - Biedrzycki i Machalica | Procent Składany",
+      "url": "https://strefainwestorow.pl/podcast/procent-skladany/debiut-anthropic",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "technologie"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "match_reasons": {
+        "technologie": [
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-25T17:54:59+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Anthropic, twórca modelu Claude, złożył prospekt S-1 i zmierza na giełdę. To może być pierwsza w historii spółka notowana publicznie, której biznes w całości opiera się na budowie dużych modeli językowych. Do tej pory inwestorzy zarabiali głównie na „producentach łopat i kilofów” w gorączce złota AI, przede wszystkim na Nvidii. Debiut Anthropic przesuwa pytanie dalej: nie ile sprzętu kupi branża, lecz ile sztuczna inteligencja potrafi realnie zarobić."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według przecieków opisywanych przez Bloomberga i Wall Street Journal spółka może celować w wycenę rzędu 2 bln dolarów, choć realniejszy wydaje się poziom ok. 1,5 bln. Jeszcze w czerwcu Anthropic pozyskał finansowanie przy wycenie ok. 920 mld dolarów. Przychody rosną w tempie kilkunastokrotnym rok do roku, a ekonomia biznesu się poprawia. Mimo to spółka wciąż pali gotówkę, ma wysoką koncentrację klientów i wieloletnie zobowiązania na zakup mocy obliczeniowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W najnowszym odcinku podcastu rozmawiamy o tym, dlaczego Nvidia jest wyceniana najniżej pod względem wskaźnika C/Z od lat mimo rekordowych wyników, co mówi o rynku słabość KOSPI, rentowność obligacji CoreWeave bliska 15% i nieudane IPO spółki budującej centra danych. Pokazujemy, jak działa zamknięty obieg pieniędzy między Nvidią, Metą, Anthropic i SoftBankiem oraz dlaczego Wall Street coraz częściej pyta o amortyzację chipów. Jest też polski wątek: gwałtowna wyprzedaż akcji ASBIS-u mimo rekordowych przychodów."
+        },
+        {
+          "type": "paragraph",
+          "text": "W drugiej części odcinka przechodzimy do rynku długu. Rentowności obligacji przekroczyły 5% zarówno w USA, jak i we Francji, ale tylko Francja zmaga się z kryzysem zaufania. Wyjaśniamy, dlaczego Paryż pożycza drożej niż Włochy, Grecja i Hiszpania, co oznacza rosnący spread do Niemiec i jaką rolę może odegrać EBC przed wyborami w 2027 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W co inwestować po 4 latach hossy? - Sebastian Buczek | Procent Składany"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapraszamy do wysłuchania najnowszego odcinka podcastu Procent Składany ."
+        },
+        {
+          "type": "heading",
+          "text": "O czym usłyszysz w podcaście:"
+        },
+        {
+          "type": "paragraph",
+          "text": "0:55 Czy debiut Anthropic zakończy hossę AI?"
+        },
+        {
+          "type": "paragraph",
+          "text": "4:15 Wycena 2 bln $ vs runda sprzed pół roku"
+        },
+        {
+          "type": "paragraph",
+          "text": "5:58 Emisja za 100 mld $ i dynamika przychodów"
+        },
+        {
+          "type": "paragraph",
+          "text": "9:27 Jak wycenić Anthropic? DCF, porównania i TAM"
+        },
+        {
+          "type": "paragraph",
+          "text": "13:32 Rosnąca konkurencja: Grok, Gemini, Meta, Chiny, Microsoft"
+        },
+        {
+          "type": "paragraph",
+          "text": "17:40 Hossa AI łapie zadyszkę – sygnał z KOSPI"
+        },
+        {
+          "type": "paragraph",
+          "text": "19:22 Nvidia: rekordowe wyniki, najniższe C/Z od lat"
+        },
+        {
+          "type": "paragraph",
+          "text": "22:41 Nieudane IPO i obligacje CoreWeave z rentownością ~15%"
+        },
+        {
+          "type": "paragraph",
+          "text": "25:23 Problem amortyzacji chipów"
+        },
+        {
+          "type": "paragraph",
+          "text": "26:17 Zamknięty obieg pieniędzy w branży AI"
+        },
+        {
+          "type": "paragraph",
+          "text": "32:04 Francja vs USA: rentowności powyżej 5%"
+        },
+        {
+          "type": "paragraph",
+          "text": "35:26 Dlaczego dług Francji rośnie szybciej niż gospodarka"
+        },
+        {
+          "type": "paragraph",
+          "text": "39:03 Czy EBC pomoże Francji?"
+        },
+        {
+          "type": "paragraph",
+          "text": "41:20 Dot-comy, subprime i podsumowanie"
+        },
+        {
+          "type": "heading",
+          "text": "Pobierz podcast:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast Procent Składany (kliknij prawym klawiszem myszy i wybierz \"Zapisz element docelowy jako\")"
+        },
+        {
+          "type": "paragraph",
+          "text": "Słuchaj podcastu w iTunes: Podcast Procent Składany w iTunes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Słuchaj podcastu na Spotify: Słuchaj podcastu na Spotify"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska giełda się zmienia. Co dziś napędza hossę? – Krisztina Bende | Procent Składany"
+        },
+        {
+          "type": "paragraph",
+          "text": "----"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in. nie opierają się na żadnej metodzie wyceny walorów oraz nie określają ryzyka inwestycyjnego, nie zawierają bezpośrednich zaleceń podjęcia określonych działań inwestycyjnych, przez co nie mogą być traktowane jako doradztwo finansowe, prawne, podatkowe czy też jakiekolwiek inne doradztwo inwestycyjne w rozumieniu art.76 ustawy z dnia 29 lipca 2005r. o obrocie instrumentami finansowymi. Zgodnie z powyższym autorzy nie ponoszą jakiejkolwiek odpowiedzialności za decyzje inwestycyjne podejmowane na podstawie treści zawartych w artykule albowiem nie jest intencją Usługodawcy dokonywanie bezpośrednich porad inwestycyjnych."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "25.10.2026 18:34",
+      "content_sha256": "4dc3532f8b3bebc4a70965964c55943c233dea8e87bee5f163f3fa517b94ab97",
+      "date": "2026-10-25",
+      "saved_at": "2026-10-25T17:54:59+00:00",
+      "content_checked_at": "2026-10-25T17:54:59+00:00",
+      "published_time": "18:34",
+      "published_at": "2026-10-25T18:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Anthropic, twórca modelu Claude, złożył prospekt S-1 i zmierza na giełdę.",
+          "Debiut Anthropic przesuwa pytanie dalej: nie ile sprzętu kupi branża, lecz ile sztuczna inteligencja potrafi realnie zarobić.",
+          "W najnowszym odcinku podcastu rozmawiamy o tym, dlaczego Nvidia jest wyceniana najniżej pod względem wskaźnika C/Z od lat mimo rekordowych wyników, co mówi o rynku słabość KOSPI, rentowność obligacji CoreWeave bliska 15% i nieudane IPO spółki budującej centra danych."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Przychody rosną w tempie kilkunastokrotnym rok do roku, a ekonomia biznesu się poprawia."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4dc3532f8b3bebc4a70965964c55943c233dea8e87bee5f163f3fa517b94ab97"
+      }
+    },
+    {
+      "id": "d2ab4cb760620b8a",
+      "title": "Grupa Kęty, Alior Bank, Żabka i mBank – kalendarium publikacji raportów za III kwartał na GPW",
+      "url": "https://strefainwestorow.pl/wydarzenia/kalendarium-publikacji-raportow-kwartalnych-4-tydzien-pazdziernik-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse",
+        "przemysl",
+        "konsumpcja"
+      ],
+      "companies": [
+        "Alior",
+        "Asseco",
+        "Budimex",
+        "ING",
+        "mBank",
+        "Żabka"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ],
+        "finanse": [
+          "Firma: mBank",
+          "Firma: Alior",
+          "Temat: bank"
+        ],
+        "przemysl": [
+          "Firma: Budimex",
+          "Temat: kolej"
+        ],
+        "konsumpcja": [
+          "Firma: Żabka",
+          "Temat: konsumen"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-25T17:54:59+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Rozpoczyna się kolejny i zarazem ostatni sezon wynikowy w 2026 r. W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy otrzymają łącznie 27 raportów okresowych, z czego zdecydowana większość, bo aż 19, to sprawozdania za III kwartał. W centrum uwagi znajdą się przede wszystkim banki oraz spółki z sektora konsumenckiego i budowlanego. Wśród emitentów z WIG20 raporty zaprezentują Grupa Kęty, Alior Bank, Budimex, Kruk, Żabka, mBank oraz Erste Bank Polska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniedziałek, 26 października, otworzy tydzień raportami dwóch spółek z WIG20 i mWIG40. Grupa Kęty #KTY z WIG20, producent wyrobów z aluminium oraz opakowań giętkich, zaprezentuje wyniki za III kwartał. Tego samego dnia raport pokaże także Orange Polska #OPL z mWIG40, operator telekomunikacyjny działający na rynku usług mobilnych, stacjonarnych i internetowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wtorek, 27 października, będzie znacznie bardziej intensywny i przyniesie aż cztery raporty spółek z WIG20. Sektor finansowy zaprezentuje Alior Bank #ALR , bank koncentrujący się na segmencie detalicznym i korporacyjnym, a także Kruk #KRU z rynku zarządzania wierzytelnościami. Branżę budowlaną reprezentować będzie Budimex #BDX , największy generalny wykonawca w Polsce, natomiast pierwsze dane z rynku handlu detalicznego wniesie raport Żabki #ZAB , operatora sieci convenience, który od niedawna notowany jest na GPW. Uzupełnieniem dnia będzie raport Bank Millennium #MIL z mWIG40."
+        },
+        {
+          "type": "paragraph",
+          "text": "Środa, 28 października, to dzień kolejnego raportu od banku. Raport za III kwartał opublikuje mBank #MBK z WIG20, jeden z największych banków w kraju, a kolejnym raportem z grona najważniejszych spółek będzie publikacja Mennicy Polskiej #MNC z sWIG80, podmiotu działającego w obszarze produkcji monet, metali szlachetnych oraz usług mennicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czwartek, 29 października, to kolejny dzień z raportem sektora bankowego. Zobaczymy raport ING Bank Śląski #ING z mWIG40. W tle pojawią się również wyniki spółek z sWIG80 – Asseco Business Solutions #ABS , dostawcy oprogramowania dla biznesu, oraz Wawel #WWL , producenta wyrobów czekoladowych i cukierniczych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piątek, 30 października, zamknie tydzień raportem Erste Bank Polska #EBP z WIG20, instytucji finansowej działającej w ramach międzynarodowej grupy bankowej. Tego dnia wyniki za I kwartał opublikuje także GreenX Metals #GRX z sWIG80, spółka surowcowa notowana w ramach podwójnego listingu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Te spółki z GPW skorzystają na trendzie AI. Kluczowa jedna branża"
+        },
+        {
+          "type": "paragraph",
+          "text": "W tabeli poniżej przedstawiamy pełne zestawienie dat publikacji raportów w nadchodzącym tygodniu:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nazwa skrócona | Ticker | Nazwa pełna | Raport | Indeks"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Poniedziałek 26 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KETY | KTY | Grupa Kęty SA | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ORANGEPL | OPL | Orange Polska SA | Raport za III kwartał | mWIG40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wtorek 27 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ALIOR | ALR | Alior Bank SA | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| BUDIMEX | BDX | Budimex SA | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KRUK | KRU | Kruk SA | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ZABKA | ZAB | Zabka Group S.A. (Żabka) | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MILLENNIUM | MIL | Bank Millennium SA | Raport za III kwartał | mWIG40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Środa 28 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MBANK | MBK | mBank SA | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MENNICA | MNC | Mennica Polska SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ATLANTAPL | ATP | Atlanta Poland SA | Raport roczny |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czwartek 29 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "| INGBSK | ING | ING Bank Śląski SA | Raport za III kwartał | mWIG40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ASSECOBS | ABS | Asseco Business Solutions SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WAWEL | WWL | Wawel SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| DELKO | DEL | Delko SA | Raport roczny |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ROPCZYCE | RPC | ZM Ropczyce SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Piątek 30 października"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ERSTEPL | EBP | Erste Bank Polska SA | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| GREENX | GRX | GreenX Metals Ltd. | Raport za I kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COALENERG | CLE | Coal Energy SA | Raport roczny |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| DBENERGY | DBE | DB Energy SA | Raport roczny |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| EFEKT | EFK | Efekt SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| EKOEXPORT | EEX | Eko Export SA w restrukturyzacji | Raport roczny |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| HELIO | HEL | Helio SA | Raport roczny |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| LESS | LES | Luna Global SA | Raport za II kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MOLECURE | MOC | Molecure SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NWAI | NWA | NWAI Dom Maklerski SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| REMAK | RMK | Remak-Energomontaż SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SEKO | SEK | Seko SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ożywienie na biotech powraca? Globalny kapitał znów płynie do innowacji, a co z Polską - przed nami III edycja \"Kapitał na Zdrowie\""
+        }
+      ],
+      "author": "Piotr Kwestarz",
+      "published_display": "25.10.2026 17:00",
+      "content_sha256": "e9bb2733bf49b4f3481c872bdad9c2bc0346b75d9c10c795aafd9b27d9daf839",
+      "date": "2026-10-25",
+      "saved_at": "2026-10-25T17:54:59+00:00",
+      "content_checked_at": "2026-10-25T17:54:59+00:00",
+      "published_time": "17:00",
+      "published_at": "2026-10-25T17:00+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Rozpoczyna się kolejny i zarazem ostatni sezon wynikowy w 2026 r. W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy otrzymają łącznie 27 raportów okresowych, z czego zdecydowana większość, bo aż 19, to sprawozdania za III kwartał.",
+          "Wśród emitentów z WIG20 raporty zaprezentują Grupa Kęty, Alior Bank, Budimex, Kruk, Żabka, mBank oraz Erste Bank Polska.",
+          "Grupa Kęty #KTY z WIG20, producent wyrobów z aluminium oraz opakowań giętkich, zaprezentuje wyniki za III kwartał."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Rozpoczyna się kolejny i zarazem ostatni sezon wynikowy w 2026 r. W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy otrzymają łącznie 27 raportów okresowych, z czego zdecydowana większość, bo aż 19, to sprawozdania za III kwartał."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "konsumen*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e9bb2733bf49b4f3481c872bdad9c2bc0346b75d9c10c795aafd9b27d9daf839"
+      }
+    },
+    {
+      "id": "378440502cb99ce1",
+      "title": "21% Rocznie 440 EXTRA | Podcast | Jak inwestować - ASBiS, Digital Network, CD PROJEKT, Benefit Systems, Quercus, Unimot",
+      "url": "https://strefainwestorow.pl/podcast/21-rocznie-extra/23-jak-inwestowac-440",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "technologie"
+      ],
+      "companies": [
+        "CD PROJEKT",
+        "Unimot"
+      ],
+      "match_reasons": {
+        "energia": [
+          "Firma: Unimot"
+        ],
+        "technologie": [
+          "Firma: CD PROJEKT"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-25T17:54:59+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "25.10.2026 16:57",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-10-25",
+      "saved_at": "2026-10-25T17:54:59+00:00",
+      "content_checked_at": "2026-10-25T17:54:59+00:00",
+      "published_time": "16:57",
+      "published_at": "2026-10-25T16:57+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
     {
       "id": "cda5e5b3472fda41",
       "title": "Mieszane wyniki spółek z S&P 500 w III kw., skala niespodzianek niższa niż wcześniej",
@@ -968,7 +1634,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-25T14:24:24+00:00",
+      "discovered_at": "2026-10-25T17:54:59+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1315,7 +1981,7 @@
       "published_display": "23.10.2026 21:02",
       "content_sha256": "40ea28c55d99cd3f6f6d4e91e29896561be526fccfb7ba240afc47ed8a3e0cff",
       "saved_at": "2026-10-23T19:15:41+00:00",
-      "content_checked_at": "2026-10-25T14:24:24+00:00",
+      "content_checked_at": "2026-10-25T17:54:59+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3425,7 +4091,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-25T14:24:24+00:00",
+      "discovered_at": "2026-10-25T17:54:59+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3728,7 +4394,7 @@
       "published_display": "23.10.2026 17:01",
       "content_sha256": "ff48459cac7b27677b3a880701d16dab37b9b3d9c548f0920d0072a1bdda5fb5",
       "saved_at": "2026-10-23T15:07:02+00:00",
-      "content_checked_at": "2026-10-25T14:24:24+00:00",
+      "content_checked_at": "2026-10-25T17:54:59+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -296332,7 +296998,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296350,7 +297016,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296369,7 +297035,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296387,7 +297053,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296405,7 +297071,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296423,7 +297089,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296441,7 +297107,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296459,7 +297125,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296477,7 +297143,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296495,7 +297161,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296513,7 +297179,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296531,7 +297197,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296549,7 +297215,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296567,7 +297233,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296585,7 +297251,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296605,7 +297271,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296625,7 +297291,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296643,7 +297309,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296661,7 +297327,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296679,7 +297345,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296697,7 +297363,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296715,7 +297381,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296807,7 +297473,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296827,7 +297493,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296845,7 +297511,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296863,7 +297529,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296881,7 +297547,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296901,7 +297567,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296919,7 +297585,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296937,7 +297603,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296955,7 +297621,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296975,7 +297641,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -296993,7 +297659,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297011,7 +297677,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297029,7 +297695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297047,7 +297713,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297067,7 +297733,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297085,7 +297751,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297103,7 +297769,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297121,7 +297787,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297142,7 +297808,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297160,7 +297826,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297178,7 +297844,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297199,7 +297865,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297217,7 +297883,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 62,
+      "attempts": 63,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -297235,7 +297901,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297253,7 +297919,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297271,7 +297937,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297289,7 +297955,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297307,7 +297973,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297325,7 +297991,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297345,7 +298011,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297363,7 +298029,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297383,7 +298049,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297401,7 +298067,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297419,7 +298085,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297437,7 +298103,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297457,7 +298123,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297475,7 +298141,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297493,7 +298159,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297511,7 +298177,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297531,7 +298197,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297549,7 +298215,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297567,7 +298233,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297585,7 +298251,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297603,7 +298269,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297623,7 +298289,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297641,7 +298307,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297659,7 +298325,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297677,7 +298343,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -297695,7 +298361,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297713,7 +298379,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297731,7 +298397,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297749,7 +298415,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -297767,11 +298433,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 63,
+      "attempts": 64,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
       "error": "ValueError"
@@ -298066,22 +298736,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
       "error": "ValueError"
     }
   ],
