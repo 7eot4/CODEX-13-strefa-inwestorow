@@ -1,8 +1,795 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-10-30T18:41:12+00:00",
+  "last_checked": "2026-10-31T01:52:53+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "4d2fc29e61b931fa",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, Nasdaq spadł do najniższego poziomu od 3 miesięcy",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261030/dzien-na-rynkach-gieldy-w-usa-w-dol-nasdaq-spadl-do-najnizszego-poziomu-od-3",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: Nasdaq"
+        ],
+        "technologie": [
+          "Temat: technologi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-10-31T01:52:53+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Giełdy na Wall Street zakończyły piątkową sesję spadkami, Nasdaq spadł do najniższego poziomu od prawie trzech miesięcy. Inwestorzy wycofują się z kluczowych spółek technologicznych na bardziej defensywne obszary rynku. Spadły notowania Amazona i Intela."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu spadł o 1,09 proc. i wyniósł 51.770,31 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia stracił 1,82 proc. i wyniósł 7.580,07 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 2,86 proc. do 25.436,99 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o 1,66 proc. i wynosi 2.811,84 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Chodzi raczej o to, co jest wyceniane w akcjach i jakich zysków oczekują inwestorzy. Alphabet, Amazon i Intel należą do kategorii, w której niewiele potrzeba, by wywołać poważne rozczarowanie\" – powiedział Art Hogan, główny strateg rynkowy w B. Riley Wealth Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Nie sądzę, żeby to był szerszy reset... To raczej rotacja z niezwykle popularnej branży technologicznej do bezpieczniejszych przystani\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq spadł w piątek do najniższego poziomu od prawie trzech miesięcy po tym, jak agresywny plan wydatków Amazona na sztuczną inteligencję i ostrzeżenie firmy Intel o marnowaniu gotówki nasiliły obawy dotyczące rosnących kosztów budowy infrastruktury sztucznej inteligencji i terminów zwrotu."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Nastroje nieco się zmieniły, a to, czy wpłynie to na trwałość rotacji kapitału na rynku, dopiero się okaże” - powiedział Keith Buchanan, starszy menedżer portfela w Globalt Investments, zaznaczając, że rynek stał się bardziej wymagający i selektywny."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W ubiegłym roku dominowały nadzieje. W tym roku pojawiają się pytania: jak to wszystko ma działać w praktyce, jak to sfinansować i kto ostatecznie będzie czerpał z tego korzyści ekonomiczne? Na te pytania znacznie trudniej odpowiedzieć\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazał, istnieją realne zagrożenia dla gospodarki, a rynek zaczyna je dostrzegać."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W obliczu powracających obaw dotyczących monetyzacji sektora sztucznej inteligencji, rotacja na rynku akcji prawdopodobnie będzie dziś kontynuowana, przy czym szersze indeksy odzwierciedlą spadki w sektorze technologicznym\" – napisali w raporcie analitycy JPMorgan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Amazon spadły o około 1 proc. w po tym, jak spółka zaraportowała znaczny odpływ gotówki w trzecim kwartale i zapowiedziała dalszy wzrost nakładów inwestycyjnych w przyszłym roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intel zniżkował o 29 proc. po ostrzeżeniu producenta chipów, że przewiduje spowolnienie na rynku PC i zapowiedzi dalszych inwestycji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki Amazona i Intela pokazały, że rozbudowa infrastruktury AI nie tylko obciąża branżę technologiczną, ale także wpływa negatywnie na konsumentów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po piątkowych spadkach łączna kapitalizacja rynkowa Amazona i Intela skurczy się o około 200 mld USD, co dla indeksu Nasdaq-100 oznaczałoby utratę wartości rzędu 1 biliona USD. Kwota ta powiększyłaby dotychczasowe straty indeksu w tym miesiącu, które wynoszą już blisko 2 biliony dolarów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje SanDisk spadły o ponad 13 proc., mimo że wyniki spółki za pierwszy kwartał przebiły oczekiwania. Firma zajmująca się przechowywaniem danych ogłosiła planowany split akcji w stosunku osiem do jednego."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Podsumowując wyniki gigantów technologicznych: wzrost w segmencie chmury był silny, ale firmy ponoszą ogromne koszty, aby ten wzrost osiągnąć. Łącznie Amazon, Google, Microsoft i Meta wydały w samym trzecim kwartale ponad 200 mld USD. W przyszłości istnieje ryzyko, że wyższe koszty finansowania pochłoną większą część generowanych przychodów, pozostawiając mniej środków na finansowanie ekspansji czy spłatę zadłużenia\" – wskazywała Ipek Ozkardeskaya, starsza analityczka w Swissquote Bank."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynek próbuje zmierzyć się z równaniem dotyczącym ogromnych nakładów inwestycyjnych w relacji do czasu potrzebnego na osiągnięcie zwrotu z inwestycji. Na ten moment nie ma na to odpowiedzi\" – ocenił Michael Hewson, główny analityk w MCH Market Insights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wiele firm sięgnęło po rynek obligacji, aby sfinansować swoje kosztowne inwestycje w sztuczną inteligencję. Budzi to obawy, że rosnące koszty zaciągania długu mogą sprawić, iż takie wydatki staną się trudniejsze do uzasadnienia."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynek niekoniecznie zastanawia się nad tym, czy rozbudowę infrastruktury na potrzeby AI da się sfinansować. Coraz częściej pojawia się natomiast pytanie, czy akcjonariusze uzyskają satysfakcjonujący zwrot z ogromnego kapitału, który jest w to angażowany\" – wskazywał Chris Weston, analityk w firmie Pepperstone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Alphabetu spadły o ponad 1 proc., pogłębiając straty po rekordowej wyprzedaży z poprzedniej sesji. Właściciel Google’a przedstawił wówczas rozczarowujące wyniki w segmencie reklam w wyszukiwarce oraz zaraportował znaczny odpływ gotówki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pod presją znalazły się również akcje producentów półprzewodników. Kurs akcji AMD spadł o 11 proc., podczas gdy akcje Nvidii i Broadcomu zniżkowały odpowiednio o 4 proc. i ponad 5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei giganci sektora energetycznego, Chevron i Exxon Mobil, zyskały po około 2 proc., po tym, jak ich zyski za trzeci kwartał okazały się wyższe od prognoz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje platformy społecznościowej Reddit spadły o 29 proc. po tym, jak dyrektor generalny Steve Huffman podał, że w czwartym kwartale liczba unikalnych użytkowników aktywnych każdego dnia może spaść nawet o kilkanaście proc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dla indeksu Nasdaq październik zakończył się przerwaniem dwumiesięcznej serii wzrostów, podczas gdy S&P 500 oraz Dow Jones pozostały na ścieżce wzrostowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dziewięć z 11 sektorów indeksu S&P 500 zanotowało miesięczne wzrosty. Wyjątek stanowi sektor usług komunikacyjnych, dla którego był to najgorszy miesiąc od kwietnia 2022 roku, a także sektor technologiczny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Październik był burzliwy dla spółek związanych ze sztuczną inteligencją, a inwestorzy uważnie przyglądali się wydatkom przedsiębiorstw na rozbudowę infrastruktury AI. Technologiczni giganci Alphabet i Microsoft nie podnieśli swoich prognoz nakładów inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik kosztów zatrudnienia w USA spadł w III kw. 2026 r. do 0,9 proc. wobec 1,0 proc. w poprzednim kwartale. Analitycy prognozowali wzrost na poziomie 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks PMI w Chicago wyniósł w październiku 55,3 pkt. wobec 58,8 pkt. we wrześniu. Oczekiwano 56,0 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zwyżkują o 0,90 proc. do 102,93 USD za baryłkę, a grudniowe futures na Brent rosną o 2,32 proc. do 117,55 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "hum/ pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "30.10.2026 21:34",
+      "content_sha256": "ebeb0a7cd5025077df366aa0b5bc8c11e76ba715b301c41f5f73ecd5109546ab",
+      "date": "2026-10-30",
+      "saved_at": "2026-10-31T01:52:53+00:00",
+      "content_checked_at": "2026-10-31T01:52:53+00:00",
+      "published_time": "21:34",
+      "published_at": "2026-10-30T21:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Giełdy na Wall Street zakończyły piątkową sesję spadkami, Nasdaq spadł do najniższego poziomu od prawie trzech miesięcy.",
+          "Nasdaq spadł w piątek do najniższego poziomu od prawie trzech miesięcy po tym, jak agresywny plan wydatków Amazona na sztuczną inteligencję i ostrzeżenie firmy Intel o marnowaniu gotówki nasiliły obawy dotyczące rosnących kosztów budowy infrastruktury sztucznej inteligencji i terminów zwrotu.",
+          "Akcje SanDisk spadły o ponad 13 proc., mimo że wyniki spółki za pierwszy kwartał przebiły oczekiwania."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ebeb0a7cd5025077df366aa0b5bc8c11e76ba715b301c41f5f73ecd5109546ab"
+      }
+    },
+    {
+      "id": "4a14d60e5deae652",
+      "title": "Skrót wiadomości - piątek, 30 października, 21.00",
+      "date": "2026-10-30",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261030/skrot-wiadomosci-piatek-30-pazdziernika-2100",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "attempts": 0,
+      "discovered_at": "2026-10-31T01:52:53+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny towarów i usług konsumpcyjnych w październiku 2026 r. wzrosły rdr o 3,5 proc., a w porównaniu z poprzednim miesiącem spadły o 0,4 proc. - podał w szybkim szacunku Główny Urząd Statystyczny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik Rynku Pracy (WRP), wyprzedzająco informujący o zmianach bezrobocia rejestrowanego, obniżył się w październiku o 0,7 pkt względem września. Był to największy spadek od wiosny tego roku, jednak autorzy badania oceniają, że jest zbyt wcześnie, by mówić o trwałej poprawie sytuacji na rynku pracy - podał BIEC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Napływ bezpośrednich inwestycji zagranicznych (BIZ) do Polski wzrósł w pierwszej połowie 2026 r. do 15,9 mld USD z 2,0 mld USD w drugim półroczu 2025 r., wynika z najnowszego raportu FDI in Figures, October 2026 opublikowanego przez OECD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na koniec III kwartału 2026 r. wartość aktywów netto funduszy zdefiniowanej daty w ramach Pracowniczych Planów Kapitałowych wyniosła 58,97 mld zł wobec 54,1 mld zł w poprzednim kwartale - wynika z danych KNF."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stopa bezrobocia, po dostosowaniu sezonowym, według metodologii Eurostatu, wyniosła we wrześniu w Polsce 3,4 proc., tak jak w sierpniu - podał Eurostat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkt Krajowy Brutto w strefie euro w III kwartale wzrósł 0,4 proc. kdk - poinformował w komunikacie urząd statystyczny Eurostat w I wyliczeniu. Na rynku szacowano +0,2 proc. po +0,6 proc. w II kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stopa bezrobocia w strefie euro we wrześniu, po uwzględnieniu czynników sezonowych, wyniosła 6,5 proc. wobec 6,5 proc. w poprzednim miesiącu, po korekcie - poinformował w komunikacie Eurostat, urząd statystyczny Unii Europejskiej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inflacja według HICP w Niemczech w październiku wyniosła 2,8 proc. rdr wobec 3,3 proc. miesiąc wcześniej - podało niemieckie biuro statystyczne we wstępnym wyliczeniu. Oczekiwano 3,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkt Krajowy Brutto Niemiec w III kwartale wzrósł o 0,2 kdk, po uwzględnieniu czynników sezonowych (SA) - poinformował w komunikacie Federalny Urząd Statystyczny w I wyliczeniu. Na rynku spodziewano się wzrostu o 0,1 proc. kdk wobec +0,3 proc. w II kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stopa bezrobocia w Niemczech w październiku, po uwzględnieniu czynników sezonowych, wyniosła 6,4 proc. - poinformował Federalny Urząd Pracy w komunikacie. Analitycy oczekiwali, że stopa bezrobocia wyniesie 6,4 proc. wobec 6,4 proc. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inflacja wg HICP we Francji w październiku wyniosła 3,8 proc. rdr wobec 3,4 proc. rdr miesiąc wcześniej - podało francuskie biuro statystyczne we wstępnym wyliczeniu. Oczekiwano 3,6 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkt Krajowy Brutto Francji kdk spadł o 0,1 proc. w III kwartale - poinformował urząd statystyczny Insee w I wyliczeniu. Na rynku szacowano, że PKB kdk wzrósł o 0,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Japonii stopa bezrobocia we wrześniu wyniosła 2,4 proc. wobec 2,5 proc. miesiąc wcześniej - poinformowało w komunikacie rządowe biuro statystyczne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż detaliczna w Japonii we wrześniu wzrosła o 2,3 proc. rdr, podczas gdy poprzednio wzrosła o 2,9 proc., po korekcie - poinformowało w komunikacie Ministerstwo Gospodarki, Handlu i Przemysłu. Analitycy spodziewali się rdr +3,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja przemysłowa w Japonii we wrześniu wzrosła o 2,2 proc. mdm - podało Ministerstwo Gospodarki, Handlu i Przemysłu w I wyliczeniu. Na rynku szacowano +1,2 proc. wobec -2,4 proc. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Japonii (BoJ) utrzymał główną stopę procentową overnight call na poziomie 1,25 proc. - poinformował bank w komunikacie na zakończenie posiedzenia. Stopy proc. w Japonii są najwyższe od 1995 r."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Resort finansów szacuje, że stan środków na rachunkach budżetowych na koniec października wyniesie ok. 200 mld zł - poinformował wiceminister finansów Jurand Drop w komentarzu do podaży SPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo Finansów planuje w listopadzie dwa przetargi sprzedaży SPW: w dn. 18 listopada z podażą 7-12 mld zł, w dn. 25 listopada z podażą 8-14 mld zł - podał resort finansów w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu 2026 r. udział inwestorów zagranicznych w polskich obligacjach wzrósł o 9,7 mld zł do poziomu 211,3 mld zł - podał w komunikacie MF."
+        },
+        {
+          "type": "paragraph",
+          "text": "Udział banków w zadłużeniu w SPW na koniec września spadł do 52,4 proc. - podał resort finansów w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wrześniu wartość transakcji na rynku wtórnym obligacji skarbowych zwiększyła się o 16,8 proc. mdm do poziomu 3.140,4 mld zł - podało Ministerstwo Finansów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łączna relacja wpływów z podatków i składek na ubezpieczenia społeczne do PKB w Unii Europejskiej wzrosła w 2025 r. do 40,7 proc. z 40,2 proc. rok wcześniej - podał Eurostat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łączne zadłużenie 32 państw europejskich wzrosło w pierwszej połowie 2026 r. do rekordowych ponad 95 bln USD - wynika z raportu IIF Global Debt Monitor - Special European Edition opublikowanego przez Institute of International Finance (IIF)."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Erste Group Bank planuje ogłosić wezwanie na akcje Erste Bank Polska w poniedziałek 2 listopada, a zapisy miałyby się rozpocząć dzień później - podała grupa w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto grupy Erste Bank Polska w III kwartale 2026 r. spadł do 1.490,4 mln zł z 1.888,8 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 1.499,5 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enea zawarła z Bankiem Gospodarstwa Krajowego, Bankiem Polska Kasa Opieki oraz Powszechną Kasą Oszczędności Bank Polski umowę programową dotyczącą programu emisji obligacji hybrydowych do kwoty 5 mld zł - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erste Bank Polska jest zadowolony z pierwszych efektów oferty akwizycyjnej w segmencie MSP, będzie ją kontynuował także w IV kwartale. Część kosztów integracji i rebrandingu przesunie się na 2027 rok, ale w przyszłym roku wzrost całkowitych kosztów nie przekroczy poziomu inflacji. Koszty ryzyka powinny pozostać niskie - poinformowali przedstawiciele banku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Millennium Bank Hipoteczny otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dla banku narzutu kapitałowego (P2G) przed kompensacją buforem zabezpieczającym, w wysokości 5,35 p.p. - podał bank w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółki zależne Polenergii, będące właścicielami operacyjnych farm wiatrowych o łącznej mocy zainstalowanej 276 MW, zawarły z konsorcjum banków warunkową umowę kredytów - podała Polenergia w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stalprofil szacuje, że w trzecim kwartale 2026 roku jednostkowy zysk netto wyniósł 2,2 mln zł wobec 3,2 mln zł straty rok wcześniej, a EBITDA wyniosła 3,8 mln zł wobec 1,8 mln zł straty przed rokiem - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółki zależne Polenergii, będące właścicielami operacyjnych farm wiatrowych o łącznej mocy zainstalowanej 276 MW, zawarły z konsorcjum banków warunkową umowę kredytów - podała Polenergia w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Katarzyna Kieli, dotychczasowa szefowa polskiego oddziału Warner Bros. Discovery (WBD) i TVN, pokieruje polską częścią koncernu Skydance - poinformowało kierownictwo koncernu. Skydance powstał po przejęciu WBD przez Paramount Skydance. Transakcja została sfinalizowana na początku października."
+        },
+        {
+          "type": "paragraph",
+          "text": "ING Bank Hipoteczny otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dla banku narzutu kapitałowego (P2G) w wysokości 4,50 p.p. ponad wartość każdego z wymogów w zakresie funduszy własnych - podał bank w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "PKO Bank Polski otrzymał pismo Komisji Nadzoru Finansowego o niewyznaczeniu dodatkowego narzutu kapitałowego (P2G) - podał bank w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Nadzoru Finansowego zaleciła Bankowi Ochrony Środowiska utrzymywanie funduszy własnych na pokrycie dodatkowego narzutu kapitałowego (P2G) w celu zaabsorbowania potencjalnych strat wynikających z wystąpienia warunków skrajnych, w wysokości 3,15 pp. na poziomie jednostkowym oraz 2,73 pp. na poziomie skonsolidowanym - poinformował bank w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Handlowy otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dla banku narzutu kapitałowego (P2G) w wysokości 2,12 p.p. - podał bank w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski Holding Rozwoju (PHR) otrzymał koncesję udzieloną przez Ministerstwo Spraw Wewnętrznych i Administracji w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes Jastrzębskiej Spółki Węglowej złożył rezygnację z członkostwa w zarządzie ze skutkiem na dzień 31 października 2026 roku - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "JSW i ARP zawarły aneks do umowy sprzedaży akcji posiadanych przez JSW w Przedsiębiorstwie Budowy Szybów (PBSz) oraz udziałów w Jastrzębskich Zakładach Remontowych (JZR) na rzecz ARP, na mocy którego data końcowa została przesunięta z 31 października 2026 r. na 30 listopada 2026 r. - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oferty Onde za 129,8 mln zł netto, w ramach prywatnego postępowania zakupowego organizowanego przez polską spółkę celową należącą do grupy kapitałowej inwestora z branży OZE, zostały wybrane do realizacji dwóch magazynów energii - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alior Bank otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dodatkowego narzutu kapitałowego (P2G) w wysokości 0,14 p.p. na poziomie jednostkowym - podał bank w komunikacie"
+        },
+        {
+          "type": "paragraph",
+          "text": "Erste Bank Polska oraz Bank Ochrony Środowiska udzielą CI Games 26,8 mln euro kredytu konsorcjalnego - poinformował deweloper gier w komunikacie. Kredyt ma w pełni zabezpieczyć potrzeby spółki związane z ukończeniem produkcji, realizacją globalnej kampanii marketingowej oraz premierą gry \"Lords of the Fallen II\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instalacja AV3 w Rafinerii Dunaj, uszkodzona w ubiegłorocznym pożarze, powróciła do pracy z pełną wydajnością - poinformował MOL w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska Grupa Hutnicza przejęła 100 proc. udziałów w Andorii i Hucie Małapanew od RSJ Fundacji Rodzinnej, w zamian fundacja objęła 33,33 mln nowych akcji serii N6 spółki po 3 zł, czyli łącznie za ok. 100 mln zł – podała PGH w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rainbow Tours szacuje, że narastająco po 9 miesiącach 2026 roku miał 4.375,2 mln skonsolidowanych przychodów, wobec 3.898,6 mln zł w analogicznym okresie 2025 roku, co oznacza wzrost o 12,2 proc. rdr - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "PragmaGO wyemituje 700.000 obligacji serii F1 o wartości nominalnej 100 zł każda, łączna wartość nominalna obligacji wyniesie 70 mln zł - podała PragmaGO w komunikacie. W przypadku podjęcia przez zarząd decyzji o zwiększeniu liczby obligacji w ofercie, wartość emisji może wynieść maksymalnie 100 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Millennium otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dla banku dodatkowego narzutu kapitałowego (P2G) przed kompensacją buforem zabezpieczającym, w wysokości 4,56 p.p. na poziomie skonsolidowanym - podał bank w komunikacie. Na poziomie jednostkowym jest to 4,84 p.p."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane GUS o inflacji za październik zaskoczyły rynek i spowodowały osłabienie złotego wobec głównych walut, natomiast pozytywnie wpłynęły na wyceny obligacji. Rentowności SPW obniżyły się o ok. 7-12 pb., najmocniej na krótkim końcu krzywej. Zdaniem zarządzających, CPI do końca roku prawdopodobnie pozostanie poniżej 4 proc., a oczekiwania na podwyżki stóp procentowych w tym roku spadły."
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1130 USD i 175,92 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Resort energii chce, by jeszcze w listopadzie projekt ustawy przywracający tzw. obligo giełdowe na rynku energii elektrycznej trafił na Stały Komitet Rady Ministrów - poinformował dziennikarzy minister energii Miłosz Motyka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Początek listopada powinien przynieść wyhamowanie wzrostu cen oleju napędowego i dalszy spadek kosztów tankowania benzyny, nadal drożeć będzie autogaz - prognozują analitycy e-petrol."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny gazu ziemnego w Europie ponownie wzrosły powyżej 100 euro za megawatogodzinę w obliczu obaw, że USA mogą wznowić działania zbrojne przeciwko Iranowi, co mogłoby doprowadzić do przedłużenia zakłóceń w dostawach z Bliskiego Wschodu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Średnia cena gazu dla gospodarstw domowych w Unii Europejskiej wyniosła w I półroczu 2026 r. 0,11 euro za kWh, co oznacza spadek o 10,2 proc. względem II półrocza 2025 r. oraz o 3,5 proc. w porównaniu z I półroczem 2025 r. - podał Eurostat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo Rozwoju i Technologii skierowało do prac legislacyjnych projekt ustawy o wsparciu przedsiębiorców realizujących inwestycje oparte na technologiach neutralnych emisyjnie. Celem regulacji jest wdrożenie do polskiego porządku prawnego unijnych ram pomocy publicznej CISAF (Clean Industrial Deal State Aid Framework), które mają przyspieszyć inwestycje związane z dekarbonizacją gospodarki i rozwojem czystych technologii - podano na stronie RCL."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska znalazła się na drugim miejscu w Unii Europejskiej pod względem kosztów energii elektrycznej dla gospodarstw domowych po uwzględnieniu siły nabywczej mieszkańców. Według danych Eurostatu, cena energii wyniosła 41,1 PPS na 100 kWh, ustępując jedynie Rumunii (46,9 PPS) i wyprzedzając Czechy (34,3 PPS) - wynika z danych Eurostatu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mosty Odesa 1, spółka z Grupy Mosty działającej m.in. w segmencie energetyki odnawialnej, uzyskała wstępny przydział wsparcia i podpisała umowę gwarancyjną z zamawiającym dla projektu farmy wiatrowej o łącznej mocy 162 MW, która powstanie we wsi Mayaki w Ukrainie - podała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "W strukturach Polskich Sieci Elektroenergetycznych powstanie wyspecjalizowany zespół CSIRT Energia, który będzie wspierał spółki z sektora energetycznego w reagowaniu na cyberzagrożenia oraz koordynował obsługę incydentów w tym zakresie - poinformował w piątek operator systemu przesyłowego energii elektrycznej."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inflacja CPI w październiku wyniosła 3,5 proc. rdr wobec oczekiwań rynku na poziomie 3,7 proc. rdr. W komentarzach po danych ekonomiści wskazują, że inflacja bazowa mogła obniżyć się do ok. 3 proc., a Rada Polityki Pieniężnej nie musi spieszyć się z ewentualnymi podwyżkami stóp."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestycje będą rosły w solidnym tempie nie tylko w tym roku, ale również w kolejnych kwartałach - ocenia główny ekonomista Krajowej Izby Gospodarczej, Piotr Soroczyński. Jego zdaniem, dynamika inwestycji ogółem w 2027 r. powinna utrzymać się na poziomie ok. 6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostatnie lata ujawniły wiele wrażliwości polskiego systemu żywnościowego, wśród nich jest uzależnienie od dostaw z Chin kluczowych elementów potrzebnych do produkcji roślinnej i zwierzęcej - ocenia Jakub Olipra, starszy ekonomista Credit Agricole. Jego zdaniem, obecnie największym problemem dla branży jest wzrost cen nawozów i środków ochrony roślin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dzięki składkom wynikającym z realizacji dużych projektów infrastrukturalnych w 2027 roku krajowy rynek ubezpieczeń majątkowych możne wzrosnąć dwucyfrowo - ocenia Marcin Ślotała, prezes działającej w segmencie dystrybucji ubezpieczeń Grupy MJM. Broker rozmawia w sprawie zakupu trzech kolejnych spółek, szuka też okazji do przejęć w regionie."
+        },
+        {
+          "type": "heading",
+          "text": "BANKOWOŚĆ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Banki udzieliły w sierpniu kredytów na cele konsumpcyjne za 11.302 mln zł wobec 12.492 mln zł w lipcu - podał NBP."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Gospodarstwa Krajowego podpisał porozumienie (MoU) z dwiema instytucjami rozwoju z Węgier - MFB Hungarian Development Bank oraz Eximbank Hungary - podał BGK w komunikacie prasowym. Porozumienie tworzy ramy długoterminowej współpracy w obszarze finansowania rozwoju gospodarczego, wspierania eksportu oraz wymiany wiedzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Udział PKP Cargo w rynku przewiezionych towarów według masy wzrósł po wrześniu do 26,20 proc. całego rynku wobec 25,86 proc. po wrześniu 2025 roku - podał Urząd Transportu Kolejowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada nadzorcza Centralnego Portu Komunikacyjnego - spółki zarządzającej projektem Port Polska - powołała Piotra Borysa na stanowisko prezesa zarządu - podano w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 13,6 pkt. proc. i wyniósł 37,3 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 11,1 pkt. proc. i wynosi 33,9 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przesyłki o wartości nieprzekraczającej równowartości 150 euro od 1 listopada będą objęte dodatkową opłatą w wysokości 2 euro. Wraz z wprowadzonym od lipca cłem zryczałtowanym wysokość daniny od takich przesyłek wyniesie 5 euro za pozycję w zgłoszeniu celnym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brytyjska sieć Tesco uzgodniła sprzedaż swojego biznesu w Czechach i na Słowacji na rzecz Ahold Delhaize - podało Tesco w komunikacie. Wartość transakcji odpowiada łącznej wartości przedsiębiorstwa (EV) wynoszącej 1,7 mld euro, przy założeniu braku gotówki i zadłużenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych (IJHARS) stwierdziła nieprawidłowości w 74,7 proc. skontrolowanych barów mlecznych - podała instytucja."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hakerzy powiązani z Koreą Północną odpowiadają za cyberatak na giełdę kryptowalut Binance, w wyniku którego wyprowadzono około 6,36 mld dolarów — poinformowała w piątek amerykańska firma analityczna TRM Labs. To największy tego typu incydent w historii branży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka CPK dostała zadanie ukończenia lotniska do 2032 r. i będzie do tego celu dążyć - powiedział Piotr Borys, powołany w piątek na prezesa CPK. Podkreślił również, że spółka ma środki na bieżące działania i równolegle prowadzi rozmowy w celu zapewnienia dalszego finansowania."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokurator generalny Waldemar Żurek poinformował, że przekazał w piątek do TK 5 wniosków o uchylenie immunitetu. Dodał, że cztery z nich dotyczą wyrażenia zgody na pociągnięcie do odpowiedzialności karnej „pełniącego obowiązki prezesa TK Bogdana Święczkowskiego”, a jeden uchylenia immunitetu wiceprezesa TK Bartłomieja Sochańskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk oświadczył w piątek, że „przywracanie rządów prawa jest naszym obowiązkiem”. „Po latach pisowskiego bezprawia to proces trudny, czasem bolesny i wymaga zdecydowanego działania. Innej drogi nie ma” - podkreślił szef rządu na X."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Karol Nawrocki przerwał w piątek swój lot do Senegalu w związku z wydarzeniami przed Trybunałem Konstytucyjnym. W takim momencie prezydent musi być w Polsce – podkreślił."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komenda stołeczna policji poinformowała w piątek, że funkcjonariusze realizują czynności ustawowe na terenie siedziby Trybunału Konstytucyjnego, w związku z informacją przekazaną przez sędziego Trybunału Annę Korwin-Piotrowską o możliwości wystąpienia zagrożeń dla życia lub zdrowia sędziów i pracowników TK. Policji nie ma ich w budynku TK."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestycje w morską energetykę wiatrową oznacza większe bezpieczeństwo energetyczne, pierwszy prąd z farmy Baltica 2 popłynie w pierwszej połowie przyszłego roku - powiedział w piątek premier Donald Tusk podczas otwarcia terminalu T5 w porcie w Gdańsku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do 2040 roku możliwa jest instalacja nawet 18 GW mocy na Bałtyku - poinformował w piątek w Gdańsku minister finansów i gospodarki Andrzej Domański. Dodał, że wkrótce z nowootwartego Terminala T5 ruszy transport ponad 107 turbin wiatrowych do budowanej morskiej farmy wiatrowej Baltica 2."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spadek inflacji w październiku nastąpił dzięki skłonieniu prezydenta do odblokowania wprowadzenia pakietu CPN (Ceny Paliwa Niżej) - podkreślił w piątek w Gdańsku premier Donald Tusk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Konsekwencje wyjścia z UE były dla Wielkiej Brytanii potężne. Dla Polski, której gospodarka jest bardziej zintegrowana z unijną, niż była gospodarka brytyjska w 2016 r., byłyby znacznie większe - poinformował w piątek minister finansów Andrzej Domański."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wzrost local content o 10 proc. może zwiększyć polskie PKB o 3,6 proc., a dochody państwa o 30 mld zł - przekazał w piątek minister aktywów państwowych Wojciech Balczun, powołując się na wyliczenia analityków PKO BP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska stoi przed wyjątkową szansą wykorzystania historycznego budżetu na obronność do rozwoju własnego przemysłu zbrojeniowego i technologii - ocenił w piątek wiceminister obrony narodowej Cezary Tomczyk. Podkreślił, że środki te powinny być wydawane w Polsce, jeśli tylko jest to możliwe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister koordynator służb specjalnych Tomasz Siemoniak, proszony w TVN24 o ocenę stanu bezpieczeństwa Polski, powiedział, że zagrożenie jest stałe i rosnące zagrożenie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policja w Świdnicy, która zatrzymała podejrzanego o szpiegostwo obywatela Rosji, zabezpieczyła 250 tysięcy zdjęć, ale pozostałe zdjęcia i informacje są na innych nośnikach - przekazała w piątek rzeczniczka MSWiA Karolina Gałecka. Dodała, że wyjaśnienia mężczyzny były niespójne i nielogiczne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wiceszef MSZ Ignacy Niemczycki ocenił, że należy rozpocząć rozmowę o „mechanizmach zabezpieczających\" procedurę wyjścia Polski z UE. Wskazał, że obecnie do tej decyzji wystarczy zgoda większości Sejmu i podpis prezydenta. - Musimy sobie odpowiedzieć, czy w tak ważnej sprawie to wystarczy - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wiceszef MON Stanisław Wziątek, pytany o termin decyzji ws. bazy wojsk amerykańskich w Polsce, powiedział w piątek, że decyzja należy do Stanów Zjednoczonych i będzie przekazana do publicznej wiadomości najprawdopodobniej w grudniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes PiS Jarosław Kaczyński został w piątek przesłuchany w Prokuraturze Krajowej w charakterze świadka w śledztwie dotyczącym niedopuszczenia sędziów Trybunału Konstytucyjnego do orzekania. Przesłuchano także posła Prawa i Sprawiedliwości Mariusza Goska."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kanada będzie pierwszym członkiem stowarzyszonym Unii Europejskiej. Zasady tego nowego partnerstwa zostaną określone w ciągu najbliższych miesięcy – zapowiedział w piątek w Montrealu premier Mark Carney."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urzędnicy Pentagonu, w tym jego wiceszef Elbridge Colby, poprosili w ostatnich tygodniach kilka europejskich państw NATO, by złagodziły ton wobec Rosji - poinformowała w piątek agencja Reutera za źródłami. Wśród krajów, które otrzymały taką wiadomość, były Litwa, Łotwa i Estonia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Litwa nie zamierza prowokować Rosji, ale jedynie przedstawiać fakty - oświadczył w piątek litewski minister obrony Robertas Kaunas w reakcji na doniesienia mediów, jakoby Pentagon poprosił w ostatnich tygodniach kilka europejskich państw NATO, w tym Litwę, Łotwę i Estonię, by złagodziły ton wobec Rosji."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA Partia Demokratyczna ma realną szansę na zdobycie większości w Senacie - wynika z najnowszych sondaży stacji CNN. Choć Republikanie posiadają obecnie przewagę w wyższej izbie Kongresu USA, ich wygrana na finiszu kampanii nie jest przesądzona."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kanada będzie wzmacniać bezpieczeństwo gospodarki, odporność na zagrożenia, budować różnorodność polityki zagranicznej, wzmacniać armię i bezpieczeństwo kraju oraz modernizować wywiad - to cele ogłoszonej w czwartek strategii bezpieczeństwa Kanady."
+        },
+        {
+          "type": "paragraph",
+          "text": "Katarska delegacja po raz drugi w ciągu tygodnia przyjechała do Teheranu, starając się o osiągnięcie porozumienia między USA a Iranem - poinformowała agencja Reutera, dodając, że rozmowy mediacyjne zostały skoordynowane z USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpływowe polityczki: Brytyjka Rachel Reeves, Francuzka Nathalie Loiseau, Kanadyjka Chrystia Freeland i Niemka Annegret Kramp-Karrenbauer wezwały UE, Kanadę i Wielką Brytanię do sięgnięcia po zamrożone aktywa Rosji. Przestrzegły, że inne rozwiązania mogą nie wystarczyć do sfinansowania wsparcia Ukrainy w 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Największe niemieckie gazety uznały zapowiedź ustąpienia Christine Lagarde ze stanowiska szefowej Europejskiego Banku Centralnego (EBC) za decyzję polityczną, która ma sprawić, że ze współdecydowania o wyborze jej następcy wyłączona będzie liderka skrajnej prawicy we Francji Marine Le Pen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kanada będzie pierwszym członkiem stowarzyszonym Unii Europejskiej. Zasady tego nowego partnerstwa zostaną określone w ciągu najbliższych miesięcy – zapowiedział w piątek w Montrealu premier Mark Carney."
+        },
+        {
+          "type": "paragraph",
+          "text": "Departament Stanu USA wydał decyzję zatwierdzającą potencjalną sprzedaż Ukrainie 500 pocisków rakietowych PAC-3 MSE do systemu Patriot. Szacowany całkowity koszt wynosi do 2,1 mld dolarów i zostanie sfinansowany przez państwa europejskie i UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosyjska niezależna gazeta „Nowaja Gazieta\" kończy działalność - poinformował w piątek jej redaktor naczelny Siergiej Sokołow w oświadczeniu na YouTube, jako powód podając naciski ze strony rosyjskich władz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po przeliczeniu 99,9 proc. głosów oddanych we wtorkowych wyborach do Knesetu w Izraelu blok premiera Benjamina Netanjahu może liczyć na 53 mandaty, a blok opozycyjny na 48 - poinformowała w czwartek Centralna Komisja Wyborcza. Żaden z nich nie zdobył większości parlamentarnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zmodyfikowane i rozszerzone porozumienie handlowe między Chinami i Szwajcarią zostało podpisane w piątek w Pekinie. Chiński przywódca Xi Jinping i prezydent Szwajcarii Guy Parmelin nazwali umowę nowym etapem we współpracy ich krajów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Największe norweskie media wygrały w sądzie z Metą, która chciała uzyskać szerokie prawa do ich artykułów, zdjęć i nagrań. O wyroku poinformował dziennik \"VG\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Norwegia może do 2035 roku stracić nadwyżki energii. Z eksportera dostarczającego prąd do Europy może zostać zmuszona do importowania prądu. Gwałtowny rozwój centrów danych grozi też wzrostem cen nawet o 55 proc. - podał w czwartkowym raporcie regulator energetyczny NVE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze trzy gminy w Norwegii uzyskały w czwartek zgodę rządu na wprowadzenie podatku od noclegów. Od stycznia 2027 turyści za pobyt mogą zapłacić we wpisanym na listę UNESCO fiordzie Geiranger, malowniczym archipelagu Lofotów oraz stojącej na krawędzi bankructwa turystycznej stolicy Północy - Tromsoe."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Niemczech na wniosek Bułgarii zatrzymano dwóch mężczyzn podejrzanych o próbę podpalenia urządzeń łączności satelitarnej Starlink w Wilnie w nocy z 17 na 18 października - poinformowały litewskie organy ścigania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marynarka wojenna irańskiego Korpusu Strażników Rewolucji Islamskiej (IRGC) poinformowała w piątek, że trzy tankowce \"zapłonęły\" w cieśninie Ormuz po zignorowaniu ostrzeżeń radiowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szwedzki operator sieci przesyłowej Svenska Kraftnaet poinformował, że w piątek po południu doszło do awarii podmorskiego kabla NordBalt, łączącego Nybro na południu Szwecji z Kłajpedą na Litwie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzy pojazdy budowlane zapaliły się w nocy z czwartku na piątek na placu budowy nowego ośrodka logistycznego i centrum testowania dronów koncernu zbrojeniowego Rheinmetall przy lotnisku Kassel-Calden w Hesji w środkowych Niemczech. Policja zakłada, że doszło do podpalenia - podała agencja dpa."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "asa/ osz/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "30.10.2026 21:06",
+      "content_sha256": "f909cf6d067f6d78938446b9a13b7e26de84c0e4ee6cf8db02f061c0b58959f1",
+      "saved_at": "2026-10-31T01:52:53+00:00",
+      "content_checked_at": "2026-10-31T01:52:53+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Alior",
+        "ING",
+        "JSW",
+        "PKO BP",
+        "Polenergia"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: inflacj",
+          "Temat: PKB",
+          "Temat: NBP",
+          "Temat: EBC",
+          "Temat: stop procentowych"
+        ],
+        "finanse": [
+          "Firma: PKO BP",
+          "Firma: ING",
+          "Firma: Alior",
+          "Temat: bank",
+          "Temat: ubezpieczen",
+          "Temat: ubezpiecz",
+          "Temat: broker",
+          "Temat: fundusz"
+        ],
+        "energia": [
+          "Firma: Polenergia",
+          "Firma: JSW",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: OZE",
+          "Temat: paliw",
+          "Temat: węgl"
+        ],
+        "technologie": [
+          "Temat: gry",
+          "Temat: gier",
+          "Temat: technologi"
+        ],
+        "przemysl": [
+          "Temat: przemysł",
+          "Temat: produkcj",
+          "Temat: transport",
+          "Temat: infrastruktur",
+          "Temat: obronn"
+        ],
+        "konsumpcja": [
+          "Temat: detaliczn",
+          "Temat: sprzedaż detaliczna",
+          "Temat: żywnoś"
+        ],
+        "nieruchomosci": [
+          "Temat: deweloper"
+        ]
+      },
+      "published_time": "21:06",
+      "published_at": "2026-10-30T21:06+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Ceny towarów i usług konsumpcyjnych w październiku 2026 r. wzrosły rdr o 3,5 proc., a w porównaniu z poprzednim miesiącem spadły o 0,4 proc. - podał w szybkim szacunku Główny Urząd Statystyczny.",
+          "Enea zawarła z Bankiem Gospodarstwa Krajowego, Bankiem Polska Kasa Opieki oraz Powszechną Kasą Oszczędności Bank Polski umowę programową dotyczącą programu emisji obligacji hybrydowych do kwoty 5 mld zł - podała spółka w komunikacie.",
+          "Inwestycje w morską energetykę wiatrową oznacza większe bezpieczeństwo energetyczne, pierwszy prąd z farmy Baltica 2 popłynie w pierwszej połowie przyszłego roku - powiedział w piątek premier Donald Tusk podczas otwarcia terminalu T5 w porcie w Gdańsku."
+        ],
+        "interest_score": 43,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Ceny towarów i usług konsumpcyjnych w październiku 2026 r. wzrosły rdr o 3,5 proc., a w porównaniu z poprzednim miesiącem spadły o 0,4 proc. - podał w szybkim szacunku Główny Urząd Statystyczny."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "f909cf6d067f6d78938446b9a13b7e26de84c0e4ee6cf8db02f061c0b58959f1"
+      }
+    },
     {
       "id": "00fddf716e49d49a",
       "title": "Erste BP i BOŚ udzielą CI Games kredytu konsorcjalnego w wysokości 26,8 mln euro",
@@ -1928,7 +2715,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-10-30T18:41:12+00:00",
+      "discovered_at": "2026-10-31T01:52:53+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2363,7 +3150,7 @@
       "published_display": "30.10.2026 16:55",
       "content_sha256": "479e3a6271ba7c998c51d8a004944bb4d6e8ebb7403cbabde858be8392123443",
       "saved_at": "2026-10-30T18:41:12+00:00",
-      "content_checked_at": "2026-10-30T18:41:12+00:00",
+      "content_checked_at": "2026-10-31T01:52:53+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -368648,7 +369435,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368666,7 +369453,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368685,7 +369472,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368703,7 +369490,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368721,7 +369508,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368739,7 +369526,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368757,7 +369544,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368775,7 +369562,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368793,7 +369580,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368811,7 +369598,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368829,7 +369616,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368847,7 +369634,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368865,7 +369652,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368883,7 +369670,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368901,7 +369688,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368921,7 +369708,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368941,7 +369728,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368959,7 +369746,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368977,7 +369764,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -368995,7 +369782,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369013,7 +369800,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369031,7 +369818,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369051,7 +369838,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369069,7 +369856,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369087,7 +369874,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369105,7 +369892,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369123,7 +369910,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369143,7 +369930,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369161,7 +369948,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369179,7 +369966,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369197,7 +369984,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369217,7 +370004,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369235,7 +370022,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369253,7 +370040,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369271,7 +370058,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369291,7 +370078,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369309,7 +370096,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369327,7 +370114,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369345,7 +370132,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369363,7 +370150,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369383,7 +370170,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369401,7 +370188,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369419,7 +370206,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369437,7 +370224,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369458,7 +370245,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369476,7 +370263,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369494,7 +370281,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369515,7 +370302,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369533,7 +370320,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369551,7 +370338,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369569,7 +370356,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369587,7 +370374,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369605,7 +370392,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369623,7 +370410,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369641,7 +370428,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369661,7 +370448,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369679,7 +370466,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369699,7 +370486,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369717,7 +370504,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369735,7 +370522,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369753,7 +370540,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369773,7 +370560,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369791,7 +370578,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369809,7 +370596,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369827,7 +370614,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369847,7 +370634,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369865,7 +370652,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369883,7 +370670,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369901,7 +370688,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369919,7 +370706,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369975,7 +370762,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -369993,7 +370780,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 79,
+      "attempts": 80,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370011,7 +370798,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -370029,7 +370816,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -370047,7 +370834,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -370065,7 +370852,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -370083,11 +370870,159 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 80,
+      "attempts": 81,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
       "error": "ValueError"
@@ -370246,14 +371181,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
       "error": "ValueError"
     }
   ],
