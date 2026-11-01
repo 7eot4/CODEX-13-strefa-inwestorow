@@ -1,8 +1,402 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-01T19:42:31+00:00",
+  "last_checked": "2026-11-01T23:09:00+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "3e679634ac59cd9b",
+      "title": "Rekordowe dywidendy w 2027 roku. 12 spółek z szansą na wyższe wypłaty – Piotr Kwestarz | Procent Składany",
+      "url": "https://strefainwestorow.pl/podcast/procent-skladany/dywidendy-2027",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse",
+        "przemysl"
+      ],
+      "companies": [
+        "Asseco",
+        "Budimex",
+        "LPP",
+        "Orlen",
+        "PZU",
+        "Spotify",
+        "Unimot"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: stop procentowych"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-01T23:09:00+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Szykuje się kolejny rekordowy sezon dywidendowy na GPW. Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy. O tym, które spółki mogą w 2027 roku wypłacić więcej, rozmawiamy w najnowszym odcinku podcastu z Piotrem Kwestarzem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Najwięcej emocji budzi Orlen. Mimo około 4 mld zł podatku od nadzwyczajnych zysków szacujemy, że dywidenda może wzrosnąć z 8 zł do około 10 zł na akcję. PZU po wynikach za półrocze ma przestrzeń na 5–5,60 zł wobec 4,80 zł w tym roku, a Grupa Kęty, według naszych wstępnych szacunków, może wypłacić około 63,5 zł na akcję, czyli więcej niż w swoich rekordowych latach."
+        },
+        {
+          "type": "paragraph",
+          "text": "W odcinku omawiamy też Ambrę, ASBiS, Unimot, cyber_Folks, Neucę, LPP, Budimex i Synektik. Na koniec zostawiamy Asseco Poland, które po sprzedaży Sapiens przez Formula Systems i spłacie długu może szykować rekordową albo specjalną dywidendę. Rozmawiamy z Piotrem Kwestarzem, szefem działu dywidendowego w Strefie Inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czy debiut Anthropic na giełdzie zakończy hossę na AI? - Biedrzycki i Machalica | Procent Składany"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapraszamy do wysłuchania najnowszego odcinka podcastu Procent Składany ."
+        },
+        {
+          "type": "heading",
+          "text": "O czym usłyszysz w podcaście:"
+        },
+        {
+          "type": "paragraph",
+          "text": "01:23 rekordowe dywidendy spółek Skarbu Państwa"
+        },
+        {
+          "type": "paragraph",
+          "text": "03:35 ostatni rok z niższym CIT"
+        },
+        {
+          "type": "paragraph",
+          "text": "04:57 dywidendy banków, w tym Millennium"
+        },
+        {
+          "type": "paragraph",
+          "text": "08:13 dywidenda Orlen"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:58 dywidenda PZU"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:44 dywidenda Grupa Kęty"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:04 dywidenda Ambra"
+        },
+        {
+          "type": "paragraph",
+          "text": "16:26 dywidenda ASBiS"
+        },
+        {
+          "type": "paragraph",
+          "text": "19:11 dywidenda Unimot"
+        },
+        {
+          "type": "paragraph",
+          "text": "21:31 dywidenda cyber_Folks"
+        },
+        {
+          "type": "paragraph",
+          "text": "22:51 dywidenda Neuca"
+        },
+        {
+          "type": "paragraph",
+          "text": "26:20 dywidenda LPP"
+        },
+        {
+          "type": "paragraph",
+          "text": "28:26 dywidenda Budimex"
+        },
+        {
+          "type": "paragraph",
+          "text": "30:35 dywidenda Synektik"
+        },
+        {
+          "type": "paragraph",
+          "text": "33:43 dywidenda Asseco Poland"
+        },
+        {
+          "type": "paragraph",
+          "text": "38:14 kiedy szukać spółek dywidendowych na 2027 rok"
+        },
+        {
+          "type": "heading",
+          "text": "Pobierz podcast:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast Procent Składany (kliknij prawym klawiszem myszy i wybierz \"Zapisz element docelowy jako\")"
+        },
+        {
+          "type": "paragraph",
+          "text": "Słuchaj podcastu w iTunes: Podcast Procent Składany w iTunes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Słuchaj podcastu na Spotify: Słuchaj podcastu na Spotify"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kryzys mediów, biznes turystyczny i wycena WP na giełdzie - Jacek Świderski | Procent Składany"
+        },
+        {
+          "type": "paragraph",
+          "text": "----"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zawarte w materiale dane, opracowania, informacje, analizy zostały przygotowane wyłącznie w celach informacyjnych, są tylko i wyłącznie subiektywnymi opiniami autorów i nie są rekomendacjami zawarcia transakcji w rozumieniu § 3 Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów lub wystawców m. in. nie opierają się na żadnej metodzie wyceny walorów oraz nie określają ryzyka inwestycyjnego, nie zawierają bezpośrednich zaleceń podjęcia określonych działań inwestycyjnych, przez co nie mogą być traktowane jako doradztwo finansowe, prawne, podatkowe czy też jakiekolwiek inne doradztwo inwestycyjne w rozumieniu art.76 ustawy z dnia 29 lipca 2005r. o obrocie instrumentami finansowymi. Zgodnie z powyższym autorzy nie ponoszą jakiejkolwiek odpowiedzialności za decyzje inwestycyjne podejmowane na podstawie treści zawartych w artykule albowiem nie jest intencją Usługodawcy dokonywanie bezpośrednich porad inwestycyjnych."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "01.11.2026 22:00",
+      "content_sha256": "6fb778477018a2cd8976cf04194df4607ab9c3626a580805ba24ff02313c7807",
+      "date": "2026-11-01",
+      "saved_at": "2026-11-01T23:09:00+00:00",
+      "content_checked_at": "2026-11-01T23:09:00+00:00",
+      "published_time": "22:00",
+      "published_at": "2026-11-01T22:00+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy.",
+          "O tym, które spółki mogą w 2027 roku wypłacić więcej, rozmawiamy w najnowszym odcinku podcastu z Piotrem Kwestarzem.",
+          "PZU po wynikach za półrocze ma przestrzeń na 5–5,60 zł wobec 4,80 zł w tym roku, a Grupa Kęty, według naszych wstępnych szacunków, może wypłacić około 63,5 zł na akcję, czyli więcej niż w swoich rekordowych latach."
+        ],
+        "interest_score": 95,
+        "impact_score": 90,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "PZU po wynikach za półrocze ma przestrzeń na 5–5,60 zł wobec 4,80 zł w tym roku, a Grupa Kęty, według naszych wstępnych szacunków, może wypłacić około 63,5 zł na akcję, czyli więcej niż w swoich rekordowych latach."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Szykuje się kolejny rekordowy sezon dywidendowy na GPW."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Na koniec zostawiamy Asseco Poland, które po sprzedaży Sapiens przez Formula Systems i spłacie długu może szykować rekordową albo specjalną dywidendę."
+          },
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Skarb Państwa oczekuje od swoich spółek jak najwyższych wypłat, banki wciąż korzystają z wysokich stóp procentowych, a wiele prywatnych firm po wynikach za I półrocze 2026 roku ma przestrzeń do podniesienia dywidendy."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*",
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6fb778477018a2cd8976cf04194df4607ab9c3626a580805ba24ff02313c7807"
+      }
+    },
+    {
+      "id": "a52e58e55f79d140",
+      "title": "Trzeci kwartał potężnych zysków na Wall Street. Te sektory ciągną indeks S&P 500 w górę, ale są i rozczarowania",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261101/trzeci-kwartal-poteznych-zyskow-na-wall-street-te-sektory-ciagna-indeks-sp-500",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: S&P 500"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-01T23:09:00+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W połowie sezonu publikacji wyników finansowych spółki z indeksu S&P 500 raportują mieszane wyniki za III kwartał w porównaniu z oczekiwaniami. Chociaż odsetek spółek, które odnotowały pozytywne niespodzianki w wynikach, jest powyżej ostatnich średnich, skala tych niespodzianek jest niższa - podaje FactSet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łączny (łączący rzeczywiste wyniki spółek, które opublikowały raporty, i szacunkowe wyniki spółek, które jeszcze tego nie zrobiły) wskaźnik wzrostu zysków za trzeci kwartał wynosi obecnie 30,2 proc. Jeśli to tempo się utrzyma, będzie to oznaczać trzeci z rzędu kwartał wzrostu zysków powyżej 25 proc. i ósmy z rzędu kwartał dwucyfrowego wzrostu zysków indeksu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogółem 60 proc. spółek z indeksu S&P 500 opublikowało do tej pory rzeczywiste wyniki za III kwartał 2026 roku. 82 proc. z tych spółek podało rzeczywisty zysk na akcję (EPS) powyżej szacunków, co jest wynikiem wyższym od 5-letniej średniej wynoszącej 78 proc. i 10-letniej średniej wynoszącej 77 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wynika z szacunków FactSet, łącznie spółki raportują zyski o 1,9 proc. powyżej szacunków, co jest wynikiem niższym od 5-letniej średniej wynoszącej 7,5 proc. i 10-letniej średniej wynoszącej 8,0 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeśli wynik 1,9 proc. utrzyma się do końca kwartału, będzie to oznaczać najniższy odsetek niespodzianek w zyskach odnotowanych przez indeks od IV kwartału 2022 roku (kiedy wyniósł 1,3 proc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wszystkie jedenaście sektorów odnotowuje wzrost zysków rok do roku. Siedem z tych sektorów odnotowuje dwucyfrowy wzrost, na czele z sektorem energetycznym, technologii informatycznych i materiałów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podaje FactSet, 70 proc. spółek z indeksu S&P 500 odnotowało rzeczywiste przychody przekraczające szacunki, co odpowiada 5-letniej średniej na poziomie 70 proc. i przekracza średnią 10-letnią wynoszącą 68 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie spółki odnotowują przychody o 1,7 proc. wyższe od szacunków, co jest wartością niższą od 5-letniej średniej wynoszącej 1,8 proc., ale wyższą od 10-letniej średniej wynoszącej 1,6 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W rezultacie łączna stopa wzrostu przychodów w trzecim kwartale wynosi obecnie 13,4 proc., co oznacza trzeci z rzędu kwartał dwucyfrowego wzrostu przychodów spółek z indeksu S&P 500."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wszystkie jedenaście sektorów odnotowało wzrost przychodów w ujęciu rok do roku, a na czele znalazły się sektory technologii informatycznych, energetyki i usług komunikacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy prognozują wzrost zysków w IV kw. 2026 r. na poziomie 28,4 proc. Na rok budżetowy 2026 analitycy prognozują wzrost zysków (w ujęciu rok do roku) na poziomie 32,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przyszły 12-miesięczny wskaźnik P/E wynosi 18,7, co jest wartością niższą od średniej 5-letniej (19,8) i 10-letniej (19,1). Wskaźnik P/E jest również niższy od prognozowanego wskaźnika P/E, który na koniec trzeciego kwartału (30 września) wyniósł 19,0."
+        },
+        {
+          "type": "paragraph",
+          "text": "W nadchodzącym tygodniu 140 spółek wchodzących w skład indeksu S&P 500 (w tym 3 spółki wchodzące w skład indeksu Dow 30) ma opublikować wyniki za trzeci kwartał."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "01.11.2026 21:35",
+      "content_sha256": "38541ac15afc939c3f2c722e33874377ae2331202095cb7f8dddf5c61b102c1a",
+      "date": "2026-11-01",
+      "saved_at": "2026-11-01T23:09:00+00:00",
+      "content_checked_at": "2026-11-01T23:09:00+00:00",
+      "published_time": "21:35",
+      "published_at": "2026-11-01T21:35+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W połowie sezonu publikacji wyników finansowych spółki z indeksu S&P 500 raportują mieszane wyniki za III kwartał w porównaniu z oczekiwaniami.",
+          "Łączny (łączący rzeczywiste wyniki spółek, które opublikowały raporty, i szacunkowe wyniki spółek, które jeszcze tego nie zrobiły) wskaźnik wzrostu zysków za trzeci kwartał wynosi obecnie 30,2 proc. Jeśli to tempo się utrzyma, będzie to oznaczać trzeci z rzędu kwartał wzrostu zysków powyżej 25 proc. i ósmy z rzędu kwartał dwucyfrowego wzrostu zysków indeksu.",
+          "W rezultacie łączna stopa wzrostu przychodów w trzecim kwartale wynosi obecnie 13,4 proc., co oznacza trzeci z rzędu kwartał dwucyfrowego wzrostu przychodów spółek z indeksu S&P 500."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W połowie sezonu publikacji wyników finansowych spółki z indeksu S&P 500 raportują mieszane wyniki za III kwartał w porównaniu z oczekiwaniami."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "W połowie sezonu publikacji wyników finansowych spółki z indeksu S&P 500 raportują mieszane wyniki za III kwartał w porównaniu z oczekiwaniami."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "38541ac15afc939c3f2c722e33874377ae2331202095cb7f8dddf5c61b102c1a"
+      }
+    },
     {
       "id": "be188cc39d02d1f4",
       "title": "Skrót wiadomości: sobota-niedziela, 31 października - 1 listopada",
@@ -12,7 +406,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-01T19:42:31+00:00",
+      "discovered_at": "2026-11-01T23:09:00+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -147,7 +541,7 @@
       "published_display": "01.11.2026 20:02",
       "content_sha256": "4cfd011cc51de9fe2cf5e40f71a29a626493620589f6edc6ed2c2e036f981632",
       "saved_at": "2026-11-01T19:42:31+00:00",
-      "content_checked_at": "2026-11-01T19:42:31+00:00",
+      "content_checked_at": "2026-11-01T23:09:00+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -1454,7 +1848,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-01T19:42:31+00:00",
+      "discovered_at": "2026-11-01T23:09:00+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -1937,7 +2331,7 @@
       "published_display": "30.10.2026 21:06",
       "content_sha256": "f909cf6d067f6d78938446b9a13b7e26de84c0e4ee6cf8db02f061c0b58959f1",
       "saved_at": "2026-10-31T01:52:53+00:00",
-      "content_checked_at": "2026-11-01T19:42:31+00:00",
+      "content_checked_at": "2026-11-01T23:09:00+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3976,7 +4370,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-01T19:42:31+00:00",
+      "discovered_at": "2026-11-01T23:09:00+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -4411,7 +4805,7 @@
       "published_display": "30.10.2026 16:55",
       "content_sha256": "479e3a6271ba7c998c51d8a004944bb4d6e8ebb7403cbabde858be8392123443",
       "saved_at": "2026-10-30T18:41:12+00:00",
-      "content_checked_at": "2026-11-01T19:42:31+00:00",
+      "content_checked_at": "2026-11-01T23:09:00+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -370696,7 +371090,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370714,7 +371108,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370733,7 +371127,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370751,7 +371145,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370769,7 +371163,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370787,7 +371181,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370805,7 +371199,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370823,7 +371217,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370841,7 +371235,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370859,7 +371253,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370877,7 +371271,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370895,7 +371289,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370913,7 +371307,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370931,7 +371325,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370949,7 +371343,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370969,7 +371363,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370989,7 +371383,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371007,7 +371401,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371025,7 +371419,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371043,7 +371437,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371061,7 +371455,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371079,7 +371473,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371099,7 +371493,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371117,7 +371511,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371135,7 +371529,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371153,7 +371547,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371171,7 +371565,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371191,7 +371585,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371209,7 +371603,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371227,7 +371621,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371245,7 +371639,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371265,7 +371659,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371283,7 +371677,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371301,7 +371695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371319,7 +371713,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371339,7 +371733,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371357,7 +371751,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371375,7 +371769,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371393,7 +371787,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371411,7 +371805,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371431,7 +371825,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371449,7 +371843,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371467,7 +371861,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371485,7 +371879,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371506,7 +371900,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371524,7 +371918,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371542,7 +371936,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371563,7 +371957,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371581,7 +371975,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -371671,7 +372065,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371689,7 +372083,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371709,7 +372103,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371727,7 +372121,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371747,7 +372141,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371765,7 +372159,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371783,7 +372177,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371801,7 +372195,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371821,7 +372215,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371839,7 +372233,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371857,7 +372251,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371875,7 +372269,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371895,7 +372289,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371913,7 +372307,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371931,7 +372325,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371949,7 +372343,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371967,7 +372361,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371987,7 +372381,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -372005,7 +372399,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -372023,7 +372417,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -372041,7 +372435,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 88,
+      "attempts": 89,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -372059,7 +372453,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 89,
+      "attempts": 90,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -372077,7 +372471,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 89,
+      "attempts": 90,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -372095,7 +372489,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 89,
+      "attempts": 90,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -372113,7 +372507,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 89,
+      "attempts": 90,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -372131,11 +372525,27 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 89,
+      "attempts": 90,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
       "error": "ValueError"
@@ -372418,22 +372828,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/artykuly/raporty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
       "error": "ValueError"
     }
   ],
