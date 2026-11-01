@@ -1,8 +1,483 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-01T08:12:47+00:00",
+  "last_checked": "2026-11-01T15:10:52+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "53a47e5708872d24",
+      "title": "Niezwykły ruch Unii Europejskiej. Kanada zyska specjalny status stowarzyszony",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261101/niezwykly-ruch-unii-europejskiej-kanada-zyska-specjalny-status-stowarzyszony",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-01T15:10:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kanada będzie pierwszym członkiem stowarzyszonym Unii Europejskiej. Zasady tego nowego partnerstwa zostaną określone w ciągu najbliższych miesięcy – zapowiedział w piątek w Montrealu premier Mark Carney."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carney powiedział, że nowa forma współpracy, której zasady mają być wynegocjowane do czerwca 2027 r., kiedy odbędzie się spotkanie Kanada-Rada Europejska, będzie oznaczać więcej możliwości i „szerszą suwerenność”."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ten sojusz jest budowany dla ludzi\" – powiedział Carney na wspólnej konferencji prasowej z przewodnicząca Komisji Europejskiej Ursulą von der Leyen i przewodniczącym Rady Europejskiej Antonio Costą, podczas kończącego się w piątek w Montrealu dwudniowego szczytu Kanada-Unia Europejska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Von der Leyen dodała, że Kanada nie może ze względu na geografię zostać pełnym członkiem UE, ale współpraca będzie dotyczyła trzech filarów: polityki, programów i działań rządów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Costa dodał, że nowe partnerstwo będzie „jedyne w swoim rodzaju”, a jego podstawą będą wspólnie podzielane cele."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Montreal został zbudowany na spotkaniach” – mówiła von der Leyen, zaznaczając, że Kanada jest najbardziej europejskim krajem poza Europą, a członkostwo w UE można zastąpić relacją bez przystępowania do UE, w której są jednak wspólne cele i wizja przyszłości. Powiedziała, że w nowym partnerstwie np. część polityki będzie kształtowana wspólnie przez UE i Kanadę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przy tym we wspólnym komunikacie po szczycie wymieniono nie „członkostwo stowarzyszone”, ale „sojusz dla przyszłości” (ang – Alliance for the Future), który ma być oparty na \"zasadzie wzajemności w sektorach przemysłu, w których obie strony uzgodniły poszerzenie współpracy strategicznej” oraz na „bardziej aktywnym partnerstwie w polityce zagranicznej i bezpieczeństwa”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Partnerstwo Kanada-UE ma dotyczyć zarówno współpracy politycznej, jak i handlu, sztucznej inteligencji, minerałów krytycznych, energii, bezpieczeństwa i obrony, a także współpracy Kanady z UE w ramach programu Erasmus i współpracy naukowej, wejścia Kanady do europejskiego systemu Galileo czy współpracy na rzecz wsparcia dla Ukrainy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carney podkreślał kilkakrotnie, jak ważne dla młodych ludzi z Kanady i krajów europejskich będzie nowe partnerstwo, dające im więcej możliwości. Zwrócił też uwagę, na potencjalne korzyści dla obywateli dzięki większej konkurencji firm, a także m.in. otwarciu rynków na konkurencję banków i ułatwieniu rozliczeń transakcji w połączonych systemach płatności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród porozumień podpisanych w piątek znalazła się umowa z Europejskim Bankiem Inwestycyjnym w sprawie współpracy w finansowaniu rozwoju wydobycia surowców, w tym minerałów krytycznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapowiedziane też zostały prace na rzecz transatlantyckiego kabla do przesyłu danych bezpośrednio między Kanadą a UE, Carney wspomniał też o podobnym kablu w Arktyce. Ponadto Kanada i UE będą analizować możliwości zwiększenia dostaw LNG z Kanady."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dziennikarze zapytali też o „koszty przyjęcia” Kanady jako członka stowarzyszonego UE. Carney nie podał żadnych liczb, ale podkreślił: \"Nie postrzegamy tego jako płacenia za coś\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z Toronto Anna Lach (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "lach/ kar/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "01.11.2026 15:37",
+      "content_sha256": "659713241a3a090bbfb55f940a7633f1ce4c96ff5892dd605172682388db80b2",
+      "date": "2026-11-01",
+      "saved_at": "2026-11-01T15:10:52+00:00",
+      "content_checked_at": "2026-11-01T15:10:52+00:00",
+      "published_time": "15:37",
+      "published_at": "2026-11-01T15:37+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Kanada będzie pierwszym członkiem stowarzyszonym Unii Europejskiej.",
+          "Zasady tego nowego partnerstwa zostaną określone w ciągu najbliższych miesięcy – zapowiedział w piątek w Montrealu premier Mark Carney.",
+          "Carney powiedział, że nowa forma współpracy, której zasady mają być wynegocjowane do czerwca 2027 r., kiedy odbędzie się spotkanie Kanada-Rada Europejska, będzie oznaczać więcej możliwości i „szerszą suwerenność”."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Przy tym we wspólnym komunikacie po szczycie wymieniono nie „członkostwo stowarzyszone”, ale „sojusz dla przyszłości” (ang – Alliance for the Future), który ma być oparty na \"zasadzie wzajemności w sektorach przemysłu, w których obie strony uzgodniły poszerzenie współpracy strategicznej” oraz na „bardziej aktywnym partnerstwie w polityce zagranicznej i bezpieczeństwa”."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Zasady tego nowego partnerstwa zostaną określone w ciągu najbliższych miesięcy – zapowiedział w piątek w Montrealu premier Mark Carney."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "659713241a3a090bbfb55f940a7633f1ce4c96ff5892dd605172682388db80b2"
+      }
+    },
+    {
+      "id": "e7405c2f81e2019d",
+      "title": "Spór o Trybunał Konstytucyjny może wywołać reakcję rynków, ale analitycy studzą emocje",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261101/spor-o-trybunal-konstytucyjny-moze-wywolac-reakcje-rynkow-ale-analitycy-studza",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "finanse"
+      ],
+      "companies": [
+        "XTB"
+      ],
+      "match_reasons": {
+        "finanse": [
+          "Firma: XTB"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-01T15:10:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Zaostrzenie sporu o Trybunał Konstytucyjny może wywołać reakcję rynków, ale weekend prawdopodobnie spowoduje wyraźne złagodzenie emocji inwestorów - oceniają analitycy XTB."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek wieczorem spór o Trybunał Konstytucyjny wszedł w najostrzejszą fazę od lat. Sędziowie wybrani przez obecny Sejm ogłosili odsunięcie prezesa TK od obowiązków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przed samym budynkiem Trybunału w Warszawie pojawiła się policja i protestujący, a prezydent zawrócił samolot lecący do Senegalu, a następnie przy przepychankach wszedł do samego budynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak piszą analitycy XTB, wszystko to wydarzyło się już po zamknięciu sesji na GPW, ale weekend z świętem Wszystkich Świętych może spowodować wyraźne złagodzenie emocji."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynki mogą zareagować w poniedziałek, ale z pewnością może to być reakcja mniejsza niż niektórzy mogą na to wskazywać\" - napisano w komentarzu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Weekend daje rynkom czas na ochłonięcie, a pierwszym testem będzie poniedziałkowe otwarcie. Trudno sobie wyobrazić, by piątkowe wydarzenia pomogły złotemu czy WIG20. Należy jednak zachować proporcje i ważniejsze jest stwierdzenie, że dla większości aktywów, kluczowe będą czynniki globalne, a rynki w miniony piątek nie zamknęły się zbyt pozytywnie\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek wieczorem na stronie TK pojawił się komunikat o miesięcznej przerwie w czynnościach prezesa Bogdana Święczkowskiego i wiceprezesa Bartłomieja Sochańskiego. Decyzję podjęła sędzia Anna Korwin-Piotrowska, powołując się na najdłuższy staż sędziowski oraz przepisy o natychmiastowej przerwie w czynnościach sędziego. Zarzuciła kierownictwu blokowanie sędziów i nieprawidłowości. Równolegle minister sprawiedliwości Waldemar Żurek skierował wnioski o uchylenie immunitetów obu sędziom."
+        },
+        {
+          "type": "paragraph",
+          "text": "Siedmioro nowych sędziów weszło do budynku w asyście SOP przez bramę KPRM. Przed budynkiem zgromadzili się politycy i zwolennicy PiS. Po przecięciu zabezpieczeń sędzia Święczkowski wszedł na teren TK, lecz został zatrzymany przez policję i wycofał się, zapowiadając powrót z prezydentem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Karol Nawrocki przerwał lot do Senegalu i po powrocie spotkał się z I prezesem SN oraz Bogdanem Święczkowskim, a w nocy wszedł do budynku TK."
+        },
+        {
+          "type": "paragraph",
+          "text": "W sobotnim orędziu premier Donald Tusk wykluczył kompromis w sprawie Trybunału Konstytucyjnego, a prezydent Karol Nawrocki odbył serię spotkań z liderami ugrupowań parlamentarnych. Prezydentowi proponowano m.in. reset Trybunału, przedstawiono także koncepcję utworzenia rządu technicznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazują analitycy XTB, najmocniejszy głos z zagranicy padł ze strony ambasadora USA w Polsce Toma Rose’a: „Wydarzenia, które rozgrywają się dziś wieczorem w polskim Trybunale Konstytucyjnym, są bardzo poważne. Wydaje się, że jesteśmy świadkami bezprecedensowej konfrontacji wokół korzystania przez rząd z władzy państwowej oraz niezależności i autorytetu instytucji konstytucyjnej”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaznaczył jednocześnie: „Ameryka stoi po stronie Polski. Nie naszą rolą jest oceniać ani ingerować w jej sprawy wewnętrzne. Troszczymy się o stabilność, bezpieczeństwo i demokratyczną przyszłość kraju, który z dumą nazywamy przyjacielem i sojusznikiem”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wydarzenia szeroko relacjonowały BBC, Sky News i Deutsche Welle, a zdjęcia policji przed Trybunałem obiegły świat. BBC przypomina, że w przyszłym roku odbędą się wybory parlamentarne. Część obserwatorów widzi w działaniach rządu próbę zmobilizowania elektoratu, a część zwolenników koalicji od dawna zarzucała premierowi zbyt mało stanowcze działania."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "01.11.2026 15:34",
+      "content_sha256": "6aef76987a15585c56bcc268883228bbe7839a0dcb95d5d84191656b4718e7d1",
+      "date": "2026-11-01",
+      "saved_at": "2026-11-01T15:10:52+00:00",
+      "content_checked_at": "2026-11-01T15:10:52+00:00",
+      "published_time": "15:34",
+      "published_at": "2026-11-01T15:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zaostrzenie sporu o Trybunał Konstytucyjny może wywołać reakcję rynków, ale weekend prawdopodobnie spowoduje wyraźne złagodzenie emocji inwestorów - oceniają analitycy XTB.",
+          "W piątek wieczorem spór o Trybunał Konstytucyjny wszedł w najostrzejszą fazę od lat.",
+          "Jak wskazują analitycy XTB, najmocniejszy głos z zagranicy padł ze strony ambasadora USA w Polsce Toma Rose’a: „Wydarzenia, które rozgrywają się dziś wieczorem w polskim Trybunale Konstytucyjnym, są bardzo poważne."
+        ],
+        "interest_score": 25,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6aef76987a15585c56bcc268883228bbe7839a0dcb95d5d84191656b4718e7d1"
+      }
+    },
+    {
+      "id": "75d6188c146ee7a7",
+      "title": "Podsumowanie tygodnia - Nasdaq mocno nurkuje",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/podsumowanie-tygodnia-nasdaq-mocno-nurkuje",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: Nasdaq"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-01T15:10:52+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "01.11.2026 14:35",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-11-01",
+      "saved_at": "2026-11-01T15:10:52+00:00",
+      "content_checked_at": "2026-11-01T15:10:52+00:00",
+      "published_time": "14:35",
+      "published_at": "2026-11-01T14:35+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
+    {
+      "id": "7f070e939d0592b4",
+      "title": "Impuls i korekta - 01 listopada 2026",
+      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-01-listopada-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-01T15:10:52+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Tomasz Krynicki",
+      "published_display": "01.11.2026 14:14",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-11-01",
+      "saved_at": "2026-11-01T15:10:52+00:00",
+      "content_checked_at": "2026-11-01T15:10:52+00:00",
+      "published_time": "14:14",
+      "published_at": "2026-11-01T14:14+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
     {
       "id": "e5ef9626163dfe31",
       "title": "Prezydent Trump uważa, że Polsce należy się miejsce w G20 - Rubio",
@@ -415,7 +890,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-01T08:12:47+00:00",
+      "discovered_at": "2026-11-01T15:10:52+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -898,7 +1373,7 @@
       "published_display": "30.10.2026 21:06",
       "content_sha256": "f909cf6d067f6d78938446b9a13b7e26de84c0e4ee6cf8db02f061c0b58959f1",
       "saved_at": "2026-10-31T01:52:53+00:00",
-      "content_checked_at": "2026-11-01T08:12:47+00:00",
+      "content_checked_at": "2026-11-01T15:10:52+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2937,7 +3412,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-01T08:12:47+00:00",
+      "discovered_at": "2026-11-01T15:10:52+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3372,7 +3847,7 @@
       "published_display": "30.10.2026 16:55",
       "content_sha256": "479e3a6271ba7c998c51d8a004944bb4d6e8ebb7403cbabde858be8392123443",
       "saved_at": "2026-10-30T18:41:12+00:00",
-      "content_checked_at": "2026-11-01T08:12:47+00:00",
+      "content_checked_at": "2026-11-01T15:10:52+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -369657,7 +370132,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369675,7 +370150,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369694,7 +370169,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369712,7 +370187,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369730,7 +370205,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369748,7 +370223,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369766,7 +370241,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369784,7 +370259,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369802,7 +370277,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369820,7 +370295,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369838,7 +370313,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369856,7 +370331,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369874,7 +370349,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369892,7 +370367,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369910,7 +370385,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369930,7 +370405,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369950,7 +370425,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369968,7 +370443,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -369986,7 +370461,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370004,7 +370479,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370022,7 +370497,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370040,7 +370515,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370060,7 +370535,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370078,7 +370553,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370096,7 +370571,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370114,7 +370589,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370132,7 +370607,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370152,7 +370627,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370170,7 +370645,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370188,7 +370663,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370206,7 +370681,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370226,7 +370701,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370244,7 +370719,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370262,7 +370737,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370280,7 +370755,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370300,7 +370775,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370318,7 +370793,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370336,7 +370811,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370354,7 +370829,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370372,7 +370847,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370392,7 +370867,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370410,7 +370885,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370428,7 +370903,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370446,7 +370921,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370467,7 +370942,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370485,7 +370960,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370503,7 +370978,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370524,7 +370999,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370542,7 +371017,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -370560,7 +371035,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370578,7 +371053,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370596,7 +371071,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370614,7 +371089,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370632,7 +371107,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370650,7 +371125,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370670,7 +371145,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370688,7 +371163,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370800,7 +371275,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370818,7 +371293,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370836,7 +371311,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370856,7 +371331,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370874,7 +371349,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370892,7 +371367,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370910,7 +371385,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370928,7 +371403,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370948,7 +371423,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370966,7 +371441,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -370984,7 +371459,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371002,7 +371477,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 86,
+      "attempts": 87,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -371020,7 +371495,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -371038,7 +371513,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -371056,7 +371531,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -371074,7 +371549,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -371092,11 +371567,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 87,
+      "attempts": 88,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
       "error": "ValueError"
@@ -371387,26 +371866,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
       "error": "ValueError"
     }
   ],
