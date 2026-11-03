@@ -1,8 +1,1656 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-03T17:53:37+00:00",
+  "last_checked": "2026-11-03T23:25:43+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "783da8643385f2bb",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą na plusie, producenci chipów wrócili do łask",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-gieldy-w-usa-koncza-na-plusie-producenci-chipow-wrocili-do",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: S&P 500"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów, a S&P 500 przerwał serię trzech spadkowych dni z rzędu. Do łask wrócili producenci półprzewodników, a rynek czeka na wyniki wyborów w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu spadł o 0,38 proc. i wyniósł 51.786,72 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia zyskał 0,36 proc. i wyniósł 7.568,92 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zwyżkował o 0,83 proc. do 25.372,01 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 rośnie o 0,23 proc. i wynosi 2.812,4 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks VIX spada o 1,51 proc., do 20,83 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rynki czekają na wyniki wyborów połówkowych w USA, a inwestorzy zastanawiają się, czy Demokraci zdołają odebrać kontrolę nad Kongresem Partii Republikańskiej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sondaże wskazują, że Demokraci prawdopodobnie przejmą kontrolę nad Izbą Reprezentantów, podczas gdy w przypadku Senatu wynik pozostaje niepewny, z umiarkowanym wskazaniem na Demokratów. Zwycięstwo Demokratów w obu izbach mogłoby doprowadzić do zaostrzenia nadzoru nad sektorem AI oraz wprowadzenia bardziej rygorystycznych regulacji wobec korporacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "„W scenariuszu pełnego zwycięstwa Demokratów spodziewałbym się działań wymierzonych w sektor sztucznej inteligencji. Krytyczne podejście do centrów danych zyskałoby wówczas na sile” – ocenił Alexander Lis, dyrektor inwestycyjny w Social Discovery Ventures."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Obawy dotyczące wydatków rządowych i deficytu narastają, co przyczynia się do zmienności na rynku. Jednak każda istotna ekspansja fiskalna wymagałaby długotrwałych negocjacji, a biorąc pod uwagę, że Demokraci prawdopodobnie przejmą kontrolę nad Izbą Reprezentantów, proces legislacyjny może napotkać na poważne blokady” – napisali w swoim raporcie analitycy Societe Generale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Morgan Stanley ocenili w raporcie opublikowanym na początku tygodnia, że wybory powinny pomóc w usunięciu istotnego czynnika niepewności ciążącego na rynku. Ich zdaniem korekta na amerykańskim rynku, która rozpoczęła się w czerwcu, weszła w swoją końcową fazę."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Rynki przez wiele tygodni przygotowywały się na sukcesy Demokratów, scenariusz postrzegany jako najtrudniejszy dla akcji, a w szczególności dla sektora sztucznej inteligencji. Jeśli obecne ryzyka po prostu przestaną się nasilać, rozstrzygnięcie wyborów środka kadencji wyeliminuje niepewność oraz kolejny powód do utrzymywania defensywnej postawy, otwierając drogę do szerszego odbicia” – oceniła Skylar Montgomery Koning, strateżka makroekonomiczna w Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Apple’a spadła o 2 proc. W poniedziałek firma zaprognozowała niższe od oczekiwań marże brutto na kwartał świąteczny, wskazując na rosnące koszty układów pamięci. Przewidywany wzrost przychodów z usług okazał się poniżej oczekiwań Wall Street."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prognozy producenta iPhone’ów pogłębiły nastroje pesymizmu na rynkach, które już wcześniej rozczarowały się wynikami gigantów sektora technologicznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje AMD zyskały 4 proc. przed publikacją kwartalnych wyników finansowych, która ma nastąpić po zamknięciu sesji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Palantir Technologies spadły prawie 2 proc. po tym, jak przedstawione przez spółkę prognozy okazały się rozczarowujące."
+        },
+        {
+          "type": "paragraph",
+          "text": "Broadcom zwyżkował o ponad 3 proc. Micron Technology i Nvidia podrożały po ponad 2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chociaż producenci półprzewodników — i inni powiązani ze sztuczną inteligencją — we wtorek wykazali oznaki ożywienia, Shawn Snyder z Potomac Fund Management uważa, że rynek jest jeszcze w kryzysie."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Obawy dotyczące kosztu kapitału i poziomu niezbędnego finansowania dłużnego będą się utrzymywać przez dłuższy czas” – powiedział strateg ekonomiczny w rozmowie z CNBC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodał jednak, że handel oparty na sztucznej inteligencji może zbliżać się do strefy wyprzedania, dodając, że „może być jeszcze trochę spadków, 4 lub 5 proc., ale ostatecznie, jeśli tym obniżkom nie będzie towarzyszyła recesja, zazwyczaj na tym się kończy”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jody Jonsson z Capital Group wskazywała na rozbieżność między oczekiwaniami firm z sektora sztucznej inteligencji a rzeczywistym tempem wdrażania AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stratedzy z BlackRock Investment Institute, pod kierownictwem Jeana Boivina, napisali w raporcie, że choć nadal wierzą w fundamentalne znaczenie tej technologii, podchodzą do inwestycji w nią w sposób selektywny."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Cztery lata intensywnych inwestycji w sztuczną inteligencję wywindowały oczekiwania dotyczące zysków. Inwestorzy domagają się teraz dowodów na to, że poniesione wydatki przyniosą zwroty, zwłaszcza że rosnące nakłady inwestycyjne ograniczają wolne przepływy pieniężne, spychając je w niektórych firmach na terytorium ujemne” – podano w raporcie BlackRock Investment Institute."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Wall Street Journal” podał, że USA zaatakowały w poniedziałek irańską wyspę Keszm. Dziennik wskazywał, że to kolejny atak potajemnie przeprowadzony przez Waszyngton w ostatnich tygodniach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy JPMorgan wskazywali w raporcie opublikowanym na początku tego tygodnia, że każde osłabienie na rynkach, wynikające z napięć geopolitycznych, postrzegają jako okazję do zakupów."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu uwaga rynków finansowych skupia się też na raporcie payrolls z amerykańskiego rynku pracy za październik, który dostarczy istotnych informacji na temat kondycji gospodarki amerykańskiej. Publikacja raportu jest zaplanowana na piątek o 14.30 czasu polskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamówienia na dobra trwałe w USA we wrześniu wzrosły o 1,9 proc. w ujęciu miesiąc do miesiąca, po wzroście o 0,1 proc. miesiąc wcześniej, po rewizji - poinformował Departament Handlu w końcowym wyliczeniu. Wstępnie szacowano wzrost o 1,8 proc. mdm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamówienia na dobra trwałe z wykluczeniem środków transportu wzrosły o 0,5 proc. mdm vs +0,3 proc. miesiąc wcześniej, po rewizji.Wstępnie szacowano +0,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamówienia w przemyśle amerykańskim we wrześniu wzrosły o 1,8 proc. mdm. Analitycy szacowali, że zamówienia wzrosną o 1,2 proc. mdm. Miesiąc wcześniej zamówienia wzrosły o 0,3 proc. mdm, po korekcie z +0,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba nieobsadzonych etatów w USA, według ankiety JOLTS, we wrześniu wyniosła 7,523 mln wobec 7,19 mln odnotowanych miesiąc wcześniej, po korekcie. Oczekiwano, że liczba wolnych miejsc pracy wyniesie 7,164 mln."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zwyżkują o 0,13 proc. do 96,59 USD za baryłkę, a grudniowe futures na Brent spadają o 0,48 proc. do 104,27 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 22:10",
+      "content_sha256": "57739f04a7890992febb10ca39670625492d7ecdd2d22b7bf64067760ee11237",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "22:10",
+      "published_at": "2026-11-03T22:10+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Do łask wrócili producenci półprzewodników, a rynek czeka na wyniki wyborów w USA.",
+          "Akcje Apple’a spadła o 2 proc. W poniedziałek firma zaprognozowała niższe od oczekiwań marże brutto na kwartał świąteczny, wskazując na rosnące koszty układów pamięci.",
+          "Prognozy producenta iPhone’ów pogłębiły nastroje pesymizmu na rynkach, które już wcześniej rozczarowały się wynikami gigantów sektora technologicznego."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Do łask wrócili producenci półprzewodników, a rynek czeka na wyniki wyborów w USA."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "57739f04a7890992febb10ca39670625492d7ecdd2d22b7bf64067760ee11237"
+      }
+    },
+    {
+      "id": "f2b921202dd39113",
+      "title": "Skrót wiadomości - wtorek 3 listopada, 21.00",
+      "date": "2026-11-03",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/skrot-wiadomosci-wtorek-3-listopada-2100",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo Finansów planuje od grudnia szerszą kampanię informacyjną dotyczącą osobistych kont inwestycyjnych (OKI); razem z KAS, KNF i GPW pracuje nad jednolitymi standardami dotyczącymi OKI - poinformowała dyrektor departamentu rozwoju rynku finansowego w resorcie finansów Katarzyna Przewalska."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk poinformował, że złożył kontrasygnatę pod wnioskiem prezydenta o powołanie członków zarządu NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subindeks Barometru EFL dla branży budowlanej na IV kwartał 2026 roku wyniósł 44,2 pkt., o 2,8 pkt. mniej niż kwartał wcześniej - wynika z najnowszego Barometru EFL. To najniższy wynik wśród badanych sektorów, a według historycznych pomiarów także najsłabszy od początku realizacji badania Barometru EFL w 2015 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eksport z Polski we wrześniu 2026 r. wzrósł o 16,7 proc. w ujęciu miesiąc do miesiąca i wyniósł 33.337 mln euro - wynika z analizy ekonomistów Krajowej Izby Gospodarczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wielka Brytania i Komisja Europejska porozumiały się wstępnie w sprawie zniesienia pobrexitowych kontroli jedzenia i produktów rolnych - podało we wtorek BBC. Ma to być część szerszego resetu i zbliżenia we wzajemnych stosunkach, o których mówił brytyjski premier Andy Burnham."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba nieobsadzonych etatów w USA, według ankiety JOLTS, we wrześniu wyniosła 7,523 mln wobec 7,19 mln odnotowanych miesiąc wcześniej, po korekcie - podało biuro ds. statystyki amerykańskiego Departamentu Pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamówienia w przemyśle amerykańskim we wrześniu wzrosły o 1,8 proc. mdm - poinformował Departament Handlu USA. Analitycy szacowali, że zamówienia wzrosną o 1,2 proc. mdm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zamówienia na dobra trwałe w USA we wrześniu wzrosły o 1,9 proc. w ujęciu miesiąc do miesiąca, po wzroście o 0,1 proc. miesiąc wcześniej, po rewizji - poinformował Departament Handlu USA w końcowym wyliczeniu. Wstępnie szacowano wzrost o 1,8 proc. mdm."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pierwsze i drugie czytanie ponownie składanego do Sejmu przez rząd projektu ustawy dotyczący wyższego CIT dla dużych firm i progów PIT planowane jest na czwartek 5 listopada - wynika z harmonogramu obrad Sejmu a dn. 5-6 listopada."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Orlen analizuje celowość dodatkowych bardzo wysokich nakładów na dokończenie inwestycji w instalację BoB w Możejkach - poinformował PAP Biznes prezes Orlenu Ireneusz Fąfara. Alternatywą jest rezygnacja z inwestycji i ryzyko zamknięcia litewskiej rafinerii. Według nieoficjalnych informacji na inwestycję brakuje 600-700 mln USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Enea szacuje, że miała w III kwartale 2026 roku 1.139 mln zł EBITDA, a zysk netto j.d. wyniósł 542 mln zł - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgoda akcjonariuszy PZU na emisję obligacji kapitałowych o łącznej wartości nominalnej do 3 mld zł umożliwi sprawne przeprowadzenie refinansowania w dogodnym momencie i przy odpowiednich warunkach rynkowych - poinformował PAP Biznes CFO PZU Maciej Fedyna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Nadzorcza JSW powierzyła Tomaszowi Gawlikowi pełnienie obowiązków prezesa zarządu JSW od 3 listopada 2026 roku do dnia powołania prezesa zarządu spółki - podało JSW w komunikacie. Tomasz Gawlik pozostaje również zastępcą prezesa zarządu ds. rozwoju."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie. Konsensus PAP Biznes zakładał 7,19 mld zł przychodów, 148,1 mln zł EBITDA i 41 mln zł straty netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec października 2026 r. wyniosła 9.708,8 mln zł, wobec 9.876,3 mln zł na koniec września 2026 r. - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "PrestaShop, z grupy cyber_Folks, stawia na rozwój modeli revenue share oraz planuje premierę produktową w obszarze płatności ze swoim amerykańskim partnerem - poinformował PAP Biznes Mikołaj Król, CEO PrestaShop. Wskazał, że w 2027 roku spółka chce także inwestować w integrację organizacji i nowe kanały partnerskie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emil Popławski z początkiem listopada dołączył do grupy cyber_Folks jako Head of M&A - podała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Grodno szacuje, że miała w październiku 2026 roku 138,7 mln zł przychodów ze sprzedaży, w porównaniu do 103,7 mln zł przychodów rok wcześniej, co oznacza wzrost o 34 proc. rdr - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka biotechnologiczna BIOTTS pozyskała 25 mln zł od inwestorów prywatnych i family offices w rundzie pre-IPO, której liderem został Mariusz Książek - podała spółka w komunikacie prasowym. Debiut na rynku głównym GPW spółka planuje na 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "4Mass zaprasza do składania ofert sprzedaży nie więcej niż 1,5 mln akcji, stanowiących nie więcej niż 6,25 proc. kapitału zakładowego i głosów na WZ. Oferowana cena zakupu akcji wynosi 7,50 zł za papier - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa LPP otworzy pierwsze sklepy marki Sinsay w Czarnogórze na początku 2027 roku - podała spółka w komunikacie prasowym. To 48. rynek w portfolio firmy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Konsorcjum firm Mirbud i Budpol zawarło z Generalnym Dyrektorem Dróg Krajowych i Autostrad umowę na realizację zamówienia publicznego p.n. \"Projekt i budowa autostrady A2 od węzła Biała Podlaska do gr. państwa; odcinek X od węzła Biała Podlaska (bez węzła) do km ok. 641+011\" - podał Mirbud w komunikacie. Wartość umowy to 571,3 mln zł brutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "11 bit studios podpisał z Microsoft Corporation umowę dotyczącą udostępnienia gier w programie Game Pass - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "MFO szacuje zysk netto za trzy kwartały 2026 roku na 11,5 mln zł, co stanowi wzrost o 4,41 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 209,63 proc. w stosunku do wartości bazowej, tj. średniej wielkości osiągniętej w analogicznym okresie w ciągu 3 ostatnich lat - podał producent profili stalowych w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lentex szacuje, że w pierwszych trzech kwartałach 2026 roku miał 14,99 mln zł zysku netto i 21,76 mln zł EBITDA. Szacowane przychody netto wyniosły 132,7 mln zł - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Atrem podpisał z Polskimi Sieciami Elektroenergetycznymi umowę dotyczącą rozbudowy stacji 400/220/110 kV Mikułowa. Wynagrodzenie wynosi 157,8 mln zł brutto, w tym 98,1 mln zł z tytułu zamówienia podstawowego - podał Atrem w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "WIK, akcjonariusz spółki Wawel, chce, by z zysku osiągniętego w roku obrotowym 2026 rok wypłacono zaliczkę na poczet przewidywanej dywidendy w łącznej kwocie 45,2 mln zł, czyli po 35 zł na jedną akcję - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artifex Mundi szacuje, że w październiku 2026 roku miał 4,9 mln zł przychodów ze sprzedaży, co oznacza wzrost o 1 proc. wobec września tego roku - poinformował producent i wydawca gier w komunikacie"
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa DataWalk szacuje skorygowaną stratę EBITDA w okresie I-III kwartału 2026 r. na 39,6 mln zł, wobec 7,9 mln zł straty w analogicznym okresie 2025 r. - podała spółka w komunikacie. Przychody grupy szacowane są na 14,6 mln zł, co oznacza spadek o 53 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kogeneracja szacuje skonsolidowany wynik EBITDA w III kwartale 2026 roku na ok. 18 mln zł, a stratę netto na ok. 34 mln zł - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Złoty przez część wtorkowej sesji osłabiał się nawet do ponad 4,425/EUR, jednak popołudnie przyniosło poprawę nastrojów i polska waluta kończy dzień z lekkim umocnieniem. Rentowności krajowych obligacji spadły. Zdaniem analityków, polska waluta znajduje się pod presją od dwóch tygodni i na razie nie widać istotnej zmiany trendu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1179 USD i 176,95 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "W środę 4 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 6,37 zł/l, dla benzyny Pb98 7,24 zł/l, a dla oleju napędowego 8,05 zł/l - poinformował minister energii w obwieszczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo Energii (ME) aktualnie nie identyfikuje ryzyka możliwych ograniczeń dostaw gazu ziemnego w najbliższym sezonie zimowym - podał resort w odpowiedzi na interpelację poselską. W ocenie ME, obecnie nie ma również w Polsce \"kryzysu cenowego\" na rynku energii elektrycznej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny gazu w Europie mocniej rosną po ataku USA na irańską wyspę Keszm - informują maklerzy. Benchmarkowe kontrakty na gaz w Amsterdamie (ICE Entawex Dutch TTF) zwyżkują o 3,5 proc. do 98,20 euro za MWh, po zwyżce wcześniej o prawie 4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Średnia ważona cena BASE na rynku dnia następnego wzrosła w październiku do 751,71 zł/MWh z 666,68 zł/MWh miesiąc wcześniej - poinformowała TGE na stronie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Średnia ważona cena kontraktu terminowego na rynku gazu BASE_Y-27 wyniosła w październiku 330,70 zł/MWh, czyli o 24,21 proc. więcej mdm - poinformowała TGE na stronie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Brukseli rozpoczęło we wtorek działalność nowe stowarzyszenie - Polski Dom Infrastruktury Energetycznej zrzeszające polskie spółki: Polskie Sieci Elektroenergetyczne (PSE), Gaz-System oraz PERN. Nowa organizacja ma zabiegać o polskie interesy na unijnym forum."
+        },
+        {
+          "type": "heading",
+          "text": "NIERUCHOMOŚCI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wraz ze starzeniem się zasobów nieruchomości komercyjnych w Europie Środkowo-Wschodniej rynek wchodzi w nową fazę, w której uwaga przesuwa się z realizacji nowych inwestycji na transformację istniejących aktywów - oceniają eksperci Colliers."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konflikt polityczny w Polsce rozprzestrzenia się na kluczowe instytucje, gdy pogarsza się sytuacja fiskalna i ratingowa, wobec czego ryzyko gwałtowniejszych wahań kursu złotego może rosnąć - oceniają ekonomiści Commerzbanku."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto sektora bankowego w okresie styczeń-wrzesień 2026 roku wyniósł 32,28 mld zł, czyli spadł o 10,5 proc. rdr - poinformował Narodowy Bank Polski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dla sukcesu osobistych kont inwestycyjnych (OKI) niezbędna będzie atrakcyjna i zrozumiała oferta; rynek będzie musiał odpowiedzieć na potrzeby potencjalnych klientów - ocenił wiceminister finansów Jurand Drop, podczas Forum Firm Inwestycyjnych w Warszawie, organizowanego przez Izbę Domów Maklerskich."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resort infrastruktury chce, aby rząd jeszcze w tym roku uchwalił zmiany aktualizujące wieloletni program inwestycyjny budowy Portu Polska - wynika z wpisu resortu do wykazu prac legislacyjnych rządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łączna wartość obrotu akcjami na Głównym Rynku GPW w październiku 2026 r. wyniosła 59,5 mld zł, co oznacza wzrost rdr o 35,6 proc. - poinformowała giełda w komunikacie. Wartość obrotu akcjami w ramach arkusza zleceń zwiększyła się o 33,6 proc. rdr do poziomu 57,6 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tylko Grecja i Rumunia posiadają niższy poziom stóp oszczędności w Unii Europejskiej niż Polska, gdzie wynosi on 9,5 proc. - przekazał Polski Instytut Ekonomiczny. Jednocześnie stopa oszczędności w Polsce systematycznie rośnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pobieranie przez chatboty oparte na sztucznej inteligencji publikacji prasowych dostępnych w Internecie i ponowne wykorzystywanie ich w czasie rzeczywistym w celu generowania odpowiedzi na zapytania użytkowników może, w pewnych okolicznościach, naruszać prawa wydawców prasowych - ocenił rzecznik generalny TSUE w opinii dot. Google Gemini i węgierskiej Like Company."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od 1 listopada funkcję członka zarządu PFR TFI objął Łukasz Kochanowski - poinformował PFR TFI. Ma on odpowiadać za nadzór nad systemem zarządzania ryzykiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska zgodziła się we wtorek na przejęcie niemieckiej spółki Ceconomy, właściciela sieci MediaMarkt i Saturn, przez chińską platformę e-commerce JD.com. Warunkiem jest jednak zakaz przekazywania wsparcia finansowego przejętej spółce oraz zapewnienie dostępu do magazynów i technologii innym firmom."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sąd Ochrony Konkurencji i Konsumentów podzielił zastrzeżenia Prezesa UOKiK do sposobu reklamowania promocji Biedronki - podał UOKiK w komunikacie. Zgodnie z wyrokiem spółka powinna zapłacić blisko 84 mln zł kary."
+        },
+        {
+          "type": "paragraph",
+          "text": "Giełda kryptowalut Binance ujawniła we wtorek, że cyberatak na nią przeprowadzono poprzez fałszywą rozmowę rekrutacyjną. Hakerzy wykorzystali ją do przejęcia kontroli nad komputerem i używając wewnętrznego narzędzia opartego na sztucznej inteligencji (AI), przejęli kontrolę nad portfelami firmy."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk poinformował we wtorek po posiedzeniu Rady Bezpieczeństwa Narodowego, że zaoferował prezydentowi Karolowi Nawrockiemu, że jest gotów w tym tygodniu na spotkanie w cztery oczy po to, by zastanowić się, jak trwale obniżyć napięcie w kraju."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk podkreślił po RBN, że w sprawie powstania amerykańskich baz w Polsce jak i wzmocnienia amerykańskiej obecności wojskowej pomiędzy głównymi ośrodkami władzy panuje „bardzo szeroki konsensus”. Główne ośrodki władzy, w tym prezydent i rząd, współpracują - mówił."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nie ma bezpieczeństwa zewnętrznego bez wewnętrznego, ale brak stabilności wewnętrznej nie może wpływać na ochronę obywateli – powiedział we wtorek na posiedzeniu RBN prezydent Karol Nawrocki. Dodał, że oczekuje od rządu informacji o przygotowaniach do stałej obecności wojsk USA w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk powiedział we wtorek, że obrona Trybunału Konstytucyjnego i warunków pracy dla sędziów jest oczywistym obowiązkiem władzy wykonawczej. Dodał, że nikt z władzy wykonawczej nie ma prawa wkraczać przemocą na teren Trybunału, tak jak to zrobił prezydent Karol Nawrocki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bezcenne jest dzisiaj, by polscy politycy nie służyli interesom Rosji - powiedział we wtorek premier Donald Tusk. Jak ocenił, sytuacja wokół Trybunału Konstytucyjnego \"jest elementem strategii rozbijania stabilności i jednolitości Polski w tym bardzo poważnym momencie\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na granicy polsko-rosyjskiej zaobserwowano niepokojący ruch, udało się zapobiec prowokacji - poinformował premier Donald Tusk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prawie 3 tys. żołnierzy z 11 państw koalicji chętnych weźmie udział w ćwiczeniach wojskowych organizowanych m.in. w Polsce w dniach 9-22 listopada - poinformowało MON. Ćwiczenia mają sprawdzić gotowość sił koalicji do wsparcia Ukrainy po zakończeniu wojny."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Trybunale Konstytucyjnym zakończyło się zgromadzenie zwołane przez Annę Korwin-Piotrowską, na którym m.in. przyjęto uchwałę dotyczącą przyszłorocznego budżetu Trybunału i wylosowano sędziów do postępowań dyscyplinarnych w sprawie sędziów Bogdana Święczkowskiego i Bartłomieja Sochańskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trybunał Konstytucyjny powinien rozstrzygnąć kwestie dotyczące ustaw o prokuraturze, Krajowej Radzie Sądownictwa, samym TK i Sądzie Najwyższym - ocenił minister sprawiedliwości, prokurator generalny Waldemar Żurek. Jednocześnie wykluczył możliwość zakwestionowania przez TK mandatu prezydenta Karola Nawrockiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szef MS, prokurator generalny Waldemar Żurek ocenił, że są „twarde dowody\" pokazujące, jak prezydent Karol Nawrocki „w sposób nieuprawniony, w środku nocy wbija się\" do TK i „przepycha ludzi\". Minister ocenił, że mogło dojść m.in. do bezprawnego naruszenia miru Trybunału."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokurator generalny Waldemar Żurek poinformował, że skierował do Trybunału Konstytucyjnego kolejny, szósty już wniosek o uchylenie immunitetu Bogdanowi Święczkowskiemu. Podano, że wnioski z piątku i wtorku dotyczą m.in. spraw systemów Pegasus i Hermes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokurator z Prokuratury Krajowej wszczął we wtorek „śledztwo w sprawie czynnej napaści na sędziów Trybunału Konstytucyjnego Annę Korwin-Piotrowską i Krystiana Markiewicza” – poinformowała rzeczniczka Prokuratora Generalnego, prok. Anny Adamiak."
+        },
+        {
+          "type": "paragraph",
+          "text": "15 sędziów izby karnej Sądu Najwyższego i 13 sędziów innych izb deklaruje, że nie weźmie udziału w Zgromadzeniu Ogólnym SN - wynika z treści oświadczeń zamieszczonych w internecie przez sędziego Włodzimierza Wróbla. Według sędziów, zwołanie Zgromadzenia ma m.in. stanowić próbę legitymizacji relacji pierwszego prezesa SN z prezydentem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hanna Machińska poinformowała, że Rada Helsińskiej Fundacji Praw Człowieka nie zgadza się z sobotnim stanowiskiem Zarządu HFPC ws. Trybunału Konstytucyjnego. Uważamy, że podstawa prawna do m.in. odsunięcia Bogdana Święczkowskiego była jasno określona; postanowiliśmy ustąpić z Rady - przekazała."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek przed południem Bogdan Święczkowski chciał wejść na teren Trybunału Konstytucyjnego, ale nie został wpuszczony przez funkcjonariuszy policji, choć - jak dodał - jako prezes TK jest administratorem siedziby Trybunału."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senackie Komisje: Ustawodawcza oraz Praw Człowieka i Praworządności nie zgłosiły poprawek do nowelizacji Kodeksu karnego, która przewiduje częściową dekryminalizację aborcji za zgodą kobiety oraz za pomoc w aborcji w przypadku ciężkiej wady płodu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Krakowa Łukasz Gibała zwolnił pięcioro pełnomocników prezydenta miasta. To osoby, które współpracowały z poprzednim, odwołanym w referendum włodarzem. Zaprzysiężony dwa tygodnie temu Gibała systematycznie wprowadza zmiany w urzędzie miasta, także mające przynieść oszczędności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prawie 4 tys. zarzutów usłyszał współwłaściciel spółki prowadzącej przychodnie w Zabrzu i Tychach, który polecał pracownikom fałszowanie dokumentacji dotyczącej terapii środowiskowej. Na podstawie fikcyjnych danych wyłudzano refundacje z NFZ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stołeczna policja poinformowała we wtorek, że zatrzymała 15-latka, który miał wysłać wiadomość z żądaniem przekazania 300 tys. zł, a w przypadku niespełnienia tego żądania zagroził podłożeniem materiałów wybuchowych w budynku jednej z warszawskich firm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Loty na lotnisku w Modlinie zostały wznowione po tym, jak we wtorek przekierowano tam samolot LOT-u lecący z Londynu na Lotnisko Chopina, w związku z alarmem bombowym na pokładzie. Jednocześnie na Lotnisku Chopina prowadzone były działania po informacji o niebezpiecznym przedmiocie na pokładzie samolotu SAS."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miastecka policja prowadzi dochodzenie po tym, jak czworo dzieci znalazło w cukierkach otrzymanych od nieznajomych w Halloween ostre, metalowe przedmioty. Jedno z dzieci zraniło się w język i trafiło do szpitala - podał PAP oficer prasowy bytowskiej policji mł.asp. Dawid Łaszcz."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump poinformował we wtorek w rozmowie ze stacją Fox News, że zawarł porozumienie z Izraelem o zakończeniu wojskowej pomocy finansowej dla tego kraju wraz z końcem roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stany Zjednoczone zaatakowały w poniedziałek irańską wyspę Keszm - poinformowali amerykańscy urzędnicy, cytowani przez „Wall Street Journal\". To kolejny atak o ograniczonej skali, potajemnie przeprowadzony przez Waszyngton w ostatnich tygodniach - zaznaczył dziennik."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powiedział w poniedziałek, że nie spieszy się z decyzją w sprawie potencjalnego powrotu do bombardowania Iranu. Przekonywał, że Irańczycy chcą jak najszybciej zawrzeć porozumienie i być może tak się wydarzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resort sprawiedliwości USA poinformował we wtorek, że skieruje około 1000 obserwatorów wyborczych do wszystkich stanów w związku z wyborami do Kongresu w połowie kadencji prezydenta. Jak podkreślił, to największa taka misja w historii, a jej celem jest zapewnienie uczciwości wyborów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Iranu Masud Pezeszkian oświadczył we wtorek, że najwyższy duchowy i polityczny przywódca kraju Modżtaba Chamenei dał mu mandat na podjęcie w rozmowach z USA tematów uznawanych dotąd za tabu. Dodał, że wznowienie działań wojennych na Bliskim Wschodzie nikomu nie przyniesie korzyści."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iran i USA pozostają dalekie od osiągnięcia porozumienia kończącego konflikt - powiedział we wtorek agencji Reutera wysoki rangą irański urzędnik. W tym samym czasie Katar zintensyfikował działania mediacyjne między Teheranem a Waszyngtonem, aby ograniczyć napięcia i zapobiec eskalacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Specjalny wysłannik Białego Domu Steve Witkoff poinformował w poniedziałek, że 10-11 listopada w Abu Zabi w Zjednoczonych Emiratach Arabskich odbędą się rozmowy między Ukrainą i Rosją, w których będą pośredniczyć Amerykanie. Wcześniej Amerykanie spotkają się w Brukseli z przedstawicielami Europy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Ukrainy Wołodymyr Zełenski potwierdził we wtorek w Berlinie trójstronne spotkanie z Rosją i USA w Abu Zabi, które odbędzie się 10 i 11 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Ukrainy Wołodymyr Zełenski ma we wtorek po południu złożyć wizytę w Berlinie - poinformował kanclerz Niemiec Friedrich Merz w przemówieniu podczas konferencji w berlińskiej Izbie Przemysłowo-Handlowej (IHK)."
+        },
+        {
+          "type": "paragraph",
+          "text": "W środę w Brukseli odbędzie się spotkanie przedstawicieli UE, USA i Ukrainy, a także Francji, Niemiec, Wielkiej Brytanii, NATO i Banku Światowego - ogłosiła Paula Pinho, rzeczniczka Komisji Europejskiej, która będzie gospodarzem rozmów. Tematem będzie odbudowa Ukrainy - dodała."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rządzący Szwecją od 2022 r. centroprawicowy premier Ulf Kristersson, który przegrał wrześniowe wybory, dostał we wtorek tydzień na znalezienie większości w parlamencie. Wcześniej deputowani nie wybrali na szefową rządu liderki Partii Centrum Elisabeth Thand Ringqvist."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sekretarz stanu USA Marco Rubio spotkał się w poniedziałek z nowym szefem MSZ Wenezueli Oliverem Blanco i rozmawiał z nim na temat reform, które mają doprowadzić do wolnych, uczciwych i wiarygodnych wyborów w jego kraju - poinformował Departament Stanu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosja próbuje wykorzystać konflikt wokół Trybunału Konstytucyjnego w Polsce do osłabienia proeuropejskiego i proukraińskiego rządu w Warszawie oraz wsparcia dla Ukrainy - ocenił w poniedziałek „New York Times\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wywiad wojskowy Ukrainy (HUR) opublikował dane techniczne rosyjskiego bezzałogowca Gerbera-2, wprowadzonego w ostatnich tygodniach do użycia przez rosyjską armię - poinformował ukraiński portal Militarnyj."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brytyjski rząd ogłosił w poniedziałek nowe zasady przyznawania prawa stałego pobytu, wydłużając dla wielu imigrantów czas, po którym będą się mogli o nie ubiegać. Szefowa MSW Shabana Mahmood ogłosiła jednak wyjątek dla pracowników sektora opieki nad osobami starszymi, chorymi oraz z niepełnosprawnościami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na terenie gminy Balvi w płn.-wsch. części kraju niedaleko granicy z Rosją spadł dron - poinformowało we wtorek po północy dowództwo sił zbrojnych Łotwy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Finlandii Alexander Stubb określił swój telefon do Putina jako „element fińskiego odstraszania\". Celem nie jest prowokowanie, lecz zapobieganie zagrożeniom dla bezpieczeństwa Finlandii - powiedział Stubb, otwierając w poniedziałek kurs obrony narodowej w Helsinkach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiny prowadziły przed odbywającymi się we wtorek w USA wyborami uzupełniającymi operację wpływu w internecie, w której sieć fałszywych kont znana jako „Spamouflage” podszywała się pod amerykańskich wyborców - ocenia amerykańska firma fact-checkingowa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Samolot lecący z Izraela wylądował we wtorek w Sofii po otrzymaniu informacji o podłożeniu ładunku wybuchowego; maszyna jest obecnie sprawdzana przez jednostkę antyterrorystyczną bułgarskiej policji - poinformował wysoki rangą przedstawiciel MSW Bułgarii Lubomir Nikołow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dwa samoloty pasażerskie lądowały awaryjnie we wtorek na rzymskim lotnisku Fiumicino w eskorcie wojskowych myśliwców w związku z alarmami bombowymi. Alerty okazały się fałszywe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Korea Płn. przeprowadziła testy głowicy kasetowej strategicznego pocisku manewrującego oraz zdolności do \"uderzenia pionowego\" - podała we wtorek południowokoreańska agencja Yonhap. Władze w Seulu zapewniły o stałej gotowości bojowej i przewadze technologicznej nad Pjongjangiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "asa/ osz/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 21:02",
+      "content_sha256": "1692574ec9beb090f8906713db13395cfe59d4da2e16430f8eee2b9e7afbb60f",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "11 bit studios",
+        "JSW",
+        "LPP",
+        "Mirbud",
+        "Orlen",
+        "PZU"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: NBP",
+          "Temat: EBC",
+          "Temat: rentowności",
+          "Temat: obligacj",
+          "Temat: walut"
+        ],
+        "finanse": [
+          "Firma: PZU",
+          "Temat: bank"
+        ],
+        "energia": [
+          "Firma: Orlen",
+          "Firma: JSW",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: gaz",
+          "Temat: gazu"
+        ],
+        "technologie": [
+          "Firma: 11 bit studios",
+          "Temat: gier",
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc",
+          "Temat: technologi"
+        ],
+        "przemysl": [
+          "Firma: Mirbud",
+          "Temat: przemysł",
+          "Temat: infrastruktur",
+          "Temat: kolej"
+        ],
+        "konsumpcja": [
+          "Firma: LPP",
+          "Temat: konsumen",
+          "Temat: e-commerce"
+        ],
+        "nieruchomosci": [
+          "Temat: nieruchomoś"
+        ]
+      },
+      "published_time": "21:02",
+      "published_at": "2026-11-03T21:02+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Pierwsze i drugie czytanie ponownie składanego do Sejmu przez rząd projektu ustawy dotyczący wyższego CIT dla dużych firm i progów PIT planowane jest na czwartek 5 listopada - wynika z harmonogramu obrad Sejmu a dn.",
+          "Grupa Grodno szacuje, że miała w październiku 2026 roku 138,7 mln zł przychodów ze sprzedaży, w porównaniu do 103,7 mln zł przychodów rok wcześniej, co oznacza wzrost o 34 proc. rdr - podała spółka w komunikacie.",
+          "Prezydent Ukrainy Wołodymyr Zełenski potwierdził we wtorek w Berlinie trójstronne spotkanie z Rosją i USA w Abu Zabi, które odbędzie się 10 i 11 listopada."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "1692574ec9beb090f8906713db13395cfe59d4da2e16430f8eee2b9e7afbb60f"
+      }
+    },
+    {
+      "id": "4847f3d9a10acbdd",
+      "title": "SOKiK potwierdził, że Biedronka wprowadzała konsumentów w błąd; obniżył karę do ok. 84 mln zł (aktl.)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/sokik-potwierdzil-ze-biedronka-wprowadzala-konsumentow-w-blad-obnizyl-kare-do-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "konsumpcja": [
+          "Temat: konsumen"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Sąd Ochrony Konkurencji i Konsumentów podzielił zastrzeżenia Prezesa UOKiK do sposobu reklamowania promocji Biedronki - podał UOKiK w komunikacie. Zgodnie z wyrokiem spółka powinna zapłacić blisko 84 mln zł kary."
+        },
+        {
+          "type": "paragraph",
+          "text": "W grudniu 2025 r. Prezes UOKiK wydał decyzję dotyczącą wprowadzania konsumentów w błąd podczas promocji Biedronki. Nałożył na Jeronimo Martins Polska blisko 105 mln zł kary. Sprawa dotyczyła obietnicy zwrotu 100 proc. wartości zakupionych produktów na vouchery, z których można było skorzystać tylko na określonych, nieznanych podczas zakupów, warunkach. Spółka odwołała się od decyzji."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Sąd Ochrony Konkurencji i Konsumentów potwierdził, że Biedronka wprowadzała konsumentów w błąd i podzielił ocenę Prezesa UOKiK dotyczącą umyślnego charakteru naruszeń, miarkując przy tym karę do prawie 84 mln zł\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyrok SOKiK jest nieprawomocny. Spółka może się od niego odwołać do Sądu Apelacyjnego w Warszawie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To, że nasze argumenty zostały wysłuchane i uwzględnione przez niezależny sąd, który zmienił pierwotną decyzję wydaną przez Prezesa UOKiK, uznajemy za krok w dobrym kierunku. Dokładnie przeanalizujemy pisemne uzasadnienie wyroku, gdy tylko je otrzymamy, a decyzję dotyczącą ewentualnych dalszych kroków w tej sprawie rezerwujemy sobie na później. Wszystkich klientów Biedronki zapewniamy, że nadal niezmiennie będziemy im oferować najbardziej konkurencyjną ofertę promocyjną na polskim rynku\" - napisano w stanowisku sieci Biedronka przesłanym PAP Biznes."
+        },
+        {
+          "type": "paragraph",
+          "text": "UOKiK podał, że zamierza złożyć apelację w części dotyczącej obniżenia wysokości kary."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "seb/ ana/ pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 20:50",
+      "content_sha256": "b808dfc5127e8e9eda60e5b2d893ff6594f677d676a40bb6fd0b0cacf444ac10",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "20:50",
+      "published_at": "2026-11-03T20:50+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Sąd Ochrony Konkurencji i Konsumentów podzielił zastrzeżenia Prezesa UOKiK do sposobu reklamowania promocji Biedronki - podał UOKiK w komunikacie.",
+          "W grudniu 2025 r. Prezes UOKiK wydał decyzję dotyczącą wprowadzania konsumentów w błąd podczas promocji Biedronki.",
+          "\"Sąd Ochrony Konkurencji i Konsumentów potwierdził, że Biedronka wprowadzała konsumentów w błąd i podzielił ocenę Prezesa UOKiK dotyczącą umyślnego charakteru naruszeń, miarkując przy tym karę do prawie 84 mln zł\" - napisano w komunikacie."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "konsumen*",
+              "zakup*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b808dfc5127e8e9eda60e5b2d893ff6594f677d676a40bb6fd0b0cacf444ac10"
+      }
+    },
+    {
+      "id": "e7d78ec6e5a9dc84",
+      "title": "OFE wartości jednostek rozrachunkowych z 2026.11.02",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/ofe-wartosci-jednostek-rozrachunkowych-z-20261102-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "PZU"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania jednostek rozrachunkowych OFE"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026.11.02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| JEDNOSTKI OFE | 2.11 | 30.10 | zmiana(%) | aktywa(zł)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Allianz | 114,83 | 115,99 | -1,00 | 91126977845,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PKOBPBankowy | 124,18 | 125,55 | -1,09 | 17613595484,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nationale-Nederlanden | 124,40 | 125,80 | -1,11 | 102176053809,72"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Vienna | 109,82 | 110,97 | -1,04 | 31238656758,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Pocztylion | 108,70 | 109,90 | -1,09 | 6366588164,79"
+        },
+        {
+          "type": "heading",
+          "text": "| PZU | 122,39 | 123,58 | -0,96 | 49067029942,97"
+        },
+        {
+          "type": "heading",
+          "text": "| UNIQA | 111,85 | 113,02 | -1,04 | 22522212352,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Generali | 113,77 | 114,95 | -1,03 | 46544102837,52"
+        },
+        {
+          "type": "paragraph",
+          "text": "kom mra/ abs/ amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:41",
+      "content_sha256": "4ad24000081ae04c2c404cce6b071e291751025794557feb088053325ef14da6",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:41",
+      "published_at": "2026-11-03T19:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "OFE wartości jednostek rozrachunkowych z 2026.11.02.",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4ad24000081ae04c2c404cce6b071e291751025794557feb088053325ef14da6"
+      }
+    },
+    {
+      "id": "3833bb48f5683efd",
+      "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez POWIAT GOLENIOWSKI",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-4",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1537/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez POWIAT GOLENIOWSKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 30 ust. 1 pkt 1) oraz ust. 1a Regulaminu Giełdy, po rozpatrzeniu wniosku POWIATU GOLENIOWSKIEGO o zawieszenie obrotu obligacjami na okaziciela serii A24, oznaczonymi kodem „PLO202800036”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 19 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 110 ust. 10 - 12 Regulaminu Giełdy, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:41",
+      "content_sha256": "8ab21329300f670cbad523da88e7e23d44065274144462ea6302a01f2efb5c91",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:41",
+      "published_at": "2026-11-03T19:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1a Regulaminu Giełdy, po rozpatrzeniu wniosku POWIATU GOLENIOWSKIEGO o zawieszenie obrotu obligacjami na okaziciela serii A24, oznaczonymi kodem „PLO202800036”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 19 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie).",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8ab21329300f670cbad523da88e7e23d44065274144462ea6302a01f2efb5c91"
+      }
+    },
+    {
+      "id": "8c1b41645e8bd577",
+      "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A13 wyemitowanymi przez POWIAT GOLENIOWSKI",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-3",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1536/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A13 wyemitowanymi przez POWIAT GOLENIOWSKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 30 ust. 1 pkt 1) oraz ust. 1a Regulaminu Giełdy, po rozpatrzeniu wniosku POWIATU GOLENIOWSKIEGO o zawieszenie obrotu obligacjami na okaziciela serii A13, oznaczonymi kodem „PL0024200012”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 110 ust. 10 - 12 Regulaminu Giełdy, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:31",
+      "content_sha256": "ccec8b5b6be641e533a12d3de28a3594ac41041f5ebfe5747c8752e64ed0cfe9",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:31",
+      "published_at": "2026-11-03T19:31+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1a Regulaminu Giełdy, po rozpatrzeniu wniosku POWIATU GOLENIOWSKIEGO o zawieszenie obrotu obligacjami na okaziciela serii A13, oznaczonymi kodem „PL0024200012”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie).",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ccec8b5b6be641e533a12d3de28a3594ac41041f5ebfe5747c8752e64ed0cfe9"
+      }
+    },
+    {
+      "id": "d6f527906507bb24",
+      "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ BARCIN",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-2",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1532/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ BARCIN"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 30 ust. 1 pkt 1) oraz ust. 1a Regulaminu Giełdy, po rozpatrzeniu wniosku GMINY BARCIN o zawieszenie obrotu obligacjami na okaziciela serii A19, oznaczonymi kodem „PL0029200025”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 110 ust. 10 - 12 Regulaminu Giełdy, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:27",
+      "content_sha256": "2e821f6b2a74d8144a42e9b816398ac8cf973552d738789c750fda281de3fc39",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:27",
+      "published_at": "2026-11-03T19:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1a Regulaminu Giełdy, po rozpatrzeniu wniosku GMINY BARCIN o zawieszenie obrotu obligacjami na okaziciela serii A19, oznaczonymi kodem „PL0029200025”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie).",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2e821f6b2a74d8144a42e9b816398ac8cf973552d738789c750fda281de3fc39"
+      }
+    },
+    {
+      "id": "9c877ab1a2ce71fa",
+      "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A18 wyemitowanymi przez GMINĘ MIASTO PŁOCK",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-1",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1533/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A18 wyemitowanymi przez GMINĘ MIASTO PŁOCK"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 30 ust. 1 pkt 1) oraz ust. 1a Regulaminu Giełdy, po rozpatrzeniu wniosku GMINY MIASTA PŁOCK o zawieszenie obrotu obligacjami na okaziciela serii A18, oznaczonymi kodem „PLGMPLC00076”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 110 ust. 10 - 12 Regulaminu Giełdy, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:27",
+      "content_sha256": "30970e3b5af4c09008eef5d284e6d865b3b8cf747d9d70e1f3b0f67a9ba4b627",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:27",
+      "published_at": "2026-11-03T19:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1a Regulaminu Giełdy, po rozpatrzeniu wniosku GMINY MIASTA PŁOCK o zawieszenie obrotu obligacjami na okaziciela serii A18, oznaczonymi kodem „PLGMPLC00076”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie).",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "30970e3b5af4c09008eef5d284e6d865b3b8cf747d9d70e1f3b0f67a9ba4b627"
+      }
+    },
+    {
+      "id": "17025a78e40968b4",
+      "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ MIASTO PŁOCK",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-0",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1534/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ MIASTO PŁOCK"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 30 ust. 1 pkt 1) oraz ust. 1a Regulaminu Giełdy, po rozpatrzeniu wniosku GMINY MIASTA PŁOCK o zawieszenie obrotu obligacjami na okaziciela serii A19, oznaczonymi kodem „PLO228900018”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 110 ust. 10 - 12 Regulaminu Giełdy, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "zlecenia maklerskie na obligacje, o których mowa w § 1, przekazane"
+        },
+        {
+          "type": "paragraph",
+          "text": "na giełdę, a niezrealizowane do dnia 12 listopada 2026 r. (włącznie), tracą ważność;"
+        },
+        {
+          "type": "paragraph",
+          "text": "w okresie zawieszenia obrotu, o którym mowa w § 1, zlecenia maklerskie"
+        },
+        {
+          "type": "paragraph",
+          "text": "na obligacje, o których mowa w § 1, nie będą przyjmowane."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:27",
+      "content_sha256": "cb04d5cffc88b0e9cef12f6d4b9799499cf9b603695e27d7faee8ae74befab2c",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:27",
+      "published_at": "2026-11-03T19:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1a Regulaminu Giełdy, po rozpatrzeniu wniosku GMINY MIASTA PŁOCK o zawieszenie obrotu obligacjami na okaziciela serii A19, oznaczonymi kodem „PLO228900018”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie).",
+          "na obligacje, o których mowa w § 1, nie będą przyjmowane."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "cb04d5cffc88b0e9cef12f6d4b9799499cf9b603695e27d7faee8ae74befab2c"
+      }
+    },
+    {
+      "id": "7dea071d082e0a93",
+      "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii C19 wyemitowanymi przez MIASTO ZDUŃSKA WOLA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1535/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii C19 wyemitowanymi przez MIASTO ZDUŃSKA WOLA"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 30 ust. 1 pkt 1) oraz ust. 1a Regulaminu Giełdy, po rozpatrzeniu wniosku MIASTA ZDUŃSKA WOLA o zawieszenie obrotu obligacjami na okaziciela serii C19, oznaczonymi kodem „PL0034200010”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie)."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 110 ust. 10 - 12 Regulaminu Giełdy, Zarząd Giełdy postanawia, co następuje:"
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:27",
+      "content_sha256": "2aec2ce747a9663c4fde63b8d20b8937406a964a5b639032b4dbfc264926d0fb",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:27",
+      "published_at": "2026-11-03T19:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "1a Regulaminu Giełdy, po rozpatrzeniu wniosku MIASTA ZDUŃSKA WOLA o zawieszenie obrotu obligacjami na okaziciela serii C19, oznaczonymi kodem „PL0034200010”, w związku z zamiarem ich częściowego wykupu i zmianą ich wartości nominalnej, Zarząd Giełdy postanawia zawiesić obrót tymi obligacjami na Catalyst – w okresie od dnia 13 listopada 2026 r. do dnia 25 listopada 2026 r. (włącznie).",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2aec2ce747a9663c4fde63b8d20b8937406a964a5b639032b4dbfc264926d0fb"
+      }
+    },
+    {
+      "id": "803b994a3b26d2ad",
+      "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na rynku NewConnect akcji zwykłych na okaziciela serii K i L spółki EUROSNACK S.A.",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Uchwała Nr 1531/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na rynku NewConnect akcji zwykłych na okaziciela serii K i L spółki EUROSNACK S.A."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na podstawie § 7 ust. 1, 2 i 5 Regulaminu Alternatywnego Systemu Obrotu oraz § 2 ust. 1 Załącznika Nr 2 do Regulaminu Alternatywnego Systemu Obrotu, Zarząd Giełdy postanawia:"
+        },
+        {
+          "type": "paragraph",
+          "text": "określić dzień 10 listopada 2026 r. jako dzień pierwszego notowania w alternatywnym systemie obrotu na rynku NewConnect następujących akcji zwykłych na okaziciela spółki EUROSNACK S.A., o wartości nominalnej 0,20 zł (dwadzieścia groszy) każda:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.587.200 (jeden milion pięćset osiemdziesiąt siedem tysięcy dwieście) akcji serii K, oznaczonych kodem „PLERSNK00073”,"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.035.000 (jeden milion trzydzieści pięć tysięcy) akcji serii L, oznaczonych kodem „PLERSNK00065”"
+        },
+        {
+          "type": "paragraph",
+          "text": "- pod warunkiem dokonania przez Krajowy Depozyt Papierów Wartościowych S.A w dniu 10 listopada 2026 r. asymilacji tych akcji z notowanymi akcjami tej spółki oznaczonymi kodem „PLERSNK00016”;"
+        },
+        {
+          "type": "paragraph",
+          "text": "notować akcje, o których mowa w pkt 1), w systemie notowań ciągłych pod nazwą skróconą „EUROSNACK” i oznaczeniem „ECK”."
+        },
+        {
+          "type": "paragraph",
+          "text": "§ 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uchwała wchodzi w życie z dniem podjęcia."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:13",
+      "content_sha256": "09c8ba7c6ac72197ac75ed7b370cdd81e7120be3f388cee9865a708a052c66fe",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:13",
+      "published_at": "2026-11-03T19:13+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Uchwała Nr 1531/2026 Zarządu Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na rynku NewConnect akcji zwykłych na okaziciela serii K i L spółki EUROSNACK S.A.",
+          "1, 2 i 5 Regulaminu Alternatywnego Systemu Obrotu oraz § 2 ust.",
+          "notować akcje, o których mowa w pkt 1), w systemie notowań ciągłych pod nazwą skróconą „EUROSNACK” i oznaczeniem „ECK”."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "09c8ba7c6ac72197ac75ed7b370cdd81e7120be3f388cee9865a708a052c66fe"
+      }
+    },
+    {
+      "id": "a8d4e2f4bc822373",
+      "title": "GPW: komunikat - GMINA PIŁA",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-pila",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. (CATALYST)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z § 26 Działu I Szczegółowych Zasad Obrotu Giełdowego Giełda Papierów Wartościowych w Warszawie S.A. informuje, że 13 listopada 2026 r. będzie ostatnim dniem notowania obligacji na okaziciela serii A16 (PIA1126) wyemitowanych przez GMINĘ PIŁA, o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 25 listopada 2026 r., oznaczonych kodem „PL0026200036”."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:13",
+      "content_sha256": "6b1307dff2aceb6aa94d59494896c95ecc28f0d79e4dc995b58266a018907d1e",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:13",
+      "published_at": "2026-11-03T19:13+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zgodnie z § 26 Działu I Szczegółowych Zasad Obrotu Giełdowego Giełda Papierów Wartościowych w Warszawie S.A. informuje, że 13 listopada 2026 r. będzie ostatnim dniem notowania obligacji na okaziciela serii A16 (PIA1126) wyemitowanych przez GMINĘ PIŁA, o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 25 listopada 2026 r., oznaczonych kodem „PL0026200036”.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6b1307dff2aceb6aa94d59494896c95ecc28f0d79e4dc995b58266a018907d1e"
+      }
+    },
+    {
+      "id": "adc874a4a86cfa9e",
+      "title": "GPW: komunikat - GMINA BRZESKO",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-brzesko",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. (CATALYST)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z § 26 Działu I Szczegółowych Zasad Obrotu Giełdowego Giełda Papierów Wartościowych w Warszawie S.A. informuje, że 13 listopada 2026 r. będzie ostatnim dniem notowania obligacji na okaziciela serii E12 (BRZ1126) wyemitowanych przez GMINĘ BRZESKO, o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 25 listopada 2026 r., oznaczonych kodem „PL0012200024”."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:13",
+      "content_sha256": "5ccf61c598e1d6737da8200787ca933a23dcc209161617efb73bbacc5426f74e",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:13",
+      "published_at": "2026-11-03T19:13+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zgodnie z § 26 Działu I Szczegółowych Zasad Obrotu Giełdowego Giełda Papierów Wartościowych w Warszawie S.A. informuje, że 13 listopada 2026 r. będzie ostatnim dniem notowania obligacji na okaziciela serii E12 (BRZ1126) wyemitowanych przez GMINĘ BRZESKO, o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 25 listopada 2026 r., oznaczonych kodem „PL0012200024”.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "5ccf61c598e1d6737da8200787ca933a23dcc209161617efb73bbacc5426f74e"
+      }
+    },
+    {
+      "id": "d0af1e7d16e3bee2",
+      "title": "GPW: komunikat - MIASTO SIEDLCE",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-miasto-siedlce",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T23:25:43+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Komunikat Giełdy Papierów Wartościowych w Warszawie S.A. z dnia 3 listopada 2026 r. (CATALYST)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z § 26 Działu I Szczegółowych Zasad Obrotu Giełdowego Giełda Papierów Wartościowych w Warszawie S.A. informuje, że 13 listopada 2026 r. będzie ostatnim dniem notowania obligacji na okaziciela serii B12 (SIE1126) wyemitowanych przez MIASTO SIEDLCE, o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 25 listopada 2026 r., oznaczonych kodem „PL0021200023”."
+        },
+        {
+          "type": "paragraph",
+          "text": "kom amp/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "03.11.2026 19:07",
+      "content_sha256": "43d20b66fe516461859aad08d1b5f71af845e8eeb47957a3b51aa42167d7c088",
+      "date": "2026-11-03",
+      "saved_at": "2026-11-03T23:25:43+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
+      "published_time": "19:07",
+      "published_at": "2026-11-03T19:07+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zgodnie z § 26 Działu I Szczegółowych Zasad Obrotu Giełdowego Giełda Papierów Wartościowych w Warszawie S.A. informuje, że 13 listopada 2026 r. będzie ostatnim dniem notowania obligacji na okaziciela serii B12 (SIE1126) wyemitowanych przez MIASTO SIEDLCE, o wartości nominalnej 1.000 zł (jeden tysiąc złotych) każda i terminie wykupu 25 listopada 2026 r., oznaczonych kodem „PL0021200023”.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "43d20b66fe516461859aad08d1b5f71af845e8eeb47957a3b51aa42167d7c088"
+      }
+    },
     {
       "id": "764238b435b301de",
       "title": "Passus miał w I-III kw. 8,9 mln zł zysku EBITDA bez kosztów programu motywacyjnego",
@@ -1843,7 +3491,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-03T17:53:37+00:00",
+      "discovered_at": "2026-11-03T23:25:43+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2222,7 +3870,7 @@
       "published_display": "03.11.2026 17:02",
       "content_sha256": "258e7d31fa60ecf7014a0fa96e3b51086cc8abacfd51ba32efab32702dc59cd9",
       "saved_at": "2026-11-03T17:53:37+00:00",
-      "content_checked_at": "2026-11-03T17:53:37+00:00",
+      "content_checked_at": "2026-11-03T23:25:43+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -392016,7 +393664,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392034,7 +393682,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392053,7 +393701,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392071,7 +393719,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392089,7 +393737,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392107,7 +393755,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392125,7 +393773,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392143,7 +393791,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392161,7 +393809,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392179,7 +393827,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392197,7 +393845,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392215,7 +393863,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392233,7 +393881,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392251,7 +393899,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392269,7 +393917,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392289,7 +393937,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392309,7 +393957,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392327,7 +393975,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392345,7 +393993,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392363,7 +394011,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392381,7 +394029,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392399,7 +394047,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392419,7 +394067,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392437,7 +394085,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392455,7 +394103,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392473,7 +394121,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392491,7 +394139,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392511,7 +394159,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392529,7 +394177,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392547,7 +394195,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392565,7 +394213,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392585,7 +394233,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392603,7 +394251,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392621,7 +394269,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392639,7 +394287,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392659,7 +394307,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392677,7 +394325,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392695,7 +394343,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392713,7 +394361,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392731,7 +394379,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392751,7 +394399,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392769,7 +394417,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392787,7 +394435,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392805,7 +394453,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -392826,7 +394474,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -393009,7 +394657,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393029,7 +394677,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393047,7 +394695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393067,7 +394715,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393085,7 +394733,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393103,7 +394751,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393121,7 +394769,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393141,7 +394789,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393159,7 +394807,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393177,7 +394825,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393195,7 +394843,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393215,7 +394863,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393233,7 +394881,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393251,7 +394899,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393269,7 +394917,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393287,7 +394935,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393307,7 +394955,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393325,7 +394973,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393343,7 +394991,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393361,7 +395009,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 92,
+      "attempts": 93,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -393457,6 +395105,182 @@
   ],
   "warnings": [
     {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
+      "error": "ValueError"
+    },
+    {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
       "error": "ValueError"
     },
@@ -393538,62 +395362,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/obligacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/raporty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
       "error": "ValueError"
     }
   ],
