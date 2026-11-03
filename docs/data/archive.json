@@ -1,8 +1,456 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-02T20:24:29+00:00",
+  "last_checked": "2026-11-03T02:41:30+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "e4c220653fca1f99",
+      "title": "DZIEŃ NA RYNKACH: Otwarcie listopada na Wall Street pozytywne dla DJI, Nasdaq 1 proc. w dół",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261102/dzien-na-rynkach-otwarcie-listopada-na-wall-street-pozytywne-dla-dji-nasdaq-1",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: Nasdaq"
+        ],
+        "technologie": [
+          "Temat: technologi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T02:41:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniedziałkowa, pierwsza w listopadzie, sesja na Wall Street przyniosła uspokojenie nastrojów po mocnej piątkowej wyprzedaży. Nasdaq spadł o 1 proc., gdyż inwestorzy przenoszą się z akcji spółek technologicznych na sektory defensywne. Rynek czeka na wyniki wyborów w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostatnia godzina sesji przyniosła wyraźne pogorszenie nastrojów, Dow Jones zmniejszył skalę zwyżek, a tempo spadków pozostałych dużych indeksów zwiększyło się."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu wzrósł o 0,41 proc. i wyniósł 51.983,98 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia stracił 0,51 proc. i wyniósł 7.541,40 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 1,07 proc. do 25.164,32 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o 0,06 proc. i wynosi 2.810,26 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks VIX rośnie o 8,91 proc., do 21,15 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Długoterminowa, bycza narracja rynku akcji mogła nieco osłabnąć w ostatnich tygodniach, ale wciąż jest nienaruszona” – powiedział Chris Larkin, dyrektor zarządzający ds. handlu i inwestycji w E-Trade."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Wyzwaniem było utrzymanie dynamiki krótkoterminowej – utrzymanie jej przez więcej niż kilka dni bez zakłóceń spowodowanych rosnącymi cenami ropy, obawami o wydatki na sztuczną inteligencję, inflacją czy geopolityką” - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu uwaga rynków finansowych skupi się szczególnie na wyborach połówkowych w USA i raporcie payrolls z amerykańskiego rynku pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wtorkowe wybory w USA rozstrzygną, czy Demokraci zdołają odebrać kontrolę nad Kongresem Partii Republikańskiej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Powszechnie przewiduje się, że Demokraci zdobędą większość w Izbie Reprezentantów, jednak wynik wyborów do Senatu pozostaje niepewny. Przez pierwsze dwa lata rządów administracji Trumpa Republikanie kontrolowali obie izby Kongresu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wybory w połowie kadencji zazwyczaj nie sprzyjają partii sprawującej władzę, a zwycięstwo Demokratów w Izbie Reprezentantów oznaczałoby powrót do sytuacji »podzielonych rządów« w USA, co nie byłoby niczym nadzwyczajnym\" – stwierdził Seth Meyer, globalny dyrektor ds. zarządzania portfelami klientów w firmie Janus Henderson Investors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Marvell Technology spadły podczas poniedziałkowej sesji o około 12 proc., podczas gdy Lumentum stracił 18 proc. po tym, jak firmy ogłosiły, że Marvell kupuje Lumentum w ramach transakcji wartej 115 miliardów dolarów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Oracle spadły o 8 proc. po tym, jak spółka poinformowała, że planuje sprzedać akcje zwykłe o wartości 10 mld USD, a także obligacje o wartości 10 mld USD, aby sfinansować rozbudowę swojej działalności w zakresie sztucznej inteligencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Stephens podnieśli rekomendację dla akcji Oracle do \"przeważaj\". Firma ustaliła cenę docelową akcji koncernu na 213 USD, co oznacza potencjał wzrostu o około 63 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Uważamy, że rynek powinien docenić Oracle za konsekwentne dostarczanie mocy obliczeniowych” — napisał analityk Brett Huff, który zauważył, że w pierwszym kwartale firma dostarczyła około 850 MW w ramach 38 projektów w 11 krajach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Huff dodał, że według niego Oracle może osiągnąć „dwucyfrowy” wieloletni wzrost liczby aplikacji, wyższy od 10-procentowego wzrostu prognozowanego przez Wall Street."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zyski akcji spółek z tzw. starej gospodarki, takich jak Sherwin-Williams i Home Deport, napędzały indeks Dow Jones, rosnąc odpowiednio o prawie 6 i ponad 3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honeywell International, 3M i Boeing również odnotowały wzrosty o ponad 2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W zeszłym tygodniu, Nasdaq, indeks technologiczny, oraz S&P 500 odnotowały spadki w październiku z powodu obaw związanych z wydatkami na sztuczną inteligencję. Nasdaq poniósł największe straty od marca 2025 r. Jednakże Dow Jones wzrósł o prawie 2 proc., ponieważ inwestorzy skupili się na defensywnych obszarach, takich jak opieka zdrowotna."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Rynek musi stawić czoła jeszcze wielu potencjalnym +wyzwalaczom zmienności+, w tym wynikom wyborów parlamentarnych i danym o zatrudnieniu w tym tygodniu, ale jego zdolność do reagowania na presję, ale nie do załamywania się, jest pozytywnym sygnałem” — powiedział Chris Larkin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wybory uzupełniające do Senatu w USA odbędą się we wtorek. Oczekuje się, że Demokraci przejmą wówczas kontrolę nad Izbą Reprezentantów, podczas gdy kontrola nad Senatem pozostaje niepewna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik aktywności w przemyśle w USA w październiku wyniósł 55,5 pkt. wobec konsensusu 54,5 pkt. i 54,5 pkt. w poprzednim miesiącu - podał Instytut Zarządzania Podażą (ISM)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks PMI, określający koniunkturę w amerykańskim sektorze przemysłowym, przygotowywany przez S&P Global, wyniósł w październiku 54,9 pkt. wobec 55,9 pkt. w poprzednim miesiącu - podano we wstępnym odczycie. To najwyższy odczyt od maja 2022 r. Wstępnie szacowano 56 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny ropy spadły w obliczu nadziei na wznowienie rozmów pokojowych między USA a Iranem. Sekretarz stanu Marco Rubio stwierdził w weekend, że prezydent Donald Trump „nie podjął jeszcze decyzji” o ataku na Iran i że Waszyngton wolałby rozwiązać konflikt „pokojowo”. Irańskie media państwowe podały również, że minister spraw zagranicznych Iranu stwierdził, że porozumienie jest możliwe, jeśli USA „wykażą się dobrą wolą”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zniżkują o 7,34 proc. do 96,48 USD za baryłkę, a grudniowe futures na Brent spadają o 8,22 proc. do 104,11 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "02.11.2026 22:20",
+      "content_sha256": "52385862a2575f5b400c59d1e2adbc6c6e4c5b077f58bc02ea76e22c912e3d1d",
+      "date": "2026-11-02",
+      "saved_at": "2026-11-03T02:41:30+00:00",
+      "content_checked_at": "2026-11-03T02:41:30+00:00",
+      "published_time": "22:20",
+      "published_at": "2026-11-02T22:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniedziałkowa, pierwsza w listopadzie, sesja na Wall Street przyniosła uspokojenie nastrojów po mocnej piątkowej wyprzedaży.",
+          "Nasdaq spadł o 1 proc., gdyż inwestorzy przenoszą się z akcji spółek technologicznych na sektory defensywne.",
+          "Huff dodał, że według niego Oracle może osiągnąć „dwucyfrowy” wieloletni wzrost liczby aplikacji, wyższy od 10-procentowego wzrostu prognozowanego przez Wall Street."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Rynek czeka na wyniki wyborów w USA."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "52385862a2575f5b400c59d1e2adbc6c6e4c5b077f58bc02ea76e22c912e3d1d"
+      }
+    },
+    {
+      "id": "0fcabd93e6894f0b",
+      "title": "Eurocash szacuje, że w III kw. 2026 roku miał 216 mln EBITDA, powyżej oczekiwań",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261102/eurocash-szacuje-ze-w-iii-kw-2026-roku-mial-216-mln-ebitda-powyzej-oczekiwan",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Eurocash"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Eurocash"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T02:41:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie. Konsensus PAP Biznes zakładał 7,19 mld zł przychodów, 148,1 mln zł EBITDA i 41 mln zł straty netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dla porównania rok wcześniej Eurocash miał 7937 mln zł przychodów, 232 mln zł EBITDA i 7 mln zł zysku netto jednostki dominującej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podał Eurocash, na spadek przychodów w trzecim kwartale 2026 roku wpływ miały przede wszystkim restrukturyzacja sieci sklepów własnych Delikatesy Centrum (zamknięcia oraz przekazania sklepów franczyzobiorcom), niższa sprzedaż w Eurocash Dystrybucja (ograniczenie współpracy z mniej rentownymi klientami oraz spadek liczby klientów niezależnych) i w Cash_Carry (zamknięcia hal oraz niższa sprzedaż w porównywalnych halach)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spadek został częściowo zrównoważony wzrostem sprzedaży w Eurocash Serwis oraz Frisco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk brutto ze sprzedaży Eurocash wyniósł, według wstępnych szacunków, 881 mln zł wobec 1031 mln zł w trzecim kwartale 2025 r., co oznacza spadek o 15 proc. r/r)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność brutto na sprzedaży wyniosła 12,1 proc. wobec 13,0 proc. w trzecim kwartale 2025 r. Jak podała spółka, spadek wynika ze zmiany struktury sprzedaży poszczególnych jednostek biznesowych, w tym zamknięć sklepów własnych Delikatesy Centrum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Koszty sprzedaży i ogólnego zarządu wyniosły 822 mln zł i były o 139 mln zł (14 proc.) niższe r/r w wyniku realizowanego programu optymalizacji kosztów i restrukturyzacji sieci."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szacunkowa EBITDA Grupy wyniosła 216 mln zł i była o 7 proc. niższa r/r. EBIT wyniósł 89 mln zł i był o ok. 3 proc. wyższy r/r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pozostałe przychody operacyjne wyniosły 38 mln zł wobec 21 mln zł w trzecim kwartale 2025 r. Obejmują one zdarzenia o charakterze jednorazowym w łącznej kwocie ok. 13 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "W wynikach trzeciego kwartału 2026 r. ujęto również zdarzenia jednorazowe związane z transformacją Grupy, które obniżyły EBITDA o 21 mln zł, a EBIT o 22 mln zł. Amortyzacja wyniosła 127 mln zł wobec 146 mln zł przed rokiem, co wynika głównie z mniejszej liczby sklepów własnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto z działalności kontynuowanej wyniósł 29 mln zł wobec 20 mln zł w 3 kwartale 2025 r. Skonsolidowany zysk netto przypadający akcjonariuszom jednostki dominującej wyniósł 16 mln zł wobec 7 mln zł rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po dziewięciu miesiącach 2026 roku przychody ze sprzedaży Grupy Eurocash wyniosły 21,139 mln zł i były o 7 proc. niższe r/r. EBITDA wyniosła 539 mln zł i była o 8 proc. niższa r/r. EBIT wyniósł 145 mln zł i był o 4 proc. wyższy r/r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strata netto z działalności kontynuowanej po trzech kwartałach wyniosła 44 mln zł wobec straty 60 mln zł w analogicznym okresie 2025 r. Skonsolidowana strata netto przypadająca akcjonariuszom jednostki dominującej wyniosła 69 mln zł wobec straty 92 mln zł rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostateczne wyniki Eurocash zostaną przekazane 19 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "---"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniżej przedstawiamy wyniki Eurocashu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników. Dane w mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "| 3Q2026 | wyniki | kons. | różnica | r/r | q/q | YTD 2026 | rdr"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przychody | 7280,0 | 7186,6 | 1,3% | -8,3% | 1,1% | 21139,0 | -6,9%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBITDA | 216,0 | 148,1 | 46% | -6,9% | 7,1% | 539,0 | -7,5%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBIT | 89,0 | 16,3 | 446% | 3,0% | 31% | 145,3 | 3,8%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| zysk netto j.d. | 16,0 | -41,0 | -- | 130% | 1103% | -69,0 | --"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBITDA | 3,0% | 2,1% | 0,91 | 0,04 | 0,17 | 2,55% | -0,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBIT | 1,2% | 0,2% | 1,00 | 0,13 | 0,28 | 0,69% | 0,07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża netto | 0,2% | -0,6% | 0,79 | 0,13 | 0,20 | -0,33% | 0,08"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "02.11.2026 21:41",
+      "content_sha256": "353c8d34349bf03db92b4623c72f1c1e62552f7baef3218dea56fb42020f2c62",
+      "date": "2026-11-02",
+      "saved_at": "2026-11-03T02:41:30+00:00",
+      "content_checked_at": "2026-11-03T02:41:30+00:00",
+      "published_time": "21:41",
+      "published_at": "2026-11-02T21:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie.",
+          "Dla porównania rok wcześniej Eurocash miał 7937 mln zł przychodów, 232 mln zł EBITDA i 7 mln zł zysku netto jednostki dominującej.",
+          "Jak podał Eurocash, na spadek przychodów w trzecim kwartale 2026 roku wpływ miały przede wszystkim restrukturyzacja sieci sklepów własnych Delikatesy Centrum (zamknięcia oraz przekazania sklepów franczyzobiorcom), niższa sprzedaż w Eurocash Dystrybucja (ograniczenie współpracy z mniej rentownymi klientami oraz spadek liczby klientów niezależnych) i w Cash_Carry (zamknięcia hal oraz niższa sprzedaż w porównywalnych halach)."
+        ],
+        "interest_score": 75,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Zysk brutto ze sprzedaży Eurocash wyniósł, według wstępnych szacunków, 881 mln zł wobec 1031 mln zł w trzecim kwartale 2025 r., co oznacza spadek o 15 proc. r/r)."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Jak podał Eurocash, na spadek przychodów w trzecim kwartale 2026 roku wpływ miały przede wszystkim restrukturyzacja sieci sklepów własnych Delikatesy Centrum (zamknięcia oraz przekazania sklepów franczyzobiorcom), niższa sprzedaż w Eurocash Dystrybucja (ograniczenie współpracy z mniej rentownymi klientami oraz spadek liczby klientów niezależnych) i w Cash_Carry (zamknięcia hal oraz niższa sprzedaż w porównywalnych halach)."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "353c8d34349bf03db92b4623c72f1c1e62552f7baef3218dea56fb42020f2c62"
+      }
+    },
+    {
+      "id": "08ce98d585856871",
+      "title": "Wyniki Eurocashu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261102/wyniki-eurocashu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-03T02:41:30+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej przedstawiamy wyniki Eurocashu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane w mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "| 3Q2026 | wyniki | kons. | różnica | r/r | q/q | YTD 2026 | rdr"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przychody | 7280,0 | 7186,6 | 1,3% | -8,3% | 1,1% | 21139,0 | -6,9%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBITDA | 216,0 | 148,1 | 46% | -6,9% | 7,1% | 539,0 | -7,5%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBIT | 89,0 | 16,3 | 446% | 3,0% | 31% | 145,3 | 3,8%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| zysk netto j.d. | 16,0 | -41,0 | -- | 130% | 1103% | -69,0 | --"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBITDA | 3,0% | 2,1% | 0,91 | 0,04 | 0,17 | 2,55% | -0,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBIT | 1,2% | 0,2% | 1,00 | 0,13 | 0,28 | 0,69% | 0,07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża netto | 0,2% | -0,6% | 0,79 | 0,13 | 0,20 | -0,33% | 0,08"
+        },
+        {
+          "type": "paragraph",
+          "text": "---"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "02.11.2026 21:27",
+      "content_sha256": "57855ed67f5f91e960383af4d861a4ba099dd60982dcea536096c0494bea61da",
+      "date": "2026-11-02",
+      "saved_at": "2026-11-03T02:41:30+00:00",
+      "content_checked_at": "2026-11-03T02:41:30+00:00",
+      "published_time": "21:27",
+      "published_at": "2026-11-02T21:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej przedstawiamy wyniki Eurocashu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników.",
+          "Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP.",
+          "Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Poniżej przedstawiamy wyniki Eurocashu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "57855ed67f5f91e960383af4d861a4ba099dd60982dcea536096c0494bea61da"
+      }
+    },
     {
       "id": "b97f8189ada9be0c",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street uspokojenie po mocnej piątkowej wyprzedaży",
@@ -174,7 +622,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-02T20:24:29+00:00",
+      "discovered_at": "2026-11-03T02:41:30+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -513,7 +961,7 @@
       "published_display": "02.11.2026 21:05",
       "content_sha256": "78e2c4c5d916743db0d6f57b49da1683bc928df4d2103e9a36e86b21fc698c13",
       "saved_at": "2026-11-02T20:24:29+00:00",
-      "content_checked_at": "2026-11-02T20:24:29+00:00",
+      "content_checked_at": "2026-11-03T02:41:30+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2233,7 +2681,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-02T20:24:29+00:00",
+      "discovered_at": "2026-11-03T02:41:30+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2516,7 +2964,7 @@
       "published_display": "02.11.2026 17:02",
       "content_sha256": "9f8198897dc43e279e43cf7a8538a8a4e91d36f2ee79863185c8e3d845cbce0a",
       "saved_at": "2026-11-02T20:24:29+00:00",
-      "content_checked_at": "2026-11-02T20:24:29+00:00",
+      "content_checked_at": "2026-11-03T02:41:30+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -380434,7 +380882,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380452,7 +380900,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380471,7 +380919,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380489,7 +380937,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380507,7 +380955,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380525,7 +380973,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380543,7 +380991,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380561,7 +381009,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380579,7 +381027,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380597,7 +381045,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380615,7 +381063,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380633,7 +381081,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380651,7 +381099,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380669,7 +381117,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380687,7 +381135,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380707,7 +381155,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380727,7 +381175,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380745,7 +381193,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380763,7 +381211,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380781,7 +381229,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380799,7 +381247,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380817,7 +381265,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380837,7 +381285,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380855,7 +381303,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380873,7 +381321,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380891,7 +381339,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380909,7 +381357,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380929,7 +381377,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380947,7 +381395,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380965,7 +381413,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -380983,7 +381431,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381003,7 +381451,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381021,7 +381469,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381039,7 +381487,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381057,7 +381505,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381077,7 +381525,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381095,7 +381543,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381113,7 +381561,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381131,7 +381579,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381149,7 +381597,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381169,7 +381617,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381187,7 +381635,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381205,7 +381653,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381223,7 +381671,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381244,7 +381692,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381262,7 +381710,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381280,7 +381728,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381301,7 +381749,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381319,7 +381767,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -381337,7 +381785,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381355,7 +381803,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381373,7 +381821,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381391,7 +381839,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381409,7 +381857,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381427,7 +381875,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381447,7 +381895,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381465,7 +381913,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381485,7 +381933,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381577,7 +382025,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381595,7 +382043,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381613,7 +382061,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381633,7 +382081,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381651,7 +382099,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381669,7 +382117,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381687,7 +382135,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381705,7 +382153,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381725,7 +382173,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381743,7 +382191,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381761,7 +382209,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381779,7 +382227,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 90,
+      "attempts": 91,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -381797,7 +382245,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -381815,7 +382263,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -381833,7 +382281,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -381851,7 +382299,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -381869,11 +382317,267 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 91,
+      "attempts": 92,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
       "error": "ValueError"
@@ -381916,22 +382620,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
       "error": "ValueError"
     }
   ],
