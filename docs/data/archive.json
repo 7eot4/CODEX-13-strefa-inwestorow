@@ -1,8 +1,242 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-05T22:01:36+00:00",
+  "last_checked": "2026-11-06T02:29:24+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "06fccf9ba58761e1",
+      "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261105/unidevelopment-z-grupy-unibep-w-iii-kwartale-sprzedal-116-lokali",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Temat: deweloper"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-06T02:29:24+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r. - poinformował Unibep w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podał Unibep, w segmencie deweloperskim, po relatywnie słabszym I półroczu, trzeci kwartał 2026 roku przyniósł wyraźne ożywienie aktywności. W efekcie przychody ze sprzedaży za okres I–III kw. 2026 roku wyniosły 119 mln zł, co oznacza spadek o 3,4 proc. r/r, wobec 41-proc. spadku odnotowanego po I półroczu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Unidevelopment rozpoznała w wyniku III kw. 2026 roku 105 lokali. Narastająco od początku roku rozpoznano 195 lokali wobec 155 w analogicznym okresie roku poprzedniego, co oznacza wzrost o 26 proc. r/r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednocześnie odnotowano wyraźny wzrost sprzedaży deweloperskiej. Unidevelopment sprzedał w trzecim kwartale 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na uzyskany poziom sprzedaży wpływ miała m.in. poprawiająca się sytuacja na rynku mieszkaniowym, którą Grupa Unidevelopment skutecznie wykorzystała zarówno na rynkach o strategicznym znaczeniu - w Warszawie i w Trójmieście, jak i w Radomiu, gdzie kontynuuje wieloetapowy projekt Osiedle Idea\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W trzecim kwartale Grupa Unidevelopment prowadziła sprzedaż w pięciu lokalizacjach."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ostatni raz zbliżony poziom kwartalnej sprzedaży odnotowano w IV kw. 2023 roku, kiedy sprzedano 114 lokali. Utrzymująca się wysoka aktywność sprzedażowa tworzy potencjał do wzrostu przychodów segmentu w kolejnych okresach\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ślad za działaniami wspierającymi sprzedaż i dostosowującymi ofertę do aktualnych warunków rynkowych oraz oczekiwań klientów, a także zmianą struktury sprzedawanych lokali, rentowność segmentu uległa obniżeniu. Marża zysku brutto ze sprzedaży wyniosła 18,2 proc. wobec 24,2 proc. przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na koniec września 2026 roku oferta Grupy Unidevelopment obejmowała 490 mieszkań wobec 488 rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "05.11.2026 23:20",
+      "content_sha256": "8128e40f7e87e564cb2fc6b52708fd6e47006ec501eb3b118927128b349304ad",
+      "date": "2026-11-05",
+      "saved_at": "2026-11-06T02:29:24+00:00",
+      "content_checked_at": "2026-11-06T02:29:24+00:00",
+      "published_time": "23:20",
+      "published_at": "2026-11-05T23:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r. - poinformował Unibep w komunikacie.",
+          "W efekcie przychody ze sprzedaży za okres I–III kw. 2026 roku wyniosły 119 mln zł, co oznacza spadek o 3,4 proc. r/r, wobec 41-proc. spadku odnotowanego po I półroczu.",
+          "W trzecim kwartale Grupa Unidevelopment prowadziła sprzedaż w pięciu lokalizacjach."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W efekcie przychody ze sprzedaży za okres I–III kw. 2026 roku wyniosły 119 mln zł, co oznacza spadek o 3,4 proc. r/r, wobec 41-proc. spadku odnotowanego po I półroczu."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r. - poinformował Unibep w komunikacie."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "deweloper*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "deweloper*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8128e40f7e87e564cb2fc6b52708fd6e47006ec501eb3b118927128b349304ad"
+      }
+    },
+    {
+      "id": "715d2653b1984e06",
+      "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261105/unibep-ma-125-mln-zl-zysku-netto-po-iii-kw-portfel-zamowien-wynosi-61-mld-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-06T02:29:24+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma. Portfel zamówień grupy jest na rekordowym poziomie 6,1 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przed rokiem grupa Unibep miała 22,4 mln zł zysku netto (16,6 mln zł bez zdarzeń jednorazowych) oraz 1,61 mld zł przychodów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przychody grupy w segmencie obejmującym budownictwo energetyczne, ogólne i infrastrukturalne w ciągu dziewięciu miesięcy 2026 roku wyniosły 1,07 mld zł, przychody w budownictwie modułowym sięgnęły 246,6 mln zł, a w segmencie deweloperskim 118,6 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szacowany zysk operacyjny grupy Unibep po 9 miesiącach wynosi 32,8 mln zł wobec 66 mln zł przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "W samym trzecim kwartale 2026 roku grupa Unibep zmniejszyła przychody do 329 mln zł z 528 mln zł rok wcześniej. Skonsolidowany zysk operacyjny sięgnął 0,9 mln zł wobec 17,4 mln zł rok wcześniej. Strata netto w trzecim kwartale wyniosła 5 mln zł wobec 8,2 mln zł zysku netto przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Unibep podała, że jej portfel zamówień segmentów budowlanego i modułowego jest na rekordowym poziomie 6,1 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk brutto ze sprzedaży osiągnął poziom 9,5 proc., nieznacznie poprawiając wynik odnotowany w I półroczu 2026 r. (9,4 proc.). Pomimo niższych przychodów r/r, rentowność wzrosła z 9,0 do 9,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd Unibepu wskazał, że niższe o 13,7 proc. rok do roku przychody w okresie trzech kwartałów 2026 roku spowodowane są przede wszystkim ujemną dynamiką w segmencie budowlanym, częściowo kompensowanym przez dodatnią dynamikę w segmencie modułowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pozytywnie na poziom zysku netto wpłynął lepszy niż w analogicznym okresie ubiegłego roku wynik na działalności finansowej emitenta, będący przede wszystkim rezultatem korzystniejszej wyceny wybranych pozycji finansowych, przy dodatkowym pozytywnym wpływie salda różnic kursowych\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "05.11.2026 23:06",
+      "content_sha256": "a7225233d222cfbc7a8a3cc76a74794e61227018b50235eb64f4af32d7b065fc",
+      "date": "2026-11-05",
+      "saved_at": "2026-11-06T02:29:24+00:00",
+      "content_checked_at": "2026-11-06T02:29:24+00:00",
+      "published_time": "23:06",
+      "published_at": "2026-11-05T23:06+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma.",
+          "Przed rokiem grupa Unibep miała 22,4 mln zł zysku netto (16,6 mln zł bez zdarzeń jednorazowych) oraz 1,61 mld zł przychodów.",
+          "Strata netto w trzecim kwartale wyniosła 5 mln zł wobec 8,2 mln zł zysku netto przed rokiem."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "a7225233d222cfbc7a8a3cc76a74794e61227018b50235eb64f4af32d7b065fc"
+      }
+    },
     {
       "id": "72bfa6dc32ba2dda",
       "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
@@ -422,7 +656,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-05T22:01:36+00:00",
+      "discovered_at": "2026-11-06T02:29:24+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -857,7 +1091,7 @@
       "published_display": "05.11.2026 21:06",
       "content_sha256": "52d1433543310ca4ec383e8b2b3bb30cec2fc29ca8fcbf03d3dc99907c758c29",
       "saved_at": "2026-11-05T22:01:36+00:00",
-      "content_checked_at": "2026-11-05T22:01:36+00:00",
+      "content_checked_at": "2026-11-06T02:29:24+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -5564,7 +5798,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-05T22:01:36+00:00",
+      "discovered_at": "2026-11-06T02:29:24+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -5907,7 +6141,7 @@
       "published_display": "05.11.2026 17:06",
       "content_sha256": "b0b3761dd6b8ba80ba507dcfda3a6c9fd022f149a27f2205ab4c2067fdf8f744",
       "saved_at": "2026-11-05T22:01:36+00:00",
-      "content_checked_at": "2026-11-05T22:01:36+00:00",
+      "content_checked_at": "2026-11-06T02:29:24+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -425961,7 +426195,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -425979,7 +426213,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -425998,7 +426232,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426016,7 +426250,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426034,7 +426268,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426052,7 +426286,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426070,7 +426304,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426088,7 +426322,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426106,7 +426340,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426124,7 +426358,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426142,7 +426376,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426160,7 +426394,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426178,7 +426412,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426196,7 +426430,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426214,7 +426448,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426234,7 +426468,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426254,7 +426488,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426272,7 +426506,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426290,7 +426524,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426308,7 +426542,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426326,7 +426560,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426344,7 +426578,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426364,7 +426598,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426382,7 +426616,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426400,7 +426634,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426418,7 +426652,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426436,7 +426670,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426456,7 +426690,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426474,7 +426708,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426492,7 +426726,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426510,7 +426744,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426530,7 +426764,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426548,7 +426782,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426566,7 +426800,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426584,7 +426818,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426604,7 +426838,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426622,7 +426856,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426640,7 +426874,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426658,7 +426892,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426676,7 +426910,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426696,7 +426930,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426714,7 +426948,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426732,7 +426966,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426750,7 +426984,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426771,7 +427005,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426789,7 +427023,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426807,7 +427041,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426828,7 +427062,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426846,7 +427080,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -426864,7 +427098,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426882,7 +427116,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426900,7 +427134,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426918,7 +427152,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426936,7 +427170,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426954,7 +427188,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426974,7 +427208,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -426992,7 +427226,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427012,7 +427246,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427030,7 +427264,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427048,7 +427282,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427066,7 +427300,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427086,7 +427320,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427104,7 +427338,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427122,7 +427356,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427140,7 +427374,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427160,7 +427394,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427178,7 +427412,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427196,7 +427430,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427214,7 +427448,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427232,7 +427466,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427252,7 +427486,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427270,7 +427504,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427288,7 +427522,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427306,7 +427540,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 97,
+      "attempts": 98,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -427324,7 +427558,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 98,
+      "attempts": 99,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -427342,7 +427576,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 98,
+      "attempts": 99,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -427402,6 +427636,178 @@
   ],
   "warnings": [
     {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
       "error": "ValueError"
     },
@@ -427531,18 +427937,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/artykuly/obligacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/raporty",
       "error": "ValueError"
     }
   ],
