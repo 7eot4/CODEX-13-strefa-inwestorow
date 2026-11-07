@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-07T19:40:13+00:00",
+  "last_checked": "2026-11-07T23:05:19+00:00",
   "mode": "full_text",
   "articles": [
     {
@@ -316,7 +316,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-07T19:40:13+00:00",
+      "discovered_at": "2026-11-07T23:05:19+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -807,7 +807,7 @@
       "published_display": "06.11.2026 21:02",
       "content_sha256": "647e05169c4625f716d264223c12c39fa22fde106580cf2254ac34341012b0f3",
       "saved_at": "2026-11-06T22:26:54+00:00",
-      "content_checked_at": "2026-11-07T19:40:13+00:00",
+      "content_checked_at": "2026-11-07T23:05:19+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2511,7 +2511,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-07T19:40:13+00:00",
+      "discovered_at": "2026-11-07T23:05:19+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2986,7 +2986,7 @@
       "published_display": "06.11.2026 17:02",
       "content_sha256": "2283016f68477f657d38507997447941251d0b9800e932e298810c3c0a241d76",
       "saved_at": "2026-11-06T17:32:24+00:00",
-      "content_checked_at": "2026-11-07T19:40:13+00:00",
+      "content_checked_at": "2026-11-07T23:05:19+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -440278,7 +440278,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440296,7 +440296,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440315,7 +440315,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440333,7 +440333,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440351,7 +440351,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440369,7 +440369,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440387,7 +440387,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440405,7 +440405,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440423,7 +440423,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440441,7 +440441,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440459,7 +440459,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440477,7 +440477,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440495,7 +440495,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440513,7 +440513,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440531,7 +440531,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440551,7 +440551,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440571,7 +440571,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440589,7 +440589,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440607,7 +440607,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440625,7 +440625,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440643,7 +440643,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440681,7 +440681,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440699,7 +440699,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440717,7 +440717,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440735,7 +440735,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440753,7 +440753,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440773,7 +440773,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440791,7 +440791,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440809,7 +440809,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440827,7 +440827,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440847,7 +440847,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440865,7 +440865,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440883,7 +440883,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440901,7 +440901,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440921,7 +440921,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440939,7 +440939,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440957,7 +440957,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440975,7 +440975,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440993,7 +440993,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441013,7 +441013,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441031,7 +441031,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441049,7 +441049,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441067,7 +441067,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441088,7 +441088,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441106,7 +441106,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441124,7 +441124,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441145,7 +441145,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441163,7 +441163,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 103,
+      "attempts": 104,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441181,7 +441181,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441199,7 +441199,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441217,7 +441217,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441235,7 +441235,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441253,7 +441253,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441271,7 +441271,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441291,7 +441291,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441309,7 +441309,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441329,7 +441329,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441347,7 +441347,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441365,7 +441365,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441383,7 +441383,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441403,7 +441403,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441421,7 +441421,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441439,7 +441439,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441457,7 +441457,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441477,7 +441477,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441495,7 +441495,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441513,7 +441513,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441531,7 +441531,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441549,7 +441549,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441569,7 +441569,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441587,7 +441587,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441605,7 +441605,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441623,7 +441623,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441641,7 +441641,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441659,7 +441659,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441677,7 +441677,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441695,7 +441695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441713,11 +441713,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 104,
+      "attempts": 105,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
       "error": "ValueError"
@@ -442024,10 +442028,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
       "error": "ValueError"
     }
   ],
