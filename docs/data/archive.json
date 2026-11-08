@@ -1,8 +1,594 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-08T09:31:45+00:00",
+  "last_checked": "2026-11-08T16:22:50+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "53b42f3dcf4bdb14",
+      "title": "Allegro, Ten Square Games i PCC Rokita – kalendarium publikacji raportów za III kwartał na GPW",
+      "url": "https://strefainwestorow.pl/wydarzenia/kalendarium-publikacji-raportow-kwartalnych-2-tydzien-listopad-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Allegro",
+        "Ten Square Games"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: WIG20"
+        ],
+        "technologie": [
+          "Firma: Ten Square Games"
+        ],
+        "przemysl": [
+          "Temat: przemysł"
+        ],
+        "konsumpcja": [
+          "Firma: Allegro"
+        ],
+        "nieruchomosci": [
+          "Temat: nieruchomoś"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-08T16:22:50+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy zapoznają się 28 raportami okresowymi dotyczącymi wyników za III kwartał. Harmonogram zdominowany jest przez spółki z sWIG80. Tydzień więc będzie okazją do oceny kondycji mniejszych i średnich podmiotów z różnych branż – od chemii, przez przemysł metalowy, po nieruchomości magazynowe. Najważniejszym wydarzeniem pozostanie raport Allegro, jedynego reprezentanta WIG20 w tym zestawieniu, choć uwagę przyciągnie też Ten Square Games z mWIG40. W tle pojawi się szeroka grupa spółek z sWIG80, w tym PCC Rokita, Decora i Stalprodukt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tydzień otworzy w poniedziałek Ten Square Games #TEN z mWIG40, producent gier mobilnych znany między innymi z serii Fishing Clash. Już we wtorek, 10 listopada, na pierwszy plan wysuwają się cztery spółki z sWIG80. PCC Rokita #PCR , producent chemikaliów z segmentu poliuretanów i chloropochodnych. Obok niego raport opublikuje Decora #DCR , producent listew i paneli podłogowych działający w branży materiałów budowlanych, a także Bioton #BIO , producent insuliny i preparatów farmaceutycznych, Sygnity #SGN z sektora IT i integracji systemów oraz DataWalk #DAT , spółka technologiczna dostarczająca oprogramowanie analityczne dla instytucji publicznych i biznesu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czwartek, 12 listopada, przyniesie kulminacyjny moment tygodnia za sprawą Allegro #ALE z WIG20, lidera polskiego e-commerce, którego raport za III kwartał tradycyjnie przyciąga największą uwagę inwestorów. Tego samego dnia raporty opublikują także mniejsze spółki z sWIG80: Stalexport Autostrady #STX , operator płatnej infrastruktury drogowej, oraz IMC #IMC , grupa rolnicza działająca na Ukrainie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piątek zamknie tydzień serią publikacji z sWIG80. Uwagę warto zwrócić na Stalprodukt #STP , producenta wyrobów ze stali i blach transformatorowych, oraz Sanok Rubber Company #SNK , wytwórcę elementów gumowych dla motoryzacji i przemysłu. Raporty pokażą także MLP Group #MLG , deweloper powierzchni magazynowo-logistycznych, oraz Cognor Holding #COG z sektora hutniczego."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tabeli poniżej przedstawiamy pełne zestawienie dat publikacji raportów w nadchodzącym tygodniu:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nazwa skrócona | Ticker | Nazwa pełna | Raport | Indeks"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Poniedziałek 9 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "| TSGAMES | TEN | Ten Square Games SA | Raport za III kwartał | mWIG40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| CFI | CFI | CFI Holding SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| UNFOLD | UNF | Unfold.vc ASI SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| UNICREDIT | UCG | UniCredit SpA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wtorek 10 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "| BIOTON | BIO | Bioton SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| DATAWALK | DAT | DataWalk SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SYGNITY | SGN | Sygnity SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| DECORA | DCR | Decora SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PCCROKITA | PCR | PCC Rokita SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| 08OCTAVA | 08N | Octava SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ARTIFEX | ART | Artifex Mundi SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KOMPAP | KMP | Kompap SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PCCEXOL | PCX | PCC Exol SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czwartek 12 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ALLEGRO | ALE | Allegro.eu S.A. | Raport za III kwartał | WIG20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IMCOMPANY | IMC | IMC S.A. | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| STALEXP | STX | Stalexport Autostrady SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SECOGROUP | SWG | Seco/Warwick SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Piątek 13 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COGNOR | COG | Cognor Holding SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MLPGROUP | MLG | MLP Group SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SANOK | SNK | Sanok Rubber Company SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| STALPROD | STP | Stalprodukt SA | Raport za III kwartał | sWIG80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| CAPITAL | CPA | Bumech Defense Partners SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPOPEMA | IPE | Ipopema Securities SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KPPD | KPD | KPPD SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| LMCU | LMU | Lumina Metals Corp. | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| MIRACULUM | MIR | Miraculum SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| PROCHEM | PRM | Prochem SA | Raport za III kwartał |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| WASKO | WAS | Wasko SA | Raport za III kwartał |"
+        }
+      ],
+      "author": "Piotr Kwestarz",
+      "published_display": "08.11.2026 17:00",
+      "content_sha256": "ce925ca9257d385c600efdbf5ead8ed3399229354c6b67a48a85fa59a7d2beb8",
+      "date": "2026-11-08",
+      "saved_at": "2026-11-08T16:22:50+00:00",
+      "content_checked_at": "2026-11-08T16:22:50+00:00",
+      "published_time": "17:00",
+      "published_at": "2026-11-08T17:00+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy zapoznają się 28 raportami okresowymi dotyczącymi wyników za III kwartał.",
+          "Najważniejszym wydarzeniem pozostanie raport Allegro, jedynego reprezentanta WIG20 w tym zestawieniu, choć uwagę przyciągnie też Ten Square Games z mWIG40.",
+          "Czwartek, 12 listopada, przyniesie kulminacyjny moment tygodnia za sprawą Allegro #ALE z WIG20, lidera polskiego e-commerce, którego raport za III kwartał tradycyjnie przyciąga największą uwagę inwestorów."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W nadchodzącym tygodniu na Giełdzie Papierów Wartościowych w Warszawie inwestorzy zapoznają się 28 raportami okresowymi dotyczącymi wyników za III kwartał."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "e-commerce"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "gier"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "infrastruktur*",
+              "drog*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ce925ca9257d385c600efdbf5ead8ed3399229354c6b67a48a85fa59a7d2beb8"
+      }
+    },
+    {
+      "id": "d0d4ed05db47171e",
+      "title": "Podsumowanie tygodnia - KOSPI przełamuje kolejne wsparcie",
+      "url": "https://strefainwestorow.pl/blog/podsumowanie-sesji/podsumowanie-tygodnia-kospi-przelamuje-kolejne-wsparcie",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-08T16:22:50+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Paweł Biedrzycki",
+      "published_display": "08.11.2026 15:37",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-11-08",
+      "saved_at": "2026-11-08T16:22:50+00:00",
+      "content_checked_at": "2026-11-08T16:22:50+00:00",
+      "published_time": "15:37",
+      "published_at": "2026-11-08T15:37+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 25,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
+    {
+      "id": "e838345bac317e5c",
+      "title": "Impuls i korekta - 08 listopada 2026",
+      "url": "https://strefainwestorow.pl/impuls-i-korekta/impuls-i-korekta-08-listopada-2026",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-08T16:22:50+00:00",
+      "body": [
+        {
+          "type": "heading",
+          "text": "Pełna treść dostępna jest tylko dla płatnych abonentów StrefaInwestorow.pl."
+        },
+        {
+          "type": "heading",
+          "text": "Zarejestruj się Zaloguj się"
+        },
+        {
+          "type": "heading",
+          "text": "Trwa nabór do Strefy Inwestorów"
+        },
+        {
+          "type": "heading",
+          "text": "Rejestracja w serwisie Strefa Inwestorów odbywa się w ramach naborów. Ostatni przed wakacjami nabór do społeczności inwestorów trwać będzie tylko do niedzieli, 22 czerwca 2025 roku. Sprawdź szczegóły i dołącz już teraz."
+        },
+        {
+          "type": "heading",
+          "text": "Oto, co zyskujesz dołączając teraz do Strefy Inwestorów:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Komentarze giełdowe - omówienie sesji giełdowej - indeksy i wybrane spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podsumowanie tygodnia - komentarz weekendowy - zobacz przykładowy wpis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edukacyjny portfel \"Petard\" – praktyczne przykłady inwestowania w akcje spółek z GPW w oparciu o analizę fundamentalną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Ewy Walkowiak \"W poszukiwaniu sygnałów\" - techniki DiNapoli'ego na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wpisy w blogu inwestorskim Rafała Irzyńskiego \"Fundamenty i Spekulacja\" - w poszukiwaniu okazji inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podcast \"21% Rocznie EXTRA | Jak inwestować\" - cotygodniowe omówienie sytuacji wybranych spółek z polskiej giełdy w przystępnej formie audio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pakiet Środy z Siłą Relatywną (SzSR) , a w nim:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wykład wideo \"Jak inwestować siłą relatywną?\""
+        },
+        {
+          "type": "paragraph",
+          "text": "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Co tydzień w środę komentarz w blogu opisujący sytuację rynkową okiem Siły Relatywnej, pozwalający prowadzić portfel z użyciem tej strategii inwestowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artykuły edukacyjne - praktyczna wiedza w przystępnej formie, gotowa do zastosowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dostęp do bieżących dyskusji w gronie innych inwestorów giełdowych."
+        },
+        {
+          "type": "heading",
+          "text": "Bonusy:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BONUS SPECJALNY ①: Miesięczny abonament w Sindicator.net - całkowicie bezpłatny dostęp do skanera rynku giełdowego na 1 miesiąc."
+        }
+      ],
+      "author": "Tomasz Krynicki",
+      "published_display": "08.11.2026 12:22",
+      "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1",
+      "date": "2026-11-08",
+      "saved_at": "2026-11-08T16:22:50+00:00",
+      "content_checked_at": "2026-11-08T16:22:50+00:00",
+      "published_time": "12:22",
+      "published_at": "2026-11-08T12:22+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Edukacyjny portfel inwestycyjny Strefy Inwestorów – praktyczne przykłady inwestowania w akcje, głównie z GPW w oparciu o analizę wykresów.",
+          "Wpisy w blogu inwestorskim Tomasza Krynickiego \"Impuls i korekta\" - w poszukiwaniu okazji inwestycyjnych.",
+          "21 stronicowy Raport PDF na temat strategii inwestowania siłą relatywną oraz jej skuteczności, zatytułowany \"Siła Relatywna – Prawda czy Złudzenie\" ."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "179c98fe28a36ec176e55e02b484ae6f88097c981a920bfe7285150c945a4bf1"
+      }
+    },
     {
       "id": "bac7a695b0aaaeeb",
       "title": "W poszukiwaniu sygnałów - 7 listopada 2026 - Duża chwiejność na indeksach GPW",
@@ -316,7 +902,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-08T09:31:45+00:00",
+      "discovered_at": "2026-11-08T16:22:50+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -807,7 +1393,7 @@
       "published_display": "06.11.2026 21:02",
       "content_sha256": "647e05169c4625f716d264223c12c39fa22fde106580cf2254ac34341012b0f3",
       "saved_at": "2026-11-06T22:26:54+00:00",
-      "content_checked_at": "2026-11-08T09:31:45+00:00",
+      "content_checked_at": "2026-11-08T16:22:50+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2511,7 +3097,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-08T09:31:45+00:00",
+      "discovered_at": "2026-11-08T16:22:50+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2986,7 +3572,7 @@
       "published_display": "06.11.2026 17:02",
       "content_sha256": "2283016f68477f657d38507997447941251d0b9800e932e298810c3c0a241d76",
       "saved_at": "2026-11-06T17:32:24+00:00",
-      "content_checked_at": "2026-11-08T09:31:45+00:00",
+      "content_checked_at": "2026-11-08T16:22:50+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -440278,7 +440864,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440296,7 +440882,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440315,7 +440901,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440333,7 +440919,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440351,7 +440937,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440369,7 +440955,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440387,7 +440973,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440405,7 +440991,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440423,7 +441009,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440441,7 +441027,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440459,7 +441045,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440477,7 +441063,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440495,7 +441081,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440513,7 +441099,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440531,7 +441117,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440625,7 +441211,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440643,7 +441229,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440661,7 +441247,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440681,7 +441267,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440699,7 +441285,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440717,7 +441303,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440735,7 +441321,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440753,7 +441339,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440773,7 +441359,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440791,7 +441377,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440809,7 +441395,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440827,7 +441413,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440847,7 +441433,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440865,7 +441451,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440883,7 +441469,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440901,7 +441487,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440921,7 +441507,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440939,7 +441525,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440957,7 +441543,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440975,7 +441561,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -440993,7 +441579,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441013,7 +441599,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441031,7 +441617,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441049,7 +441635,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441067,7 +441653,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441088,7 +441674,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441106,7 +441692,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441124,7 +441710,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441145,7 +441731,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441163,7 +441749,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 106,
+      "attempts": 107,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441181,7 +441767,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441199,7 +441785,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441217,7 +441803,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441235,7 +441821,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441253,7 +441839,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441271,7 +441857,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441291,7 +441877,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441309,7 +441895,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441329,7 +441915,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441347,7 +441933,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441365,7 +441951,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441383,7 +441969,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441403,7 +441989,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441421,7 +442007,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441439,7 +442025,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441457,7 +442043,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441477,7 +442063,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441495,7 +442081,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441513,7 +442099,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441531,7 +442117,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441549,7 +442135,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441569,7 +442155,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441587,7 +442173,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441605,7 +442191,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441623,7 +442209,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -441641,7 +442227,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441659,7 +442245,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441677,7 +442263,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441695,7 +442281,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -441713,11 +442299,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 107,
+      "attempts": 108,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
       "error": "ValueError"
@@ -442012,22 +442602,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
       "error": "ValueError"
     }
   ],
