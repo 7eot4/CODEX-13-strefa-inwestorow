@@ -1,8 +1,1792 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-09T00:09:08+00:00",
+  "last_checked": "2026-11-09T06:30:38+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "b2fea4d2733ea17b",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-09",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-09",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Allegro",
+        "AmRest",
+        "Ten Square Games"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-09 - 2026-11-13"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 10 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - TSGAMES - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online Grupy Ten Square Games dotycząca wyników finansowych za trzeci kwartał 2026 roku."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 12 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ALLEGRO - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa Allegro po wynikach za III kwartał 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - Ukraińsko-Polskie Forum Biznesowe \"Win-Win: Polska i Ukraina na wspólnym rynku UE\", które odbędzie się w ramach ReBuild Ukraine 2026. Wydarzenie, organizowane pod patronatem Kancelarii Prezydenta Ukrainy, zgromadzi przedstawicieli administracji publicznej, biznesu i organizacji gospodarczych z obu krajów. Forum otworzą wystąpienia prezydenta Ukrainy Wołodymyra Zełenskiego oraz premiera RP Donalda Tuska. W programie przewidziano trzy panele dyskusyjne poświęcone strategii współpracy gospodarczej Polski i Ukrainy, rozwojowi wspólnego przemysłu obronnego oraz możliwościom biznesowym dla polskich przedsiębiorstw na ukraińskim rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - AMREST - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Webcast AmRestu dla inwestorów, poświęcony wynikom za III kwartał 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biznes Zesp.Emitencki (PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 07:01",
+      "content_sha256": "11cee3d0aa95b50d04c027ca8ad07c746bbcedde5c4a44fe1fbd55cfd12d2c2f",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-09T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Konferencja prasowa online Grupy Ten Square Games dotycząca wyników finansowych za trzeci kwartał 2026 roku.",
+          "Konferencja prasowa Allegro po wynikach za III kwartał 2026 r.",
+          "14:00 - Ukraińsko-Polskie Forum Biznesowe \"Win-Win: Polska i Ukraina na wspólnym rynku UE\", które odbędzie się w ramach ReBuild Ukraine 2026."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "12:00 - TSGAMES - Konferencja wynikowa Spółki"
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "11cee3d0aa95b50d04c027ca8ad07c746bbcedde5c4a44fe1fbd55cfd12d2c2f"
+      }
+    },
+    {
+      "id": "47b1281561025b1d",
+      "title": "Kalendarium rynku NewConnect 2026-11-09",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/kalendarium-rynku-newconnect-2026-11-09",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-11-09 - 2026-11-13"
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 9 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - KOOL2PLAY - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji zwykłych na okaziciela serii R, programu motywacyjnego, emisji warrantów, kooptacji członka RN."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:30 - LIFTERO - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie połączenia z Progresja Space sp. z o.o."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 12 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - STOHID - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmiany statutu."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 07:01",
+      "content_sha256": "3259185b193c9027ec3ab30836fdf54abe6da0e28beb9c7675515fd968b1425c",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-09T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie emisji akcji zwykłych na okaziciela serii R, programu motywacyjnego, emisji warrantów, kooptacji członka RN.",
+          "W sprawie połączenia z Progresja Space sp. z o.o."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3259185b193c9027ec3ab30836fdf54abe6da0e28beb9c7675515fd968b1425c"
+      }
+    },
+    {
+      "id": "064b2e509f503d88",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-09",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/kalendarium-rynku-kapitalowego-gpw-2026-11-09",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-11-09 - 2026-11-13"
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 9 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - SPYROSOFT - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie upoważnienia zarządu do nabywania akcji własnych, utworzenia kapitału rezerwowego."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 10 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - FASING - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie przyjęcia polityki równowagi płci, zmian w statucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - RAFAMET - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie akcji zwykłych imiennych serii L."
+        },
+        {
+          "type": "paragraph",
+          "text": "- AILLERON - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- AMBRA - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 1,10 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 11 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - GREENX - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- SOPHARMA - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,068 EUR na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 07:01",
+      "content_sha256": "4929a89f8645ff595a43619929a5e67d7246aa86c6a408c897c76a5d1e0b7739",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-09T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie upoważnienia zarządu do nabywania akcji własnych, utworzenia kapitału rezerwowego.",
+          "W sprawie przyjęcia polityki równowagi płci, zmian w statucie.",
+          "Zaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4929a89f8645ff595a43619929a5e67d7246aa86c6a408c897c76a5d1e0b7739"
+      }
+    },
+    {
+      "id": "741e95d93c760022",
+      "title": "Popyt na kredyty mieszkaniowe w październiku o prawie 15 proc. wyższy niż przed rokiem - BIK",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/popyt-na-kredyty-mieszkaniowe-w-pazdzierniku-o-prawie-15-proc-wyzszy-niz-przed",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "finanse",
+        "nieruchomosci"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "finanse": [
+          "Temat: kredyt"
+        ],
+        "nieruchomosci": [
+          "Temat: mieszkani"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Wartość zapytań kredytowych w październiku wzrosła w porównaniu z ubiegłym rokiem o 14,9 proc. - podało Biuro Informacji Kredytowej. Średnia wartość wnioskowanego kredytu mieszkaniowego wyniosła 524,5 tys. zł i była o 7,2 proc. wyższa niż przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "W październiku 2026 r., w przeliczeniu na dzień roboczy, banki i SKOK-i przesłały do BIK zapytania o kredyty mieszkaniowe na kwotę wyższą o 14,9 proc. niż w październiku 2025 r. - wynika z informacji BIK."
+        },
+        {
+          "type": "paragraph",
+          "text": "Średnia kwota wnioskowanego kredytu mieszkaniowego wyniosła w październiku br. 524,5 tys. zł. Oznacza to, że była o 7,2 proc. wyższa niż w październiku 2025 r. oraz o 0,4 proc. wyższa niż we wrześniu br."
+        },
+        {
+          "type": "paragraph",
+          "text": "O kredyt mieszkaniowy wnioskowało w październiku br. o 2,5 proc. więcej klientów niż rok wcześniej. Równocześnie jednak miesiąc do miesiąca ich liczba spadła o 3,2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cytowany w informacji Biura kierownik Zespołu Analiz BIK Sławomir Nosal wskazał, że istotnym czynnikiem wspierającym aktywność kredytobiorców pozostają refinansowania wcześniejszych zobowiązań."
+        },
+        {
+          "type": "paragraph",
+          "text": "„W warunkach niższych stóp procentowych oraz rosnącej konkurencji pomiędzy bankami, część klientów aktywnie poszukuje możliwości optymalizacji kosztów obsługi zadłużenia, co dodatkowo zwiększa liczbę składanych wniosków kredytowych” - wyjaśnił."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nosal dodał, że wpływ na aktywność potencjalnych kredytobiorców ma również wzrost wynagrodzeń, które rosną w tempie wyższym niż inflacja, podnosząc zdolność kredytową klientów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa BIK jest głównym źródłem informacji kredytowej i gospodarczej w Polsce; w skład grupy wchodzą Biuro Informacji Kredytowej i Biuro Informacji Gospodarczej InfoMonitor oraz Digital Fingerprints. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "wst/ mmu/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 06:39",
+      "content_sha256": "66c564089c78ddbf50c7201f8779d5951a754c23c0d3ae32bff5fe26390a737e",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "06:39",
+      "published_at": "2026-11-09T06:39+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Wartość zapytań kredytowych w październiku wzrosła w porównaniu z ubiegłym rokiem o 14,9 proc. - podało Biuro Informacji Kredytowej.",
+          "Średnia wartość wnioskowanego kredytu mieszkaniowego wyniosła 524,5 tys. zł i była o 7,2 proc. wyższa niż przed rokiem.",
+          "W październiku 2026 r., w przeliczeniu na dzień roboczy, banki i SKOK-i przesłały do BIK zapytania o kredyty mieszkaniowe na kwotę wyższą o 14,9 proc. niż w październiku 2025 r. - wynika z informacji BIK."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W październiku 2026 r., w przeliczeniu na dzień roboczy, banki i SKOK-i przesłały do BIK zapytania o kredyty mieszkaniowe na kwotę wyższą o 14,9 proc. niż w październiku 2025 r. - wynika z informacji BIK."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kredyt*",
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "mieszkani*",
+              "kredyt*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "mieszkani*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "66c564089c78ddbf50c7201f8779d5951a754c23c0d3ae32bff5fe26390a737e"
+      }
+    },
+    {
+      "id": "e8ffb7ca5d4a4491",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 09.11.2026 | 1D | 5D | 1M | 3M | 12M"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,87 | 4,78 | 5,03 | 4,72 | 4,22 | 4,20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,63 | 5,57 | 5,83 | 5,82 | 5,07 | 4,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,14 | 6,09 | 6,34 | 6,25 | 5,66 | 5,32"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,54 | 5,55 | 5,62 | 5,84 | 5,32 | 6,44"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,40 | 5,43 | 5,46 | 5,87 | 5,38 | 6,40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,37 | 5,42 | 5,45 | 5,76 | 5,38 | 6,85"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,21 | 4,25 | 4,30 | 4,21 | 3,84 | 3,64"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,53 | 4,55 | 4,81 | 4,62 | 4,20 | 4,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,14 | 5,13 | 5,39 | 5,31 | 4,76 | 4,55"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,21 | 36,12 | 36,36 | 36,27 | 37,93 | 36,54"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 35,83 | 35,66 | 35,76 | 35,58 | 35,65 | 33,69"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 33,06 | 33,02 | 33,03 | 32,74 | 32,34 | 29,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 2,97 | 2,96 | 3,01 | 3,05 | 2,71 | 2,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,08 | 3,07 | 3,16 | 3,29 | 2,89 | 2,34"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,39 | 3,38 | 3,47 | 3,60 | 3,29 | 2,88"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,38 | 3,39 | 3,52 | 3,40 | 2,93 | 2,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 3,84 | 3,84 | 4,01 | 3,94 | 3,31 | 2,69"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,33 | 4,34 | 4,51 | 4,53 | 3,92 | 3,41"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,01 | 3,02 | 3,11 | 3,22 | 2,73 | 1,94"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,28 | 3,27 | 3,37 | 3,51 | 3,00 | 2,35"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,69 | 3,69 | 3,79 | 3,94 | 3,48 | 3,01"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,06 | 3,08 | 3,18 | 3,25 | 2,80 | 2,05"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,35 | 3,35 | 3,45 | 3,55 | 3,04 | 2,52"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 3,83 | 3,83 | 3,95 | 4,07 | 3,58 | 3,17"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 2,99 | 2,98 | 3,04 | 3,11 | 2,76 | 1,99"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,07 | 3,05 | 3,13 | 3,25 | 2,88 | 2,25"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,25 | 3,24 | 3,32 | 3,48 | 3,14 | 2,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,50 | 3,52 | 3,67 | 3,56 | 2,94 | 2,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,18 | 4,20 | 4,38 | 4,15 | 3,36 | 2,75"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,76 | 4,78 | 4,97 | 4,75 | 3,93 | 3,45"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,77 | 4,75 | 4,87 | 4,82 | 4,30 | 3,79"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 4,80 | 4,78 | 4,93 | 4,92 | 4,48 | 3,90"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,15 | 5,13 | 5,28 | 5,38 | 4,94 | 4,43"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,78 | 1,74 | 1,89 | 1,92 | 1,61 | 0,94"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,10 | 2,06 | 2,24 | 2,36 | 2,08 | 1,25"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,68 | 2,65 | 2,78 | 3,02 | 2,81 | 1,68"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,53 | 4,51 | 4,59 | 4,79 | 4,20 | 3,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,66 | 4,64 | 4,71 | 5,02 | 4,35 | 3,68"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 4,87 | 4,86 | 4,91 | 5,24 | 4,65 | 4,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 06:35",
+      "content_sha256": "4ac14ba590011504e4e2e3cf4912f7ad773eb12e8e72bd783f2814e2af4376d1",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "06:35",
+      "published_at": "2026-11-09T06:35+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4ac14ba590011504e4e2e3cf4912f7ad773eb12e8e72bd783f2814e2af4376d1"
+      }
+    },
+    {
+      "id": "f1ea1ccbd9597928",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii i Kolumbii:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7376,86 | 0,31 | -2,68 | -5,56 | 9,63 | 7,76"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 51285,73 | -0,46 | -0,94 | -0,71 | 9,15 | 6,70"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 24579,42 | 1,09 | -3,37 | -10,18 | 6,85 | 5,75"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2754,105 | 0,89 | -2,05 | -1,88 | 13,21 | 10,97"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 35789,09 | 0,52 | 0,47 | 0,35 | 19,65 | 12,86"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 71393,57 | 0,43 | 2,30 | 8,09 | 12,65 | 11,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 168498,45 | 1,39 | -0,41 | -19,40 | 9,37 | 4,58"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2485,26 | 0,03 | -0,23 | -1,81 | 19,41 | 20,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 06:33",
+      "content_sha256": "2ad66b1d97064760bf8506ed774a9f778c080c1c3f565b174b1d6da93c708d9c",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "06:33",
+      "published_at": "2026-11-09T06:33+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2ad66b1d97064760bf8506ed774a9f778c080c1c3f565b174b1d6da93c708d9c"
+      }
+    },
+    {
+      "id": "1f4ab59bfe56cb7e",
+      "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-w-kraju-pkb-za-iii-kw-szczegoly-cpi-za-x-saldo-ca-za-ix-wyniki-allegro",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "konsumpcja"
+      ],
+      "companies": [
+        "Allegro",
+        "AmRest",
+        "PKO BP"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: PKB"
+        ],
+        "konsumpcja": [
+          "Firma: Allegro",
+          "Firma: AmRest"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W skróconym Świętem Niepodległości tygodniu rynki czekać będą na piątkowe dane makro: wstępny odczyt PKB za III kw., finalny odczyt CPI za październik i wrześniowe saldo rachunku obrotów bieżących. Napływać będą komentarze po obniżce perspektywy ratingu Polski przez S&P. W międzyczasie wyniki przedstawią m.in. Allegro, czy Amrest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Największą uwagę przykuwać będzie odczyt PKB Polski za III kw. Niedawno GUS zrewidował dane o wzroście PKB w II kwartale do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyższy wzrost I poł. roku, w połączeniu z sygnałami hamowania aktywności w polskiej gospodarce, sygnalizuje w III kw. niższą dynamikę PKB."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie ekonomistów ING wzrost PKB spadł w III kw. do 3,4 proc. co wynikało ze spadku konsumpcji, gdy wyższe ceny paliw ograniczyły siłę nabywczą gospodarstw domowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Spodziewamy się również ujemnego wkładu eksportu netto, w porównaniu z dodatnim wkładem odnotowanym w II kwartale 2026 r. Aktywność inwestycyjna najprawdopodobniej utrzymała się na wysokim poziomie\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tym razem słabsze dane o PKB mogą być wyjątkowo istotne dla oceny perspektyw polityki pieniężnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Prezes NBP Adam Glapiński na czwartkowej konferencji prasowej zwracał uwagę na „wyraźnie hamujący” wzrost gospodarczy jako jeden z czynników ograniczających ryzyko inflacyjne. Najnowsza projekcja NBP (przygotowana przed ostatnią rewizją danych, która podniosła wzrost w II kw. (...) do 4,1 proc. rdr) zakłada spowolnienie wzrostu PKB w III kw. do 3,6 proc. rdr. (...) Nasza prognoza to 3,8 proc. rdr. Im słabszy okaże się ten wynik, tym mniejsze ryzyko podwyżek stóp procentowych NBP\" - oceniają w zapowiedzi tygodnia ekonomiści Erste."
+        },
+        {
+          "type": "paragraph",
+          "text": "NBP w listopadowej projekcji mocno podwyższył prognozy inflacji na 2027 r. (średnio 4,2 proc.). Prezes NBP A. Glapiński przekazał w ub. tygodniu, że nastawienie w Radzie jest w związku z tym obecnie bardziej jastrzębie, a RPP boi się, że trzeba będzie podwyższać stopy. Dodał, że w grudniu zwyczajowo RPP nie podnosi stóp, ale jeśli ryzyka dla inflacji będą narastać, Rada jest gotowa do działania."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątkowych wypowiedziach podwyżek stóp już w grudniu nie wykluczyli członkowie RPP H. Wnorowski i M. Zarzecki."
+        },
+        {
+          "type": "paragraph",
+          "text": "GUS poda w piątek również finalny odczyt CPI za październik. Wstępnie wskaźnik szacowany był na 3,5 proc. wobec 4,1 proc. miesiąc wcześniej, przy spadku inflacji bazowej poniżej odczytu z września (3,1 proc.), a więc być może po raz pierwszy od marca br. poniżej 3 proc. Inwestorzy szukać będą przyczyn niskiego odczytu cen bazowych, czyli potwierdzenia, iż efekty drugiej rundy inflacji w Polsce nadal pozostają ograniczone do wąskiej kategorii dóbr i usług."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek NBP przedstawi saldo obrotów bieżących za wrzesień. W ocenie ekonomistów ING deficyt C/A wzrósł o ok. 1,5 proc. PKB w ujęciu 12-miesięcznym po wrześniu (-1,4 proc. po sierpniu), co oznaczałoby nominalny deficyt 2.380 mln euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Handel zagraniczny nadal rozwijał się w tempie dwucyfrowym czwarty miesiąc z rzędu, przy czym eksport wzrósł o prawie 12 proc. rdr (w euro), a import o prawie 15 proc. rdr. Jeśli oficjalne dane potwierdzą nasze szacunki, oznaczałoby to, że eksport netto prawdopodobnie miał ujemny wpływ na wzrost PKB\" - dodali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynek napływać będą od początku tygodnia komentarze po piątkowym przeglądzie ratingu przez S&P. Agencja utrzymała długoterminowy rating Polski w walucie obcej na poziomie „A-”, ale obniżyła rating w walucie krajowej z „A” do „A-”, a także obniżyła perspektywy obu ratingów ze stabilnej do negatywnej. Ruch był przynajmniej częściowo oczekiwany przez obserwatorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wpływ tego wydarzenia na rynek po weekendzie powinien być umiarkowany, ważniejsze będą zapewne zmiany ogólnego apetytu na ryzyko na rynkach globalnych\" - oceniają ekonomiści Erste."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Głównym powodem pogorszenia oceny kredytowej Polski jest sytuacja fiskalna. W ocenie S&P gwałtownie rosnące zadłużenie może ograniczyć zdolność rządu do reagowania na wstrząsy i negatywnie wpłynąć na wzrost gospodarczy. (...) Agencja wskazuje na rosnące nierównowagi fiskalne, pogorszenie prognoz i historię niedotrzymywania celów budżetowych w trudnym otoczeniu politycznym. Prognozy fiskalne S&P (...) są gorsze od wcześniejszych. Może to sugerować, że S&P stopniowo „traci cierpliwość” do stanu polskich finansów publicznych\" - powiedział PAP ekonomista PKO BP Kamil Pastor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ze spółek uwagę zwrócą wyniki m.in. Allegro, Amrest, czy TS Games."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek aukcję zamiany obligacji przeprowadzi Ministerstwo Finansów."
+        },
+        {
+          "type": "paragraph",
+          "text": "-------------------------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kalendarium wydarzeń na krajowym rynku finansowym w tygodniu 9-13 listopada."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 9 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: TS Games"
+        },
+        {
+          "type": "paragraph",
+          "text": "12. Ogólnopolski Szczyt Gospodarczy OSG 2026 - I dzień (udział m.in. ME, MON, spółki energetyczne i paliwowe)"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - GUS - przeciętne wynagrodzenie w gosp. narodowej w III kw. 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 10 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: PCC Rokita"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - GUS - rejestracje i upadłości przedsiębiorstw w III kw. 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "15.00 - MF - podaż na przetarg zamiany SPW w dn. 12 XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 - Konferencja „Suwerenność przemysłowa Polski. Nowy raport Instytutu Sobieskiego o odporności łańcuchów dostaw w sektorze obronnym” z udziałem prezesów m.in. Vigo Photonics i WB"
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 - konferencja wynikowa Grupy TSG"
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 11 LISTOPADA - ŚWIĘTO NIEPODLEGŁOŚCI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rewizje indeksów MSCI"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 12 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Allegro, Amrest"
+        },
+        {
+          "type": "paragraph",
+          "text": "EU-Ukraine Investment Conference - dzień I"
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 - MF - przetarg zamiany SPW"
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 - konferencja Allegro po wynikach za III kwartał 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Sanok"
+        },
+        {
+          "type": "paragraph",
+          "text": "EU-Ukraine Investment Conference - dzień II"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - GUS - szybki szacunek PKB za III kw., CPI za październik - finalny odczyt, obroty towarowe handlu zagranicznego ogółem i według krajów po wrześniu,"
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 - BGK - przetarg sprzedaży obligacji FPC"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - NBP - bilans płatniczy za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - Ukraińsko-Polskie Forum Biznesowe z udziałem premiera D. Tuska, prezydenta Ukrainy W. Zełenskiego"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 06:31",
+      "content_sha256": "4630d3447b4b62cd037fa739e428ee250fe00244ddc9c69a8fb4d9d5f4f875d8",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "06:31",
+      "published_at": "2026-11-09T06:31+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W międzyczasie wyniki przedstawią m.in. Allegro, czy Amrest.",
+          "Najnowsza projekcja NBP (przygotowana przed ostatnią rewizją danych, która podniosła wzrost w II kw. (...) do 4,1 proc. rdr) zakłada spowolnienie wzrostu PKB w III kw. do 3,6 proc. rdr. (...) Nasza prognoza to 3,8 proc. rdr. Im słabszy okaże się ten wynik, tym mniejsze ryzyko podwyżek stóp procentowych NBP\" - oceniają w zapowiedzi tygodnia ekonomiści Erste.",
+          "Ze spółek uwagę zwrócą wyniki m.in. Allegro, Amrest, czy TS Games."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W międzyczasie wyniki przedstawią m.in. Allegro, czy Amrest."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4630d3447b4b62cd037fa739e428ee250fe00244ddc9c69a8fb4d9d5f4f875d8"
+      }
+    },
+    {
+      "id": "37e7e8bd77f4d763",
+      "title": "TYDZIEŃ NA RYNKACH: Odczyty inflacji za X i PKB za III kw., bankierzy z Fed, stop proc. w Rumunii",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-na-rynkach-odczyty-inflacji-za-x-i-pkb-za-iii-kw-bankierzy-z-fed-stop",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "finanse"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj",
+          "Temat: PKB",
+          "Temat: Fed",
+          "Temat: stop procentowych"
+        ],
+        "finanse": [
+          "Temat: bank"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W nadchodzących dniach rynki czekać będą na liczne odczyty inflacji za październik (w tym z USA), a także PKB za III kw. z różnych gospodarek. Sporo wystąpień zaplanowali bankierzy z Fed. Bank centralny Rumunii przedstawi decyzję ws. stóp procentowych. Ukraina, Rosja i USA odbędą trójstronne negocjacje ws. zakończenia wojny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane o inflacji za październik napłyną m.in. z USA, Węgier, Czech, Norwegii, Francji, czy Niemiec. Z kolei odczyty PKB za III kw. podadzą statystycy ze strefy euro, Rumunii, czy Wlk. Brytanii."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA podane zostaną jedyne miesięczne dane o CPI, ze względu na brak możliwości właściwego opracowania danych przez statystyków po długim wyłączeniu działania agend federalnych (government shutown) w październiku ubiegłego roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek decyzję ogłosi bank centralny w Rumunii (NBR). Rynek oczekuje stabilizacji stóp na poziomie 6,50 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po poprzednim posiedzeniu NBR komunikował, iż inflacja będzie wykazywać tendencję wzrostową do końca 2026 r., a pogorszenie perspektyw inflacyjnych przypisano wyższym cenom energii i żywności wynikającym z trwającego konfliktu na Bliskim Wschodzie, tegorocznej suszy oraz niedawnej deprecjacji leu po wzroście niepewności politycznej w ostatnim kwartale."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Chociaż obecna stopa inflacji (6,6 proc. w październiku wobec 9-10 proc. w I poł. roku - PAP) znacznie przekracza górną granicę przedziału docelowego NBR (2,5 proc. +/- 1 pp.), uważamy, że NBR prawdopodobnie będzie starał się utrzymać stopy na obecnym wysokim poziomie, zamiast je dalej podnosić, ponieważ gwałtowny wzrost inflacji od połowy 2025 r. wynikał przede wszystkim z dwóch czynników przejściowych, na które polityka pieniężna nie ma wpływu: zniesienia limitu cen energii oraz podwyżki stawki VAT w II poł. 2025 r.\" - oceniają ekonomiści Goldman Sachs."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Krajowe warunki płynnościowe są obecnie nieco luźniejsze w stosunku do stopy procentowej, co powoduje, że stopy rynkowe oscylują w dolnej części korytarza stóp NBR. Niemniej jednak spodziewamy się, że NBR utrzyma stopy procentowe na obecnym poziomie do 2027 r.\" - dodali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Wall Street inwestorzy przyglądać się będą dalej perspektywom sektora AI, po mocnych wahaniach pod koniec ub. tygodnia w związku z przejęciem władzy w obu Izbach Kongresu przez Demokratów w wyborach połówkowych. Wobec oczekiwań na deeskelację relacji USA z Iranem po wyborach (Republikanie upatrują przyczyn w gorszym dla siebie wyniku m.in. ze względu na wzrost inflacji w zw. z wojną) ropa w USA straciła w ub. tygodniu 14 proc., a gaz 16 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Giełdy w USA, po pozytywnej pierwszej reakcji na wyniki wyborów połówkowych, przeszły w fazę mocnej wyprzedaży, która ze spółek technologicznych rozlała się na inne sektory. Zakładamy roboczo, że globalne nastroje po weekendzie będą się raczej stabilizować niż dalej pogarszać, o ile nie pojawią się nowe informacje, które mogłyby wywołać obawy inwestorów (np. wzrost obaw o eskalację na Bliskim Wschodzie)\" - oceniają ekonomiści Erste."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Unicredit wskazują, że rynek traktuje obecnie niepewność regulacyjną po wyborach w USA jak fundamentalne załamanie popytu na sztuczną inteligencję. Nie podzielają oni tego poglądu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Bardziej restrykcyjne ramy regulacyjne mogą spowodować zmienność, opóźnić niektóre przyszłe projekty i obniżyć wskaźniki wyceny. Jest jednak mało prawdopodobne, aby zakłóciły one szerszy cykl inwestycyjny w dziedzinie sztucznej inteligencji, znacząco zmieniły perspektywy wzrostu PKB w USA lub podważyły prognozy zysków, które stanowią podstawę rynków akcji. Niedawną wyprzedaż należy zatem postrzegać przede wszystkim jako proces ponownej wyceny i ograniczania ryzyka po okresie wyjątkowo intensywnego handlu, a nie jako koniec historii sztucznej inteligencji\" - napisano w raporcie Unicredit."
+        },
+        {
+          "type": "paragraph",
+          "text": "W nadchodzących dniach zaplanowano liczne wystąpienia przedstawicieli amerykańskiej Rezerwy Federalnej. W ocenie ekonomisty ING Jamesa Kightley'a, duże wahania cen surowców energetycznych, akcji i obligacji w następstwie zdecydowanego zwycięstwa Demokratów w wyborach do Kongresu sugerują, że wypowiedzi decydentów będą ostrożne."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Chociaż większość z nich nadal opowiada się za stopniowym zacieśnianiem polityki pieniężnej, gdy inflacja przekracza poziom docelowy, a bezrobocie jest niskie, nikt nie jest gotowy podać konkretnej liczby kolejnych podwyżek stóp proc., które są konieczne. Nadal prognozujemy tylko jedną podwyżkę stóp w grudniu, biorąc pod uwagę ochłodzenie na rynku nieruchomości, słaby wzrost płac oraz ostrożny optymizm co do znalezienia dyplomatycznego rozwiązania impasu między Iranem a USA\" - wskazał Kightley w zapowiedzi tygodnia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Implikowane z wycen instrumentów finansowych prawdopodobieństwo podwyżki stóp w USA o 25 pb. na posiedzeniu Fed w dn. 8-9 grudnia wynosi ok. 80 proc., co oznaczałoby koszt pieniądza 4,0-4,25 proc. Fed podwyższył stopy pierwszy raz od 3 lat we wrześniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Wall Street powoli zbliża się koniec sezonu wyników - spółki z S&P 500 nadal raportują mieszane wyniki za III kwartał w porównaniu z oczekiwaniami. Odsetek spółek, które odnotowały pozytywne niespodzianki, jest wyższy niż ostatnio, ale skala tych niespodzianek jest niższa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wg danych FactSet ogółem 88 proc. spółek z indeksu S&P 500 opublikowało do tej pory wyniki za III kwartał. 84 proc. z tych spółek podało rzeczywisty zysk na akcję (EPS) powyżej szacunków, co jest wynikiem wyższym od 5-letniej średniej wynoszącej 78 proc. i 10-letniej średniej wynoszącej 77 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łącznie spółki raportują zyski o 2,7 proc. powyżej szacunków, co jest wynikiem niższym od 5-letniej średniej wynoszącej 7,5 proc. i 10-letniej średniej wynoszącej 8,0 proc. Jeśli poziom 2,7 proc. utrzyma się do końca sezonu, oznacza to najniższy odsetek niespodzianek w zyskach odnotowanych przez indeks od IV kwartału 2022 r. (kiedy wyniósł 1,3 proc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na najbliższy poniedziałek i wtorek w Abu Zabi, stolicy Zjednoczonych Emiratów Arabskich, zaplanowano trójstronne negocjacje na temat zakończenia wojny w Ukrainie, z udziałem USA, Ukrainy i Rosji."
+        },
+        {
+          "type": "paragraph",
+          "text": "-----------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kalendarium wydarzeń na światowym rynku finansowym w tygodniu 9-13 listopada (źródło: Bloomberg, Investing.com)."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 9 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "2.30 – Chiny – CPI i PPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "6.00 – Japonia - indeks wyprzedzający koniunktury a IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Niemcy – saldo handlowe za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Rumunia – saldo handlowe za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Norwegia – PPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 – Czechy – bezrobocie za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 – Szwajcaria – rezerwy walutowe za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.30 – strefa euro – indeks zaufania inwestorów Sentix za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.40 – USA – wystąpienie członkini zarządu Fed M. Bowman"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 – USA – wystąpienie prezesa Fed Chicago A. Goolsbee"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 – USA – zapasy hurtowników za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "17.00 – USA – oczekiwania inflacyjne NY Fed"
+        },
+        {
+          "type": "paragraph",
+          "text": "17.00 –strefa euro – wystąpienie członka zarządu EBC P. Cipollone"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.15 – USA – wystąpienie prezesa Fed Richmond T. Barkina"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.25 – UK – wystąpienie prezesa Banku Anglii A. Bailey’a"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 10 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.30 – Japonia – wydatki gosp. domowych za aIX"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.50 – Japonia – saldo C/A za IX, akcja kredytowa za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "7.30 – Francja – stopa bezrobocia ILO za III kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 –Turcja – produkcja przemysłowa za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Norwegia – CPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.30 – Węgry – CPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 – Czechy – CPI za X (fin.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 – Szwecja – minutes z ostatniego posiedzenia Riksbanku"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 – USA – wystąpienie wiceprezesa Fed Ch. Wallera"
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 – USA – indeks optymizmu małych firm NFIB"
+        },
+        {
+          "type": "paragraph",
+          "text": "13.30 – UK – wystąpienie członkini BoE Ch. Lombardelli"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 – USA - CPI i płace za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "15.00 – strefa euro – wystąpienie członka zarządu EBC P. Cipollone"
+        },
+        {
+          "type": "paragraph",
+          "text": "17.45 – strefa euro – wystąpienie głównego ekonomisty EBC P. Lane"
+        },
+        {
+          "type": "paragraph",
+          "text": "19.30 – UK – wystąpienie głównego ekonomisty BoE H. Pilla"
+        },
+        {
+          "type": "paragraph",
+          "text": "19.30 – USA – wystąpienie prezesa Fed Kansas J. Schmida"
+        },
+        {
+          "type": "paragraph",
+          "text": "21.30 – USA – wystąpienie członkini zarządu Fed M. Bowman"
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 11 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.30 – USA wystąpienie prezes Fed Philadelphia A. Paulson"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.30 – USA – wystąpienie członkini zarządu Fed M. Bowman"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.50 – Japonia – podaż pieniądza M3 za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Niemcy – CPI i HICP za X (fin.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.10 – strefa euro – wystąpienie członka Rady Prezesów EBC M. Kazaksa"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.20 – strefa euro – wystąpienie członka Rady Prezesów EBC J. Nagela"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 – Włochy – produkcja przemysłowa za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "13.00 – USA – tygodniowe wnioski o kredyt hipoteczny MBA"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 12 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.50 – Japonia – PPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – UK – PKB za III kw. (wst.), produkcja przemysłowa, produkcja budowlana, saldo handlowe za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Rumunia – CPI za X, płace za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.30 – Turcja – projekcja inflacji banku centralnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 – Rumunia – decyzja banku centralnego ws. stóp proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 – Kanada – wydane pozwolenia na budowę za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 – USA – tygodniowe nowe wnioski o zasiłek dla bezrobotnych"
+        },
+        {
+          "type": "paragraph",
+          "text": "15.00 – USA – wystąpienie prezes Fed Cleveland B. Hammack"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 – USA – wystąpienie wiceprezesa Fed M. Barra"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 – USA – sprzedaż domów na rynku wtórnych za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "17.30 – USA – wystąpienie prezesa Fed Chicago A. Goolsbee"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.30 – strefa euro – wystąpienie członka Rady Prezesów EBC J. Nagela"
+        },
+        {
+          "type": "paragraph",
+          "text": "19.10 – USA – wystąpienie prezes Fed San Francisco M. Daly"
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.30 – USA – wystąpienie prezesa Fed NY J. Williamsa"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Rumunia – produkcja przemysłowa z IX, PKB za III kw. (wst.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Turcja – saldo C/A za IX, oczekiwania inflacyjne za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 – Niemcy – PPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.30 – Węgry – produkcja przemysłowa za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.30 – Szwajcaria – PPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.45 – Francja – HICP za X (fin.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 – Hiszpania – HICP za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - Czechy – minutes z ostatniego posiedzenia banku centralnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 – strefa euro – wystąpienie członka Rady Prezesów EBC A. Zigmana"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 – Włochy –saldo handlowe za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 – Czechy – saldo C/A za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 – strefa euro - PKB za III kw., saldo handlowe za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 – USA – PPI za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.50 – USA – wystąpienie członkini zarządu Fed M. Bowman"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.00 – USA - wystąpienie prezes Fed San Francisco M. Daly"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "tus/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "09.11.2026 06:31",
+      "content_sha256": "61bf356cc0b1332b65eee59cee6fb8d64f786e84bb61986a4181407e66f7174d",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "06:31",
+      "published_at": "2026-11-09T06:31+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Bank centralny Rumunii przedstawi decyzję ws. stóp procentowych.",
+          "\"Chociaż obecna stopa inflacji (6,6 proc. w październiku wobec 9-10 proc. w I poł. roku - PAP) znacznie przekracza górną granicę przedziału docelowego NBR (2,5 proc. +/- 1 pp.), uważamy, że NBR prawdopodobnie będzie starał się utrzymać stopy na obecnym wysokim poziomie, zamiast je dalej podnosić, ponieważ gwałtowny wzrost inflacji od połowy 2025 r. wynikał przede wszystkim z dwóch czynników przejściowych, na które polityka pieniężna nie ma wpływu: zniesienia limitu cen energii oraz podwyżki stawki VAT w II poł.",
+          "Wobec oczekiwań na deeskelację relacji USA z Iranem po wyborach (Republikanie upatrują przyczyn w gorszym dla siebie wyniku m.in. ze względu na wzrost inflacji w zw. z wojną) ropa w USA straciła w ub. tygodniu 14 proc., a gaz 16 proc."
+        ],
+        "interest_score": 39,
+        "impact_score": 28,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "Bank centralny Rumunii przedstawi decyzję ws. stóp procentowych."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*",
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "stop* procentow*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "61bf356cc0b1332b65eee59cee6fb8d64f786e84bb61986a4181407e66f7174d"
+      }
+    },
+    {
+      "id": "adbee1adbac9aaae",
+      "title": "Prognozy dla dolara na przełom 2026 i 2027 r. Wyborczy klincz w USA nie wystarczył, by wzmocnić euro",
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty/prognozy-dolar-euro-2026-2027-po-wyborach-usa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj",
+          "Temat: walut",
+          "Temat: dolar",
+          "Dział źródłowy"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-09T06:30:38+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kiedy zamykały się lokale wyborcze za oceanem, amerykańska waluta zaczęła tracić, a rynek zaczął wyceniać polityczny pat w Waszyngtonie. Wystarczył jednak mocniejszy od oczekiwań raport z rynku pracy i uporczywa inflacja w Europie, by przypomnieć o głębokich różnicach w fundamentach obu gospodarek. Sam wynik wyborów do Kongresu to dziś za mało, by trwale odwrócić walutowy trend i wykreować nową hossę na euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wieczór 3 listopada przyniósł na rynkach zauważalne spadki dolara."
+        },
+        {
+          "type": "paragraph",
+          "text": "W miarę spływania wyników sugerujących przejęcie obu izb Kongresu przez Demokratów, perspektywa podzielonej władzy i ograniczenia stymulacji fiskalnej obniżyła rentowności amerykańskich obligacji, ograniczając wsparcie dla dolara wynikające z oprocentowania aktywów w USA. Indeks DXY osunął się do najniższego poziomu od 30 września, a para EUR/USD podskoczyła do 1,1272. Późniejsze notowania pokazały jednak, że ten ruch był krótkotrwały - 6 listopada kurs spadł w okolice 1,1184."
+        },
+        {
+          "type": "heading",
+          "text": "Dane z rynku pracy wspierają dolara"
+        },
+        {
+          "type": "paragraph",
+          "text": "Opublikowany 6 listopada raport amerykańskiego Departamentu Pracy osłabił argumenty za szybkim łagodzeniem polityki Fed i wsparł oczekiwania utrzymania wysokich stóp procentowych w USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wzrost zatrudnienia poza rolnictwem o 165 tysięcy etatów wyraźnie przebił konsensus wynoszący 65 tysięcy, a stopa bezrobocia spadła do 4,1%. Co więcej, dane za sierpień i wrzesień zrewidowano w górę o łącznie 84 tysiące miejsc pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prawdopodobieństwo grudniowej podwyżki stóp przez Fed wzrosło w reakcji na ten raport do 78%."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przy obecnym przedziale amerykańskich stawek na poziomie 3,75-4,00%, wyższe oprocentowanie aktywów dolarowych pozostaje argumentem wspierającym amerykańską walutę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem Europejski Bank Centralny mierzy się z utrzymującą się presją cenową."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inflacja w strefie euro wzrosła w październiku do 4,0% r/r - to najwyższy odczyt od września 2023 roku, napędzany rosnącymi cenami energii w cieniu konfliktu z Iranem. Przedstawiciele EBC, w tym szefowa instytucji Christine Lagarde oraz prezes Bundesbanku Joachim Nagel, sygnalizują gotowość do kolejnej podwyżki stóp procentowych, jeśli sytuacja się nie poprawi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rynek wycenia dojście europejskiej stopy depozytowej w przyszłym roku do poziomu 3%. Samo podniesienie stopy EBC do 3% nie przesądzałoby jednak o zniknięciu przewagi oprocentowania aktywów dolarowych - zależałoby to również od dalszych decyzji Fed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Trump Media tąpnęły o 24% po wynikach wyborów. Spółka Donalda Trumpa szoruje po dnie"
+        },
+        {
+          "type": "heading",
+          "text": "Wall Street trzyma się sprawdzonych argumentów"
+        },
+        {
+          "type": "paragraph",
+          "text": "Powyborcowe odbicie euro nie wystarczyło, by zmienić ostrożne nastawienie części największych instytucji finansowych. Citi wprost zaleca wykorzystywanie każdego osłabienia dolara do zajmowania pozycji zyskujących na jego ponownym umocnieniu, oceniając spadek USD z 3 listopada jedynie jako odruchową reakcję na wizję mniejszego deficytu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Część dostępnych prognoz pochodzi jeszcze sprzed wyborów; nie ma potwierdzenia, że banki zmieniły je po głosowaniu. J.P. Morgan już w ubiegłych miesiącach wskazywał na niekorzystne dla Europy pogorszenie warunków wymiany handlowej w zestawieniu z jastrzębim Fedem, a ING regularnie podkreśla ryzyka uderzające w wycenę euro ze strony europejskiego rynku długu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniższa tabela zestawia opublikowane prognozy wybranych banków dla EUR/USD. Różnią się one datą wydania i horyzontem, dlatego nie należy traktować ich jako jednolitego, powyborczego konsensusu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Powyborcowe odbicie euro nie wystarczyło, by zmienić ostrożne nastawienie części największych instytucji finansowych. Citi wprost zaleca wykorzystywanie każdego osłabienia dolara do zajmowania pozycji zyskujących na jego ponownym umocnieniu, oceniając spadek USD z 3 listopada jedynie jako odruchową reakcję na wizję mniejszego deficytu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Złoto odbija po wyborach w USA. To może być jednak tylko korekta"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Instytucja | Koniec 2026 r. | Początek 2027 r. - wskazany termin | Data i status prognozy"
+        },
+        {
+          "type": "paragraph",
+          "text": "| ING | 1,1300 | 1,1300 | Prognoza z połowy października - bank na razie nie zmienił zdania po wyborach."
+        },
+        {
+          "type": "paragraph",
+          "text": "| J.P. Morgan | 1,1400 | 1,1300 (marzec) | Założenia jeszcze z lata - rynek wciąż czeka na ich ewentualną aktualizację."
+        },
+        {
+          "type": "paragraph",
+          "text": "| MUFG | 1,1200 | 1,1400 | Szacunki z początku listopada, opublikowane tuż przed pójściem Amerykanów do urn."
+        },
+        {
+          "type": "paragraph",
+          "text": "| UOB | 1,1100 | 1,1000 | Najświeższe dane, ale analitycy nie wiążą ich bezpośrednio z nowym układem politycznym."
+        },
+        {
+          "type": "paragraph",
+          "text": "| Goldman Sachs | - | 1,1400 (horyzont 3 mies.) | Najnowszy rynkowy cel, choć bank nie zdradza dokładnej daty publikacji samej noty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prognozy dla dolara do końca 2026. USD ma wsparcie, ale Fed może zmienić układ sił"
+        },
+        {
+          "type": "heading",
+          "text": "Cła, francuski dług i rozwój AI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podzielony amerykański rząd wcale nie zdejmuje z horyzontu ryzyka protekcjonizmu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak przypomina Citi, administracja w Waszyngtonie dysponuje uprawnieniami z sekcji 232 i 301, pozwalającymi prezydentowi narzucać taryfy celne z pominięciem Kongresu. Według prognoz Goldman Sachs, efektywna stawka celna USA może po wyborach wzrosnąć o niespełna 2 punkty procentowe, co wciąż stanowiłoby poważne obciążenie dla europejskiego eksportu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie problemem pozostaje nie tylko zewnętrzna presja handlowa czy droga energia, ale też stabilność fiskalna. Analitycy ING wskazują na spread francuskich obligacji względem niemieckich jako istotny barometr ryzyka politycznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalszy wzrost premii za ryzyko francuskiego długu mógłby dodatkowo obciążać euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Otwartym pytaniem pozostaje również kwestia polityki technologicznej w USA. Wpływ na dolara pozostaje niejednoznaczny: ograniczenie inwestycji mogłoby osłabić perspektywy wzrostu USA, ale gwałtowna przecena aktywów technologicznych mogłaby zwiększyć popyt na płynność w amerykańskiej walucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Apple spadają po wynikach. Rekordowa sprzedaż iPhone'ów to za mało dla Wall Street"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kolejnym testem będzie 11 grudnia, wskazywany jako termin porozumienia dotyczącego finansowania amerykańskiej administracji. Negocjacje budżetowe mogą ponownie zwiększyć znaczenie ryzyka politycznego w wycenie dolara."
+        }
+      ],
+      "author": "Szymon Machalica",
+      "published_display": "09.11.2026 06:28",
+      "content_sha256": "4d52c336b2d6b4edb1dbae979596765def8fc06671dd50ace2ef9ef0b84ac619",
+      "date": "2026-11-09",
+      "saved_at": "2026-11-09T06:30:38+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
+      "published_time": "06:28",
+      "published_at": "2026-11-09T06:28+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Wystarczył jednak mocniejszy od oczekiwań raport z rynku pracy i uporczywa inflacja w Europie, by przypomnieć o głębokich różnicach w fundamentach obu gospodarek.",
+          "Sam wynik wyborów do Kongresu to dziś za mało, by trwale odwrócić walutowy trend i wykreować nową hossę na euro.",
+          "Citi wprost zaleca wykorzystywanie każdego osłabienia dolara do zajmowania pozycji zyskujących na jego ponownym umocnieniu, oceniając spadek USD z 3 listopada jedynie jako odruchową reakcję na wizję mniejszego deficytu."
+        ],
+        "interest_score": 77,
+        "impact_score": 64,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Sam wynik wyborów do Kongresu to dziś za mało, by trwale odwrócić walutowy trend i wykreować nową hossę na euro."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Wystarczył jednak mocniejszy od oczekiwań raport z rynku pracy i uporczywa inflacja w Europie, by przypomnieć o głębokich różnicach w fundamentach obu gospodarek."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "W miarę spływania wyników sugerujących przejęcie obu izb Kongresu przez Demokratów, perspektywa podzielonej władzy i ograniczenia stymulacji fiskalnej obniżyła rentowności amerykańskich obligacji, ograniczając wsparcie dla dolara wynikające z oprocentowania aktywów w USA."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4d52c336b2d6b4edb1dbae979596765def8fc06671dd50ace2ef9ef0b84ac619"
+      }
+    },
     {
       "id": "3b88d02ff7e7f9e9",
       "title": "Skrót wiadomości: sobota-niedziela, 7-8 listopada",
@@ -12,7 +1796,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-09T00:09:08+00:00",
+      "discovered_at": "2026-11-09T06:30:38+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -123,7 +1907,7 @@
       "published_display": "08.11.2026 20:06",
       "content_sha256": "37d461f2fa7692aebf610fcdbbf6d08164cde3a0e3b0bac412a535ab4f3eb0e4",
       "saved_at": "2026-11-08T20:48:19+00:00",
-      "content_checked_at": "2026-11-09T00:09:08+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -1745,7 +3529,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-09T00:09:08+00:00",
+      "discovered_at": "2026-11-09T06:30:38+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2236,7 +4020,7 @@
       "published_display": "06.11.2026 21:02",
       "content_sha256": "647e05169c4625f716d264223c12c39fa22fde106580cf2254ac34341012b0f3",
       "saved_at": "2026-11-06T22:26:54+00:00",
-      "content_checked_at": "2026-11-09T00:09:08+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3940,7 +5724,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-09T00:09:08+00:00",
+      "discovered_at": "2026-11-09T06:30:38+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -4415,7 +6199,7 @@
       "published_display": "06.11.2026 17:02",
       "content_sha256": "2283016f68477f657d38507997447941251d0b9800e932e298810c3c0a241d76",
       "saved_at": "2026-11-06T17:32:24+00:00",
-      "content_checked_at": "2026-11-09T00:09:08+00:00",
+      "content_checked_at": "2026-11-09T06:30:38+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -441798,7 +443582,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441816,7 +443600,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441834,7 +443618,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441852,7 +443636,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441870,7 +443654,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441888,7 +443672,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441906,7 +443690,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441924,7 +443708,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441942,7 +443726,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441960,7 +443744,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -441980,7 +443764,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442000,7 +443784,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442018,7 +443802,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442036,7 +443820,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442054,7 +443838,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442072,7 +443856,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442090,7 +443874,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442110,7 +443894,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442128,7 +443912,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442146,7 +443930,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442164,7 +443948,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442182,7 +443966,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442202,7 +443986,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442220,7 +444004,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442238,7 +444022,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442256,7 +444040,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442276,7 +444060,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442294,7 +444078,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442312,7 +444096,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442330,7 +444114,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442350,7 +444134,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442368,7 +444152,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442386,7 +444170,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442404,7 +444188,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442422,7 +444206,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442442,7 +444226,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442460,7 +444244,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442478,7 +444262,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442496,7 +444280,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442517,7 +444301,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442535,7 +444319,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442553,7 +444337,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442574,7 +444358,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442592,7 +444376,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 109,
+      "attempts": 110,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -442610,7 +444394,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442628,7 +444412,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442646,7 +444430,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442664,7 +444448,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442682,7 +444466,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442700,7 +444484,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442720,7 +444504,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442738,7 +444522,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442758,7 +444542,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442776,7 +444560,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442794,7 +444578,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442812,7 +444596,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442832,7 +444616,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442850,7 +444634,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442868,7 +444652,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442886,7 +444670,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442906,7 +444690,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442924,7 +444708,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -442942,7 +444726,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -443070,7 +444854,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -443088,7 +444872,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -443106,7 +444890,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -443124,7 +444908,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -443142,11 +444926,19 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 110,
+      "attempts": 111,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
       "error": "ValueError"
@@ -443409,50 +445201,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
       "error": "ValueError"
     }
   ],
