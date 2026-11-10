@@ -1,8 +1,1570 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-10T00:44:21+00:00",
+  "last_checked": "2026-11-10T07:47:35+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "583ba6484fbeeb9c",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach najlepszy wynik od ponad 3 miesięcy",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-w-azji-na-gieldach-najlepszy-wynik-od-ponad-3-miesiecy",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: walut"
+        ],
+        "energia": [
+          "Temat: ropa"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Na azjatyckich giełdach najważniejsze indeksy mocno rosną i są na najlepszej drodze do zaliczenia najmocniejszych 2-dniowych zwyżek od ponad 3 miesięcy. Na rynkach spółek IT odrodziła się hossa, a do tego tanieje ropa naftowa. Na rynku walutowym USD jest stabilny do euro i JPY. Bitcoin jest po ok. 74.600 USD za token. Złoto tanieje o 0,7 proc. - informują maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Japonii 225 zwyżkował o 2,87 proc. Topix był wyżej o 1,98 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Chinach SCI zyskał 0,08 proc., a CSI 300 wzrósł o 0,07 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Hongkongu Hang Seng jest wyżej o 0,44 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Korei Południowej KOSPI zwyżkował o 4,39 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Tajwanie TAIEX wzrósł o 2,52 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Indiach wolne, a w poniedziałek Sensex 30 zwyżkował o 0,13 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskaźnik SE Thai zyskał 1,33 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks PSEi na Filipinach zwyżkuje o 0,67 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Dżakarcie wskaźnik Jakarta Comp zyskuje 1,03 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Laos Comp zniżkuje o 0,18 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regionalny wskaźnik MSCI dla Azji i Pacyfiku zwyżkował o 1,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na azjatyckich giełdach najważniejsze indeksy wyraźnie rosną i są na najlepszej drodze do zaliczenia najmocniejszych 2-dniowych zwyżek od ponad 3 miesięcy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynkach spółek IT odrodziła się hossa, a do tego tanieje ropa naftowa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wśród inwestorów dominuje też optymizm po tym, jak w poniedziałek amerykańskie indeksy zakończyły sesję na najwyższym poziomie od 7 miesięcy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy zwracają uwagę, że wzrost kursów akcji spółek IT nastąpił po burzliwym poprzednim tygodniu, w czasie którego producenci układów scalonych odczuli poważnie skutki wyprzedaży wywołanej obawami, że zwycięstwo Demokratów w listopadowych wyborach połówkowych do amerykańskiego Kongresu może doprowadzić do zaostrzenia kontroli nad sektorem AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynkach paliw tanieje ropa naftowa, co jest korzystną informacją dla wskaźników inflacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Spadek cen ropy naftowej dał rynkom tak bardzo potrzebną chwilę wytchnienia. (...) Złagodziło to częściowo presję inflacyjną - powiedział Dilin Wu, strateg Pepperstone Group."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Musimy jeszcze sprawdzić, czy zainteresowanie inwestorów zakupami na giełdach się utrzyma\" - powiedział\" - dodał Wu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strateg Pepperstone Group ocenił, że pytania dotyczące wydatków i zysków w sektorze związanym z AI jednak na razie nie zniknęły."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pytania związane z wydatkami i zyskami w dziedzinie sztucznej inteligencji nie zniknęły\" - powiedział Wu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem inwestorzy będą z uwagą obserwować październikowe dane o inflacji w USA, których publikacja przewidziana jest we wtorek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy oceniają, że powinny one wykazać mniejsze wzrosty CPI niż we wrześniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku walutowym japoński jen kosztuje 157,96 za 1 USD, stabilnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Euro jest po 1,1227 USD, bez zmian."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bitcoin kosztuje 74.614 USD za token, w dół o 0,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowność 10-letnich UST wynosi 4,87 proc., niżej o 1 pb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Złoto jest wyceniane w transakcjach spot po 4.112 USD za uncję, niżej o 0,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ropa WTI i Brent tanieje po ponad 1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie kontrakty na Stoxx 50 rosną o 0,86 proc., na FTSE 100 zwyżkują o 0,66 proc., na CAC 40 idą wyżej o 0,87 proc., a na DAX rosną o 1,02 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeksy w Europie zwyżkowały na koniec sesji w poniedziałek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zamknięciu sesji indeks Euro Stoxx 50 zyskał 1,45 proc., niemiecki DAX zwyżkował o 1,72 proc., francuski CAC 40 poszedł w górę o 1,16 proc., a brytyjski FTSE wzrósł o 1,02 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benchmarkowy indeks Stoxx Europe 600 zwyżkował o 1,26 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W USA kontrakty na indeksy są w przedziale od -0,16 proc. do +0,44 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniedziałkowa sesja na Wall Street przyniosła wzrosty głównych indeksów, a Dow Jones zyskał na koniec dnia 1.100 punktów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu wzrósł o 2,15 proc. i wyniósł 52.389,75 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia zyskał 2,35 proc. i wyniósł 7.549,94 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zwyżkował o 2,74 proc. do 25.253,14 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 08:25",
+      "content_sha256": "0baaaa9647210227733bd40e48fa9ce92d403a4c1d830f4e52b38e11dbc6f4e8",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "08:25",
+      "published_at": "2026-11-10T08:25+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Na azjatyckich giełdach najważniejsze indeksy mocno rosną i są na najlepszej drodze do zaliczenia najmocniejszych 2-dniowych zwyżek od ponad 3 miesięcy.",
+          "Na rynkach spółek IT odrodziła się hossa, a do tego tanieje ropa naftowa.",
+          "Na zamknięciu sesji indeks Euro Stoxx 50 zyskał 1,45 proc., niemiecki DAX zwyżkował o 1,72 proc., francuski CAC 40 poszedł w górę o 1,16 proc., a brytyjski FTSE wzrósł o 1,02 proc."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W Chinach SCI zyskał 0,08 proc., a CSI 300 wzrósł o 0,07 proc."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropa"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "0baaaa9647210227733bd40e48fa9ce92d403a4c1d830f4e52b38e11dbc6f4e8"
+      }
+    },
+    {
+      "id": "1d7ddd957ccd62ce",
+      "title": "Wyniki PCC Rokita w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/wyniki-pcc-rokita-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej przedstawiono wyniki PCC Rokita w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane w mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "| 3Q2026 | wyniki | kons. | różnica | r/r | q/q | YTD 2026 | rdr"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przychody | 470,7 | 528,5 | -11% | 14% | -8,1% | 1415,2 | 3,1%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBITDA | 62,2 | 65,5 | -5% | -23% | -53% | 241,1 | 21,5%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBIT | 24,6 | 25,7 | -4% | -42% | -74% | 127,7 | 55,9%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| zysk netto j.d. | 13,1 | 15,3 | -15% | -60% | -85% | 92,4 | 126,5%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBITDA | 13,2% | 12,4% | 0,77 | -6,16 | -12,54 | 17,04% | 2,57"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBIT | 5,2% | 4,9% | 0,35 | -5,08 | -13,01 | 9,02% | 3,05"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża netto | 2,8% | 2,9% | -0,12 | -5,07 | -13,78 | 6,53% | 3,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "*** Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 08:18",
+      "content_sha256": "efb565e58fbc2b978eddb604b9cce9dac6f027d3e09e6e543d4a072ff5ab6bae",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "08:18",
+      "published_at": "2026-11-10T08:18+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej przedstawiono wyniki PCC Rokita w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+          "*** Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP.",
+          "Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Poniżej przedstawiono wyniki PCC Rokita w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "efb565e58fbc2b978eddb604b9cce9dac6f027d3e09e6e543d4a072ff5ab6bae"
+      }
+    },
+    {
+      "id": "7ed0defd6a9b1154",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/najwazniejsze-indeksy-gieldowe-w-azji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej aktualne indeksy wybranych giełd w Azji:"
+        },
+        {
+          "type": "paragraph",
+          "text": "***Indie z 9.11."
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nikkei 225 | Japonia | 60459,58 | 2,87 | -4,16 | -12,42 | 18,75 | 20,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SCI | Chiny | 3666,29 | 0,15 | 1,61 | -3,87 | -8,77 | -7,62"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hang Seng | Hongkong | 24572,90 | 0,51 | 4,45 | 1,49 | -7,79 | -4,13"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KOSPI | Korea Płd. | 5239,13 | 4,39 | -7,25 | -20,93 | 28,62 | 24,32"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Sensex | Indie | 81106,65 | 0,13 | 5,45 | 11,91 | -3,30 | -4,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks Nikkei 225 zamyka się o 7.30 czasu polskiego, KOSPI o 7.05, Shanghai Composite Index o 8.00, Hang Seng o 09.00, a Sensex o 11.45."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 07:55",
+      "content_sha256": "12b4500190c89b937d2da28df1a81e48755eb11d640964ac12c04027d7bc73b0",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "07:55",
+      "published_at": "2026-11-10T07:55+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Indeks Nikkei 225 zamyka się o 7.30 czasu polskiego, KOSPI o 7.05, Shanghai Composite Index o 8.00, Hang Seng o 09.00, a Sensex o 11.45.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "12b4500190c89b937d2da28df1a81e48755eb11d640964ac12c04027d7bc73b0"
+      }
+    },
+    {
+      "id": "1d464bb5ed73ea35",
+      "title": "Ceny miedzi w Londynie kontynuują odbicie po ubiegłotygodniowych spadkach",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/ceny-miedzi-w-londynie-kontynuuja-odbicie-po-ubieglotygodniowych-spadkach",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: miedzi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania miedzi na giełdzie metali LME w Londynie kontynuują odbicie po zaliczonych w ub. tygodniu spadkach. Nastroje na rynkach poprawiły się po ożywieniu rajdu spółek IT - informują maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miedź w dostawach 3-miesięcznych na LME drożeje o 0,3 proc. - do 13.937,00 USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Comex w Nowym Jorku miedź kosztuje 6,3265 USD za funt, niżej o 0,28 proc. Metal zyskał w tym roku na Comex 11,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 105.550 juanów za tonę, po zwyżce o 0,17 proc. i po wzroście od początku roku o 8,8 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miedź w Londynie kontynuuje odbicie notowań po zeszłotygodniowym załamaniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny metalu podążają za wzrostami kursów akcji spółek technologicznych ze względu na wykorzystywanie miedzi w infrastrukturze energetycznej i centrach danych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy informują, że w ostatnich miesiącach ceny metali bazowych, w tym miedzi, podążały za ruchami akcji spółek technologicznych związanych z AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ub. tygodniu notowania czerwonego metalu osiągnęły najniższy poziom od 3 miesięcy, gdy na rynkach nasiliły się obawy, że wygrana Demokratów w wyborach uzupełniających do amerykańskiego Kongresu może oznaczać zaostrzenie regulacji dotyczących AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zakończenie poprzedniej sesji miedź na LME kosztowała 13.896,50 USD za tonę, wyżej o 128 USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rekord z września na LME to 14.875,00 USD za tonę miedzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od początku 2026 r. cena miedzi na LME wzrosła o 11,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 07:54",
+      "content_sha256": "99a0e7ee271b99c876b680a41a279215b23ea9d314f89e7167b32954fe7e8204",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "07:54",
+      "published_at": "2026-11-10T07:54+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Notowania miedzi na giełdzie metali LME w Londynie kontynuują odbicie po zaliczonych w ub. tygodniu spadkach.",
+          "Miedź w dostawach 3-miesięcznych na LME drożeje o 0,3 proc. - do 13.937,00 USD.",
+          "Analitycy informują, że w ostatnich miesiącach ceny metali bazowych, w tym miedzi, podążały za ruchami akcji spółek technologicznych związanych z AI."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Na Comex w Nowym Jorku miedź kosztuje 6,3265 USD za funt, niżej o 0,28 proc. Metal zyskał w tym roku na Comex 11,4 proc."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "99a0e7ee271b99c876b680a41a279215b23ea9d314f89e7167b32954fe7e8204"
+      }
+    },
+    {
+      "id": "e25737fdc6d9787e",
+      "title": "Ceny ropy coraz niższe; dalsze ataki USA w Iranie są niepotrzebne",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/ceny-ropy-coraz-nizsze-dalsze-ataki-usa-w-iranie-sa-niepotrzebne",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: ropa",
+          "Temat: ropy"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ropa na rynkach tanieje kolejny dzień po tym, jak prezydent USA Donald Trump stwierdził, że dalsze ataki USA na Iran nie będą konieczne - podają maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 85,53 USD - niżej o 1,52 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brent na ICE na I 2027 jest wyceniana po 91,22 USD za baryłkę, w dół o 1,46 proc., po spadku w poniedziałek o prawie 6 proc. i po zniżce w ub. tygodniu o ponad 16 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny ropy kontynuują spadki po tym, jak prezydent USA Donald Trump stwierdził, że dalsze ataki USA na Iran nie będą konieczne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Donald Trump powiedział, że konflikt z Iranem jest \"praktycznie zakończony\", a Stany Zjednoczone pozostają \"gotowe do działania\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amerykański prezydent powiedział dziennikarzom po poniedziałkowym spotkaniu z premierem Kataru w Białym Domu, że Iran pod względem militarnym jest \"praktycznie skończony\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Katar jest mediatorem w rozmowach pomiędzy USA a Iranem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA zasygnalizował jednocześnie, że zamierza załagodzić konflikt na Bliskim Wschodzie po tym, jak wyniki listopadowych wyborów połówkowych do amerykańskiego Kongresu pokazały jego niepopularność, a wygrali w nich Demokraci, co rozbudziło nadzieje na wcześniejsze zakończenie konfliktu z Iranem."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wyniki wyborów uzupełniających do Kongresu w ub. tygodniu praktycznie znacząco ograniczyły możliwości Donalda Trumpa w zakresie szeroko zakrojonej operacji militarnej przeciwko Iranowi, a to znajduje już odzwierciedlenie w jego retoryce\" - powiedział Takahiro Asaoka, starszy ekonomista w Itochu Research Institute Inc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To częściowo osłabia geopolityczną premię w cenach ropy naftowej, chociaż notowania benchmarkowej ropy Brent prawdopodobnie utrzymają się powyżej 85 USD za baryłkę, jeśli nie będzie porozumienia Waszyngtonu z Teheranem\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na razie - jak informują analitycy - miesiące nieregularnych negocjacji USA z Iranem nie przyniosły rozwiązania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ropa WTI od początku tego roku zyskała 48,9 proc., a Brent zdrożała o 49,9 proc. (PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 07:48",
+      "content_sha256": "940e8cc8b79feb4565b4800a632f6da1280ed98b670dc1e93d48ca8832c898d0",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "07:48",
+      "published_at": "2026-11-10T07:48+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Ropa na rynkach tanieje kolejny dzień po tym, jak prezydent USA Donald Trump stwierdził, że dalsze ataki USA na Iran nie będą konieczne - podają maklerzy.",
+          "Baryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 85,53 USD - niżej o 1,52 proc.",
+          "Ceny ropy kontynuują spadki po tym, jak prezydent USA Donald Trump stwierdził, że dalsze ataki USA na Iran nie będą konieczne."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropa",
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "940e8cc8b79feb4565b4800a632f6da1280ed98b670dc1e93d48ca8832c898d0"
+      }
+    },
+    {
+      "id": "833e31e0feb80cbe",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-10",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Allegro",
+        "AmRest",
+        "Ten Square Games"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 10 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - TSGAMES - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online Grupy Ten Square Games dotycząca wyników finansowych za trzeci kwartał 2026 roku."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 12 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ALLEGRO - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa Allegro po wynikach za III kwartał 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "13:00 - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka LIFTERO organizuje spotkanie poświęcone omówieniu wyników za III kwartał 2026 roku oraz przedstawi perspektywy na kolejne kwartały. W spotkaniu udział wezmą przedstawiciele spółki: Tomasz Palacz – CEO, współzałożyciel oraz Przemysław Drożdż – COO, współzałożyciel."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - Ukraińsko-Polskie Forum Biznesowe \"Win-Win: Polska i Ukraina na wspólnym rynku UE\", które odbędzie się w ramach ReBuild Ukraine 2026. Wydarzenie, organizowane pod patronatem Kancelarii Prezydenta Ukrainy, zgromadzi przedstawicieli administracji publicznej, biznesu i organizacji gospodarczych z obu krajów. Forum otworzą wystąpienia prezydenta Ukrainy Wołodymyra Zełenskiego oraz premiera RP Donalda Tuska. W programie przewidziano trzy panele dyskusyjne poświęcone strategii współpracy gospodarczej Polski i Ukrainy, rozwojowi wspólnego przemysłu obronnego oraz możliwościom biznesowym dla polskich przedsiębiorstw na ukraińskim rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - AMREST - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Webcast AmRestu dla inwestorów, poświęcony wynikom za III kwartał 2026 roku."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - IZFiA - Seminarium Regulacyjne Rynku Kapitałowego - \"Regulacje. Rynek. Praktyka\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - COGNOR - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa poświęcona omówieniu sytuacji operacyjno-finansowej Grupy Cognor za 3Q 2026 i perspektyw rozwoju w kolejnych kwartałach."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biznes Zesp.Emitencki (PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 07:01",
+      "content_sha256": "755f245291dbcd04d87e282eac6b3f7cea9fb29fda076fb12c344e9b37198141",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-10T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Konferencja prasowa online Grupy Ten Square Games dotycząca wyników finansowych za trzeci kwartał 2026 roku.",
+          "Konferencja prasowa Allegro po wynikach za III kwartał 2026 r.",
+          "Spółka LIFTERO organizuje spotkanie poświęcone omówieniu wyników za III kwartał 2026 roku oraz przedstawi perspektywy na kolejne kwartały."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "12:00 - TSGAMES - Konferencja wynikowa Spółki"
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "755f245291dbcd04d87e282eac6b3f7cea9fb29fda076fb12c344e9b37198141"
+      }
+    },
+    {
+      "id": "2d2e4cf4194d0bc5",
+      "title": "Kalendarium rynku NewConnect 2026-11-10",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/kalendarium-rynku-newconnect-2026-11-10",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-11-10"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 12 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - STOHID - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmiany statutu."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- BIOGENED - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,50 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 07:01",
+      "content_sha256": "4e284a47c496a1f3d2190c7f5337fa0276ee7231f85f9c0509055171e088a516",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-10T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Kalendarium rynku NewConnect 2026-11-10.",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4e284a47c496a1f3d2190c7f5337fa0276ee7231f85f9c0509055171e088a516"
+      }
+    },
+    {
+      "id": "211c2518a5abab67",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-10",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/kalendarium-rynku-kapitalowego-gpw-2026-11-10",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-11-10"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 10 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - FASING - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie przyjęcia polityki równowagi płci, zmian w statucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - RAFAMET - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie akcji zwykłych imiennych serii L."
+        },
+        {
+          "type": "paragraph",
+          "text": "- AILLERON - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- AMBRA - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 1,10 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 11 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - GREENX - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- SOPHARMA - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,068 EUR na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - PCCROKITA - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii E, zmian w radzie nadzorczej, przyjęcia polityki równowagi płci."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - SNTVERSE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii X."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ENEA - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie RN, przyjęcia polityki DEIB oraz polityki różnorodności i równowagi płci."
+        },
+        {
+          "type": "paragraph",
+          "text": "- ASBIS - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka dywidendy w wysokości 0,35 USD na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 07:01",
+      "content_sha256": "56c2e5e3cb9d7a8f2cd7fa57069d668b9afeff2e76eaf4577b877f0895ce123f",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-10T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie przyjęcia polityki równowagi płci, zmian w statucie.",
+          "Zaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję.",
+          "W sprawie emisji akcji serii E, zmian w radzie nadzorczej, przyjęcia polityki równowagi płci."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "56c2e5e3cb9d7a8f2cd7fa57069d668b9afeff2e76eaf4577b877f0895ce123f"
+      }
+    },
+    {
+      "id": "bee97a412c1e080d",
+      "title": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej - raport",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/ozywienie-na-europejskim-rynku-nieruchomosci-bedzie-nierownomierne-i-potrwa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "nieruchomosci"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "nieruchomosci": [
+          "Temat: nieruchomoś"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej, niż wcześniej oczekiwano. Polska wyróżnia się perspektywami wzrostu – wynika z raportu „Emerging Trends in Real Estate Europe 2027”, opracowanego przez PwC i Urban Land Institute (ULI)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z raportu wynika, że w warunkach słabego wzrostu gospodarczego i utrzymującej się niepewności inwestorzy szukają przede wszystkim trwałych dochodów oraz możliwości poprawy wyników poszczególnych aktywów. Na tym tle Polska wyróżnia się dynamiką gospodarki, dostępnością finansowania i wzrostem aktywności inwestycyjnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "45 proc. respondentów, będących przedstawicielami branży, oczekuje wzrostu rentowności działalności w 2027 r., wobec 50 proc. w poprzedniej edycji badania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, na decyzje inwestycyjne wpływają m.in. wysokie rentowności obligacji, niestabilność geopolityczna, koszty energii i budowy oraz perspektywa utrzymywania się podwyższonych stóp procentowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coraz istotniejsza staje się również przewidywalność otoczenia regulacyjnego. Zwiększające się obciążenia regulacyjne zalicza do trzech najważniejszych wyzwań dotyczących nieruchomości 38 proc. badanych. Wśród kwestii społecznych i politycznych niestabilność na poziomie krajowym wskazuje 41 proc. respondentów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ponadto, zdaniem uczestników badania wyniki inwestycji będą w większym stopniu zależeć od stabilności dochodów i sprawności zarządzania niż od powszechnego wzrostu wartości nieruchomości."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednocześnie popyt najemców pozostaje relatywnie stabilny, finansowanie dłużne jest dostępne, a większą aktywność wykazują inwestorzy prywatni, w tym family offices. Uczestnicy rynku dostrzegają możliwości zakupu atrakcyjnych aktywów na warunkach, które uzasadniają długoterminowe zaangażowanie kapitału."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pomimo trudnego otoczenia gospodarczego w krótkim terminie popyt najemców pozostaje trwały. Jednocześnie rosnąca rola family offices i innych źródeł kapitału prywatnego pomaga równoważyć utrzymującą się ostrożność inwestorów instytucjonalnych stosujących strategie core. Nasze badanie wskazuje, że ta rozbieżność tworzy istotne możliwości, szczególnie tam, gdzie zaburzenia rynkowe pozwalają wejść w inwestycję na atrakcyjnych warunkach\" - powiedział, cytowany w komunikacie prasowym, Jean-Baptiste Deschryver, lider sektora nieruchomości PwC w regionie EMEA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem ekspertów, przekształcenia rynku sprzyjają fuzjom i przejęciom. Dodatkową zachętą do przejęć są dyskonta, z jakimi notowane są akcje części spółek nieruchomościowych względem wartości ich aktywów netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wynika z raportu, na czele rankingu sektorów pozostają centra danych oraz nowa infrastruktura energetyczna. Wysoko oceniane są również nieruchomości ochrony zdrowia i różne formy mieszkalnictwa, odpowiadające na zmiany demograficzne i niedostateczną podaż."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Choć dłuższe, niż oczekiwaliśmy, ożywienie nie jest scenariuszem, na który liczył europejski rynek nieruchomości, tegoroczne badanie pokazuje dużą zdolność naszej branży do dostosowywania się do utrzymującej się niepewności. Potwierdza również jej odporność w przedłużającym się okresie zmian\" - dodał Simon Durkin, dyrektor generalny ULI Europe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzy pierwsze miejsca w rankingu perspektyw inwestycyjnych i deweloperskich ponownie zajęły Londyn, Madryt i Paryż. Warszawa trzeci rok z rzędu utrzymuje 12. miejsce w zestawieniu, pozostając najwyżej ocenianym miastem Europy Środkowo-Wschodniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Polska została przedstawiona w raporcie jako główny rynek wzrostu w Europie Środkowo-Wschodniej. Jej atutami są dynamika gospodarki, konkurencyjne finansowanie dłużne i dobra płynność banków\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Polska ma mocne argumenty w konkurencji o kapitał: rozwijającą się gospodarkę i potrzeby, które tworzą przestrzeń dla długoterminowych inwestycji. Ich wykorzystanie wymaga jednak przewidywalnych warunków działania i projektów, które będą odpowiadały użytkownikom także za kilkanaście lat\" - oceniła Anna Szelc, przewodnicząca ULI Poland."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raport „Emerging Trends in Real Estate Europe 2027” został przygotowały wspólnie PwC i Urban Land Institute, w oparciu o ankiety, wywiady i dyskusje z udziałem 1.498 przedstawicieli branży."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 06:57",
+      "content_sha256": "34f9a5224709da5f9eea325904a1f3798e6216e287afad1405a7fb2c7dc653f9",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "06:57",
+      "published_at": "2026-11-10T06:57+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej, niż wcześniej oczekiwano.",
+          "Polska wyróżnia się perspektywami wzrostu – wynika z raportu „Emerging Trends in Real Estate Europe 2027”, opracowanego przez PwC i Urban Land Institute (ULI).",
+          "Z raportu wynika, że w warunkach słabego wzrostu gospodarczego i utrzymującej się niepewności inwestorzy szukają przede wszystkim trwałych dochodów oraz możliwości poprawy wyników poszczególnych aktywów."
+        ],
+        "interest_score": 61,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Polska wyróżnia się perspektywami wzrostu – wynika z raportu „Emerging Trends in Real Estate Europe 2027”, opracowanego przez PwC i Urban Land Institute (ULI)."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej, niż wcześniej oczekiwano."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "nieruchomoś*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "34f9a5224709da5f9eea325904a1f3798e6216e287afad1405a7fb2c7dc653f9"
+      }
+    },
+    {
+      "id": "d3236045c6749633",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii i Kolumbii:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7549,94 | 2,35 | 0,11 | -3,35 | 10,50 | 10,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 52389,75 | 2,15 | 0,78 | 1,42 | 10,60 | 9,00"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 25253,14 | 2,74 | 0,35 | -7,72 | 7,34 | 8,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2840,812 | 3,15 | 1,25 | 1,21 | 15,68 | 14,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 36446,25 | 1,84 | 1,80 | 2,19 | 20,22 | 14,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 71855,64 | 0,65 | 2,98 | 8,79 | 13,89 | 11,74"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 172236,05 | 2,22 | 2,57 | -17,62 | 10,94 | 6,90"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2576,36 | 3,67 | 1,93 | 1,79 | 24,34 | 24,58"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 06:41",
+      "content_sha256": "41d3922f08b5a0aacf2b8dc862055e85f8e9438d63683adcce9917e605834732",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "06:41",
+      "published_at": "2026-11-10T06:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "41d3922f08b5a0aacf2b8dc862055e85f8e9438d63683adcce9917e605834732"
+      }
+    },
+    {
+      "id": "375f43232eb6fec8",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-10T07:47:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 10.11.2026 | 1D | 5D | 1M | 3M | 12M"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,85 | 4,87 | 5,03 | 4,74 | 4,20 | 4,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,62 | 5,63 | 5,82 | 5,89 | 5,05 | 4,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,14 | 6,14 | 6,35 | 6,31 | 5,65 | 5,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,51 | 5,54 | 5,66 | 5,74 | 5,26 | 6,45"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,37 | 5,40 | 5,48 | 5,76 | 5,31 | 6,40"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,33 | 5,37 | 5,49 | 5,60 | 5,36 | 6,87"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,23 | 4,21 | 4,30 | 4,26 | 3,83 | 3,64"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,53 | 4,53 | 4,80 | 4,70 | 4,19 | 3,99"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,12 | 5,14 | 5,36 | 5,34 | 4,74 | 4,53"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,19 | 36,21 | 36,30 | 36,43 | 37,74 | 36,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 35,76 | 35,83 | 35,73 | 35,34 | 35,75 | 33,75"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 33,06 | 33,02 | 33,03 | 32,74 | 32,34 | 29,83"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 2,99 | 2,97 | 2,99 | 3,08 | 2,70 | 2,01"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,10 | 3,08 | 3,12 | 3,29 | 2,87 | 2,36"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,40 | 3,39 | 3,43 | 3,61 | 3,28 | 2,90"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,38 | 3,38 | 3,48 | 3,45 | 2,91 | 2,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 3,82 | 3,84 | 3,93 | 4,00 | 3,29 | 2,70"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,30 | 4,33 | 4,42 | 4,57 | 3,90 | 3,43"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,02 | 3,01 | 3,08 | 3,25 | 2,72 | 1,94"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,27 | 3,28 | 3,33 | 3,53 | 2,98 | 2,36"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,68 | 3,69 | 3,74 | 3,97 | 3,46 | 3,03"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,07 | 3,06 | 3,15 | 3,28 | 2,79 | 2,06"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,35 | 3,35 | 3,40 | 3,58 | 3,02 | 2,54"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 3,82 | 3,83 | 3,89 | 4,10 | 3,56 | 3,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,01 | 2,99 | 3,04 | 3,13 | 2,75 | 1,99"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,08 | 3,07 | 3,11 | 3,26 | 2,86 | 2,26"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,26 | 3,25 | 3,29 | 3,48 | 3,13 | 2,67"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,51 | 3,50 | 3,63 | 3,64 | 2,92 | 2,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,16 | 4,18 | 4,32 | 4,26 | 3,34 | 2,76"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,73 | 4,76 | 4,90 | 4,85 | 3,92 | 3,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,75 | 4,77 | 4,80 | 4,89 | 4,28 | 3,80"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 4,78 | 4,80 | 4,84 | 5,00 | 4,47 | 3,93"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,13 | 5,15 | 5,19 | 5,44 | 4,92 | 4,47"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,78 | 1,77 | 1,89 | 1,92 | 1,62 | 0,95"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,11 | 2,09 | 2,24 | 2,36 | 2,09 | 1,27"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,70 | 2,67 | 2,78 | 3,02 | 2,83 | 1,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,56 | 4,56 | 4,63 | 4,79 | 4,24 | 3,59"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,67 | 4,68 | 4,76 | 5,02 | 4,41 | 3,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 4,88 | 4,88 | 4,96 | 5,24 | 4,71 | 4,12"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 06:41",
+      "content_sha256": "b0fe94f139c4a4cd0f69941c80507ac87609dbbb0963a8134470e25c26d0df48",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-10T07:47:35+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
+      "published_time": "06:41",
+      "published_at": "2026-11-10T06:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "b0fe94f139c4a4cd0f69941c80507ac87609dbbb0963a8134470e25c26d0df48"
+      }
+    },
     {
       "id": "af2932a9127c36fc",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne wzrosty, w centrum uwagi sektor technologiczny",
@@ -194,7 +1756,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-10T00:44:21+00:00",
+      "discovered_at": "2026-11-10T07:47:35+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -625,7 +2187,7 @@
       "published_display": "09.11.2026 21:20",
       "content_sha256": "6077712437d555d54cdf80e25e649299265c511b539cebf0ca892ec6fae5081d",
       "saved_at": "2026-11-10T00:44:21+00:00",
-      "content_checked_at": "2026-11-10T00:44:21+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2525,7 +4087,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-10T00:44:21+00:00",
+      "discovered_at": "2026-11-10T07:47:35+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2860,7 +4422,7 @@
       "published_display": "09.11.2026 17:13",
       "content_sha256": "5bb4ff24d7cbe2244f4700dc81d2caa00232be8bc9f004c08a65effc72747ecf",
       "saved_at": "2026-11-09T16:55:19+00:00",
-      "content_checked_at": "2026-11-10T00:44:21+00:00",
+      "content_checked_at": "2026-11-10T07:47:35+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -454496,7 +456058,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454514,7 +456076,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454533,7 +456095,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454551,7 +456113,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454569,7 +456131,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454587,7 +456149,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454605,7 +456167,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454623,7 +456185,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454641,7 +456203,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454659,7 +456221,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454677,7 +456239,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454695,7 +456257,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454713,7 +456275,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454731,7 +456293,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454749,7 +456311,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454769,7 +456331,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454789,7 +456351,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454807,7 +456369,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454825,7 +456387,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454843,7 +456405,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454861,7 +456423,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454879,7 +456441,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454899,7 +456461,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454917,7 +456479,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454935,7 +456497,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454953,7 +456515,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454971,7 +456533,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -454991,7 +456553,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455009,7 +456571,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455027,7 +456589,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455045,7 +456607,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455065,7 +456627,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455083,7 +456645,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455101,7 +456663,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455119,7 +456681,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455139,7 +456701,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455157,7 +456719,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455175,7 +456737,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455193,7 +456755,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455211,7 +456773,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455231,7 +456793,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455249,7 +456811,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455267,7 +456829,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455285,7 +456847,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455306,7 +456868,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455324,7 +456886,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455342,7 +456904,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455363,7 +456925,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455381,7 +456943,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -455399,7 +456961,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455417,7 +456979,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455435,7 +456997,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455453,7 +457015,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455471,7 +457033,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455489,7 +457051,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455509,7 +457071,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455527,7 +457089,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455547,7 +457109,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455565,7 +457127,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455805,7 +457367,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455823,7 +457385,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455841,7 +457403,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 111,
+      "attempts": 112,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -455859,7 +457421,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -455877,7 +457439,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -455895,7 +457457,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -455913,7 +457475,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -455931,11 +457493,63 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 112,
+      "attempts": 113,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
       "error": "ValueError"
@@ -456150,54 +457764,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
       "error": "ValueError"
     }
   ],
