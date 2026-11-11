@@ -1,8 +1,105 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-10T21:50:33+00:00",
+  "last_checked": "2026-11-11T01:58:27+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "0373f5b5285b705b",
+      "title": "ZCh Police podpisały list intencyjny z Grupą Azoty dot. dokapitalizowania spółki",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/zch-police-podpisaly-list-intencyjny-z-grupa-azoty-dot-dokapitalizowania-spolki",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [
+        "Grupa Azoty"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Firma: Grupa Azoty",
+          "Temat: chemiczn"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-11T01:58:27+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty Zakłady Chemiczne \"Police\" podpisała list intencyjny z jednostką dominującą Grupą Azoty w sprawie możliwego dokapitalizowania spółki - poinformowały Police w komunikacie. Plan zakłada emisję do 60 mln nowych akcji Polic, które miałyby zostać objęte wyłącznie przez Grupę Azoty."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie podano, że według wstępnych założeń potencjalnej transakcji podwyższenie kapitału zakładowego Polic, mające charakter widełkowy, będzie dotyczyć emisji nie więcej niż 60.000.000 nowych akcji na okaziciela, z wyłączeniem prawa poboru. Opcjonalnie, w zależności od zaistniałych warunków, przeprowadzenie transakcji może nastąpić w ramach dwóch odrębnych podwyższeń kapitału zakładowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nowe akcje zostaną zaoferowane do objęcia, w trybie subskrypcji prywatnej, wyłącznie Grupie Azoty. Po objęciu akcji udział Grupy Azoty w kapitale zakładowym i ogólnej liczbie głosów na WZA spółki wzrośnie do około 75 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena emisyjna akcji zostanie ustalona na poziomie zbliżonym do wyceny rynkowej wg kursu giełdowego pozostałych akcji Polic, które są notowane w obrocie na rynku regulowanym GPW."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena emisyjna akcji miałaby zostać opłacona w części do kwoty ok. 170 mln zł przez wpłatę środków pieniężnych. W pozostałej części przewidziane jest dokonanie potrąceń umownych wierzytelności Grupy Azoty z tytułu pożyczek udzielonych Zakładom „Police”, z wierzytelnością spółki zależnej wobec grupy z tytułu zapłaty ceny emisyjnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie podano, że według stanu na datę podpisania listu intencyjnego źródłem tych pożyczek są dwie umowy, w przypadku których łącznie do spłaty pozostaje kapitał w kwocie 247 mln zł, przy czym ostateczna kwota do potrącenia będzie zależała od wyceny pożyczek."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Podpisanie Listu Intencyjnego stanowi wyraz intencji Stron do prowadzenia dalszych prac i negocjacji zmierzających do wypracowania szczegółowych warunków Transakcji. List Intencyjny nie zawiera wiążącego zobowiązania Stron do przeprowadzenia Transakcji, której realizacja wymagać będzie między innymi uzyskania przez Strony odpowiednich zgód korporacyjnych\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie dodano, że przeprowadzenie transakcji przyczyni się do poprawy struktury kapitałowej i wskaźników finansowych emitenta, a w konsekwencji wpłynie na jej korzystniejsze postrzeganie przez kontrahentów i finansujących."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przeprowadzenie transakcji zabezpieczy również możliwości korzystania z większości kategorii pomocy publicznej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gor/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "10.11.2026 23:34",
+      "content_sha256": "a259b8df5077d7450b6f134033583fccc79e309b480d08c3a41a2e76c03575d9",
+      "date": "2026-11-10",
+      "saved_at": "2026-11-11T01:58:27+00:00",
+      "content_checked_at": "2026-11-11T01:58:27+00:00",
+      "published_time": "23:34",
+      "published_at": "2026-11-10T23:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Azoty Zakłady Chemiczne \"Police\" podpisała list intencyjny z jednostką dominującą Grupą Azoty w sprawie możliwego dokapitalizowania spółki - poinformowały Police w komunikacie.",
+          "Plan zakłada emisję do 60 mln nowych akcji Polic, które miałyby zostać objęte wyłącznie przez Grupę Azoty.",
+          "W pozostałej części przewidziane jest dokonanie potrąceń umownych wierzytelności Grupy Azoty z tytułu pożyczek udzielonych Zakładom „Police”, z wierzytelnością spółki zależnej wobec grupy z tytułu zapłaty ceny emisyjnej."
+        ],
+        "interest_score": 49,
+        "impact_score": 40,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Plan zakłada emisję do 60 mln nowych akcji Polic, które miałyby zostać objęte wyłącznie przez Grupę Azoty."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "a259b8df5077d7450b6f134033583fccc79e309b480d08c3a41a2e76c03575d9"
+      }
+    },
     {
       "id": "6ef2f0c6e4c96c03",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki, w centrum uwagi Nvidia i dane o inflacji",
@@ -222,7 +319,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-10T21:50:33+00:00",
+      "discovered_at": "2026-11-11T01:58:27+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -653,7 +750,7 @@
       "published_display": "10.11.2026 21:13",
       "content_sha256": "44ab1c2ab15bc3638dac459d7a570f572aecb03ea06f0905f0b52dab29f96f4d",
       "saved_at": "2026-11-10T21:50:33+00:00",
-      "content_checked_at": "2026-11-10T21:50:33+00:00",
+      "content_checked_at": "2026-11-11T01:58:27+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2453,7 +2550,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-10T21:50:33+00:00",
+      "discovered_at": "2026-11-11T01:58:27+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2836,7 +2933,7 @@
       "published_display": "10.11.2026 17:01",
       "content_sha256": "f31e9c36f22bf0c220f4ef28ff8ffbee6f4752b1b164d88af01e27cb92ba1f31",
       "saved_at": "2026-11-10T21:50:33+00:00",
-      "content_checked_at": "2026-11-10T21:50:33+00:00",
+      "content_checked_at": "2026-11-11T01:58:27+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -465773,7 +465870,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465791,7 +465888,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465810,7 +465907,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465828,7 +465925,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465846,7 +465943,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465864,7 +465961,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465882,7 +465979,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465900,7 +465997,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465918,7 +466015,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465936,7 +466033,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465954,7 +466051,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465972,7 +466069,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -465990,7 +466087,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466008,7 +466105,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466026,7 +466123,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466046,7 +466143,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466066,7 +466163,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466084,7 +466181,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466102,7 +466199,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466120,7 +466217,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466138,7 +466235,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466156,7 +466253,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466176,7 +466273,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466194,7 +466291,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466212,7 +466309,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466230,7 +466327,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466248,7 +466345,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466268,7 +466365,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466286,7 +466383,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466304,7 +466401,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466322,7 +466419,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466342,7 +466439,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466360,7 +466457,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466378,7 +466475,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466396,7 +466493,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466416,7 +466513,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466434,7 +466531,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466452,7 +466549,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466470,7 +466567,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466488,7 +466585,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466508,7 +466605,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466526,7 +466623,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466544,7 +466641,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466562,7 +466659,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466583,7 +466680,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466601,7 +466698,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466619,7 +466716,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466640,7 +466737,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466658,7 +466755,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -466676,7 +466773,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466694,7 +466791,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466712,7 +466809,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466730,7 +466827,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466748,7 +466845,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466766,7 +466863,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466786,7 +466883,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466804,7 +466901,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466824,7 +466921,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466842,7 +466939,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466860,7 +466957,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466878,7 +466975,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466898,7 +466995,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466916,7 +467013,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466934,7 +467031,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466952,7 +467049,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466972,7 +467069,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -466990,7 +467087,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -467008,7 +467105,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -467026,7 +467123,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -467082,7 +467179,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -467100,7 +467197,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -467118,7 +467215,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 113,
+      "attempts": 114,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -467136,7 +467233,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -467154,7 +467251,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -467172,7 +467269,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -467190,7 +467287,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -467208,11 +467305,79 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 114,
+      "attempts": 115,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
       "error": "ValueError"
@@ -467451,14 +467616,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
       "error": "ValueError"
     }
   ],
