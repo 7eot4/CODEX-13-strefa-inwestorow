@@ -1,8 +1,321 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-12T21:09:46+00:00",
+  "last_checked": "2026-11-13T01:51:55+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "f9132dae71cda114",
+      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261112/jeden-z-glownych-akcjonariuszy-sanok-rubber-company-wnioskuje-o-skup-akcji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-13T01:51:55+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z wnioskiem jednego z głównych akcjonariuszy zarząd Sanok Rubber Company zwołał walne zgromadzenie spółki na 9 grudnia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z projektem uchwały, cena nabycia akcji nie może być niższa niż 10 zł oraz nie może być wyższa niż 21,50 zł za jedną sztukę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje nabyte przez spółkę w ramach programu nabywania akcji własnych mają być przeznaczone do umorzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "12.11.2026 23:34",
+      "content_sha256": "e3147b632fdd05c1fce1b197f04d256c4337adad52c544f643473f5d31a5c716",
+      "date": "2026-11-12",
+      "saved_at": "2026-11-13T01:51:55+00:00",
+      "content_checked_at": "2026-11-13T01:51:55+00:00",
+      "published_time": "23:34",
+      "published_at": "2026-11-12T23:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
+          "Zgodnie z wnioskiem jednego z głównych akcjonariuszy zarząd Sanok Rubber Company zwołał walne zgromadzenie spółki na 9 grudnia.",
+          "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych"
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e3147b632fdd05c1fce1b197f04d256c4337adad52c544f643473f5d31a5c716"
+      }
+    },
+    {
+      "id": "4f5350b86e4da5b2",
+      "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261112/grupa-torpol-po-iii-kwartalach-ma-501-mln-zl-zysku-netto-rynek-liczyl-na-wiecej",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-13T01:51:55+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Torpol wstępnie szacuje, że po trzech kwartałach 2026 roku jej skonsolidowany zysk netto wzrósł do 50,1 mln zł z 48,3 mln zł przed rokiem. Analitycy ankietowani przez PAP Biznes spodziewali się 59,7 mln zł zysku netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podał Torpol w komunikacie, szacowane przychody netto grupy ze sprzedaży po dziewięciu miesiącach tego roku wynoszą 1,46 mld zł wobec 1,36 mld zł przed rokiem i 1,49 mld zł konsensusu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk brutto grupy ze sprzedaży wzrósł do 105,3 mln zł z 95 mln zł rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szacowany zysk z działalności operacyjnej grupy Torpol po trzech kwartałach wynosi 60,8 mln zł wobec 57,3 mln zł rok temu. Analitycy spodziewali się zysku operacyjnego na poziomie 72 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Torpol podał, że jego środki pieniężne i ich ekwiwalenty wyniosły 421,8 mln zł na 30 września, wobec 655,8 mln zł na 31 grudnia 2025 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pełne wyniki po trzech kwartałach Torpol opublikuje 27 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "12.11.2026 22:27",
+      "content_sha256": "9092346b31fad9324023ca449304ab7357470a10664261ae5e28d4971581ba43",
+      "date": "2026-11-12",
+      "saved_at": "2026-11-13T01:51:55+00:00",
+      "content_checked_at": "2026-11-13T01:51:55+00:00",
+      "published_time": "22:27",
+      "published_at": "2026-11-12T22:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Torpol wstępnie szacuje, że po trzech kwartałach 2026 roku jej skonsolidowany zysk netto wzrósł do 50,1 mln zł z 48,3 mln zł przed rokiem.",
+          "Analitycy ankietowani przez PAP Biznes spodziewali się 59,7 mln zł zysku netto.",
+          "Jak podał Torpol w komunikacie, szacowane przychody netto grupy ze sprzedaży po dziewięciu miesiącach tego roku wynoszą 1,46 mld zł wobec 1,36 mld zł przed rokiem i 1,49 mld zł konsensusu."
+        ],
+        "interest_score": 65,
+        "impact_score": 48,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Grupa Torpol wstępnie szacuje, że po trzech kwartałach 2026 roku jej skonsolidowany zysk netto wzrósł do 50,1 mln zł z 48,3 mln zł przed rokiem."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Jak podał Torpol w komunikacie, szacowane przychody netto grupy ze sprzedaży po dziewięciu miesiącach tego roku wynoszą 1,46 mld zł wobec 1,36 mld zł przed rokiem i 1,49 mld zł konsensusu."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "9092346b31fad9324023ca449304ab7357470a10664261ae5e28d4971581ba43"
+      }
+    },
+    {
+      "id": "e4b3e113b627a3c7",
+      "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street, akcje Nvidii w dół po rezygnacji prezesa",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-spadki-na-wall-street-akcje-nvidii-w-dol-po-rezygnacji-prezesa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-13T01:51:55+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Czwartkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a w centrum uwagi były taniejące akcje Nvidii po tym jak ze stanowiska jej prezesa po skandalu obyczajowym zrezygnował Jensen Huang."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu spadł o 0,36 proc. i wyniósł 52.297,09 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia stracił 0,35 proc. i wyniósł 7.592,40 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 0,39 proc. do 25.366,09 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o 1,66 proc. i wynosi 2.799,14 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks VIX rośnie o 6,92 proc., do 18,70 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Nvidii spadły o 5 proc. po tym jak rada dyrektorów Nvidii ogłosiła, że Jensen Huang zrezygnował ze stanowiska prezesa i dyrektora generalnego ze skutkiem natychmiastowym, a Colette Kress została mianowana tymczasową dyrektorką generalną, zachowując jednocześnie stanowisko dyrektorki finansowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po pojawieniu się nowych informacji o kolejnym romansie wieloletniego szefa Nvidii spowodowały, inwestorzy zaczęli obawiać się potencjalnych konsekwencji ewentualnej zmiany na stanowisku kierowniczym w firmie, która stanowi kluczowy element boomu na sztuczną inteligencję. Niektórzy analitycy na Wall Street przewidywali, że jego usunięcie ze stanowiska może doprowadzić do znaczących spadków kursu akcji, przekraczających nawet 20 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Sytuacja ta stwarza wyjątkowo trudny problem dla inwestorów, którzy przez lata lokowali kapitał w spółkach uznawanych za niezbędne dla gospodarki opartej na sztucznej inteligencji\" – wskazywał Terri-Leigh Bennett, dyrektor operacyjna w CMS Prime."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Sprawa Nvidii przyczyniła się do wzrostu awersji do ryzyka, co z kolei winduje kurs dolara. Głębszą przyczyną jest jednak wyraźna zmiana nastrojów w kwestii inflacji. Rynek przestał się wahać i uznał, że problem inflacji rzeczywiście istnieje\" – ocenił Kit Juckes, strateg w Societe Generale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy przenieśli się do konkurentów firmy Nvidia, szczególnie do Advanced Micro Devices i Broadcom, które wzrosły po około 5 proc. Firmy hiperskalowalne, takie jak Alphabet, kluczowy nabywca układów scalonych firmy Nvidia i lider wzrostu cen sztucznej inteligencji, również odnotował wzrost o prawie 2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "„To znakomita okazja dla firm Amazon, Google, AMD, Broadcom, OpenAI i Anthropic, które zatrudniają ekspertów od układów scalonych, aby pomogli im projektować własne układy” – powiedział Jed Ellerbroek, zarządzający portfelem w Argent Capital Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Los Nvidii jako firmy to jedno, ale ta rewolucja w dziedzinie sztucznej inteligencji ma o wiele większe znaczenie” – powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Jeśli Nvidia upadnie i jej układy przestaną być najlepsze, a AMD lub Google będą lepsze, to ludzie przerzucą się na nie i je kupią. Popyt na te układy nie spadnie” - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje giganta technologii konsumenckich Apple wzrosły w czwartkowej sesji, osiągając najwyższy poziom w historii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż domów na rynku wtórnym w USA w październiku wyniosła 3,75 mln w ujęciu rocznym vs oczekiwane 3,85 mln. Miesiąc wcześniej wskaźnik wyniósł 3,97 mln., po korekcie. W ujęciu mdm wskaźnik spadł o 5,5 proc. wobec +1 proc. miesiąc wcześniej, po korekcie. Oczekiwano -3,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Kupno domu jest trudne, gdy stopy procentowe kredytów hipotecznych wzrosły do najwyższych poziomów od 2000 roku, poza jednym miesiącem w 2023 roku” – powiedział główny ekonomista NAR, Lawrence Yun."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Biorąc pod uwagę obecne, niezadowalające tempo sprzedaży domów w okresie stałego wzrostu zatrudnienia, może wystąpić znaczny, stłumiony popyt, jeśli stopy procentowe kredytów hipotecznych spadną” - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba osób ubiegających się po raz pierwszy o zasiłek dla bezrobotnych w ubiegłym tygodniu w USA wyniosła 200 tys. Ekonomiści spodziewali się, że liczba nowych bezrobotnych wyniesie 194 tys. wobec 191 tys. poprzednio, po korekcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba bezrobotnych kontynuujących pobieranie zasiłku wyniosła zaś 1,697 mln w tygodniu, który skończył się 31 października. Analitycy oczekiwali 1,71 mln wobec zanotowanych poprzednio 1,717 mln, po korekcie z 1,718 mln."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny ropy wzrosły po tym, jak prezydent Donald Trump napisał w poście na portalu Truth Social: „Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zapasy ropy naftowej w USA w ubiegłym tygodniu wzrosły o 4,66 mln baryłek, czyli o 1,14 proc., do 414,42 mln baryłek. Zapasy benzyny wzrosły w tym czasie o 1,8 mln baryłek, czyli o 0,86 proc., do 210,76 mln baryłek. Rezerwy paliw destylowanych, w tym oleju opałowego, wzrosły o 4,07 mln baryłek, czyli o 4,1 proc., do 103,33 mln baryłek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zwyżkują o 2,79 proc. do 88,94 USD za baryłkę, a grudniowe futures na Brent rosną o 3,62 proc. do 96,12 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "12.11.2026 22:13",
+      "content_sha256": "48975dc9dde5e3f5f84218e07706a1e495cfb470c9ad429932e1471945d4da5f",
+      "date": "2026-11-12",
+      "saved_at": "2026-11-13T01:51:55+00:00",
+      "content_checked_at": "2026-11-13T01:51:55+00:00",
+      "published_time": "22:13",
+      "published_at": "2026-11-12T22:13+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Czwartkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a w centrum uwagi były taniejące akcje Nvidii po tym jak ze stanowiska jej prezesa po skandalu obyczajowym zrezygnował Jensen Huang.",
+          "Akcje Nvidii spadły o 5 proc. po tym jak rada dyrektorów Nvidii ogłosiła, że Jensen Huang zrezygnował ze stanowiska prezesa i dyrektora generalnego ze skutkiem natychmiastowym, a Colette Kress została mianowana tymczasową dyrektorką generalną, zachowując jednocześnie stanowisko dyrektorki finansowej.",
+          "Sprzedaż domów na rynku wtórnym w USA w październiku wyniosła 3,75 mln w ujęciu rocznym vs oczekiwane 3,85 mln. Miesiąc wcześniej wskaźnik wyniósł 3,97 mln., po korekcie."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "48975dc9dde5e3f5f84218e07706a1e495cfb470c9ad429932e1471945d4da5f"
+      }
+    },
     {
       "id": "fbae13d123714f2f",
       "title": "Skrót wiadomości - czwartek, 12 listopada, 21.00",
@@ -12,7 +325,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-12T21:09:46+00:00",
+      "discovered_at": "2026-11-13T01:51:55+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -463,7 +776,7 @@
       "published_display": "12.11.2026 21:06",
       "content_sha256": "1a491a0c1394b306c672290b640d5945076208315ef3e788e2baf2306d3b244a",
       "saved_at": "2026-11-12T21:09:46+00:00",
-      "content_checked_at": "2026-11-12T21:09:46+00:00",
+      "content_checked_at": "2026-11-13T01:51:55+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2284,7 +2597,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-12T21:09:46+00:00",
+      "discovered_at": "2026-11-13T01:51:55+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2707,7 +3020,7 @@
       "published_display": "12.11.2026 17:02",
       "content_sha256": "cf303fa3633fde3d32674265dda813f66f37b102817fa9eed1f89d30af207f93",
       "saved_at": "2026-11-12T21:09:46+00:00",
-      "content_checked_at": "2026-11-12T21:09:46+00:00",
+      "content_checked_at": "2026-11-13T01:51:55+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -479415,7 +479728,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479433,7 +479746,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479452,7 +479765,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479470,7 +479783,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479488,7 +479801,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479506,7 +479819,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479524,7 +479837,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479542,7 +479855,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479560,7 +479873,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479578,7 +479891,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479596,7 +479909,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479614,7 +479927,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479632,7 +479945,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479650,7 +479963,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479668,7 +479981,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479688,7 +480001,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479708,7 +480021,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479726,7 +480039,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479744,7 +480057,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479762,7 +480075,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479780,7 +480093,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479798,7 +480111,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479818,7 +480131,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479836,7 +480149,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479854,7 +480167,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479872,7 +480185,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479890,7 +480203,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479910,7 +480223,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479928,7 +480241,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479946,7 +480259,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479964,7 +480277,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -479984,7 +480297,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480002,7 +480315,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480020,7 +480333,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480038,7 +480351,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480058,7 +480371,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480076,7 +480389,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480094,7 +480407,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480112,7 +480425,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480130,7 +480443,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480150,7 +480463,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480168,7 +480481,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480186,7 +480499,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480204,7 +480517,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480225,7 +480538,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480243,7 +480556,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480261,7 +480574,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480282,7 +480595,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480300,7 +480613,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -480390,7 +480703,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480408,7 +480721,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480428,7 +480741,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480446,7 +480759,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480466,7 +480779,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480484,7 +480797,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480502,7 +480815,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480520,7 +480833,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480540,7 +480853,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480558,7 +480871,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480576,7 +480889,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480594,7 +480907,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480614,7 +480927,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480632,7 +480945,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480650,7 +480963,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480668,7 +480981,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480686,7 +480999,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480706,7 +481019,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480724,7 +481037,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480742,7 +481055,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480760,7 +481073,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 119,
+      "attempts": 120,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -480778,7 +481091,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 120,
+      "attempts": 121,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -480796,7 +481109,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 120,
+      "attempts": 121,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -480814,7 +481127,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 120,
+      "attempts": 121,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -480832,7 +481145,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 120,
+      "attempts": 121,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -480850,11 +481163,107 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 120,
+      "attempts": 121,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
       "error": "ValueError"
@@ -481057,22 +481466,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/artykuly/raporty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
       "error": "ValueError"
     }
   ],
