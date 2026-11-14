@@ -1,8 +1,339 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-14T03:18:04+00:00",
+  "last_checked": "2026-11-14T10:37:34+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "f411ff4fd01ba4f6",
+      "title": "Przełom w UE w sprawie uprawnień ETS. Spółki przemysłowe zaoszczędzą ogromną kwotę",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261114/przelom-w-ue-w-sprawie-uprawnien-ets-spolki-przemyslowe-zaoszczedza-ogromna",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: węgl"
+        ],
+        "przemysl": [
+          "Temat: przemysł"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-14T10:37:34+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Unijni prawodawcy osiągnęli porozumienie w sprawie zwiększenia liczby darmowych uprawnień ETS dla przemysłu. Ta poduszka bezpieczeństwa liczy w sumie 121 mln dodatkowych uprawnień do emitowania dwutlenku węgla, co może oznaczać ponad 10 mld euro oszczędności dla europejskiego przemysłu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zmianach skorzystają przemysły: chemiczny, papierniczy, spożywczy, ceramiczny oraz szklarski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Porozumienie osiągnięte w czwartek wieczorem przez unijnych negocjatorów musi jeszcze zostać oficjalnie potwierdzone w głosowaniu przez Parlament Europejski oraz państwa członkowskie w Radzie UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z wypracowanym kompromisem, bezpośrednio do przemysłu trafi 116 mln dodatkowych, bezpłatnych uprawnień w perspektywie do 2030 r. Jedno takie uprawnienie daje prawo do uwolnienia do atmosfery tony dwutlenku węgla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przy obecnych cenach na rynku emisji, gdy za tonę CO2 należy zapłacić średnio 80-90 euro, 116 mln uprawnień oznacza oszczędności dla europejskiego przemysłu w wysokości ponad 10 mld euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pula ta obejmuje 28 mln pozwoleń, które nie zostały wykorzystane przez firmy ze względu na niespełnienie unijnych wymogów (np. brak audytów energetycznych), a które unijni prawodawcy dodali do reformy w toku prac nad nią."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodatkowo kompromis zakłada zarezerwowanie 5 mln pozwoleń dla przemysłów najbardziej zagrożonych ucieczką poza UE. W komunikacie opublikowanym przez Radę UE czytamy, że uprawnienia niewykorzystane w ramach tego mechanizmu trafią do Funduszu Modernizacyjnego oraz na pobudzanie innowacji w sektorach objętych systemem ETS, za pośrednictwem Funduszu Innowacyjnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlament Europejski zaproponował przekierowanie niewykorzystanych 11 mln uprawnień bezpośrednio do Funduszu Modernizacyjnego. Finansowane z niego są inwestycje w transformację energetyczną uboższej części państw UE. Szacuje się, że w latach 2021-2030 do Polski trafi z niego około 14 mld euro (około 60 mld zł). Propozycję PE z zadowoleniem przyjęli polscy europosłowie zarówno z KO, jak i PiS, ponieważ oznacza ona więcej pieniędzy na projekty w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zgodnie z ostatecznym kształtem przepisów do Funduszu Modernizacyjnego może trafić jednak jedynie 5 mln pozwoleń i to pod warunkiem, że do 2030 r. nie wykorzystają ich zagrożone przemysły. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "mce/ akl/ asa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "14.11.2026 10:42",
+      "content_sha256": "83504895450faf82c6273216c20145203264dd21380cb59b82aa588ef6865f82",
+      "date": "2026-11-14",
+      "saved_at": "2026-11-14T10:37:34+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
+      "published_time": "10:42",
+      "published_at": "2026-11-14T10:42+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Unijni prawodawcy osiągnęli porozumienie w sprawie zwiększenia liczby darmowych uprawnień ETS dla przemysłu.",
+          "Ta poduszka bezpieczeństwa liczy w sumie 121 mln dodatkowych uprawnień do emitowania dwutlenku węgla, co może oznaczać ponad 10 mld euro oszczędności dla europejskiego przemysłu.",
+          "Przy obecnych cenach na rynku emisji, gdy za tonę CO2 należy zapłacić średnio 80-90 euro, 116 mln uprawnień oznacza oszczędności dla europejskiego przemysłu w wysokości ponad 10 mld euro."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "83504895450faf82c6273216c20145203264dd21380cb59b82aa588ef6865f82"
+      }
+    },
+    {
+      "id": "508d924e59028d57",
+      "title": "To nie cyberatak ani bunt sztucznej inteligencji. Microsoft wyjaśnia, co wywołało wielką awarię",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261114/nie-cyberatak-ani-bunt-sztucznej-inteligencji-microsoft-wyjasnia-co-wywolalo",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "technologie": [
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc",
+          "Temat: oprogramowan"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-14T10:37:34+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Microsoft poinformował w piątek wieczorem, że przyczyną awarii, która zakłóciła funkcjonowanie oprogramowania tej firmy, nie były ani atak cybernetyczny, ani złośliwa ingerencja agentów sztucznej inteligencji (AI). Podkreślono, że trwające od blisko doby trudności sukcesywnie ustępują."
+        },
+        {
+          "type": "paragraph",
+          "text": "Microsoft przekazał, że „wdrażanie poprawek oprogramowania stabilizuje systemy”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Firma wyjaśniła, że przyczyną awarii, która była jedną z najdłuższych w jej historii, a drugą taką w tym roku, były problemy z serwerami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Microsoft przekazał, że awaria objęła też asystenta AI tej firmy o nazwie Copilot. Użytkownikom na całym świecie najbardziej dały się jednak we znaki trudności w korzystaniu z takich narzędzi jak Outlook czy Teams."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reuters cytuje dane serwisu Downdetector, który odnotował ponad 7,4 mln zgłoszeń z całego świata. Podkreślono, że w szczytowym momencie napływało ich blisko 20 tys. na minutę, czyli ponad 1,5 tys. razy więcej niż średnio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Awaria sparaliżowała m.in. instytucje rządowe w wielu krajach, spowodowały opóźnienia w firmach handlowych, utrudniły niektórym przedsiębiorstwom publikacje wyników finansowych, a linie lotnicze zmusiły do ostrzegania pasażerów przed zakłóceniami w komunikacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reuters podkreślił, że instytucje i organizacje, które utrzymują usługi Microsoftu na własnych serwerach, a nie w chmurze, w mniejszym stopniu odczuły skutki awarii. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "piu/ mal/ pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "14.11.2026 10:41",
+      "content_sha256": "50247100f71330afaaad7678bd5aa6ba258df806e1c7d9d78558a1b13b281f6e",
+      "date": "2026-11-14",
+      "saved_at": "2026-11-14T10:37:34+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
+      "published_time": "10:41",
+      "published_at": "2026-11-14T10:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Microsoft poinformował w piątek wieczorem, że przyczyną awarii, która zakłóciła funkcjonowanie oprogramowania tej firmy, nie były ani atak cybernetyczny, ani złośliwa ingerencja agentów sztucznej inteligencji (AI).",
+          "Microsoft przekazał, że „wdrażanie poprawek oprogramowania stabilizuje systemy”.",
+          "Awaria sparaliżowała m.in. instytucje rządowe w wielu krajach, spowodowały opóźnienia w firmach handlowych, utrudniły niektórym przedsiębiorstwom publikacje wyników finansowych, a linie lotnicze zmusiły do ostrzegania pasażerów przed zakłóceniami w komunikacji."
+        ],
+        "interest_score": 43,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Microsoft poinformował w piątek wieczorem, że przyczyną awarii, która zakłóciła funkcjonowanie oprogramowania tej firmy, nie były ani atak cybernetyczny, ani złośliwa ingerencja agentów sztucznej inteligencji (AI)."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Asseco",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "oprogramowan*",
+              "informaty*",
+              "cyfryzac*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "reason": "Producent oprogramowania; temat może dotyczyć popytu na rozwiązania informatyczne.",
+            "source": "https://inwestor.asseco.com/o-asseco/aktualnosci/asseco-najwiekszym-producentem-oprogramowania-w-europie-srodkowo-wschodniej-5425/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "oprogramowan*",
+              "AI",
+              "sztuczn* inteligenc*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "50247100f71330afaaad7678bd5aa6ba258df806e1c7d9d78558a1b13b281f6e"
+      }
+    },
+    {
+      "id": "7a2da382313d17a2",
+      "title": "Ważna decyzja po szczycie w Dublinie. Polska przy stole negocjacyjnym ws. pokoju w Ukrainie",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261114/wazna-decyzja-po-szczycie-w-dublinie-polska-przy-stole-negocjacyjnym-ws-pokoju",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-14T10:37:34+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Szef Rady Europejskiej Antonio Costa ogłosił w piątek po szczycie w Dublinie, że Polska będzie jednym z państw, które wezmą udział w negocjacjach w sprawie zakończenia rosyjskiej wojny przeciw Ukrainie. Oprócz Polski będą to: Francja, Niemcy, Wielka Brytania i Włochy oraz instytucje UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dzisiaj przywódcy uzgodnili, że nasz europejski zespół ds. negocjacji pokojowych w Ukrainie składa się z instytucji UE oraz grupy E5 (Polska, Francja, Niemcy, Wielka Brytania i Włochy - PAP) w ramach koalicji chętnych. Nasze zasady i stanowiska w tych negocjacjach pozostają dobrze znane, a nasz europejski zespół będzie nadal działał w ścisłej koordynacji i pełnej jedności\" - powiedział Costa na konferencji prasowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Europa musi przemawiać jednym, wyraźnym (...) głosem we wszystkich dyskusjach kształtujących przyszłość Ukrainy oraz bezpieczeństwo naszego kontynentu, jest to zatem wspólny wysiłek całego zespołu\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ustalenia te są następstwem spotkania, do którego doszło w Dublinie w nocy z czwartku na piątek. Udział wzięli w nim: wysłannicy prezydenta USA Donalda Trumpa, Jared Kushner i Steve Witkoff, a także prezydent Ukrainy Wołodymyr Zełenski oraz przedstawiciele: Polski, Niemiec, Francji, Włoch i Wielkiej Brytanii, a także instytucji UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kushner - który przyleciał z Witkoffem do Dublina prosto z Moskwy, gdzie obaj rozmawiali z rosyjskim przywódcą Władimirem Putinem - poinformował po spotkaniu w Dublinie, że kolejna runda rozmów między Rosją a Ukrainą zostanie rozszerzona o Europę. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "mce/ akl/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "14.11.2026 10:36",
+      "content_sha256": "66707de7b4375cba39e1ec5e0398956ca998f743778ef52eff2e4632b5b6c6d9",
+      "date": "2026-11-14",
+      "saved_at": "2026-11-14T10:37:34+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
+      "published_time": "10:36",
+      "published_at": "2026-11-14T10:36+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Szef Rady Europejskiej Antonio Costa ogłosił w piątek po szczycie w Dublinie, że Polska będzie jednym z państw, które wezmą udział w negocjacjach w sprawie zakończenia rosyjskiej wojny przeciw Ukrainie.",
+          "Oprócz Polski będą to: Francja, Niemcy, Wielka Brytania i Włochy oraz instytucje UE.",
+          "\"Dzisiaj przywódcy uzgodnili, że nasz europejski zespół ds. negocjacji pokojowych w Ukrainie składa się z instytucji UE oraz grupy E5 (Polska, Francja, Niemcy, Wielka Brytania i Włochy - PAP) w ramach koalicji chętnych."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "66707de7b4375cba39e1ec5e0398956ca998f743778ef52eff2e4632b5b6c6d9"
+      }
+    },
+    {
+      "id": "8c643d76a6d72f02",
+      "title": "Awaria Microsoftu usunięta. Usługi Teams, Outlook i Copilot znów działają",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261114/awaria-microsoftu-usunieta-uslugi-teams-outlook-i-copilot-znow-dzialaja",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-14T10:37:34+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Koncern Microsoft poinformował w sobotę rano o całkowitym przywróceniu swych usług, takich jak Teams, Outlook i Copilot, po globalnej awarii niektórych narzędzi i zakłócenia ich działania."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie na serwisie X firma oświadczyła, że działania mające na celu usunięcie przyczyny awarii zostały zakończone i przywrócono działanie usług dla wszystkich klientów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniej w sobotę Microsoft poinformował, że usługi związane z produktami dla klientów indywidualnych zostały całkowicie przywrócone w piątek o godz. 16.10 strefy czasowej GMT (godz. 17.10 w Polsce) i trwa przywracanie niektórych usług Microsoft 365 dla przedsiębiorstw. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "awl/ akl/ pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "14.11.2026 10:34",
+      "content_sha256": "bdc406f72ea446ef69cdecf0c4ffddb7c67d185cdf1674051487015d93e70a0d",
+      "date": "2026-11-14",
+      "saved_at": "2026-11-14T10:37:34+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
+      "published_time": "10:34",
+      "published_at": "2026-11-14T10:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Koncern Microsoft poinformował w sobotę rano o całkowitym przywróceniu swych usług, takich jak Teams, Outlook i Copilot, po globalnej awarii niektórych narzędzi i zakłócenia ich działania.",
+          "W komunikacie na serwisie X firma oświadczyła, że działania mające na celu usunięcie przyczyny awarii zostały zakończone i przywrócono działanie usług dla wszystkich klientów.",
+          "Wcześniej w sobotę Microsoft poinformował, że usługi związane z produktami dla klientów indywidualnych zostały całkowicie przywrócone w piątek o godz."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Koncern Microsoft poinformował w sobotę rano o całkowitym przywróceniu swych usług, takich jak Teams, Outlook i Copilot, po globalnej awarii niektórych narzędzi i zakłócenia ich działania."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "bdc406f72ea446ef69cdecf0c4ffddb7c67d185cdf1674051487015d93e70a0d"
+      }
+    },
     {
       "id": "26b0b44cea45d496",
       "title": "DZIEŃ NA RYNKACH: Przewaga spadków na Wall Street, w centrum uwagi Nvidia i dane PPI",
@@ -149,7 +480,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-14T03:18:04+00:00",
+      "discovered_at": "2026-11-14T10:37:34+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -520,7 +851,7 @@
       "published_display": "13.11.2026 21:02",
       "content_sha256": "40034dc9b650a89153884b1e54aebfc71426a9b638ddd0b70c5c2c2a8ff8ab41",
       "saved_at": "2026-11-13T22:55:58+00:00",
-      "content_checked_at": "2026-11-14T03:18:04+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -713,6 +1044,404 @@
         "watch_companies": [],
         "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
         "content_sha256": "a3992a2bdaf47407c1cb595ff46b467cd17da9ef682867448e222b027823b46a"
+      }
+    },
+    {
+      "id": "e7a3b6daf30bf32f",
+      "title": "Polskie obligacje skarbowe pod presją inflacji w USA. Decyzja S&P bez wpływu na nastroje",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261113/polskie-obligacje-skarbowe-pod-presja-inflacji-w-usa-decyzja-sp-bez-wplywu-na",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia"
+      ],
+      "companies": [
+        "Develia",
+        "Dom Development",
+        "Echo Investment",
+        "PGE",
+        "PHN",
+        "PKO BP",
+        "Pekao"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj",
+          "Temat: obligacj"
+        ],
+        "energia": [
+          "Temat: ropy"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-14T10:37:34+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Obniżenie przez S&P perspektywy ratingu Polski nie wpłynęło istotnie na nastroje inwestorów. W pierwszej części tygodnia obligacje Polski nawet umacniały się dzięki spadkowi notowań ropy, ale odczyt inflacji w USA zmienił globalny sentyment, czego nie udało się już odwrócić do końca tygodnia - ocenił Emil Szweda, główny analityk Michael/Ström Dom Maklerski."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W piątek nastroje dodatkowo pogorszyła eskalacja napięcia w rejonie Cieśniny Ormuz i bilans tygodnia na rynku obligacji wypadł negatywnie. W nieco szerszej perspektywie zachowanie rynku obligacji z ostatnich tygodni można interpretować jako ruch powrotny rentowności do górnej granicy konsolidacji, która na różnych rynkach trwała od trzech i pół roku do dwóch lat\" - napiszał Szweda."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W tych dniach rynek testował tę granicę, ale nie zdołał jej sforsować. Ostatni tydzień przyniósł bowiem, wzrost rentowności, a więc spadek cen obligacji. Nie oznacza to jeszcze, że wyprzedaż musi być kontynuowana. Takie zachowanie rynku na razie tylko wzmacnia znaczenie psychologicznych barier rynkowych. Ponowne, przetestowanie granicy dawnej konsolidacji będzie wymagało większej mobilizacji inwestorów i silniejszych bodźców\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskazał, że na polskim rynku od ponad dwóch miesięcy rentowność obligacji dziesięcioletnich porusza się w zakresie 6,1-6,5 proc., a więc nieznacznie powyżej wcześniejszej, ale trwającej prawie cztery lata konsolidacji w umownym zakresie 4,9-6,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Fakt, że po wrześniowym wybiciu z jej okowów rynek nie ruszył zdecydowanie mocniej, jest sam w sobie dobrą wiadomością. Ostatnie dni przyniosły test możliwości powrotu do zakresu dawnej konsolidacji, ale wypadł on negatywnie, choć w mało sprzyjającym otoczeniu\" - ocenił analityk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poinformował, że obniżenie perspektywy ratingu do negatywnej przez agencję S&P nie zrobiło na inwestorach większego wrażenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Warto pamiętać, że rynek krajowy jest zdominowany przez polskie banki, które świetnie zdają sobie sprawę z sytuacji budżetu i uwarunkowań politycznych. Trochę nadziei na dobre zakończenie tygodnia dał spadek notowań ropy brent poniżej 90 USD za baryłkę, ale okazał się on incydentem. Znacznie ważniejszy okazał się odczyt inflacji w USA, która okazała się wyższa od oczekiwań i wzrosła o 0,4 proc. m/m (0,3 proc. w ujęciu bazowym). Rynek zinterpretował dane jako przesądzające o grudniowej podwyżce stóp procentowych w USA, a to z kolei obiło się na notowaniach krajowych obligacji i złotego\" - napisał."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jeśli Fed podniesie stopy, a RPP ponownie się od tego uchyli, inwestorzy będą mieli mniej powodów, by kupować polskie papiery. Jednak zarówno wzrost rentowności dziesięcioletnich obligacji Polski do 6,34 proc., jak i amerykańskich do 5,15 proc. jest tylko ruchem wewnątrz konsolidacji, tym razem kilkutygodniowej. Dopóki nie zostaną wyznaczone nowe szczyty rentowności, inwestorzy mogą czuć się względnie komfortowo z obecnymi poziomami. Szczególnie nasze dziesięciolatki mają gruby zapas względem stopy referencyjnej NBP (3,75 proc.) i inflacji (3,5 proc.)\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem analityka, na krajowym rynku korporacyjnym działo się niewiele."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Obligatariusze Kembertona, spółki z grupy Ghelamco, zgodzili się na skrócenie terminu powiadomieniu ich o przedterminowym wykupie notowanych na Catalyst obligacji do jednego dnia (z 30 wcześniej). To czytelna wskazówka, że ten wykup jest planowany. Echo poinformowało o zamiarze przeprowadzenia kolejnej emisji, nie wskazując jednak jej warunków. Emisję o wartości 50 mln zł zapowiedział Vindexus, zaś Anwim dla odmiany, zapowiedział przedterminowy wykup, co zakończy jego obecność na Catalyst\" - napisał."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"7R poinformowało o sukcesie emisji publicznej (prawie 88 mln zł z zaplanowanych 75-125 mln zł). Nowe serie do obrotu wprowadziła Polska Grupa Farmaceutyczna oraz Best. W przypadku PGF obrót jest wątpliwy, ponieważ emisję objęło dwóch inwestorów. W przypadku Bestu pierwsze transakcje wypadły poniżej nominału - rynek wtórny coraz mniej chętnie patrzy na kolejne obniżki marż\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tygodniowe kalendarium wydarzeń 16-22 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poniedziałek, 16 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Anwim (ANW1126) - wypłata odsetek i dzień wykupu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best (BST1126) - planowany dzień ostatniego notowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cavatina Holding (CAV1128) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Develia (DVL0530) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dom Development (DOM0530) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indos (INS0228, INS0529) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kruk (KRU1130) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Olivia Fin (OBC1126) - planowany dzień ostatniego notowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pekao Bank Hipoteczny (PEOH128, PEOH306) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resi Capital (RES0228) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wtorek, 17 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "AOW Faktoring (AOW0529) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Develia (DVL0229) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ghelamco Invest (GHE1127) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kruk (KR20229) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "PragmaGO (Seria F1) - ostatni dzień zapisów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Środa, 18 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Archicom (ARH0627) - planowany dzień ostatniego notowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best (BS10829, BST1126, BST1131) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cavatina Holding (CAV1128) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Krakowski Bank Spółdzielczy (KBS1129) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Okam Capital (OKA1127) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Olivia Fin (OBC1126) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "PKO Bank Polski (PKO1132) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski Holding Nieruchomości (PHN0529) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "White Stone Development (WSD0228) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czwartek, 19 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Adatex (ADX1128) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Echo Investment (ECH0528) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indos (INS0228, INS0529) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Novdom (NOD0828) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pekao Bank Hipoteczny (PEOH308) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resi Capital (RES0228) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piątek, 20 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "AOW Faktoring (AOW0528) - ustalenie praw do odsetek; (AOW0529) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Pekao Polska Kasa Opieki (PEO1127) - ustalenie praw do odsetek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Develia (DVL0528) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Krakowski Bank Spółdzielczy (KBS1129) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kruk (KRU1127) - ustalenie praw do odsetek; (KR10228, KRU1130) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "PKO Bank Polski (PKO1132) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sobota, 21 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Adatex (ADX1128) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best (BST1131) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Okam Capital (OKA1127) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "PGE (PGE0529) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski Holding Nieruchomości (PHN0529) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "White Stone Development (WSD0228) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Niedziela, 22 listopada"
+        },
+        {
+          "type": "paragraph",
+          "text": "Best (BS10829) - wypłata odsetek i początek nowego okresu odsetkowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Olivia Fin (OBC1126) - wypłata odsetek i dzień wykupu."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "gaw/ osz/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "13.11.2026 19:27",
+      "content_sha256": "eaa0506a65564b97306d8599a19e8bbeed97ca62201fe909a8e129aa1b5a501d",
+      "date": "2026-11-13",
+      "saved_at": "2026-11-14T10:37:34+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
+      "published_time": "19:27",
+      "published_at": "2026-11-13T19:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W pierwszej części tygodnia obligacje Polski nawet umacniały się dzięki spadkowi notowań ropy, ale odczyt inflacji w USA zmienił globalny sentyment, czego nie udało się już odwrócić do końca tygodnia - ocenił Emil Szweda, główny analityk Michael/Ström Dom Maklerski.",
+          "\"W piątek nastroje dodatkowo pogorszyła eskalacja napięcia w rejonie Cieśniny Ormuz i bilans tygodnia na rynku obligacji wypadł negatywnie.",
+          "Znacznie ważniejszy okazał się odczyt inflacji w USA, która okazała się wyższa od oczekiwań i wzrosła o 0,4 proc. m/m (0,3 proc. w ujęciu bazowym)."
+        ],
+        "interest_score": 25,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "eaa0506a65564b97306d8599a19e8bbeed97ca62201fe909a8e129aa1b5a501d"
       }
     },
     {
@@ -2407,7 +3136,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-14T03:18:04+00:00",
+      "discovered_at": "2026-11-14T10:37:34+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2746,7 +3475,7 @@
       "published_display": "13.11.2026 17:08",
       "content_sha256": "2f6fded69ce5d3683472218cff850a50bec549462bea50d7ba45371c994eea4e",
       "saved_at": "2026-11-13T17:25:29+00:00",
-      "content_checked_at": "2026-11-14T03:18:04+00:00",
+      "content_checked_at": "2026-11-14T10:37:34+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -491435,7 +492164,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491453,7 +492182,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491472,7 +492201,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491490,7 +492219,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491508,7 +492237,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491526,7 +492255,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491544,7 +492273,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491562,7 +492291,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491580,7 +492309,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491598,7 +492327,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491616,7 +492345,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491634,7 +492363,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491652,7 +492381,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491670,7 +492399,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491688,7 +492417,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491708,7 +492437,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491728,7 +492457,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491746,7 +492475,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491764,7 +492493,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491782,7 +492511,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491800,7 +492529,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491818,7 +492547,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491838,7 +492567,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491856,7 +492585,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491874,7 +492603,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491892,7 +492621,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491910,7 +492639,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491930,7 +492659,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491948,7 +492677,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491966,7 +492695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -491984,7 +492713,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492004,7 +492733,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492022,7 +492751,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492040,7 +492769,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492058,7 +492787,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492078,7 +492807,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492096,7 +492825,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492114,7 +492843,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492132,7 +492861,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492150,7 +492879,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492170,7 +492899,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492188,7 +492917,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492206,7 +492935,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -492338,7 +493067,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492356,7 +493085,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492374,7 +493103,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492392,7 +493121,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492410,7 +493139,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492428,7 +493157,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492448,7 +493177,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492466,7 +493195,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492486,7 +493215,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492504,7 +493233,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492522,7 +493251,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492540,7 +493269,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492560,7 +493289,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492578,7 +493307,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492596,7 +493325,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492614,7 +493343,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492634,7 +493363,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492652,7 +493381,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492670,7 +493399,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492688,7 +493417,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492706,7 +493435,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492726,7 +493455,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492744,7 +493473,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492762,7 +493491,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492780,7 +493509,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -492798,7 +493527,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -492816,7 +493545,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -492834,7 +493563,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -492852,7 +493581,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -492870,11 +493599,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 123,
+      "attempts": 124,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/artykuly/obligacje",
       "error": "ValueError"
@@ -493161,30 +493894,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
       "error": "ValueError"
     }
   ],
