@@ -1,8 +1,3013 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-16T00:25:21+00:00",
+  "last_checked": "2026-11-16T07:21:35+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "f31c7af60ef13656",
+      "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od spadków",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-spadkow",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Allegro",
+        "PGE"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniedziałkowa sesja na GPW może rozpocząć się od spadków, co sugerują w większości zniżkujące kontrakty na zagraniczne indeksy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdecydowana większość indeksów azjatyckich świeci w poniedziałek na czerwono. Koreański KOSPI traci prawie 4 proc., z kolei japoński Nikkei zniżkuje o 2,5 proc. Zyskują jedynie Hang Seng oraz Sensex – w obu przypadkach rosną w okolicach 0,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazuje Patryk Pyka, dyrektor zespołu Analiz i Doradztwa Inwestycyjnego DI Xelion, pesymizmu azjatyckiego nie podzielają jednak giełdy europejskie – kontrakty terminowe na najważniejsze indeksy sugerują otwarcie w okolicach poziomu neutralnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wydarzeniem tygodnia na światowych rynkach będzie publikacja we wtorek po sesji na Wall Street wyników Nvidia. Według oczekiwań analityków Nvidia ma pokazać około 90 proc. wzrostu zysku oraz około 109 mld USD kwartalnych przychodów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oprócz wtorkowych wyników Nvidii w centrum uwagi znajdzie się w tym tygodniu długo wyczekiwany debiut Anthropic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Twórca modelu Claude zadebiutuje na Nasdaq 19 listopada pod tickerem ANT. Spółka oferuje 825 mln akcji po 70–78 USD, co implikuje wycenę sięgającą 1,4 bln USD. Zainteresowanie inwestorów składających zapisy było ogromne – według doniesień medialnych księga popytu jest już około sześciokrotnie nadsubskrybowana."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"IPO będzie niewątpliwie ważnym testem apetytu inwestorów na spółki AI po ostatniej przecenie całego sektora\" - napisał Patryk Pyka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Narodowy Bank Polski opublikuje dane o inflacji bazowej w poniedziałek o godz. 14.00. W piątek GUS podał, że według ostatecznych szacunków inflacja CPI obniżyła się w październiku do 3,5 proc. rdr z 4,1 proc. rdr we wrześniu. Po danych ekonomiści szacują, że inflacja bazowa w ubiegłym miesiącu obniżyła do do 2,9 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "ZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Grupa PGE szacuje, że w III kwartale 2026 roku EBITDA raportowana wyniosła 4,61 mld zł, a zysk netto j.d. 3 mld zł. Konsensus PAP Biznes zakładał 3,2 mld zł wyniku EBITDA oraz 1,3 mld zł zysku netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Zysk netto j.d. GPW wyniósł w trzecim kwartale 2026 roku 70,3 mln zł wobec 63,3 mln zł konsensusu PAP Biznes."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Value FIZ, Medi_More i Hurtap podpisały umowę przewidującą dokapitalizowanie Synthaverse w łącznej kwocie 26,45 mln zł. Jak pisze Synthaverse, umowa stanowi kluczowy element umożliwiający finalizację kompleksowego procesu refinansowania zadłużenia spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Grupa Cognor miała w trzecim kwartale 114,5 mln PLN EBITDA – ponad 5-krotnie więcej niż przed rokiem; EBIT był na poziomie 50,5 mln zł wobec straty rok wcześniej, a strata netto ograniczona została do 3,8 mln zł wobec 52,9 mln zł przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Grupa Kino Polska szacuje, że miała w III kwartale 2026 roku 15,3 mln zł zysku netto, mniej o 20 proc. rdr., przychody osiągnęły 78,9 mln zł, czyli były o 1 proc. niższe rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Ronson Development sprzedał w ciągu trzech kwartałów 2026 roku 381 lokali o łącznej wartości 305,8 mln zł, więcej o 9 proc. pod względem liczby sprzedanych mieszkań w porównaniu z analogicznym okresem 2025 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Analitycy Wood & Company podnieśli rekomendację dla Allegro do \"kupuj\" z \"trzymaj\" i wyznaczyli cenę docelową akcji tej spółki na 75,70 zł - poinformował Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 5,1 pkt. proc. i wyniósł 49,1 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 14,5 pkt. proc. i wynosi 22,8 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Green Lanes rozpoczyna proces budowy księgi popytu w celu zaoferowania do objęcia (w drodze subskrypcji prywatnej) nie więcej niż 500.000 nowo emitowanych akcji zwykłych Spółki na okaziciela serii I."
+        },
+        {
+          "type": "heading",
+          "text": "POLITYKA I WYDARZENIA Z ZAGRANICY:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Od 1 stycznia do 31 grudnia 2027 r. maksymalna cena gazu m.in. dla gospodarstw domowych ma wynieść 197,29 zł/MWh, czyli tyle ile w tym roku - wynika z projektu ustawy w tej sprawie. Według resortu energii bez tych rozwiązań gospodarstwa domowe zapłaciłby za gaz od 77 zł do ponad 1,8 tys. zł więcej."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Prezydent USA Donald Trump weźmie udział w czwartek w spotkaniu trójstronnym z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen - podał Biały Dom. Wśród tematów rozmowy ma być m. in. redukcja zbrojeń nuklearnych. Trump nie zamierza poruszać tematu wojny w Ukrainie."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Szef Rady Europejskiej Antonio Costa ogłosił w piątek po szczycie w Dublinie, że Polska będzie jednym z państw, które wezmą udział w negocjacjach w sprawie zakończenia rosyjskiej wojny przeciw Ukrainie. Oprócz Polski będą to: Francja, Niemcy, Wielka Brytania i Włochy oraz instytucje UE."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Premier Rumunii Luca Niculescu poinformował w niedzielę o ataku dronów na trzy statki handlowe na Morzu Czarnym w pobliżu delty Dunaju. To kolejne takie incydenty. Sytuacja bezpieczeństwa w regionie pogarsza się z powodu prowadzonej przez Rosję wojny przeciwko Ukrainie - powiedział Niculescu. Lotniskowiec USS Roosevelt wraz z towarzyszącą mu grupą uderzeniową okrętów przybył w niedzielę do obszaru odpowiedzialności Dowództwa Centralnego Stanów Zjednoczonych(CENTCOM) - podał portal Axios oraz inne media."
+        },
+        {
+          "type": "heading",
+          "text": "RYNKI AKCJI:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• W Japonii Nikkei 225 traci 2,42 proc. W Hongkongu indeks Hang Seng zwyżkuje o 0,47 proc. W Chinach indeks SSEC spada o 0,95 proc. Południowokoreański Kospi spadł o 3,59 proc. W Indiach Sensex zwyżkuje 0,61 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Kontrakty na Stoxx 50 Europe spadają o 0,09 proc., na FTSE 100 idą w górę o 0,08 proc., na CAC 40 zwyżkują o 0,08 proc., a na DAX tracą 0,02 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Kontrakty na indeksy w USA są w przedziale od -0,23 proc. w przypadku Dow Jones do -1,08 proc. dla Nasdaq 100."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Europejskie giełdy zakończyły piątkową sesję niewielkimi spadkami, pozostając jednak blisko rekordowych poziomów. W skali całego tygodnia europejskie indeksy odnotowały wzrosty."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Na zamknięciu sesji indeks Euro Stoxx 50 spadł o 0,25 proc., niemiecki DAX zniżkował o 0,14 proc., francuski CAC 40 wzrósł o 0,08 proc., a brytyjski FTSE wzrósł o 0,35 proc. Benchmarkowy indeks Stoxx Europe 600 zwyżkował o 0,01 proc. do poziomu 664,06 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Piątkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, a rynkowi w dalszym ciągu ciążyły zniżkujące akcje koncernu Nvidia. W centrum uwagi inwestorów były też dane o PPI w Stanach Zjednoczonych."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Dow Jones Industrial na zamknięciu wzrósł o 0,10 proc. i wyniósł 52.347,55 pkt. S&P 500 na koniec dnia stracił 0,40 proc. i wyniósł 7.561,67 pkt.Nasdaq Composite zniżkował o 0,91 proc. do 25.136,27 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Indeks WIG20 na zamknięciu poprzedniej sesji wzrósł o 0,44 proc. do 4298,46 pkt., WIG wzrósł o 0,24 proc. i wyniósł 161.824 pkt., mWIG40 spadł o 0,44 proc. i wyniósł 10.904,06 pkt., natomiast sWIG80 poszedł w dół o 0,04 proc. do 29.485,30 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 08:15",
+      "content_sha256": "d182a312700e2da541da72c18a63ff30eb8ea470a3e23e28e006febdb589d4d0",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "08:15",
+      "published_at": "2026-11-16T08:15+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniedziałkowa sesja na GPW może rozpocząć się od spadków, co sugerują w większości zniżkujące kontrakty na zagraniczne indeksy.",
+          "Koreański KOSPI traci prawie 4 proc., z kolei japoński Nikkei zniżkuje o 2,5 proc. Zyskują jedynie Hang Seng oraz Sensex – w obu przypadkach rosną w okolicach 0,5 proc.",
+          "Według oczekiwań analityków Nvidia ma pokazać około 90 proc. wzrostu zysku oraz około 109 mld USD kwartalnych przychodów."
+        ],
+        "interest_score": 65,
+        "impact_score": 58,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Koreański KOSPI traci prawie 4 proc., z kolei japoński Nikkei zniżkuje o 2,5 proc. Zyskują jedynie Hang Seng oraz Sensex – w obu przypadkach rosną w okolicach 0,5 proc."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Poniedziałkowa sesja na GPW może rozpocząć się od spadków, co sugerują w większości zniżkujące kontrakty na zagraniczne indeksy."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d182a312700e2da541da72c18a63ff30eb8ea470a3e23e28e006febdb589d4d0"
+      }
+    },
+    {
+      "id": "b6a78bb7e1487114",
+      "title": "Ceny miedzi w Londynie najniższe od ponad 4 miesięcy",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/ceny-miedzi-w-londynie-najnizsze-od-ponad-4-miesiecy",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia",
+        "technologie"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: gospodark"
+        ],
+        "energia": [
+          "Temat: miedzi"
+        ],
+        "technologie": [
+          "Temat: technologi"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Notowania miedzi na giełdzie metali LME w Londynie spadają i są na najniższym poziomie od ponad 4 miesięcy w reakcji na wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin - informują maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,1 proc. - po 13.240,00 USD za tonę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 103.500 juanów za tonę, po zniżce o 1,47 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy oceniają wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja przemysłowa Chin w ujęciu rdr wzrosła w X o 4,8 proc. - poinformowało biuro statystyczne w Pekinie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy spodziewali się zwyżki produkcji rdr o 5,3 proc. wobec +5,5 proc. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż detaliczna z kolei wzrosła w X o 0,4 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy prognozowali rdr +0,8 proc., po +1,1 proc. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Słabsze od prognoz wskaźniki z chińskiej gospodarki pokazują, że najnowsze środki stymulujące stosowane przez władze w Pekinie nie przyniosły jeszcze oczekiwanych efektów w tej największej na świecie gospodarce pod względem \"konsumpcji\" metali bazowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na zakończenie poprzedniej sesji miedź na LME kosztowała 13.399,00 USD za tonę, w dół o 189 USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rekord z września na LME to 14.875,00 USD za tonę miedzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od początku 2026 r. cena miedzi na LME wzrosła o 7,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 08:10",
+      "content_sha256": "8aef9233283165dba43b4118e912b416b0cfa9e424b7e1cc195b3efbf6a461bb",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "08:10",
+      "published_at": "2026-11-16T08:10+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Notowania miedzi na giełdzie metali LME w Londynie spadają i są na najniższym poziomie od ponad 4 miesięcy w reakcji na wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin - informują maklerzy.",
+          "Miedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,1 proc. - po 13.240,00 USD za tonę.",
+          "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8aef9233283165dba43b4118e912b416b0cfa9e424b7e1cc195b3efbf6a461bb"
+      }
+    },
+    {
+      "id": "52e4bfb1841575bb",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/najwazniejsze-indeksy-gieldowe-w-azji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej aktualne indeksy wybranych giełd w Azji:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Nikkei 225 | Japonia | 59662,02 | -2,42 | 1,51 | -8,67 | 18,43 | 18,52"
+        },
+        {
+          "type": "paragraph",
+          "text": "| SCI | Chiny | 3597,93 | -1,00 | -1,72 | -3,18 | -9,84 | -9,35"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hang Seng | Hongkong | 23760,08 | 0,52 | -2,82 | -1,76 | -10,58 | -7,30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| KOSPI | Korea Płd. | 5100,50 | -3,59 | 1,63 | -10,01 | 27,14 | 21,03"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Sensex | Indie | 82071,29 | 0,59 | 1,32 | 9,82 | -2,95 | -3,70"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks Nikkei 225 zamyka się o 7.30 czasu polskiego, KOSPI o 7.05, Shanghai Composite Index o 8.00, Hang Seng o 09.00, a Sensex o 11.45."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 08:08",
+      "content_sha256": "e63fecb2fae63b5b82978b9d567f2aa59d7719eee8d4acde6f233516aedbca63",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "08:08",
+      "published_at": "2026-11-16T08:08+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Indeks Nikkei 225 zamyka się o 7.30 czasu polskiego, KOSPI o 7.05, Shanghai Composite Index o 8.00, Hang Seng o 09.00, a Sensex o 11.45.",
+          "To krótka informacja rynkowa; szczegóły i źródło danych sprawdzisz w pełnym tekście."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e63fecb2fae63b5b82978b9d567f2aa59d7719eee8d4acde6f233516aedbca63"
+      }
+    },
+    {
+      "id": "c1d103ec036a178d",
+      "title": "Zielona fala inwestycji w UE. Ponad 1,2 bln euro na transformację",
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze/oze-euge-legislacja-europejska-taksonomia",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia"
+      ],
+      "companies": [
+        "Orlen"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: obligacj"
+        ],
+        "energia": [
+          "Temat: energety",
+          "Dział źródłowy"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Europejskie inwestycje zgodne z taksonomią UE osiągnęły od 2021 r. wartość 1,224 bln euro – wynika z danych Komisji Europejskiej opublikowanych 20 października 2026 r. Rośnie również rynek europejskich zielonych obligacji, którego wartość emisji w nowym standardzie EuGB przekroczyła 60 mld euro. Dla kraju nad Wisłą oznacza to potencjalne możliwości finansowania transformacji energetycznej, ale także rosnącą konkurencję o kapitał."
+        },
+        {
+          "type": "heading",
+          "text": "Ponad 320 mld euro zielonych inwestycji rocznie. Energetyka liderem"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z najnowszego raportu Komisji Europejskiej pt. „The EU Taxonomy’s uptake on the ground” wynika, że w 2025 r. przedsiębiorstwa przeznaczyły 323,8 mld euro na inwestycje zgodne z unijną taksonomią. Ich skumulowana wartość od 2021 r. osiągnęła 1,224 bln euro. Jednocześnie udział takich nakładów w wydatkach inwestycyjnych raportujących przedsiębiorstw wzrósł z 20,04% w 2022 r. do 28,58% w 2025 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Największym beneficjentem pozostaje sektor energetyczny i infrastrukturalny, odpowiadający za 51,8% raportowanych inwestycji zgodnych z taksonomią. Kolejne miejsca zajmują przemysł przetwórczy (26,8%) oraz transport i magazynowanie (10,2%). Szczególnie istotną rolę odgrywają przedsiębiorstwa elektroenergetyczne, których inwestycje osiągnęły 168 mld euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Taksonomia obejmuje obecnie 242 rodzaje działalności w 16 sektorach gospodarki. Umożliwia inwestorom identyfikowanie przedsięwzięć spełniających unijne kryteria środowiskowe, a przedsiębiorstwom prezentowanie stopnia zgodności działalności z tymi wymaganiami. Komisja podkreśla, że inwestycje w odnawialne źródła energii, elektryfikację i czyste technologie mają nie tylko ograniczać emisje, lecz również wzmacniać bezpieczeństwo energetyczne i autonomię strategiczną UE poprzez zmniejszanie zależności od importowanych paliw kopalnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czytaj także: Kluczowa informacja dla Orlen. KE zmienia zasady gry na rynku gazu"
+        },
+        {
+          "type": "heading",
+          "text": "Zielone obligacje przyspieszają. Banki zwiększają zaangażowanie"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dynamicznie rozwija się również europejski rynek zielonych obligacji. Od rozpoczęcia stosowania standardu European Green Bond (EuGB) w grudniu 2024 r. do 7 października 2026 r. wartość emisji osiągnęła około 60 mld euro. W samym 2025 r. wyniosła 21 mld euro, natomiast od początku 2026 r. kolejne 39 mld euro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Za 51% wartości emisji odpowiadają przedsiębiorstwa, za 31% banki, a za pozostałe 18% emitenci publiczni i instytucjonalni. Największy udział mają Niemcy (18%), Holandia (15%) oraz Hiszpania i Francja (po 12%). W zestawieniu emitentów z 16 państw nie znalazła się Polska. Nie oznacza to braku polskich zielonych obligacji, lecz wskazuje na nieobecność krajowych emitentów w analizowanym segmencie instrumentów opartych na nowym standardzie EuGB."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zmiany są widoczne również w sektorze bankowym. Średni wskaźnik Green Asset Ratio (GAR), obrazujący udział aktywów finansujących działalność zgodną z taksonomią, wzrósł z 2,8% w 2024 r. do 5,68% w 2025 r. Wartość takich aktywów osiągnęła 903 mld euro."
+        },
+        {
+          "type": "heading",
+          "text": "Co to oznacza?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosnąca skala inwestycji zgodnych z unijną taksonomią ma istotne znaczenie dla unijnej oraz polskiej gospodarki, szczególnie sektora energetycznego, przemysłu oraz instytucji finansowych. Dane Komisji pokazują, że transformacja energetyczna staje się nie tylko obszarem polityki klimatycznej, ale również ważnym segmentem europejskiego rynku kapitałowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dla spółek notowanych na GPW kluczowe będzie odpowiednie klasyfikowanie i dokumentowanie nakładów inwestycyjnych zgodnie z taksonomią. Może to zwiększyć ich atrakcyjność dla inwestorów poszukujących projektów spełniających kryteria zrównoważonego finansowania. Z kolei dla banków istotna pozostanie zdolność do identyfikowania i finansowania takich przedsięwzięć."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szczególną uwagę zwraca brak Polski w zestawieniu emitentów obligacji EuGB. Wskazuje to na potencjalną przestrzeń do rozwoju krajowego rynku instrumentów finansujących transformację, zwłaszcza infrastruktury elektroenergetycznej i OZE."
+        }
+      ],
+      "author": "Michał Partyka",
+      "published_display": "16.11.2026 08:06",
+      "content_sha256": "c3e24fd701d20324799bf4f5b6af22bc746a12ed7d01855493b2f6f7bde1b9ba",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "08:06",
+      "published_at": "2026-11-16T08:06+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Europejskie inwestycje zgodne z taksonomią UE osiągnęły od 2021 r. wartość 1,224 bln euro – wynika z danych Komisji Europejskiej opublikowanych 20 października 2026 r. Rośnie również rynek europejskich zielonych obligacji, którego wartość emisji w nowym standardzie EuGB przekroczyła 60 mld euro.",
+          "„The EU Taxonomy’s uptake on the ground” wynika, że w 2025 r. przedsiębiorstwa przeznaczyły 323,8 mld euro na inwestycje zgodne z unijną taksonomią.",
+          "Od rozpoczęcia stosowania standardu European Green Bond (EuGB) w grudniu 2024 r. do 7 października 2026 r. wartość emisji osiągnęła około 60 mld euro."
+        ],
+        "interest_score": 67,
+        "impact_score": 62,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Europejskie inwestycje zgodne z taksonomią UE osiągnęły od 2021 r. wartość 1,224 bln euro – wynika z danych Komisji Europejskiej opublikowanych 20 października 2026 r. Rośnie również rynek europejskich zielonych obligacji, którego wartość emisji w nowym standardzie EuGB przekroczyła 60 mld euro."
+          },
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Europejskie inwestycje zgodne z taksonomią UE osiągnęły od 2021 r. wartość 1,224 bln euro – wynika z danych Komisji Europejskiej opublikowanych 20 października 2026 r. Rośnie również rynek europejskich zielonych obligacji, którego wartość emisji w nowym standardzie EuGB przekroczyła 60 mld euro."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "c3e24fd701d20324799bf4f5b6af22bc746a12ed7d01855493b2f6f7bde1b9ba"
+      }
+    },
+    {
+      "id": "668d30b58bc551bd",
+      "title": "Ceny ropy na świecie rosną",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/ceny-ropy-na-swiecie-rosna",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: ropy"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ceny ropy na rynkach rozpoczynają nowy tydzień od wzrostów. Inwestorzy oceniają napiętą sytuację na Bliskim Wschodzie w kontekście dobrej podaży ropy na rynku fizycznym - podają maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 89,34 USD - wyżej o 0,88 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brent na ICE na I 2027 jest wyceniana po 96,72 USD za baryłkę, w górę o 0,92 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inwestorzy oceniają napiętą sytuację na Bliskim Wschodzie w kontekście dobrej podaży ropy na rynku fizycznym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lotniskowiec USS Roosevelt wraz z towarzyszącą mu grupą uderzeniową okrętów przybył w niedzielę do obszaru odpowiedzialności Dowództwa Centralnego Stanów Zjednoczonych (CENTCOM) - podał portal Axios oraz inne media."
+        },
+        {
+          "type": "paragraph",
+          "text": "USS Roosevelt dołączył do dwóch innych lotniskowców obecnie przebywających w regionie Bliskiego Wschodu, USS George H.W. Bush i USS Abraham Lincoln - poinformował Axios, powołując się na przedstawiciela administracji USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obszar odpowiedzialności operacyjnej CENTCOM obejmuje region Bliskiego Wschodu, Azji Środkowej i Południowo-Zachodniej oraz część Afryki Północnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do wzmocnienia sił USA w regionie dochodzi na tle fiaska negocjacji USA z Iranem i tuż po tym, jak Iran zaatakował cele w Bahrajnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump i jego urzędnicy w ostatnich dniach twierdzili, że nie mają zamiaru wznawiać działań wojennych przeciwko Iranowi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jednocześnie prezydent USA oznajmił, że nie potrzebuje porozumienia z Teheranem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Za wznowieniem ataków opowiada się izraelski premier Benjamin Netanjahu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"New York Times\" pisze, że amerykańscy i izraelscy wojskowi opracowali plany nowych ataków na Iran, wymierzonych w infrastrukturę energetyczną i inne obiekty o kluczowym znaczeniu dla irańskiej gospodarki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent Donald Trump nie zdecydował się, by z nich skorzystać."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei Irański Korpus Strażników Rewolucji Islamskiej (IRGC) poinformował w niedzielę, że zaatakował przy użyciu sześciu dronów system radarowy w amerykańskiej bazie w Bahrajnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wcześniej władze w Manamie wezwały mieszkańców do udania się do bezpiecznych miejsc. Strona amerykańska nie potwierdziła ataków."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Amerykański system radarowy obrony powietrznej w bazie śmigłowców Al-Riffa w Bahrajnie został wzięty na cel przez sześć dronów należących do Sił Powietrzno-Kosmicznych Strażników Rewolucji Islamskiej” – poinformował IRGC w komunikacie, cytowanym przez agencję FARS."
+        },
+        {
+          "type": "paragraph",
+          "text": "Korpus zastrzegł, że każdy akt agresji USA „spotka się z jeszcze surowszą i bardziej niszczycielską reakcją”."
+        },
+        {
+          "type": "paragraph",
+          "text": "IRGC oświadczył ponadto, że cieśnina Ormuz pozostaje zamknięta, mimo – jak to określono – „niepowodzenia” Stanów Zjednoczonych w eskortowaniu statków przez ten szlak wodny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kilka godzin przed komunikatem Strażników Rewolucji Ministerstwo Spraw Wewnętrznych Bahrajnu opublikowało na platformie X dwa osobne ostrzeżenia o zagrożeniu – pierwsze tego typu od września."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Bahrajnie stacjonuje V Flota Marynarki Wojennej Stanów Zjednoczonych."
+        },
+        {
+          "type": "paragraph",
+          "text": "To pierwsze takie alerty w tym kraju od września."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ataki mogą mieć związek z wezwaniem przez Bahrajn w piątek do pełnego wdrożenia rezolucji nr 2817 Rady Bezpieczeństwa ONZ, w której potępiono irańskie ataki na kraje Zatoki Perskiej i wezwano do ich natychmiastowego zaprzestania"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tymczasem Międzynarodowa Agencja Energetyczna (MAE) podała, że po raz pierwszy od początku wojny na Bliskim Wschodzie globalna podaż ropy naftowej przewyższyła popyt na ten surowiec, a w IV kw. 2026 prognozuje się nadwyżkę ropy na świecie na poziomie ok. 2 mln baryłek ropy dziennie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei analitycy Goldman Sachs Group Inc. zasygnalizowali spodziewaną nadwyżkę ropy naftowej na świecie w przyszłym roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynek ropy prawdopodobnie już w październiku osiągnął nadwyżkę tego surowca\" - twierdzą analitycy Goldman Sachs w rynkowej nocie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Chociaż ceny ropy stopniowo spadną w 2027 r. w naszym scenariuszu bazowym, to premia za ryzyko wydaje się obecnie dość niska w porównaniu z wciąż znaczącymi ryzykami geopolitycznymi\" - dodają."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ropa WTI od początku tego roku zyskała 55,5 proc., a Brent zdrożała o 58,8 proc. (PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 07:57",
+      "content_sha256": "27bfea3dd4f9fe9532875103988d0e4cbf1c9132b680be17f8a5d0d059893f0b",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "07:57",
+      "published_at": "2026-11-16T07:57+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Ceny ropy na rynkach rozpoczynają nowy tydzień od wzrostów.",
+          "Baryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 89,34 USD - wyżej o 0,88 proc.",
+          "Tymczasem Międzynarodowa Agencja Energetyczna (MAE) podała, że po raz pierwszy od początku wojny na Bliskim Wschodzie globalna podaż ropy naftowej przewyższyła popyt na ten surowiec, a w IV kw. 2026 prognozuje się nadwyżkę ropy na świecie na poziomie ok."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "ropy"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "27bfea3dd4f9fe9532875103988d0e4cbf1c9132b680be17f8a5d0d059893f0b"
+      }
+    },
+    {
+      "id": "67b3fffdadf78e24",
+      "title": "Zysk netto j.d. GPW wyniósł w III kw. 70,3 mln zł wobec 63,3 mln zł konsensusu",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/zysk-netto-jd-gpw-wyniosl-w-iii-kw-703-mln-zl-wobec-633-mln-zl-konsensusu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Zysk netto j.d. GPW wyniósł w trzecim kwartale 2026 roku 70,3 mln zł wobec 63,3 mln zł konsensusu PAP Biznes. W tym okresie EBITDA wyniosła 71,1 mln zł, a przychody 158,5 mln zł. Konsensus zakładał 67,8 mln zł EBITDA i 157,9 mln zł przychodów."
+        },
+        {
+          "type": "paragraph",
+          "text": "W III kwartale 2026 r. zysk z działalności operacyjnej wyniósł 63,7 mln zł wobec 59,6 mln zł konsensusu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk operacyjny skorygowany o wpływ zdarzeń jednorazowych wzrósł w trzecim kwartale o 42,2 proc. rdr do 62,9 mln zł, a skorygowany zysk netto przypadający akcjonariuszom jednostki dominującej zwiększył się o 38,7 proc. rdr, osiągając poziom 68,2 mln zł. Skorygowana EBITDA w trzecim kwartale 2026 wzrosłą o 31,1 proc. rdr do 70,5 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "W trzecim kwartale 2026 roku Grupa Kapitałowa GPW osiągnęła przychody na poziomie 158,5 mln zł, co przełożyło się na wzrost o 17,3 proc. rok do roku. W segmencie Rynku Finansowego przychody wyniosły 114,9 mln zł i były większe o 25,6 proc. rdr, czemu sprzyjała utrzymująca się wysoka aktywność inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przychody Grupy w segmencie Rynku Towarowego w trzecim kwartale 2026 roku spadły o 3,2 proc. rdr, i wyniosły 38,4 mln zł. Wzrost obrotów energią elektryczną o 47,9 proc. rdr nie zrekompensował w pełni spadku obrotów gazem ziemnym o 52,8 proc. rdr, na który wpływała sytuacja cenowa i geopolityczna na rynku gazu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od lipca do września 2026 roku koszty operacyjne GK GPW wyniosły 95,7 mln zł, co oznacza wzrost rok do roku o 4,9 proc. Jak podała spółka, pozytywnie na dynamikę kosztów wpłynęło przede wszystkim rozwiązanie rezerw związanych z niższą od oczekiwanej wysokością opłat z tytułu kosztów nadzoru nad rynkiem oraz niższa amortyzacja."
+        },
+        {
+          "type": "paragraph",
+          "text": "W trzecim kwartale 2026 r. nakłady inwestycyjne grupy kapitałowej GPW wzrosły o 32,2 proc. rok do roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wzrost ten wynikał przede wszystkim z nakładów na pięcioletnie licencje oprogramowania związanego z infrastrukturą IT, o wartości 7,5 mln zł, a także z wyższych o 11,8 proc. rdr nakładów na projekt GPW WATS, poniesionych w okresie poprzedzającym uruchomienie nowej platformy transakcyjnej\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W okresie pierwszych dziewięciu miesięcy 2026 r. łączne nakłady inwestycyjne Grupy były o 4,3 proc. niższe niż przed rokiem, co wynikało ze spadku inwestycji w rzeczowe aktywa trwałe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak ocenia prezes GPW Tomasz Bardziłowski, w trzecim kwartale wysoka aktywność inwestorów przełożyła się na wzrost przychodów, przy jednoczesnym niższym wzroście kosztów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Z sukcesem uruchomiliśmy nowy system transakcyjny GPW WATS, kończąc tym samym jeden z najważniejszych projektów technologicznych w historii naszej Giełdy. Teraz priorytetem jest wykorzystanie tego potencjału poprzez rozwój nowych produktów inwestycyjnych, zwiększanie atrakcyjności warszawskiej Giełdy dla inwestorów i emitentów oraz mobilizowanie krajowego kapitału\" – powiedział Tomasz Bardziłowski, cytowany w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 07:29",
+      "content_sha256": "e3c1923b9356b415071d844736dc409b2896a79499819c2926709d9273d712f3",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "07:29",
+      "published_at": "2026-11-16T07:29+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "GPW wyniósł w trzecim kwartale 2026 roku 70,3 mln zł wobec 63,3 mln zł konsensusu PAP Biznes.",
+          "W tym okresie EBITDA wyniosła 71,1 mln zł, a przychody 158,5 mln zł.",
+          "W III kwartale 2026 r. zysk z działalności operacyjnej wyniósł 63,7 mln zł wobec 59,6 mln zł konsensusu."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W tym okresie EBITDA wyniosła 71,1 mln zł, a przychody 158,5 mln zł."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e3c1923b9356b415071d844736dc409b2896a79499819c2926709d9273d712f3"
+      }
+    },
+    {
+      "id": "60b56d159710da76",
+      "title": "Wyniki GPW w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/wyniki-gpw-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej przedstawiamy wyniki GPW w trzecim kwartale 2026 roku, ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane w mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "| 3Q2026 | wyniki | kons. | różnica | r/r | q/q | YTD 2026 | rdr"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przychody | 158,5 | 157,9 | 0,4% | 17,3% | 2,0% | 482,7 | 17,3%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBITDA | 71,1 | 67,8 | 4,9% | 32,3% | 14,7% | 211,0 | 23,5%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBIT | 63,7 | 59,6 | 6,9% | 44,0% | 17,7% | 188,1 | 31,4%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| zysk netto j.d. | 70,3 | 63,3 | 11,1% | 43,0% | 19,8% | 198,6 | 26,2%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBITDA | 44,9% | 43,1% | 1,79 | 5,07 | 4,97 | 43,70% | 2,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBIT | 40,2% | 37,8% | 2,43 | 7,43 | 5,36 | 38,97% | 4,18"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża netto | 44,4% | 40,1% | 4,29 | 7,95 | 6,61 | 41,13% | 2,89"
+        },
+        {
+          "type": "paragraph",
+          "text": "***Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 07:12",
+      "content_sha256": "419a9a76768d5aa72f7f129c641529585c7ea8f364356a8d94def7b118e21f3a",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "07:12",
+      "published_at": "2026-11-16T07:12+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej przedstawiamy wyniki GPW w trzecim kwartale 2026 roku, ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+          "***Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Poniżej przedstawiamy wyniki GPW w trzecim kwartale 2026 roku, ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "419a9a76768d5aa72f7f129c641529585c7ea8f364356a8d94def7b118e21f3a"
+      }
+    },
+    {
+      "id": "22ee37adc33e4ce6",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-16 - 2026-11-20",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-16-2026-11-20",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Dom Development"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-16 - 2026-11-20"
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - IZFiA - Seminarium Regulacyjne Rynku Kapitałowego - \"Regulacje. Rynek. Praktyka\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - III Kongres Budownictwa Polskiego – I dzień. Program koncentruje się na obszarach związanych z bezpieczeństwem, stabilnością rynku, sprawnością procesu inwestycyjnego, technologią, konkurencyjnością polskich firm oraz zdolnościami wykonawczymi sektora. PAP Biznes jest patronem medialnym wydarzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - COGNOR - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa poświęcona omówieniu sytuacji operacyjno-finansowej Grupy Cognor za 3Q 2026 i perspektyw rozwoju w kolejnych kwartałach."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - GPW - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja wynikowa GK GPW za trzeci kwartał."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - GUS - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja GUS pt.„SYTUACJA DEMOGRAFICZNA POLSKI. RAPORT 2025”."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - MKiŚ - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa MKiŚ \"Wsparcie budowy magazynów ciepła w ciepłownictwie systemowym\"."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 17 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - III Kongres Budownictwa Polskiego – II dzień. Program koncentruje się na obszarach związanych z bezpieczeństwem, stabilnością rynku, sprawnością procesu inwestycyjnego, technologią, konkurencyjnością polskich firm oraz zdolnościami wykonawczymi sektora. PAP Biznes jest patronem medialnym wydarzenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - ERBUD - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja dot. wyników spółek ERBUD i ONDE osiągniętych w 3 kwartale 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - GRUPRACUJ - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie prasowe (online) z Zarządem Grupy Pracuj poświęcone prezentacji wyników za III kwartał 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - CYBERFLKS - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Webinar z zarządem cyber_Folks poświęcony wynikom finansowym Grupy za III kwartał 2026 roku oraz planom dalszego rozwoju."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 18 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:30 - SYNEKTIK - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja online Grupy Synektik nt. wyników Grupy Synektik za 2025 rok finansowy (październik 2025 - wrzesień 2026), połączoną z sesją pytań i odpowiedzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Termin: 18 listopada 2026 (środa) godz. 11:30."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ANSWEAR - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Webinar Answear.com, podczas którego zarząd spółki przedstawi wyniki finansowe za III kwartał 2026 r. oraz plany rozwoju na najbliższe miesiące."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 19 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - Polska Izba Przemysłu Chemicznego; Ministerstwo Rozwoju i Technologii - European Chemical Industry Forum 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:30 - APATOR - Webinar poświęcony omówieniu wyników finansowych Grupy Apator za 3Q 2026 i perspektyw rozwoju w kolejnych kwartałach."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:30 - DOMDEV - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie prasowe online Dom Development poświęcone prezentacji wyników Grupy Dom Development za trzeci kwartał 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - ATENDE - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telekonferencja spółki Atende, podczas której zarząd zaprezentuje i skomentuje wyniki finansowe wypracowane w III kwartale 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 20 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - BENEFIT - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telekonferencja Benefit Systems poświęcona omówieniu wyników finansowych za trzeci kwartał 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - AMICA - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie wynikowe online po publikacji raportu za III kw. 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 07:01",
+      "content_sha256": "1af234af9226419fdd48c95aea305bb55ca44491b9234c92fb308f576abd6fe3",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-16T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Spotkanie prasowe (online) z Zarządem Grupy Pracuj poświęcone prezentacji wyników za III kwartał 2026 r.",
+          "10:30 - APATOR - Webinar poświęcony omówieniu wyników finansowych Grupy Apator za 3Q 2026 i perspektyw rozwoju w kolejnych kwartałach.",
+          "Spotkanie prasowe online Dom Development poświęcone prezentacji wyników Grupy Dom Development za trzeci kwartał 2026 r."
+        ],
+        "interest_score": 47,
+        "impact_score": 38,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Stopy procentowe lub regulacje",
+            "excerpt": "09:00 - IZFiA - Seminarium Regulacyjne Rynku Kapitałowego - \"Regulacje."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "1af234af9226419fdd48c95aea305bb55ca44491b9234c92fb308f576abd6fe3"
+      }
+    },
+    {
+      "id": "661d8828309c157e",
+      "title": "Kalendarium rynku NewConnect 2026-11-16",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/kalendarium-rynku-newconnect-2026-11-16",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-11-16 - 2026-11-20"
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- BIOGENED - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,50 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 17 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - MADKOM - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie powołania członka rady nadzorczej, zmian w statucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - RSGAMES - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii J."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 18 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - IMAGEPWR - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji w trybie subskrypcji prywatnej, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - GENOMED - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w zarządzie i radzie nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - MEDCAMP - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 19 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - GKSKAT - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie wyrażenia zgody na zaciągnięcie pożyczek, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 07:01",
+      "content_sha256": "2f5c6eaa5edb2e5c79126a0da82ab7bb6a10a095d9fbece9e3113623238a74cf",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-16T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie powołania członka rady nadzorczej, zmian w statucie.",
+          "W sprawie emisji akcji w trybie subskrypcji prywatnej, zmian w radzie nadzorczej.",
+          "W sprawie zmian w zarządzie i radzie nadzorczej."
+        ],
+        "interest_score": 49,
+        "impact_score": 30,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "- BIOGENED - Dzień wypłaty dywidendy"
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2f5c6eaa5edb2e5c79126a0da82ab7bb6a10a095d9fbece9e3113623238a74cf"
+      }
+    },
+    {
+      "id": "7bd3a02ecfb18669",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-16 - 2026-11-20",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/kalendarium-rynku-kapitalowego-gpw-2026-11-16-2026-11-20",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Allegro",
+        "Pekao"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-11-16 - 2026-11-20"
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 13 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- SOPHARMA - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,068 EUR na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - PCCROKITA - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii E, zmian w radzie nadzorczej, przyjęcia polityki równowagi płci."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - SNTVERSE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii X."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ENEA - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w składzie RN, przyjęcia polityki DEIB oraz polityki różnorodności i równowagi płci."
+        },
+        {
+          "type": "paragraph",
+          "text": "- ASBIS - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka dywidendy w wysokości 0,35 USD na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 17 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - KOMPAP - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie połączenia z Białostockimi Zakładami Graficznymi SA oraz OZGraf OZG SA."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 18 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - ALLEGRO - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - MEDICALG - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii R i S, zmian w radzie nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:30 - ALLEGRO - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 19 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - PEKAO - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmiany uchwał ZWZ dotyczących wynagrodzenia członków zarządu i RN, przyjęcia polityki równowagi płci."
+        },
+        {
+          "type": "paragraph",
+          "text": "- GRODNO - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,17 PLN na akcję"
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 07:01",
+      "content_sha256": "77f4f5bcf1fd35612311444a7ace25a9363aff2ff574449de9cc1c03aa21daa9",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-16T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie emisji akcji serii E, zmian w radzie nadzorczej, przyjęcia polityki równowagi płci.",
+          "W sprawie zmian w składzie RN, przyjęcia polityki DEIB oraz polityki różnorodności i równowagi płci.",
+          "Zaliczka dywidendy w wysokości 0,35 USD na akcję."
+        ],
+        "interest_score": 49,
+        "impact_score": 40,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Dywidenda w wysokości 0,068 EUR na akcję."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Allegro",
+            "sections": [
+              "konsumpcja"
+            ],
+            "terms": [
+              "konsumpcj*",
+              "konsumen*",
+              "handel",
+              "e-commerce",
+              "zakup*",
+              "sprzedaż detaliczna"
+            ],
+            "reason": "Handel internetowy; możliwy związek z popytem konsumenckim i warunkami zakupów online.",
+            "source": "https://about.allegro.eu/pl/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "77f4f5bcf1fd35612311444a7ace25a9363aff2ff574449de9cc1c03aa21daa9"
+      }
+    },
+    {
+      "id": "61f52527e65620f7",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 16.11.2026 | 1D | 5D | 1M | 3M | 12M"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,95 | 4,93 | 4,87 | 4,77 | 4,35 | 4,20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,79 | 5,71 | 5,63 | 5,94 | 5,23 | 4,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,30 | 6,22 | 6,14 | 6,35 | 5,80 | 5,30"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,55 | 5,51 | 5,54 | 5,73 | 5,31 | 6,52"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,51 | 5,43 | 5,40 | 5,72 | 5,35 | 6,49"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,49 | 5,41 | 5,37 | 5,53 | 5,42 | 6,99"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,26 | 4,24 | 4,21 | 4,25 | 3,88 | 3,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,66 | 4,61 | 4,53 | 4,72 | 4,27 | 4,07"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,23 | 5,19 | 5,14 | 5,34 | 4,85 | 4,58"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,25 | 36,30 | 36,21 | 36,29 | 37,61 | 36,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 36,02 | 35,85 | 35,83 | 35,47 | 35,65 | 33,85"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 33,48 | 33,26 | 33,06 | 32,78 | 32,21 | 30,47"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 3,13 | 3,15 | 2,97 | 3,11 | 2,71 | 2,04"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,21 | 3,22 | 3,08 | 3,31 | 2,88 | 2,39"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,50 | 3,49 | 3,39 | 3,60 | 3,28 | 2,91"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,50 | 3,52 | 3,38 | 3,47 | 2,93 | 2,22"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 3,96 | 3,95 | 3,84 | 3,97 | 3,30 | 2,72"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,42 | 4,39 | 4,33 | 4,53 | 3,89 | 3,42"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,15 | 3,16 | 3,01 | 3,25 | 2,74 | 1,97"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,41 | 3,40 | 3,28 | 3,52 | 2,99 | 2,38"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,81 | 3,79 | 3,69 | 3,94 | 3,46 | 3,03"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,20 | 3,21 | 3,06 | 3,29 | 2,81 | 2,09"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,48 | 3,48 | 3,35 | 3,58 | 3,03 | 2,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 3,94 | 3,92 | 3,83 | 4,08 | 3,56 | 3,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,13 | 3,14 | 2,99 | 3,15 | 2,77 | 2,03"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,20 | 3,19 | 3,07 | 3,27 | 2,87 | 2,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,38 | 3,35 | 3,25 | 3,47 | 3,13 | 2,69"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,64 | 3,63 | 3,50 | 3,63 | 2,95 | 2,24"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,35 | 4,30 | 4,18 | 4,26 | 3,36 | 2,75"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,92 | 4,85 | 4,76 | 4,84 | 3,94 | 3,42"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,97 | 4,97 | 4,77 | 4,93 | 4,31 | 3,76"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 5,00 | 4,99 | 4,80 | 5,02 | 4,50 | 3,90"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,34 | 5,30 | 5,15 | 5,45 | 4,95 | 4,44"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,88 | 1,88 | 1,77 | 1,92 | 1,67 | 0,94"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,26 | 2,25 | 2,09 | 2,34 | 2,14 | 1,26"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,89 | 2,87 | 2,67 | 2,93 | 2,89 | 1,71"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,86 | 4,84 | 4,56 | 4,71 | 4,17 | 3,61"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,97 | 4,96 | 4,68 | 4,87 | 4,36 | 3,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 5,14 | 5,14 | 4,88 | 5,07 | 4,69 | 4,15"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 06:39",
+      "content_sha256": "eacfa3d48cc814be47a6b32d7db07dfa050fd7f7afed311732e8e50a6918bb26",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "06:39",
+      "published_at": "2026-11-16T06:39+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "eacfa3d48cc814be47a6b32d7db07dfa050fd7f7afed311732e8e50a6918bb26"
+      }
+    },
+    {
+      "id": "dfe13684589cd4ed",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii i Kolumbii:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7561,67 | -0,40 | 2,51 | -1,28 | 12,29 | 10,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 52347,55 | 0,10 | 2,07 | 0,66 | 11,03 | 8,91"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 25136,27 | -0,91 | 2,27 | -3,84 | 9,76 | 8,15"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2790,49 | -0,31 | 1,32 | 2,54 | 16,84 | 12,43"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 36105,91 | -0,09 | 0,89 | -0,20 | 19,06 | 13,86"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 71204,98 | -0,84 | -0,26 | 3,30 | 14,24 | 10,72"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 172457,76 | 0,66 | 2,35 | -16,05 | 9,33 | 7,03"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2452,46 | -0,02 | -1,32 | -4,44 | 18,41 | 18,59"
+        },
+        {
+          "type": "paragraph",
+          "text": "|"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 06:37",
+      "content_sha256": "2bb55fcb89dc868f1d899afe5b4890504c1cb7ab7c3af37afa6ae4e9c9cd1e40",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "06:37",
+      "published_at": "2026-11-16T06:37+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "2bb55fcb89dc868f1d899afe5b4890504c1cb7ab7c3af37afa6ae4e9c9cd1e40"
+      }
+    },
+    {
+      "id": "e20c981b29e9f802",
+      "title": "Premiera GTA VI może napędzić wycenę CD PROJEKT RED - oceniają analitycy",
+      "url": "https://strefainwestorow.pl/gaming/cdprojektred-taketwo-gtavi-wiedzmin-cyberpunk-premiera-aaa",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "technologie",
+        "przemysl"
+      ],
+      "companies": [
+        "CD PROJEKT"
+      ],
+      "match_reasons": {
+        "technologie": [
+          "Firma: CD PROJEKT",
+          "Temat: gaming",
+          "Dział źródłowy"
+        ],
+        "przemysl": [
+          "Temat: produkcj"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Już tylko dni dzielą świat od premiery Grand Theft Auto VI (GTA VI). Już dawno obwołana rekordową i historyczną będzie miała istotny wpływ na przyszłość nie tylko segmentu wysokobudżetowych produkcji, a w zasadzie całej branży gamingowej. Dla nas ma dodatkowy smaczek… Skala przyjęcia tytułu przez graczy będzie miała wpływ nie tylko na ocenę potencjału nadchodzących tytułów CD PROJEKT RED (CDPR), ale również na wycenę polskiej spółki. Kurs CDPR czai się poniżej ważnej strefy 300 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "GTA VI to jedna z najbardziej wyczekiwanych gier w historii, ma szansę nie tylko ustanowić nowe rekordy sprzedaży, ale również zmienić układ sił na globalnym rynku gier wideo. Produkcja może wyznaczyć nowe standardy technologiczne i jakościowe, już wpływa na oczekiwania graczy, politykę cenową wydawców oraz kalendarz premier konkurencyjnych tytułów. Jej znaczenie wykracza daleko poza wyniki finansowe Take-Two Interactive, właściciela Rockstar Games - producenta GTA VI i wydawcy tego tytułu. Konsekwencje debiutu GTA VI będą bardzo ważne dla inwestorów z GPW, gdzie notowany jest CDPR. Polska spółka gra w tym samym segmencie AAA(A). GTA VI wyznaczy pewne benchmarki dla wysokobudżetowych produkcji z uniwersów Wiedźmina i Cyberpunka. CDPR zmierzy się zarówno z rosnącymi ambicjami branży, jak i oczekiwaniami graczy i inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ostatnie wyniki Take-Two przed premierą GTA VI. Przedsprzedaż na konsole jest rekordowa"
+        },
+        {
+          "type": "heading",
+          "text": "Niemal pełnoletnia hossa Take Two"
+        },
+        {
+          "type": "paragraph",
+          "text": "Od początku listopada kurs Take Two Interactive znów rośnie w obliczu zbliżającej się premiery tytułu na który gracze czekają już ponad 13 lat. Jednak jego notowania pozostają w potężnym trendzie wzrostowym jeszcze dłużej. Mimo przejściowych korekt w ostatnich latach (w 2022 r. akcje Take-Two straciły ok. połowę) wartość firmy od 2009 roku wzrosła o ponad 2000%. Odbiór premiery GTA VI zdecyduje czy walory Take Two będą wyznaczać nowe rekordy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z perspektywy giełdowej skala znaczenia GTA VI jest ogromna. W komunikacie z 9 listopada 2026 r. Take-Two podtrzymało prognozę 8–8,2 mld USD net bookings w roku obrotowym 2027, wskazując na bezprecedensowy poziom zamówień przedpremierowych GTA VI."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Przedsprzedaż GTA już przekroczyła 11 mln kopii, a wciąż mamy kilk dni do premiery. Ostatnie 5 dni przed weekendem to mocne przyspieszenie sprzedaży konsolowej. Już jest pobity rekord przedsprzedaży Cyberpunka z 8 mln kopii. Pewnie gdzieś będzie celować w podwojenie wyniku Cyberpunka na moment przed premierą, bo podejrzewam, że pęknie co najmniej 15 mln. Liczby są świetne” - powiedział Strefie Inwestorów analityk Noble Securities Mateusz Chrzanowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premiera GTA VI może napędzić wycenę CD PROJEKT RED. W ostatnich dniach notowania CD PROJEKT rosną"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hype na GTA VI bije rekordy, ale akcje Take-Two pod presją. Co naprawdę wycenia giełda?"
+        },
+        {
+          "type": "heading",
+          "text": "GTA VI wyznaczy nowe horyzonty branży"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Nowy punkt odniesienia dla ceny i monetyzacji produkcji AAA(A)"
+        },
+        {
+          "type": "paragraph",
+          "text": "G TA VI będzie testem tego, ile konsumenci są skłonni zapłacić za największe produkcje i jak duże przychody może wygenerować pojedyncza marka. Sukces gry może wzmocnić model premium, zwiększyć akceptację wyższych cen oraz zainteresowanie inwestorów największymi franczyzami."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Wzrost ceny za superprodukcję poszła w górę i Rockstar wyznacza nowe poziomy. Wydaje mi się, że jest to już przez rynek zdyskontowane. To był scenariusz oczekiwany nawet zanim Rockstar oficjalnie potwierdził cenę GTA VI. Fakt jak dużym zainteresowaniem cieszy się wersja premium gry za 100 USD pokazuje, że wrażliwość graczy na cenę w przypadku takich tytułów pozwala im wydać nawet więcej niż 80 USD na premierę, byle zadowolić się jakością. Warto też zobaczyć, że ceny GTA VI w walutach krajowych przeważnie wynoszą powyżej 90 USD. Globalnie na świecie to nie odstrasza. To także dobra informacja dla branży, bo pokazuje, że gracze, jeśli dostaną dobrą jakość i dobrą markę, są w stanie zapłacić więcej. Natomiast myślę, że to akurat jest już w cenach akcji, bo to temat grany od jakiegoś czasu ” - dodał analityk Noble Securities."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Poprzeczka technologiczna i jakościowa ma pójść wyżej"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rynek oczekuje, że Rockstar może ustanowić nowe standardy realizmu, zachowania NPC, interaktywności otwartego świata, animacji i immersji. Konkurenci będą porównywani z GTA VI nawet wtedy, gdy ich gry reprezentują inne gatunki."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Dominacja nad kalendarzem premier"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inni gamingowi wydawcy unikają bezpośredniej konkurencji, co wywołało przesuwanie premier i spiętrzenie debiutów w innych okresach. Co najmniej trzy głośne gry (jak np. Squadron 42) przesunięto na 2027 r. w kontekście premiery GTA VI, ale tylko w części przypadków twórcy jednoznacznie wskazali produkcję Rockstara jako powód. Kiedy w czerwcu CI Games ogłosiło przesunięcie premiery Lords of the Fallen II z jesieni 2026 r. na I kwartał 2027 r. spółka wskazała dwa powody: dopracowanie gry i “uniknięcie silnej konkurencji”."
+        },
+        {
+          "type": "paragraph",
+          "text": "“GTA będzie niewątpliwie wyznacznikiem jakości dla największych produkcji AAA i innym studiom ciężko będzie rywalizować na ogrom świata, a będą musieli się mierzyć z porównaniami. Z drugiej strony, nowe GTA powinno pomóc podwyższyć ceny gier AAA do poziomu $80, co i tak wydaje się niewygórowaną kwotą w przeliczeniu na ilość godzin rozrywki czy też alternatywne formy spędzania wolnego czasu. GTA powinno również pokazać, że segment AAA cały czas trzyma się mocno i zainteresowanie wśród graczy jest. „Wystarczy” tylko zrobić wysokiej jakości grę w oparciu o uwielbiane IP, a miliony kopii się sprzedadzą na pniu. Według Sensor Tower, GTA na tydzień przed premierą już przedsprzedało się w ponad 11 mln kopii, a pamiętajmy, że mówimy tylko o konsolach PS5 i Xbox, więc efektywnie o bazie ok. 150 mln aktywnych graczy ” - powiedział Strefie Inwestorów analityk BM mBanku Piotr Poniatowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Fenomen, który wpłynie na inne branże"
+        },
+        {
+          "type": "paragraph",
+          "text": "GTA VI może zdominować nie tylko sprzedaż gier. Zdominuje czas graczy konkurując w pracodawcami. Logitech dał dzień wolny na granie swoim pracownikom, Według analizy PwC znaczenie premiery GTA VI wykracza poza sam rynek gier wideo. Produkcja Rockstara może konkurować o czas i uwagę konsumentów z innymi formami rozrywki — przede wszystkim streamingiem filmów i seriali, mediami społecznościowymi oraz tradycyjną telewizją."
+        },
+        {
+          "type": "paragraph",
+          "text": "Już uznawany za fenomen tytuł wykracza poza branżę gamingową przyciągając również nowe grupy konsumentów treści. Producenci sprzętu mogą być jednymi z największych beneficjentów premiery GTA VI poza samym Take-Two. Gra ma potencjał wywołania tzw. hardware refresh cycle, czyli przyspieszenia wymiany konsol i akcesoriów, obok zakupów nowicjuszy, którzy wejdą w świat gier właśnie przez GTA VI."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Intensyfikacja konsolidacji rynku wokół największych marek i wzrost ryzyka inwestycyjnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "GTA VI może potwierdzić przewagę globalnych franczyz dysponujących ogromnymi budżetami, wieloletnim zapleczem technologicznym i społecznością liczącą dziesiątki milionów graczy. Jednocześnie uwidoczni rosnące bariery wejścia do segmentu AAA. Coraz droższe i dłuższe produkcje oznaczają większą koncentrację ryzyka na pojedynczych premierach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z punktu widzenia inwestorów giełdowych przesunięcia terminu premiery wywoływały istotne reakcje kursu Take-Two, czy CD PROJEKT RED. Psychologicznie nie każdy może to wytrzymać w oczekiwaniu na debiut gry, co pozbawia szansy na potencjalny zysk."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Zbliżająca premiera GTA niewątpliwie jest tematem, którym żyje świat growy i jej skutki odczuje cała branża. Wielu deweloperów „uciekło” ze swoimi tytułami i przesunęło premiery o tygodnie/miesiące, byle nie rywalizować o czas graczy z GTA. Warto pamiętać, że GTA debiutuje tylko na konsolach, więc to tam nastąpi największa rywalizacja. W krótkim terminie GTA jest największą konkurencją dla gier-platform – Fortnite, Roblox, Minecraft, Rocket League, etc. Ale nie oczekuję by te tytułu straciły na stałe swoich graczy, raczej tymczasowo uwaga zostanie przekierowana w kierunku GTA. Owszem, GTA jest ewenementem i większość graczy będzie chciała przetestować najnowsze dziecko Rockstar, ale z uwagi na tylko tryb single-player to nie oczekuję, żeby wysysanie kohort było długotrwałe. Od strony sprzętu oczekuję, że GTA przede wszystkim zwiększy bazę graczy PS5, zaś wzrost liczby Xboxów będzie moim zdaniem mało zauważalny poza standardowy wzorzec sezonowego wzrostu liczby konsol w IV kwartale” - dodał Poniatowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bloomberg ujawnia kulisy produkcji GTA VI. Jak premiera gry wpłynie na akcje Take-Two"
+        },
+        {
+          "type": "heading",
+          "text": "CD PROJEKT RED i inwestorzy z GPW pilnie obserwują GTA VI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polska spółka, podobnie jak właściciel producenta GTA VI, gra o pobicie szczytów na kursie akcji. Co prawda nie historycznych, ale bardzo ważnej strefy 300 zł, której pokonanie otworzyłoby drogę w kierunku maksów sprzed premiery Cyberpunka."
+        },
+        {
+          "type": "paragraph",
+          "text": "“GTA VI to będzie to prawdopodobnie największa premiera w branży rozrywkowej w historii. Intensyfikacja kampanii promocyjnej do premiery i później również powinna przyciągać inwestorów do Take-Two, ale jednocześnie powinna też powodować, że inwestorzy będą interesowali się studiami o podobnych modelach biznesowych, takimi jak na przykład CDPR. Jeżeli sentyment wokół Take-Two będzie pozytywny, czyli ta kampania i sprzedaż będą pozytywne w odbiorze inwestorów, to powinno to się przełożyć również na dobry sentyment dla CDPR ” - powiedział Strefie Inwestorów analityk DM BOŚ Tomasz Rodak."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mateusz Chrzanowski wskazuje, że jeżeli jakość GTA VI będzie odpowiednia – a raczej na to się zanosi – to będzie dobry news dla producentów segmentu triple-A."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Spodziewałbym się, że w związku z tym powinien pojawić się pozytywny wpływ na mnożniki CD PROJEKT RED, więc także dla polskiego studia to będzie dobra informacja. Dla topowych producentów ‘sufit’ cały czas idzie w górę, więc to powinien być też pozytywny newsflow dla samego CDPR” - ocenił analityk Noble Securities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obok oczekiwań na re-rating akcji CD PROJEKT RED, dzięki potencjalnemu sukcesowi komercyjnemu GTA VI są też wyzwania. Dla CDPR posiadanie rozpoznawalnych marek Wiedźmin i Cyberpunk staje się strategicznym atutem, ale jednocześnie rośnie znaczenie kontroli kosztów, terminowości produkcji i jakości premierowej. Szczególnie istotne wyzwanie przy Cyberpunku 2, którego miejski, otwarty świat będzie naturalnym przedmiotem porównań z produkcją Rockstara."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ryzykiem jest presja na budżety i czas produkcji. Dla CDPR znaczenie będzie miał także harmonogram prezentacji rozgrywki, kampanii marketingowych i komunikacji z inwestorami. Z kolei szacunki Take Two są dla CDPR potencjalnie korzystnym sygnałem dla ekonomiki Wiedźmina 4 i Cyberpunka 2, ale nie automatyczną podstawą do podwyższania prognoz sprzedaży."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mimo tych wyzwań analityk Noble Securities utrzymuje pozytywne nastawienie do polskiej spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Mimo wszystko nie traktowałbym otwartego świata GTA VI jako wyzwania dla CDPR. Trzeba pamiętać, że GTA ma swój silnik, a CDPR szykuje nadchodzące tytuły na Unreal. Demo technologiczne Wiedźmina 4 pokazało, że też będziemy mieli do czynienia z dużym przeskokiem pod względem jakości mechaniki. Myślę, że obie spółki idą jednak własną drogą i obie będą wyznaczać trendy. Nie martwiłbym się o to, że np. będzie problem dogonić GTA. Duże gry takiej wielkości wychodzą rzadko. Nawet gdyby było tak, że mechaniki będą trochę słabsze – bo np. GTA osiągnie jakąś wyjątkową szczegółowość – to biorąc chociażby pod uwagę dystans między premierą GTA i premierami CDPR to i tak będą generowały olbrzymie zainteresowanie. Jeżeli CDPR pozostanie numerem dwa, to wciąż jest to światowa czołówka, która będzie miała stałe zainteresowanie ze strony graczy ” - zaznaczył Chrzanowski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Warto zaznaczyć, że fabularnie tytuły CDPR bardziej się wyróżniają. Fabuła GTA nie jest wymagająca, nie ma tam dużych wyzwań intelektualnych czy moralnych, podkreślił jednocześnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Może trochę się to zmienia, bo w GTA VI ma być wskaźnik moralności czy honoru jak w Red Dead Redemption 2. Jednak mimo wszystko w tym obszarze CDPR wyznacza benchmark. Zatem CDPR ma swoje silne strony, GTA swoje, a pojemność rynku i baza graczy jest na tyle duża, że oba studia mogą spokojnie osiągać rekordy sprzedażowe swoich gier. Czy GTA może być bardziej benchmarkiem dla Cyberpunka niż dla Wiedźmina? Biorąc pod uwagę uniwersum, rzeczywiście GTA jest bardziej podobne do Cyberpunka. Natomiast mamy tu do czynienia z RPG akcji. Nie stawiałbym tezy, że gracze są pogrupowani w bańki. Pod względem podobieństw Cyberpunk jest bliżej, ale pod względem pojemności bazy graczy oczekujących dużych produkcji, GTA będzie też dobrym punktem odniesienia dla Wiedźmina” - podsumował analityk Noble Securities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cena GTA VI wyznaczy nowy standard dla gamingowych superprodukcji. To ważne dla CD Projekt, uważają analitycy"
+        }
+      ],
+      "author": "Seb Seb",
+      "published_display": "16.11.2026 06:33",
+      "content_sha256": "019750581beb4f0f8e6bfd2dad2a22ff39f7b77653ff9845bb5c5da11e8985e3",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "06:33",
+      "published_at": "2026-11-16T06:33+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Dla nas ma dodatkowy smaczek… Skala przyjęcia tytułu przez graczy będzie miała wpływ nie tylko na ocenę potencjału nadchodzących tytułów CD PROJEKT RED (CDPR), ale również na wycenę polskiej spółki.",
+          "Pewnie gdzieś będzie celować w podwojenie wyniku Cyberpunka na moment przed premierą, bo podejrzewam, że pęknie co najmniej 15 mln. Liczby są świetne” - powiedział Strefie Inwestorów analityk Noble Securities Mateusz Chrzanowski.",
+          "Premiera GTA VI może napędzić wycenę CD PROJEKT RED."
+        ],
+        "interest_score": 75,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Jej znaczenie wykracza daleko poza wyniki finansowe Take-Two Interactive, właściciela Rockstar Games - producenta GTA VI i wydawcy tego tytułu."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Produkcja może wyznaczyć nowe standardy technologiczne i jakościowe, już wpływa na oczekiwania graczy, politykę cenową wydawców oraz kalendarz premier konkurencyjnych tytułów."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Już tylko dni dzielą świat od premiery Grand Theft Auto VI (GTA VI)."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "gaming*",
+              "gier",
+              "premier*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "019750581beb4f0f8e6bfd2dad2a22ff39f7b77653ff9845bb5c5da11e8985e3"
+      }
+    },
+    {
+      "id": "b5c3f3225d86130f",
+      "title": "TYDZIEŃ W KRAJU: Inflacja bazowa, koniunktura GUS, aukcja MF, wyniki spółek",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/tydzien-w-kraju-inflacja-bazowa-koniunktura-gus-aukcja-mf-wyniki-spolek",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "energia"
+      ],
+      "companies": [
+        "Develia",
+        "Dom Development",
+        "Eurocash",
+        "Ferro",
+        "KGHM",
+        "PZU",
+        "Pekao",
+        "Polenergia",
+        "Tauron",
+        "Unimot"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: inflacj",
+          "Temat: obligacj"
+        ],
+        "energia": [
+          "Temat: gazu"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W rozpoczynającym się tygodniu krajowi inwestorzy poznają dane o inflacji bazowej za październik i listopadowe wskaźniki koniunktury GUS. MF przeprowadzi aukcję sprzedaży obligacji; powinien też opublikować szacunkowe wykonanie budżetu po październiku. SKRM zajmie się projektem dot. maksymalnej ceny gazu. Szereg spółek z GPW opublikuje wyniki finansowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Narodowy Bank Polski opublikuje dane o inflacji bazowej w poniedziałek o godz. 14.00. W piątek GUS podał, że według ostatecznych szacunków inflacja CPI obniżyła się w październiku do 3,5 proc. rdr z 4,1 proc. rdr we wrześniu. Po danych ekonomiści szacują, że inflacja bazowa w ubiegłym miesiącu obniżyła do do 2,9 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Największym zaskoczeniem w strukturze październikowej inflacji jest jednak spadek inflacji bazowej z wyłączeniem cen żywności i energii. Wg naszych obecnych szacunków obniżyła się ona do 2,9 proc. rdr z 3,1 proc. rdr we wrześniu i po raz pierwszy od marca była niższa niż 3 proc. rdr\" - napisali w komentarzu ekonomiści ING."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wyraźnie obniżyła się inflacja roczna w kategorii 'rekreacja, sport i kultura' (z 5,5 proc. rdr na 4,0 proc. rdr), głównie za sprawą odwrócenie podwyżek w turystyce oraz biletów lotniczych. Sugeruje to, że wzrost cen surowców energetycznych nie przekłada się na szerzej zakrojoną presję cenową w polskiej gospodarce, a ryzyko wystąpienie 'efektów drugiej rundy' czyli podwyżek płac pod wpływem inflacji jest wciąż niskie\" - dodali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ekonomiści Erste BP oceniają, że brak sygnałów szerokiego rozlewania się presji kosztowej na kategorie towarów i usług oraz dane o PKB pokazujące hamowanie wzrostu gospodarczego będą na razie umacniać Radę Polityki Pieniężnej w przekonaniu, że można wciąż czekać z decyzjami o ewentualnych podwyżkach stóp procentowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Kolejnym argumentem za brakiem pośpiechu z zaostrzaniem polityki pieniężnej byłoby potwierdzenie planów rządu odnośnie do stabilizacji cen gazu w 2027 r.\" - wskazali w raporcie ekonomiści."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek na stronach Rządowego Centrum Legislacji opublikowano projekt ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2027 r. w związku z sytuacją na rynku gazu oraz o zmianie niektórych ustaw. W poniedziałek projektem ma zająć się Stały Komitet Rady Ministrów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projektowane przepisy zakładają, że od 1 stycznia do 31 grudnia 2027 r. maksymalna cena gazu m.in. dla gospodarstw domowych ma wynieść 197,29 zł/MWh, czyli tyle ile w tym roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nowe przepisy przewidują wprowadzenie mechanizmu ograniczenia nadzwyczajnych zysków, które mają trafić na finansowanie rekompensat wypłacanych przedsiębiorstwom energetycznym stosującym cenę maksymalną gazu. Obowiązkiem uiszczenia wpłaty środków finansowych z tytułu ograniczenia zysków nadzwyczajnych zostaną objęte przedsiębiorstwa energetyczne posiadające koncesję na obrót gazem ziemnym z zagranicą, prowadzące sprzedaż paliw gazowych na rynku krajowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na krajowym rynku długu w tym tygodniu uwagę inwestorów zwróci aukcja sprzedaży obligacji skarbowych. Resort finansów przeprowadzi przetarg w środę; szczegóły powinien przedstawić w poniedziałek o godz. 15.00. W miesięcznym planie MF podawał, że na aukcji 18 listopada zaoferuje papiery za 7-12 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo finansów powinno też opublikować szacunkowe dane o wykonaniu budżetu państwa po październiku; resort finansów zwykle przedstawia dane w okolicy 15. dnia każdego miesiąca. Po wrześniu 2026 r. deficyt wynosił ok. 172,2 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Główny Urząd Statystyczny opublikuje w tym tygodniu listopadowe wskaźniki koniunktury. Odczyty przybliżą obserwatorom rynku jak kształtują się nastroje konsumentów i biznesu pod koniec roku, po tym jak piątkowe dane wykazały spowolnienie wzrostu gospodarczego w trzecim kwartale do 3,5 proc. rdr z 4,1 proc. w drugim kwartale. Ekonomiści wskazują, że w kolejnych kwartałach dynamika PKB może dalej hamować."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Są powody, by sądzić, że w kolejnych kwartałach (przede wszystkim w 2027 r.) PKB wyhamuje: słabość konsumpcji, zamykanie inwestycji finansowanych z części grantowej KPO, transmisja bardziej restrykcyjnej polityki pieniężnej na świecie, ryzyka wokół boomu AI. Podtrzymujemy więc, że PKB Polski wzrośnie w przyszłym roku o 2,9 proc.\" - napisali w komentarzu po danych ekonomiści Banku Pekao."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rozpoczynający się tydzień będzie bogaty w wyniki spółek notowanych na warszawskiej Giełdzie Papierów Wartościowych. Swoje dane finansowe przedstawią m. in. Celon, GPW, Erbud, Onde, Lokum, Vercom, cyber folks (poniedziałek), Pracuj, Mabion, Apator, Inter Cars, Wirtualna, Answear (wtorek), Unimot, Bogdanka, Poltreg, KGHM, Enea, Atende, Tauron, Cyfrowy (środa), Polenergia, Eurocash, Selvita, Azoty, PZU, DomDev, Pracuj, Neuca, Agora, Benefit, Mangata, Develia, Ferro, Captor (czwartek), Amica, Comp, Newag, Robyg (piątek)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks WIG20 zakończył piątkową sesję wzrostem o 0,44 proc. do poziomu 4.298,46 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Technicznie patrząc zamknięcie sesji w rejonie 4.298 pkt. może jawić się jako porażka byków w rejonie 4.300 pkt., ale znacznie ważniejsze pozostaje wybicie górą z konsolidacji, która mroziła WIG20 w trendzie bocznym właściwie od drugiej połowy września. Przesilenie potwierdza wykres tygodniowy, na którym WIG20 wyrysował dynamiczny biały korpus sygnalizujący zakończenie konsolidacji\" - napisał w komentarzu po sesji analityk DM BOŚ, Adam Stańczak."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W praktyce wybicie z kilkutygodniowej konsolidacji zbudowało potencjał zwyżki o szerokość układu. Jeśli przyjąć założenie, iż konsolidacja miała szerokość przeszło 200 punktów, to piątkowa sesja wprost przesuwa uwagę rynku na rejon 4.500 pkt. W takim ujęciu piątkowe zawahanie w rejonie 4.300 pkt. jest już częścią nowego układu technicznego, w którym rynek szybujący na poziomach, na których nie ma klasycznych barier technicznych, musi liczyć się na każdej barierze psychologicznej\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stańczak zaznaczył, że oceniając szansę na ruch WIG20 w rejon 4.500 pkt. nie można tracić z pola uwagi zachowania rynków bazowych, które pod koniec ubiegłego tygodnia wpływały na lokalne apetyty wzrostowe."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na poziomie praktycznym sukces byków na wykresie WIG20 w rejonach 4.300 pkt. i 4.400 pkt. zależy od tego, jak szybko niemiecki DAX upora się z barierą 27.000 pkt. i otworzy sobie drogę w rejon 30.000 pkt.\" - wskazuje analityk."
+        },
+        {
+          "type": "paragraph",
+          "text": "-------------------------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kalendarium wydarzeń na krajowym rynku finansowym w tygodniu 16-20 listopada."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Celon, GPW, Erbud, Onde, Lokum, Vercom, cyber folks"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kongres Polska Moc Biznesu"
+        },
+        {
+          "type": "paragraph",
+          "text": "III Kongres Budownictwa Polskiego - I dzień"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - Konferencja prasowa z udziałem Andrzeja Domańskiego, ministra finansów i gospodarki, organizowaną w ramach Team Poland Forum Biznesu w Łodzi"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - IZFIA Seminarium Regulacyjne Rynku Kapitałowego Regulacje. Rynek. Praktyka"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - GUS - Produkcja usług w sierpniu 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 - Konferencja wynikowa Grupy Cognor"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 - Konferencja wynikowa GK GPW za trzeci kwartał"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 - Konferencja prasowa GUS „Sytuacja demograficzna Polski. Raport 2025\""
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 - Konferencja MKiŚ \"Wsparcie budowy magazynów ciepła w ciepłownictwie systemowym\""
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - NBP - Inflacja bazowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "15.00 - MF - Podaż na przetarg sprzedaży SPW"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 17 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Pracuj, Mabion, Apator, Inter Cars, Wirtualna, Answear"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja Offshore Wind Poland 2026 - I dzień"
+        },
+        {
+          "type": "paragraph",
+          "text": "III Kongres Budownictwa Polskiego - II dzień"
+        },
+        {
+          "type": "paragraph",
+          "text": "XXI Kongres Przemysłu i Rynku Motoryzacyjnego"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - Konferencja wyników spółek ERBUD i ONDE osiągniętych w III kw. 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - Konferencja Grupy Pracuj"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - Konferencja Ubezpieczeniowa Rzecznika Finansowego"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.30 - Brunch prasowy spółki Unum"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 – Webinar cyber_Folks dot. wyników Grupy za III kw. oraz planom dalszego rozwoju"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - Spotkanie prasowe poświęcone raportowi DISE Energy pt. „Wymiary bezpieczeństwa zaopatrzenia w gaz ziemny: polska transformacja energetyczna\""
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 18 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Unimot, Bogdanka, Poltreg, KGHM, Enea, Atende, Tauron, Cyfrowy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja Offshore Wind Poland 2026 - II dzień"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.30 - MF - Przetarg sprzedaży SPW"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.30 - Webinar Synektik"
+        },
+        {
+          "type": "paragraph",
+          "text": "12.00 - Webinar wynikowy Answear.com"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 19 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Polenergia, Eurocash, Selvita, Azoty, PZU, DomDev, Pracuj, Neuca, Agora, Benefit, Mangata, Develia, Ferro, Captor"
+        },
+        {
+          "type": "paragraph",
+          "text": "European Chemical Industry Forum 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - GUS - Koniunktura konsumencka - listopad 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "10.30 - Spotkanie prasowe GK Dom Development o wynikach za trzeci kwartał 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "10.30 - Webinar Apatora o wynikach"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 - Telekonferencja Atende o wynikach finansowych za III kw."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 20 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki: Amica, Comp, Newag, Robyg"
+        },
+        {
+          "type": "paragraph",
+          "text": "Forum eksportera polskiego przemysłu Obronnego w MRiT"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - Telekonferencja Benefit Systems nt. wyników za III kw. 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - GUS - Koniunktura gospodarcza – listopad 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 - Konferencja spółki Amica"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 - Neuca - czat inwestorski, poświęcony wynikom finansowym po III kwartałach 2026 roku, ostatnim wydarzeniom oraz planom i perspektywom"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - NBP - Płynne aktywa i pasywa w walutach obcych"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 06:20",
+      "content_sha256": "38c0cc1e5d0c007aedcb9e3a03befbcfa4b181dfe5111c2ea25fa700d3d592b8",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "06:20",
+      "published_at": "2026-11-16T06:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "MF przeprowadzi aukcję sprzedaży obligacji; powinien też opublikować szacunkowe wykonanie budżetu po październiku.",
+          "Obowiązkiem uiszczenia wpłaty środków finansowych z tytułu ograniczenia zysków nadzwyczajnych zostaną objęte przedsiębiorstwa energetyczne posiadające koncesję na obrót gazem ziemnym z zagranicą, prowadzące sprzedaż paliw gazowych na rynku krajowym.",
+          "Rozpoczynający się tydzień będzie bogaty w wyniki spółek notowanych na warszawskiej Giełdzie Papierów Wartościowych."
+        ],
+        "interest_score": 75,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Szereg spółek z GPW opublikuje wyniki finansowe."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "MF przeprowadzi aukcję sprzedaży obligacji; powinien też opublikować szacunkowe wykonanie budżetu po październiku."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "MF przeprowadzi aukcję sprzedaży obligacji; powinien też opublikować szacunkowe wykonanie budżetu po październiku."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Develia",
+            "sections": [
+              "nieruchomosci"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "najem",
+              "najmu",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; możliwy związek z warunkami sprzedaży i rynku mieszkań.",
+            "source": "https://develia.pl/pl/o-nas/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "gazu",
+              "energi*"
+            ],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "38c0cc1e5d0c007aedcb9e3a03befbcfa4b181dfe5111c2ea25fa700d3d592b8"
+      }
+    },
+    {
+      "id": "5091062423a39aa1",
+      "title": "TYDZIEŃ NA RYNKACH: Wyniki Nvidii, IPO Anthropic, spotkanie Trump-Xi-Putin",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/tydzien-na-rynkach-wyniki-nvidii-ipo-anthropic-spotkanie-trump-xi-putin",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: Fed"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-16T07:21:35+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu w centrum uwagi rynków finansowych znajdą się wyniki Nvidii i IPO firmy Anthropic. Podczas szczytu APEC w Chinach spotkają się przywódcy USA, Chin i Rosji. Fed opublikuje protokół z ostatniego posiedzenia. Komisja Europejska przedstawi prognozy gospodarcze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rynek sztucznej inteligencji - który w ostatnich latach napędzał wzrosty na giełdzie, ale ostatnio wykazuje oznaki słabości - stanie w tym tygodniu przed podwójnym wyzwaniem: długo wyczekiwaną, pierwszą ofertą publiczną firmy Anthropic oraz wynikami kwartalnymi borykającego się z problemami giganta branży półprzewodników – firmy Nvidia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje firmy Nvidia gwałtownie spadły w ubiegłym tygodniu po pojawieniu się kontrowersji dotyczących długoletniego dyrektora generalnego firmy Jensena Huanga. Huang zrezygnował ze stanowiska w czwartek po ujawnieniu informacji o dwóch romansach pozamałżeńskich, w tym jednym z udziałem osoby podejrzanej o szpiegostwo na rzecz Chin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zawirowania związane z firmą miały miejsce parę dni przed planowaną publikacją kwartalnego raportu Nvdii (wtorek). Według danych LSEG analitycy przewidują wzrost zysków o 90 proc. przy przychodach wynoszących 109 mld dolarów w trzecim kwartale roku obrotowego spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "W czwartek ma się z kolei rozpocząć obrót akcjami firmy Anthropic, twórcy chatbota Claude, co stanie się barometrem nastrojów na rynku sztucznej inteligencji. W ramach pierwszej oferty publicznej Anthropic ma osiągnąć wycenę na poziomie nawet 1,4 biliona dolarów; firma wraz z niektórymi inwestorami zamierza pozyskać do 64,4 miliarda dolarów poprzez sprzedaż 825 milionów akcji - wskazuje agencja Reuters."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jeśli Anthropic wejdzie na giełdę, a debiut okaże się nieudany, będzie to prawdopodobnie kolejny sygnał ostrzegawczy wskazujący, że inwestorzy zaczynają odczuwać nieco większy niepokój w związku z inwestycjami w sektorze sztucznej inteligencji\" – powiedział Patrick Ryan, główny strateg inwestycyjny w Madison Investments."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ostatnich tygodniach sektor sztucznej inteligencji był pod presją w związku z wątpliwościami co do trwałości ogromnych nakładów inwestycyjnych, napędzających boom w tej dziedzinie. Obawy nasiliły się po tym, jak na początku listopada Demokraci odnieśli zdecydowane zwycięstwo w wyborach uzupełniających nad Republikanami – wynik ten groził wprowadzeniem bardziej rygorystycznych regulacji dotyczących rozbudowy centrów danych sztucznej inteligencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rynek patrzy przez różowe okulary na niemal wszystkie zagrożenia, w tym inflację i wojnę w Iranie, a także niepewność związaną ze sztuczną inteligencją\" – wskazuje cytowana przez agencję Reuters Sameer Samana, dyrektor ds. globalnych akcji i aktywów w Wells Fargo Investment Institute."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ewentualne rozczarowania w tym tygodniu mogą wyrwać inwestorów z nawyku postrzegania każdej szklanki jako w połowie pełnej\" - dodaje."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z danych makroekonomicznych w tym tygodniu uwagę inwestorów może przykuć miesięczny raport dotyczący sprzedaży detalicznej w USA (wtorek). Dane pozwolą ocenić kondycję amerykańskich konsumentów, a także wskażą, czy inflacja nadal rośnie i czy może to skłonić amerykańską Rezerwę Federalną do bardziej zdecydowanych podwyżek stóp procentowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane opublikowane w ubiegłym tygodniu pokazały, że ceny konsumpcyjne w USA wzrosły w październiku szybciej niż oczekiwano, co skłoniło rynki do uwzględnienia kolejnych podwyżek stóp procentowych w nadchodzących miesiącach. Protokół z ostatniego posiedzenia Fed, który zostanie opublikowany w środę, może dać inwestorom więcej informacji na temat planów banku centralnego ws. dalszego zacieśniania polityki pieniężnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W tym tygodniu wyniki finansowe ogłosi szereg dużych, amerykańskich sieci handlowych, w tym Walmart, Target, Home Depot oraz Lowe’s. Inwestorzy czekają na wskazówki dotyczące tego, czy wydatki konsumentów utrzymują się na dotychczasowym poziomie, mimo że Amerykanie borykają się z wyższymi cenami benzyny wynikającymi z konfliktu na Bliskim Wschodzie oraz wyższymi kosztami kredytów niż na początku roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Europie uwagę zwrócą najnowsze prognozy gospodarcze Komisji Europejskiej, które zostaną opublikowane we wtorek. Podczas wiosennej rundy prognostycznej KE wskazywała, że konflikt na Bliskim Wschodzie znacząco zmienił sytuację gospodarczą, powodując jedno z najpoważniejszych zakłóceń w globalnych dostawach energii w najnowszej historii, co nastąpiło niecałe pięć lat po szoku energetycznym wywołanym wojną Rosji przeciwko Ukrainie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wiosną Komisja prognozowała, że po osiągnięciu poziomu 1,5 proc. w 2025 r. tempo wzrostu PKB w UE spowolni w bieżącym roku do 1,1 proc. — o 0,3 punktu procentowego mniej niż w prognozie z jesieni 2025 r. KE oceniała wówczas, że inflacja wzrośnie do 3,1 proc., co stanowiło korektę w górę o 1 punkt procentowy w porównaniu z prognozą z jesieni 2025 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na politycznym froncie, w czwartek prezydent USA Donald Trump weźmie udział w spotkaniu trójstronnym z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen. Wśród tematów rozmowy ma być m. in. redukcja zbrojeń nuklearnych. Trump nie zamierza jednak poruszać tematu wojny w Ukrainie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do spotkania Trumpa z Putinem i Xi dojdzie na koniec wizyty prezydenta USA w Shenzhen na szczycie Wspólnoty Gospodarczej Azji i Pacyfiku (APEC). Wcześniej Trump spotka się też osobno z samym Xi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak poinformowali wysocy rangą przedstawiciele Białego Domu, Trump zamierza podczas spotkania poruszyć temat wojny w Iranie, lecz nie zamierza omawiać wojny w Ukrainie, uważając to za „niestosowne” w obliczu tego, że Chiny nie biorą udziału w negocjacjach w tej sprawie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urzędnicy podkreślili, że nie należy spodziewać się zawarcia żadnych porozumień między przywódcami. Będzie to pierwsze takie spotkanie i jednocześnie pierwsze, podczas którego przywódca Chin ma poruszyć kwestię ograniczeń zbrojeń nuklearnych. Dotąd Pekin wykluczał dialog z USA na ten temat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazuje BBC, w lutym wygasł traktat o kontroli broni jądrowej między Stanami Zjednoczonymi a Rosją, co pozbawiło największe na świecie arsenały jądrowe istotnych zabezpieczeń i w praktyce oznaczało koniec współpracy w zakresie kontroli zbrojeń, która przyczyniła się do zakończenia zimnej wojny."
+        },
+        {
+          "type": "paragraph",
+          "text": "ONZ wezwała obie strony do bezzwłocznego uzgodnienia nowych ram współpracy. Trump stwierdził jednak, że mógłby zastąpić tę umowę lepszym porozumieniem, które obejmowałoby Chiny, które rozbudowują swój arsenał."
+        },
+        {
+          "type": "paragraph",
+          "text": "-----------------"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kalendarium wydarzeń na światowym rynku finansowym w tygodniu 16-20 listopada (źródło: Bloomberg, Investing.com)."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 16 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.50 - Japonia - Produkt Krajowy Brutto wst. za III kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "2.30 - Chiny - Ceny nieruchomości za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "3.00 - Chiny - Inwestycje w aglomeracjach miejskich za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "3.00 - Chiny - Produkcja przemysłowa za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "3.00 - Chiny - Sprzedaż detaliczna za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "5.30 - Japonia - Produkcja przemysłowa fin. za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Norwegia - Bilans handlu zagranicznego (NOK) za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - Czechy - Inflacja producencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 - strefa euro - Produkcja przemysłowa za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - Polska - Wskaźniki inflacji bazowej za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - Kanada - Inflacja konsumencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Indeks NY Empire State za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "15.05 - USA - Wystąpienie szefa Fed z Nowego Jorku (John Williams)"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.00 - USA - Wystąpienie publiczne prezesa Fed (Kevin Warsh)"
+        },
+        {
+          "type": "paragraph",
+          "text": "23.50 - USA - Wystąpienie publiczne szefowej RBA (Michele Bullock)"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 17 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Czechy - Dzień Walki o Wolność i Demokrację - dzień wolny"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.00 - Australia - Wystąpienie publiczne szefowej RBA (Michele Bullock)"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.30 - Australia - Protokół z posiedzenia RBA"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Wielka Brytania - Wynagrodzenia za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Wielka Brytania - Stopa bezrobocia za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Wielka Brytania - Wnioski o zasiłek dla bezrobotnych za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 - Włochy - Inflacja konsumencka fin. za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 - Niemcy - Indeks instytutu ZEW za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "13.30 - USA - Wystąpienie szefa Fed z St. Louis (Alberto Musalem)"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - Węgry - Decyzja ws. stóp procentowych za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.15 - Kanada - Rozpoczęte budowy domów za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Ceny importu i eksportu za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Sprzedaż detaliczna za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "15.15 - USA - Produkcja przemysłowa za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "15.30 - USA - Wystąpienie szefowej Fed z Cleveland (Beth Hammack)"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 - USA - Zapasy niesprzedanych towarów za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 - USA - Indeks rynku nieruchomości - NAHB za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "20.25 - USA - Wystąpienie szefa Fed z Nowego Jorku (John Williams)"
+        },
+        {
+          "type": "paragraph",
+          "text": "22.40 - USA - Tygodniowa zmiana zapasów paliw wg API"
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 18 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.50 - Japonia - Bilans handlu zagranicznego (JPY) za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Wielka Brytania - Inflacja producencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Wielka Brytania - Inflacja konsumencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.30 - Węgry - Wynagrodzenia za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - Wielka Brytania - Wystąpienie publiczne szefa BoE (Andrew Bailey)"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.00 - Słowacja - Inflacja HICP za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "11.00 - strefa euro - Inflacja konsumencka fin. za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "13.00 - USA - Tygodniowa liczba wniosków o kredyt hipoteczny"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Pozwolenia na budowę domów za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Rozpoczęte budowy domów za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - Kanada - Indeks cen nowych domów za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 - USA - Indeks podpisanych umów kupna domów za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 - Wielka Brytania - Wystąpienie publiczne szefa BoE (Andrew Bailey)"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.30 - USA - Tygodniowa zmiana zapasów paliw"
+        },
+        {
+          "type": "paragraph",
+          "text": "19.00 - Nowa Zelandia - Wystąpienie publiczne szefowej RBNZ (Anna Breman)"
+        },
+        {
+          "type": "paragraph",
+          "text": "19.30 - USA - Wystąpienie publiczne członka zarządu Fed (Michael S. Barr)"
+        },
+        {
+          "type": "paragraph",
+          "text": "20.00 - USA - Protokół z posiedzenia FOMC"
+        },
+        {
+          "type": "paragraph",
+          "text": "20.30 - USA - Wystąpienie szefa Fed z Nowego Jorku (John Williams)"
+        },
+        {
+          "type": "paragraph",
+          "text": "22.00 - USA - Napływ kapitałów do USA za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "22.15 - USA - Wystąpienie szefa Fed z Minneapolis (Neel Kashkari)"
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 19 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.50 - Japonia - Zamówienia na sprzęt, maszyny i urządzenia za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.30 - Australia - Sytuacja na rynku pracy za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Szwajcaria - Bilans handlu zagranicznego (CHF) za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Szwajcaria - Produkcja przemysłowa za III kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - Polska - Koniunktura konsumencka za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "10.00 - strefa euro - Saldo rachunku bieżącego n.s.a. (EUR) za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - Kanada - Inflacja producencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Indeks Fed z Filadelfii za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - USA - Tygodniowa liczba wniosków o zasiłek dla bezrobotnych"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - strefa euro - Wystąpienie publiczne prezeski ECB (Christine Lagarde)"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.50 - USA - Wystąpienie szefowej Fed z Cleveland (Beth Hammack)"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 - USA - Indeks wskaźników wyprzedzających - Conference Board za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.30 - USA - Tygodniowa zmiana zapasów gazu"
+        },
+        {
+          "type": "paragraph",
+          "text": "17.00 - USA - Indeks Kansas City Fed dla przemysłu"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.30 - USA - Wystąpienie szefa Fed z Chicago (Austan Goolsbee)"
+        },
+        {
+          "type": "paragraph",
+          "text": "20.00 - USA - Wystąpienie szefa Fed z Richmond (Tom Barkin)"
+        },
+        {
+          "type": "paragraph",
+          "text": "20.15 - USA - Wystąpienie publiczne członka zarządu Fed (Michael S. Barr)"
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 20 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.30 - Japonia - Inflacja konsumencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.30 - USA - Wystąpienie szefowej Fed z Filadelfii (Anna Paulson)"
+        },
+        {
+          "type": "paragraph",
+          "text": "2.00 - Chiny - Decyzja ws. stóp procentowych"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Niemcy - Inflacja producencka za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Wielka Brytania - Sprzedaż detaliczna za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.00 - Szwecja - Stopa bezrobocia za X"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.45 - Francja - Indeks zaufania biznesu za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.15 - strefa euro - Wystąpienie publiczne prezeski ECB (Christine Lagarde)"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.30 - Polska - Koniunktura gospodarcza za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.00 - Niemcy - Wystąpienie publiczne szefa Bundesbanku (Joachim Nagel)"
+        },
+        {
+          "type": "paragraph",
+          "text": "14.30 - Kanada - Sprzedaż detaliczna za IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "16.00 - USA - Raport Uniwersytetu Michigan fin. za XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pat/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "16.11.2026 06:20",
+      "content_sha256": "423b6790d5c1f72b43d42ff29dfef70bf045ebfb9e7087972b135c582018e14c",
+      "date": "2026-11-16",
+      "saved_at": "2026-11-16T07:21:35+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
+      "published_time": "06:20",
+      "published_at": "2026-11-16T06:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W tym tygodniu w centrum uwagi rynków finansowych znajdą się wyniki Nvidii i IPO firmy Anthropic.",
+          "Rynek sztucznej inteligencji - który w ostatnich latach napędzał wzrosty na giełdzie, ale ostatnio wykazuje oznaki słabości - stanie w tym tygodniu przed podwójnym wyzwaniem: długo wyczekiwaną, pierwszą ofertą publiczną firmy Anthropic oraz wynikami kwartalnymi borykającego się z problemami giganta branży półprzewodników – firmy Nvidia.",
+          "W ramach pierwszej oferty publicznej Anthropic ma osiągnąć wycenę na poziomie nawet 1,4 biliona dolarów; firma wraz z niektórymi inwestorami zamierza pozyskać do 64,4 miliarda dolarów poprzez sprzedaż 825 milionów akcji - wskazuje agencja Reuters."
+        ],
+        "interest_score": 53,
+        "impact_score": 44,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "W tym tygodniu w centrum uwagi rynków finansowych znajdą się wyniki Nvidii i IPO firmy Anthropic."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Komisja Europejska przedstawi prognozy gospodarcze."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "423b6790d5c1f72b43d42ff29dfef70bf045ebfb9e7087972b135c582018e14c"
+      }
+    },
     {
       "id": "7a60627bacf3524b",
       "title": "21% Rocznie 442 EXTRA | Podcast | Jak inwestować - Allegro, Eurocash, Ten Square Games, PCC Rokita, CD PROJEKT",
@@ -192,7 +3197,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-16T00:25:21+00:00",
+      "discovered_at": "2026-11-16T07:21:35+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -331,7 +3336,7 @@
       "published_display": "15.11.2026 20:02",
       "content_sha256": "adc9f7944662f1dcf761e0b95de1a36366b6e253b8082f2dad12ac6c747597e2",
       "saved_at": "2026-11-15T20:37:35+00:00",
-      "content_checked_at": "2026-11-16T00:25:21+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2178,7 +5183,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-16T00:25:21+00:00",
+      "discovered_at": "2026-11-16T07:21:35+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2549,7 +5554,7 @@
       "published_display": "13.11.2026 21:02",
       "content_sha256": "40034dc9b650a89153884b1e54aebfc71426a9b638ddd0b70c5c2c2a8ff8ab41",
       "saved_at": "2026-11-13T22:55:58+00:00",
-      "content_checked_at": "2026-11-16T00:25:21+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -4834,7 +7839,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-16T00:25:21+00:00",
+      "discovered_at": "2026-11-16T07:21:35+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -5173,7 +8178,7 @@
       "published_display": "13.11.2026 17:08",
       "content_sha256": "2f6fded69ce5d3683472218cff850a50bec549462bea50d7ba45371c994eea4e",
       "saved_at": "2026-11-13T17:25:29+00:00",
-      "content_checked_at": "2026-11-16T00:25:21+00:00",
+      "content_checked_at": "2026-11-16T07:21:35+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -493862,7 +496867,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493880,7 +496885,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493899,7 +496904,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493917,7 +496922,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493935,7 +496940,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493953,7 +496958,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493971,7 +496976,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -493989,7 +496994,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494007,7 +497012,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494025,7 +497030,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494357,7 +497362,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494375,7 +497380,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494393,7 +497398,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494411,7 +497416,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494431,7 +497436,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494449,7 +497454,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494467,7 +497472,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494485,7 +497490,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494505,7 +497510,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494523,7 +497528,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494541,7 +497546,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494559,7 +497564,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494577,7 +497582,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494597,7 +497602,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494615,7 +497620,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494633,7 +497638,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494651,7 +497656,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494672,7 +497677,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494690,7 +497695,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494708,7 +497713,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494729,7 +497734,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494747,7 +497752,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 130,
+      "attempts": 131,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -494765,7 +497770,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494783,7 +497788,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494801,7 +497806,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494819,7 +497824,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494837,7 +497842,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494855,7 +497860,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494875,7 +497880,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494893,7 +497898,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494913,7 +497918,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494931,7 +497936,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494949,7 +497954,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494967,7 +497972,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -494987,7 +497992,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495005,7 +498010,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495023,7 +498028,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495041,7 +498046,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495061,7 +498066,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495079,7 +498084,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495097,7 +498102,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495115,7 +498120,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495133,7 +498138,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495153,7 +498158,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495171,7 +498176,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495189,7 +498194,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495207,7 +498212,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -495225,7 +498230,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -495243,7 +498248,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -495261,7 +498266,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -495279,7 +498284,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -495297,11 +498302,19 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 131,
+      "attempts": 132,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
       "error": "ValueError"
@@ -495540,74 +498553,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
       "error": "ValueError"
     }
   ],
