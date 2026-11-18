@@ -1,8 +1,1170 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-17T18:38:12+00:00",
+  "last_checked": "2026-11-18T01:22:08+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "85c2e72da26e87c5",
+      "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street w oczekiwaniu na wyniki Nvidii",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-spadki-na-wall-street-w-oczekiwaniu-na-wyniki-nvidii",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro"
+      ],
+      "companies": [
+        "XTB"
+      ],
+      "match_reasons": {
+        "makro": [
+          "Temat: Nasdaq"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-18T01:22:08+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Wtorkowa sesja na Wall Street zakończyła się sporymi spadkami głównych indeksów, a Dow Jones zniżkował ponad 800 pkt. Wyprzedaż akcji producentów półprzewodników przed publikacją kwartalnych wyników Nvidii ciążyła indeksowi Nasdaq Composite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu spadł o 1,64 proc. i wyniósł 50.759,42 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia stracił 1,03 proc. i wyniósł 7.340,53 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 0,74 proc. do 24.328,38 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o 1,4 proc. i wynosi 2.704,4 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek po sesji raport finansowy za III kw. przedstawi spółka Nvidia. Według danych LSEG analitycy przewidują wzrost zysków o 90 proc. przy przychodach wynoszących 109 mld dolarów w trzecim kwartale roku obrotowego spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania Nvidii na zakończeniu wtorkowej sesji spadły blisko 0,5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W oczekiwaniu na wyniki finansowe Nvidii nie ulega wątpliwości, że na kierunek notowań spółki wpłynie to, kto zostanie jej kolejnym dyrektorem generalnym (...), a także skala negatywnego wpływu zmian w polityce Stanów Zjednoczonych na działalność Nvidii w Chinach, zarówno bezpośrednią, jak i pośrednią. Uważam jednak, że najważniejszym czynnikiem będzie ogólny poziom nakładów inwestycyjnych w branży\" – napisał Peter Boockvar, dyrektor inwestycyjny One Point BFG Wealth Partners."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Akcje Nvidii spadają nie tylko z powodu odejścia Jensena Huanga i wzmożonej kontroli dotyczącej działalności spółki w Chinach. Ostatecznie Nvidia jest również jednym z dostawców infrastruktury niezbędnej do rozbudowy centrów danych, a obserwowaliśmy już, co stało się z notowaniami wielu podobnych spółek; ich akcje gwałtownie potaniały\" – dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odejście Jensena Huanga ze stanowiska prezesa Nvidii w zeszłym tygodniu skierowało uwagę na wyniki firmy, z powodu obaw o obniżenie marż i odpływ gotówki, biorąc pod uwagę ogromny wpływ firmy na ekosystem sztucznej inteligencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Zyski i sytuacja po odejściu Jensena Huanga to nie jedyne punkty zainteresowania w dzisiejszym wieczornym raporcie finansowym. Inwestorzy chcą również wiedzieć, jak długo cykl nakładów inwestycyjnych największych spółek technologicznych utrzyma wzrost sprzedaży Nvidii\" – powiedziała Kathleen Brooks, dyrektorka ds. analiz w XTB."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wyniki finansowe będą bardzo mocne. Nie musi to jednak stanowić wsparcia dla rynku, zwłaszcza że dzieje się obecnie tak wiele innych rzeczy\" – powiedział Neil Wilson, strateg w Saxo UK."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agencja Reutera podała, powołując się na trzy źródła, że zarząd Nvidii nie rozważa powrotu założyciela na stanowisko prezesa w związku z kampanią na rzecz jego przywrócenia na stanowisko, która zyskała poparcie Elona Muska i innych osobistości z Doliny Krzemowej. Huang zrezygnował ze stanowiska w zeszłym tygodniu po ujawnieniu romansów pozamałżeńskich, w tym romansu z bizneswoman podejrzewaną przez USA o bycie chińskim szpiegiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje spółki straciły w tym miesiącu niemal 26 proc., co oznacza, że Nvidia zmierza w kierunku największego miesięcznego spadku od kwietnia 2022 r., kiedy jej notowania obniżyły się o 32 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Sytuacja na rynku wydaje się coraz bardziej niestabilna w miarę zanikania premii związanej ze sztuczną inteligencją, uwzględnianej w wycenie Nvidii, oraz ponownej oceny przez inwestorów trwałości ekosystemu zbudowanego wokół dominującej pozycji spółki\" – powiedział Ben Emons, założyciel FedWatch Advisors."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Otoczenie to sprzyja strategii inwestycyjnej opartej na rosnącym zróżnicowaniu stóp zwrotu z poszczególnych akcji +dispersion trade+, stopniowo ograniczając wyjątkowo wysoką koncentrację, która dotychczas charakteryzowała indeksy S&P500 i Nasdaq\" – dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podała dyrektor inwestycyjna Laffer Tengler Investments, Nancy Tengler, wyniki Nvidii mogą doprowadzić do wznowienia programu skupu akcji własnych, co powinno stworzyć wsparcie dla kursu i przyczynić się do wzrostu notowań."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inni producenci układów scalonych zniżkowali. Akcje Advanced Micro Devices straciły 0,2 proc., podczas gdy notowania Micron Technology spadły o 0,9 proc. Akcje Marvell Technology zyskały 2,3 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nastroje wokół branży AI mogą zostać poddane kolejnej próbie jeszcze w tym tygodniu, kiedy to na rynku ma zadebiutować firma Anthropic, twórca chatbota Claude."
+        },
+        {
+          "type": "paragraph",
+          "text": "Firma Anthropic poinformowała we wtorek w złożonym dokumencie, że zgodnie z planem zamierza ustalić cenę w ramach swojej pierwszej oferty publicznej na poziomie 70–78 dolarów za akcję. Wycena w ramach IPO spółki ma zostać ostatecznie ustalona w środę, a dzień później rozpoczną się notowania jej akcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Natomiast według osób zaznajomionych ze sprawą, spółka sygnalizuje, że cena emisyjna akcji może zostać ustalona przy górnej granicy wcześniej ogłoszonego przedziału lub nawet powyżej niego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Negatywnie na nastroje rynkowe wpłynęły też we wtorek doniesienia CNN o tym, że wewnętrzna sieć łączności Agencji Bezpieczeństwa Narodowego (NSA) uległa awarii. Jak dotąd nie odnotowano oznak, że jest to efekt cyberataku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Home Depot spadły ok. 2,5 proc. po tym, jak detalista ogłosił, że w przyszłym tygodniu stanowisko dyrektora generalnego obejmie nowa osoba, co wpłynęło negatywnie na indeks Dow Jones. Przyćmiło to lepsze od oczekiwań wyniki kwartalne."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek inwestorzy analizowali również szereg danych makroekonomicznych, w tym październikowe dane dotyczące sprzedaży detalicznej oraz cen importowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż detaliczna i gastronomiczna w Stanach Zjednoczonych wzrosła w październiku o 0,2 proc. mdm, do 748,2 mld USD, zgodnie z oczekiwaniami analityków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po wyłączeniu charakteryzujących się dużą zmiennością kategorii paliw i samochodów sprzedaż detaliczna zwiększyła się o 0,6 proc. w porównaniu z poprzednim miesiącem. Wynik ten przewyższył oczekiwania analityków z Wall Street, którzy prognozowali wzrost o 0,4 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zniżkują o 0,1 proc. do 85,63 USD za baryłkę, a styczniowe futures na Brent rosną o 0,4 proc. do 92,82 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "hum/ pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "17.11.2026 22:13",
+      "content_sha256": "4558cb543e2c12bf224031cf740adc95a37922d766edadc3a1734584dfbc79f4",
+      "date": "2026-11-17",
+      "saved_at": "2026-11-18T01:22:08+00:00",
+      "content_checked_at": "2026-11-18T01:22:08+00:00",
+      "published_time": "22:13",
+      "published_at": "2026-11-17T22:13+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Wtorkowa sesja na Wall Street zakończyła się sporymi spadkami głównych indeksów, a Dow Jones zniżkował ponad 800 pkt.",
+          "\"W oczekiwaniu na wyniki finansowe Nvidii nie ulega wątpliwości, że na kierunek notowań spółki wpłynie to, kto zostanie jej kolejnym dyrektorem generalnym (...), a także skala negatywnego wpływu zmian w polityce Stanów Zjednoczonych na działalność Nvidii w Chinach, zarówno bezpośrednią, jak i pośrednią.",
+          "Wynik ten przewyższył oczekiwania analityków z Wall Street, którzy prognozowali wzrost o 0,4 proc."
+        ],
+        "interest_score": 61,
+        "impact_score": 54,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Wyprzedaż akcji producentów półprzewodników przed publikacją kwartalnych wyników Nvidii ciążyła indeksowi Nasdaq Composite."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "\"W oczekiwaniu na wyniki finansowe Nvidii nie ulega wątpliwości, że na kierunek notowań spółki wpłynie to, kto zostanie jej kolejnym dyrektorem generalnym (...), a także skala negatywnego wpływu zmian w polityce Stanów Zjednoczonych na działalność Nvidii w Chinach, zarówno bezpośrednią, jak i pośrednią."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4558cb543e2c12bf224031cf740adc95a37922d766edadc3a1734584dfbc79f4"
+      }
+    },
+    {
+      "id": "d92efb37aab7e225",
+      "title": "Zabka Group przyspiesza rozliczenie programu motywacyjnego; kończy nabywanie akcji własnych",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261117/zabka-group-przyspiesza-rozliczenie-programu-motywacyjnego-konczy-nabywanie",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Żabka"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Żabka"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-18T01:22:08+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Rada Dyrektorów Zabka Group zatwierdziła zmiany regulaminu długoterminowego programu motywacyjnego na lata 2025-2027 oraz warunki przyspieszonego rozliczenia tego programu - podała spółka w komunikacie. Jak dodano, grupa zakończyła nabywanie akcji własnych w ramach programu skupu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, uchwały Rady Dyrektorów zostały podjęte w związku z trwającym wezwaniem do zapisywania się na sprzedaż akcji spółki, ogłoszonym 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc., którego okres przyjmowania zapisów upływa 2 grudnia 2026 r., oraz możliwością zmiany kontroli nad spółką w wyniku jego rozliczenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W ramach przyspieszonego rozliczenia uczestnicy LTIP 2025-2027, w tym członkowie Komitetu Zarządzającego (Management Committee) spółki, nabędą uprawnienia (vesting) do części akcji spółki, do których są lub byliby uprawnieni, przed pierwotnymi terminami, a akcje te zostaną im wydane (delivery) przed upływem okresu przyjmowania zapisów w wezwaniu\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Na potrzeby przyspieszonego rozliczenia jednostek PSU (Performance Stock Units) warunki dotyczące wyników (Performance Conditions) zostaną rozliczone przy założeniu osiągnięcia celów na poziomie 100 proc., a przedterminowe wydanie obejmie poza akcjami za rok obrotowy 2026 również akcje odroczone za rok obrotowy 2025 (w części objętej rocznym okresem odroczenia)\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka poinformowała, że w odniesieniu do Tomasza Suchańskiego oraz Jolanty Bańczerowskiej przyspieszone rozliczenie obejmie wszystkie jednostki PSU, do których są oni uprawnieni, w tym jednostki PSU za rok obrotowy 2027."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zabka Group poinformowała także, że nabyła liczbę akcji własnych wymaganą do rozliczenia programu motywacyjnego 2025-2027 w ramach przyspieszonego rozliczenia (7.112.357 akcji) i nie będzie zawierała dalszych transakcji nabycia akcji własnych w ramach trwającego wciąż programu skupu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka posiada 7.190.000 akcji własnych, stanowiących ok. 0,72 proc. kapitału zakładowego i uprawniających do ok. 0,72 proc. ogólnej liczby głosów na walnym."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "17.11.2026 22:02",
+      "content_sha256": "13983b394d62acf31c321cdc731455b4736a6935d0ea8c12ccdc8a7ed4e70673",
+      "date": "2026-11-17",
+      "saved_at": "2026-11-18T01:22:08+00:00",
+      "content_checked_at": "2026-11-18T01:22:08+00:00",
+      "published_time": "22:02",
+      "published_at": "2026-11-17T22:02+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Rada Dyrektorów Zabka Group zatwierdziła zmiany regulaminu długoterminowego programu motywacyjnego na lata 2025-2027 oraz warunki przyspieszonego rozliczenia tego programu - podała spółka w komunikacie.",
+          "Jak dodano, grupa zakończyła nabywanie akcji własnych w ramach programu skupu.",
+          "Zabka Group poinformowała także, że nabyła liczbę akcji własnych wymaganą do rozliczenia programu motywacyjnego 2025-2027 w ramach przyspieszonego rozliczenia (7.112.357 akcji) i nie będzie zawierała dalszych transakcji nabycia akcji własnych w ramach trwającego wciąż programu skupu."
+        ],
+        "interest_score": 65,
+        "impact_score": 58,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Jak podano, uchwały Rady Dyrektorów zostały podjęte w związku z trwającym wezwaniem do zapisywania się na sprzedaż akcji spółki, ogłoszonym 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc., którego okres przyjmowania zapisów upływa 2 grudnia 2026 r., oraz możliwością zmiany kontroli nad spółką w wyniku jego rozliczenia."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Jak podano, uchwały Rady Dyrektorów zostały podjęte w związku z trwającym wezwaniem do zapisywania się na sprzedaż akcji spółki, ogłoszonym 26 sierpnia 2026 r. przez Alimentation Couche-Tard Inc., którego okres przyjmowania zapisów upływa 2 grudnia 2026 r., oraz możliwością zmiany kontroli nad spółką w wyniku jego rozliczenia."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "13983b394d62acf31c321cdc731455b4736a6935d0ea8c12ccdc8a7ed4e70673"
+      }
+    },
+    {
+      "id": "ef778660d57d11ec",
+      "title": "Skrót wiadomości - wtorek, 17 listopada, 21.25",
+      "date": "2026-11-17",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261117/skrot-wiadomosci-wtorek-17-listopada-2125",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "attempts": 0,
+      "discovered_at": "2026-11-18T01:22:08+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stosunkowo wysokie wykorzystanie mocy produkcyjnych w polskiej gospodarce pozostawia ograniczone możliwości zwiększenia produkcji zbrojeniowej w perspektywie krótkoterminowej bez nasilania presji inflacyjnej - ocenił w najnowszym raporcie Europejski Bank Odbudowy i Rozwoju."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska prognozuje spowolnienie wzrostu gospodarczego Polski w 2027 r. do 2,7 proc. z 3,5 proc. w 2026 r.; w 2028 r. KE prognozuje wzrost na poziomie 2,7 proc. - wynika z jesiennej rundy prognoz KE. Komisja szacuje wzrost inflacji HICP w Polsce w 2027 r. do 4,4 proc. z 3,3 proc. z 2026 r. W 2028 r. inflacja HICP ma obniżyć się do 3,9 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska prognozuje, że deficyt sektora general government (gg) w Polsce w 2027 r. utrzyma się na poziomie 7,1 proc. PKB, a w 2028 r. wzrośnie do 7,2 proc. PKB, przy założeniu niezmienionej polityki - podano w jesiennych prognozach KE. Bilans ryzyk wskazuje jednak na możliwy, wyższy deficyt w kolejnych latach. Dług sektora wzrośnie z kolei z 59,6 proc. PKB w 2025 r. do 73,5 proc. PKB do 2028 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po objęciu funkcji w zarządzie NBP pierwsza wiceprezes NBP Marta Kightley objęła nadzór nad Departamentem Krajowym oraz Administracji, Ludwik Kotecki nad Dep. Statystyki, a Przemysław Litwiniuk nad Dep. Rozliczeń Transakcji Finansowych - wynika ze schematu organizacyjnego NBP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaufanie niemieckich analityków i inwestorów instytucjonalnych w listopadzie poprawiło się - wynika z danych Instytutu ZEW. Raport ZEW pokazał, że indeks mierzący oczekiwania tych grup co do wzrostu gospodarczego Niemiec wyniósł +35,6 pkt. Analitycy spodziewali się indeksu na poziomie +28,8 pkt. wobec +28,1 pkt. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stopa bezrobocia w Wielkiej Brytanii we wrześniu wyniosła 4,6 proc., wobec 4,7 proc. miesiąc wcześniej - podało w komunikacie biuro statystyczne. Analitycy spodziewali się, że w tym czasie stopa bezrobocia wyniesie 4,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Narodowy Bank Węgier (MNB) pozostawił bez zmian referencyjną, 3-miesięczną depozytową stopę na poziomie 5,50 proc. - poinformował bank po zakończeniu posiedzenia. Decyzja była zgodna z oczekiwaniami rynku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż detaliczna w USA w październiku wzrosła o 0,2 proc. miesiąc do miesiąca - poinformowali statystycy Departamentu Handlu. Analitycy oczekiwali, że sprzedaż detaliczna wzrośnie o 0,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkcja przemysłowa w USA w październiku spadła o 0,4 proc. mdm - podała Rezerwa Federalna USA. Oczekiwano, że produkcja wzrośnie o 0,1 proc. mdm wobec wzrostu o 0,7 proc. miesiąc wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks nastrojów wśród amerykańskich firm budowlanych, przygotowany przez National Association of Home Builders (NAHB), spadł w listopadzie do 25 pkt. z 29 pkt. w poprzednim miesiącu - poinformowała NAHB w komunikacie. Indeks znajduje się na najniższym poziomie od kwietnia 2012 r."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank Gospodarstwa Krajowego wycenił 10-letnie obligacje benchmarkowe nominowane w euro, emitowane na rzecz Krajowego Funduszu Drogowego, o terminie wykupu 23 listopada 2036 roku. Wartość nominalna emisji wyniosła 750 mln euro przy popycie ze strony inwestorów wynoszącym ponad 2,3 mld euro - podał bank w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nabywcami wyemitowanych w poniedziałek przez Bank Gospodarstwa Krajowego obligacji w euro były głównie fundusze inwestycyjne - podał BGK w komunikacie. Największy popyt zgłaszali inwestorzy z Wielkiej Brytanii, Austrii, Niemiec i Szwajcarii."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto jednostki dominującej Wirtualnej Polski wyniósł w trzecim kwartale 2026 roku 92,7 mln zł, w porównaniu do 97,7 mln zł zysku przed rokiem - podała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał zysk na poziomie 90,8 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto j.d. Inter Cars w III kw. 2026 r. wyniósł 290,7 mln zł wobec 237,8 mln zł zysku rok wcześniej, a zysk operacyjny wyniósł 414,5 mln zł wobec 328,7 mln zł przed rokiem - podała spółka w raporcie. Konsensus PAP Biznes zakładał 298,2 mln zł zysku netto j.d. i 419,9 mln zł EBIT."
+        },
+        {
+          "type": "paragraph",
+          "text": "Victoria Dom zakłada w 2026 r. sprzedaż na poziomie 1,6 tys. mieszkań, a w 2027 r. chce zwiększyć sprzedaż o ok. 20 proc. - poinformował PAP Biznes wiceprezes Waldemar Wasiluk. W jego ocenie, nie ma przesłanek do spadku cen mieszkań, a nadpodaż gotowych mieszkań z początku roku nie jest już problemem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skorygowana EBITDA Grupy Pracuj w trzecim kwartale 2026 r. wyniosła 106,5 mln zł, wobec 97,4 mln zł rok wcześniej - wynika z raportu spółki. Konsensus PAP Biznes zakładał 100,8 mln zł skorygowanej EBITDA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fresh Inset, polska spółka deep-tech, złożyła prospekt w KNF i planuje debiut na rynku regulowanym GPW w pierwszym kwartale 2027 r. - podała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wynik EBITDAaL Play wzrósł w III kw. 2026 roku o 4,8 proc. rdr do 1,079 mld zł. Przychody wzrosły o 5,3 proc. rdr do 2,8 mld zł - podała spółka w raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transakcja sprzedaży Orlen Paczka na rzecz Poczty Polskiej idzie w dobrą stronę, a Poczta ma zapewnione finansowanie na ten cel - poinformował w TVP Info minister aktywów państwowych Wojciech Balczun."
+        },
+        {
+          "type": "paragraph",
+          "text": "Orange przeznaczy w latach 2027-2032 dodatkowe 250 mln euro dla Orange Ventures - swojej spółki zależnej corporate venture capital - poinformował podczas Orange Open Tech w Paryżu dyrektor ds. technologii i innowacji Orange, Bruno Zerbib. 200 mln euro zostanie zainwestowane w Europie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Action szacuje przychody ze sprzedaży w trzecim kwartale 2026 roku na 926,1 mln zł, w porównaniu do 744,6 mln zł rok wcześniej - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Pracuj podtrzymuje, że w kolejnych kwartałach spodziewa się niskiego dwucyfrowego wzrostu przychodów z serwisów rekrutacyjnych - poinformowali przedstawiciele spółki. Zarząd liczy na przekroczenie 400 mln zł skor. EBITDA w 2027 r. Grupa Pracuj szuka celów akwizycyjnych zarówno w obszarze pre-, jak i post-hire, rozmów w sprawie potencjalnych przejęć jest więcej niż rok czy dwa lata temu - poinformowali przedstawiciele Grupy Pracuj podczas wideokonferencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erbud liczy na \"dużo lepszy\" rok 2027 w zakresie przychodów i marż dzięki powrotowi do wysokiego poziomu portfela zamówień - poinformował prezes Dariusz Grzeszczak. Prezes widzi potencjał, by Onde rozwijało się nie tylko w OZE, ale też w energetyce konwencjonalnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd Atlanty Poland przedstawi radzie nadzorczej wniosek dotyczący sposobu rozporządzenia zyskiem netto w kwocie 17,02 mln zł osiągniętym w roku obrotowym 2025/2026, w tym przeznaczenia 5,18 mln zł na wypłatę dywidendy - podał dystrybutor bakalii w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - podała grupa w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Współtworzony przez Syglass - spółkę zależną Sygnis - projekt w zakresie technologii dual use został zakwalifikowany do programu PhotonHub finansowanego ze środków unijnych - podał Sygnis w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "HalfPrice, off-price'owy szyld z portfolio grupy Modivo, rozpoczął sprzedaż w Belgii - poinformowało Modivo Platform w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokuratura Regionalna w Warszawie umorzyła śledztwo w zakresie szkody poniesionej przez PKP Cargo w związku z realizacją decyzji Prezesa Rady Ministrów z 2022 r., dotyczącej priorytetowego transportu węgla na terenie kraju - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scope Fluidics zaktualizował model finansowania nowych spółek celowych wywodzących się ze Scope Discovery - podała spółka w komunikacie. Aktualizacja zakłada, że projekty w ramach Scope Discovery (projekty DSC) przed decyzją o zakwalifikowaniu do dalszego rozwoju w ramach nowej spółki celowej będą poddawane weryfikacji rynkowej polegającej na pozyskaniu partnera finansowego lub strategicznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa OT Logistics miała w okresie I-III kw. 2026 roku 47,1 mln zł EBITDA, co oznacza wzrost o 65,8 proc. rdr oraz 12 mln zł straty netto wobec 27,1 mln zł straty rok wcześniej - poinformowała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "cyber_Folks z dużym komfortem podchodzi do realizacji celów ESOP zarówno w 2026 r., jak i w 2027 r. - poinformowali przedstawiciele spółki na konferencji prasowej. Dodali, że spodziewają się bardzo mocnego IV kwartału w segmencie e-commerce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Celon Pharma zawarł umowę o dofinansowanie projektu JARVIS dot. rozwoju i oceny klinicznej innowacyjnego dualnego inhibitora jako kandydata na lek dla pacjentów chorych na miastenię - poinformowała spółka w komunikacie. Kwota przyznanego dofinansowania wynosi 33,87 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Green Lanes zakończył proces budowania księgi popytu na nie więcej niż 500.000 nowo emitowanych akcji serii I i ustalił cenę emisyjną akcji na 10 zł - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amerykański Urząd ds. Kontroli Aktywów Zagranicznych (OFAC) przedłużył zwolnienie z sankcji dotyczących importu rosyjskich surowców energetycznych węgierskim koncernom MOL i MVM - podało we wtorek węgierskie ministerstwo spraw zagranicznych."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wtorkowe notowania polskiej waluty przebiegały spokojnie, przy niewielkich zmianach kursów EUR/PLN i USD/PLN. Zdaniem analityków, na notowania złotego i krajowy rynek długu należy patrzeć przez pryzmat amerykańskiej waluty. Dopóki dolar zyskuje, złoty może być pod presją, a rentowności obligacji mogą rosnąć."
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,0989 USD i 175,05 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rząd przyjął projekt ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2027 r., dzięki której cena samego gazu w taryfach m.in. dla gospodarstw domowych nie przekroczy 197,29 zł/MWh, czyli utrzyma się na obecnym poziomie - poinformował po posiedzeniu Rady Ministrów rzecznik rządu Adam Szłapka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Ministrów przyjęła projekt nowelizacji przepisów dotyczących zapasów ropy naftowej i paliw, co ma zapewnić ciągłość utrzymywania zapasów, ograniczyć możliwość unikania obowiązków przez przedsiębiorców i usprawnić zarządzanie zapasami interwencyjnymi - podał w komunikacie resort energii (ME)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rząd chce wydłużyć działanie przepisów służących ustalaniu sposobu wykonania obowiązku dywersyfikacji dostaw gazu ziemnego z zagranicy na lata 2027–2036 - podano w wykazie prac legislacyjnych rządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "W najbliższych tygodniach rząd podejmie decyzję, czy pakiet Ceny Paliwa Niżej powinien być w całości lub częściowo przedłużony w pierwszych miesiącach 2027 r. - poinformował minister finansów i gospodarki Andrzej Domański. Obecnie CPN ma działać jedynie do końca roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "W środę 18 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 5,99 zł/l, dla benzyny Pb98 6,64 zł/l, a dla oleju napędowego 7,57 zł/l - poinformował minister energii w obwieszczeniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do Urzędu Ochrony Konkurencji i Konsumentów wpłynął wniosek ws. połączenia Polskiej Grupy Górniczej z siedzibą w Katowicach oraz spółki Węglokoks Kraj z siedzibą w Bytomiu, poprzez przejęcie WGK przez PGG - poinformował urząd."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo Energii planuje przyjąć w I kw. 2027 r. projekt zakładający stworzenie podstawowych warunków funkcjonowania rynku wodoru bez przenoszenia na ten sektor pełnego reżimu regulacyjnego właściwego dla dojrzałego rynku gazu ziemnego - podano w wykazie prac legislacyjnych rządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obok rozwiązań dotyczących cen paliw i gazu, rząd będzie pracował też nad rozwiązaniami dotyczącymi cen energii elektrycznej - wynika z wypowiedzi premiera Donalda Tuska, podczas wystąpienia przed wtorkowym posiedzeniem rządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moc zainstalowana farm wiatrowych w polskim systemie elektroenergetycznym na dzień 1 listopada 2026 roku wynosiła 12.076 MW, o 8,1 proc. więcej w ujęciu rok do roku - wynika z danych PSE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny gazu w Europie rosną w trakcie wtorkowego handlu, po zniżce w poniedziałek o prawie 7 proc. Inwestorów niepokoją trwające ataki Iranu na bazy USA na Bliskim Wschodzie. Do tego wkrótce może być wyraźnie chłodniej, co spowoduje wzrost zapotrzebowania na ogrzewanie - informują maklerzy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogłoszone niedawno możliwe opóźnienie i zwiększenie budżetu projektu budowy pierwszego małego reaktora BWRX-300 w kanadyjskim Darlington było zasadniczo spodziewane - poinformował Chief Corporate Officer w GE Vernova, Roger Martella, podczas warsztatów BWRX-300, organizowanych w Warszawie przez Atlantic Council."
+        },
+        {
+          "type": "paragraph",
+          "text": "Węgierski parlament przyjął w poniedziałek umowę o współpracy ze Stanami Zjednoczonymi w dziedzinie energii jądrowej. Zawarł ją w lutym br. poprzedni rząd Węgier, premiera Viktora Orbana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pływający pod flagą Liberii tankowiec z gazem płynnym (LPG) Gas Husky zatonął w nocy z poniedziałku na wtorek na Morzu Czarnym u wybrzeży Bułgarii - poinformowało bułgarskie ministerstwo obrony, na które powołała się agencja Reutera. Trwa akcja poszukiwawczo-ratunkowa."
+        },
+        {
+          "type": "heading",
+          "text": "NIERUCHOMOŚCI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ceny transakcyjne na 7 największych rynkach nieruchomości w Polsce w III kwartale wzrosły rdr o 1,6 proc. na rynku pierwotnym - podał NBP. NBP podaje dane dla miast: Gdańsk, Gdynia, Kraków, Łódź, Poznań, Warszawa i Wrocław."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dane o wykonaniu budżetu za październik wpisują się w poprawę strony dochodowej widoczną w danych dla całego sektora; ryzyko przekroczenia tegorocznego limitu deficytu budżetowego jest marginalne - oceniają w porannym raporcie ekonomiści PKO BP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szczyt deficytu budżetowego najprawdopodobniej już minął - oceniają ekonomiści Banku Pekao, komentując październikowe dane resortu finansów o wykonaniu budżetu państwa."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister aktywów państwowych Wojciech Balczun ocenia, że wokół potencjalnego tematu sprzedaży udziałów w Rafinerii Gdańskiej przez Saudi Aramco jest dużo szumu informacyjnego, a Saudyjczycy nie zgłaszali do tej pory chęci sprzedaży rafinerii w Gdańsku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wzrost ruchu klientów związany z systemem kaucyjnym deklaruje 40 proc. badanych sklepów, jednak sieci handlowe nie są zgodne co do rentowności projektu. Największe problemy dotyczą logistyki odbiorów i integracji systemów IT - wynika z raportu ZEME opracowanego na podstawie badań Keralla Research."
+        },
+        {
+          "type": "paragraph",
+          "text": "W związku z długotrwałym zagrożeniem w przestrzeni powietrznej występującym przy granicy wschodniej rząd planuje w IV kw. przyjąć projekty rozporządzeń w sprawie wprowadzenia zakazów i ograniczeń w ruchu lotniczym - wynika z wykazu prac legislacyjnych i programowych Rady Ministrów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Panattoni wynajęło w Polsce ponad 338 tys. m kw. powierzchni w trzecim kwartale 2026 roku - podała spółka w komunikacie prasowym. W ciągu trzech miesięcy wskaźnik pustostanów w obiektach zrealizowanych przez firmę spadł z 3,52 do 2,68 proc., a zasoby istniejących budynków zwiększyły się od początku roku z 16,1 mln m kw. do 16,8 mln m kw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unum Życie TUiR chce objąć 1 mln klientów ochroną ubezpieczeniową do 2030 r. oraz osiągnąć 30 proc. wzrost zysku rocznie. Spółka zakłada w nowej strategii średnioroczny wzrost składki na poziomie 13 proc. - poinformował zarząd spółki na konferencji prasowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "W pierwszym kwartale 2027 r. rząd planuje przyjąć rozporządzenie, które z jednej strony zniesie obowiązek uzyskania decyzji środowiskowych przy niektórych inwestycjach np. tramwajowych, a w niektórych sytuacjach taki obowiązek wprowadzi - np. w przypadku wyprowadzania mocy z offshoru."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokurator generalny Kalifornii Rob Bonta poinformował w poniedziałek, że pozwał OpenAI w związku z atakiem jej modeli AI na Hugging Face i inne firmy. Zarzuty dotyczą „rozwijania niebezpiecznych produktów\", nieadekwatnych procedur bezpieczeństwa i stwarzania zagrożeń dla bezpieczeństwa publicznego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska uznała we wtorek, że chińska platforma zakupowa Temu mogła naruszyć przepisy unijnego aktu o usługach cyfrowych (DSA), ponieważ nie wdrożyła odpowiednich i skutecznych środków ograniczających ryzyko sprzedaży nielegalnych produktów."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm odrzucił we wtorek wniosek klubu Rozwój Plus o wyrażenie konstruktywnego wotum nieufności wobec rządu Donalda Tuska. Za odwołaniem rządu było 200 posłów, a przeciw 242."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marszałek Sejmu Włodzimierz Czarzasty ocenił we wtorek, że zawetowanie przez prezydenta Karola Nawrockiego noweli wdrażającej Akt o usługach cyfrowych (DSA) jest zupełnie niezrozumiałą decyzją. Jego zdaniem weto może wynikać m.in. z \"wpływu koncernów międzynarodowych\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk zaapelował do prezydenta Karola Nawrockiego, by przy kolejnej próbie wdrożenia Aktu o usługach cyfrowych (DSA) nie korzystał z prawa weta. - Panie prezydencie, przecież pan też ma dzieci — powiedział Tusk w nagraniu umieszczonym na portalu X."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na początku posiedzenia Sejm uczcił minutą ciszy pamięć ofiar tragicznej strzelaniny w Krakowie. To tragedia, której słowa nie potrafią wyrazić. Rodzinom zmarłych i ich bliskim składam najgłębsze kondolencje, rannym życzę szybkiego powrotu do zdrowia - powiedział marszałek Sejmu Włodzimierz Czarzasty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decyzja Narodowego Banku Polskiego o niefinansowaniu i nieprzekazywaniu środków do takiej instytucji jak Trybunał Konstytucyjny „ma znamiona\" zamachu stanu - mówił we wtorek marszałek Sejmu Włodzimierz Czarzasty. To decyzja ewidentnie podjęta przez jedną osobę - prezesa NBP Adama Glapińskiego - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "62 proc. badanych uważa, że najlepszą reakcją na ewentualne ataki Rosji byłoby zestrzeliwanie rosyjskich dronów i rakiet nad terytorium Polski, ale bez podejmowania odwetowych działań militarnych - wynika z sondażu CBOS. Zbrojny atak Rosji na kraj NATO za prawdopodobny uznaje 42 proc. badanych; 48 proc. jest przeciwnego zdania."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wtorek weszło w życie rozporządzenie, zgodnie z którym czasowe ograniczenie prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy z Republiką Białorusi zostaje przedłużone o kolejne 60 dni. To już dziesiąte przedłużenie obowiązywania ograniczenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polacy na organizację tegorocznego Bożego Narodzenia planują przeznaczyć średnio 1410 zł, czyli o 23 zł więcej niż w 2025 r. - wynika z Barometru Providenta. Na same prezenty badani chcą wydać średnio 481 zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na wtorkowej sesji radni Mazowsza przyjęli uchwałę wprowadzającą wyższe opłaty za egzamin na prawo na jazdy. Opłata za część teoretyczną wzrośnie do 59,03 zł, a za część praktyczną do 238,26 zł i 298,36 zł w zależności od kategorii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sześcioro Polaków zostało oskarżonych o organizowanie transportu migrantów z Bliskiego Wschodu na teren Unii Europejskiej. Działali w ramach zorganizowanej grupy przestępczej. Akt oskarżenia w tej sprawie trafił już do sądu w Łodzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejmowa komisja etyki ukarała naganą posła Konfederacji Konrada Berkowicza za jego zachowanie wobec dziennikarki TVP Justyny Dobrosz - Oracz - poinformowała PAP szefowa komisji Ewa Schädler (Polska 2050). Z kolei jeden z liderów Konfederacji Sławomir Mentzen został ukarany upomnieniem za słowa odnoszące się do kobiet służących w Policji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policjanci z Gdańska zatrzymali 27-latka, który na jednym z portali społecznościowych pisał, że kontaktował się ze sprawcą zamachu w Krakowie i wie, gdzie dojdzie do ataków terrorystycznych w Polsce. Mężczyzna usłyszał zarzut zawiadomienia o fałszywym alarmie. Grozi mu do 8 lat pozbawienia wolności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prokuratura skierowała do Sądu Rejonowego w Oleśnicy akt oskarżenia przeciwko liderowi Konfederacji Korony Polskiej, europosłowi Grzegorzowi B. Jest jednym z siedmiu oskarżonych w sprawie wydarzeń w oleśnickim szpitalu z 2025 r., którzy wtargnęli do placówki i próbowali uniemożliwić pracę ginekolożce."
+        },
+        {
+          "type": "paragraph",
+          "text": "W Tatrach naliczono 872 kozice - 269 po polskiej i 603 po słowackiej stronie gór. To ok. 8 proc. więcej niż podczas ubiegłorocznego liczenia, kiedy zaobserwowano 805 tych chronionych zwierząt. Wynik może wskazywać na stabilizację liczebności populacji - poinformował Tatrzański Park Narodowy (TPN)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kraków zawiesza prace nad metrem z uwagi na brak środków rządowych i europejskich na ten cel – poinformował we wtorek PAP urząd miasta. Wiceprezydent Krakowa Jan Hoffman zastrzegł, że nie ma ostatecznej decyzji w tej sprawie."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz powiedział we wtorek po spotkaniu z podsekretarzem obrony USA Elbridge'em Colbym w Brukseli, że w Pentagonie jest zielone światło dla stałej amerykańskiej bazy w Polsce. Wyraził nadzieję, że zostanie to potwierdzone w Białym Domu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Władze w Manamie poinformowały, że we wtorek siły zbrojne Bahrajnu przechwyciły irańskie drony, wystrzelone w kierunku tego państwa. Wcześniej irański Korpus Strażników Rewolucji Islamskiej ogłosił, że zaatakował dronami amerykański system radarowy w bazie lotniczej Szejk Isa na terenie Bahrajnu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Niemcy przeznaczą kolejne około 273 mln euro na zakup amerykańskiego uzbrojenia dla Ukrainy, przede wszystkim pocisków do systemów Patriot - zapowiedział we wtorek niemiecki minister obrony Boris Pistorius na marginesie spotkania szefów resortów obrony państw UE w Brukseli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podczas nocnego ataku na Most Kerczeński, prowadzący z okupowanego przez Rosję Krymu do Kraju Krasnodarskiego, ukraińskie wojsko użyło pocisku manewrującego FP-5 Flamingo; rakieta trafiła w torowisko mostu - poinformował we wtorek portal Oboronka, specjalistyczny serwis portalu Ukrainska Prawda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosyjskie władze poinformowały, że wojska ukraińskie atakowały w nocy z poniedziałku na wtorek m.in. Moskwę oraz most prowadzący na okupowany przez Rosję Krym. Mer rosyjskiej stolicy Siergiej Sobianin przekazał, że na Moskwę wystrzelono około 800 dronów, z których 321 zniszczono. Rosyjski rząd zwołał po ataku nadzwyczajne posiedzenie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W wyniku rosyjskich ataków na Kijów tymczasowo wstrzymano ruch na Mostach Północnym i Południowym - poinformowała we wtorek kijowska miejska administracja państwowa. Na skutek ostrzałów w różnych regionach kraju zginęły cztery osoby, a 32 zostały ranne - podały władze lokalne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sztab Generalny Sił Zbrojnych Ukrainy poinformował we wtorek o uderzeniu w jeden z największych kompleksów petrochemicznych w Rosji, położony w Baszkirii, w odległości 1,5 tys. km od granic Ukrainy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ponad 15 mln wewnętrznych dokumentów Deutsche Banku, w tym blisko 9 mln e-maili, wyciekło i trafiło do ponad 50 redakcji - podały we wtorek media. Materiały ujawniają kulisy współpracy banku z rosyjskimi oligarchami oraz obsługi podejrzanych transakcji Jeffreya Epsteina i osób z jego otoczenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rządy Chin i Kanady porozumiały się we wtorek w sprawie nowych wzajemnych obniżek ceł na wybrane towary rolno-spożywcze oraz wyroby przemysłowe. Decyzję ogłoszono w Shenzhen przed szczytem Wspólnoty Gospodarczej Azji i Pacyfiku (APEC), po spotkaniu przywódców obu państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przywódczyni francuskiej skrajnej prawicy Marine Le Pen ogłosiła w poniedziałek, że jeżeli wiosną 2027 r. wygra wybory prezydenckie, Paryż będzie kontynuował dotychczasową pomoc dla Ukrainy w ramach już zawartych zobowiązań. Dodała, że Francja nie ma środków finansowych na nową pomoc dla Kijowa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosja kategorycznie sprzeciwia się ewentualnemu przystąpieniu Ukrainy do Sojuszu Północnoatlantyckiego - oświadczył we wtorek wiceminister spraw zagranicznych Rosji Siergiej Riabkow, cytowany przez agencję Interfax."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump oświadczył we wtorek w stolicy Filipin, Manili, że w chińskim Shenzhen przeprowadzi osobną rozmowę z przywódcą Rosji Władimirem Putinem, jeśli będzie to możliwe. W czwartek obaj politycy mają wziąć udział w szczycie trójstronnym z udziałem przywódcy ChRL Xi Jinpinga."
+        },
+        {
+          "type": "paragraph",
+          "text": "Irańska marynarka wojenna poinformowała w poniedziałek, że w ciągu ostatnich 24 godzin cztery tankowce stanęły w ogniu po wpłynięciu na miny morskie na wschód od cieśniny Ormuz. Organizacja Greenpeace ostrzegła, że wycieki ropy zagrażają bogatemu ekosystemowi regionu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Statek handlowy, który zatonął w poniedziałek na Morzu Czarnym u wybrzeży Bułgarii został trafiony przez drona morskiego - poinformowała agencja Reutera, powołując się na źródła zajmujące się bezpieczeństwem morskim. 12-osobowa załoga została uratowana przez bułgarską marynarkę wojenną."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump wezwał we wtorek przywódców państw Azji Południowo-Wschodniej na szczycie ASEAN w Manili do zwiększenia wydobycia minerałów krytycznych i magnesów. Zapewnił też o zaangażowaniu USA na rzecz suwerenności tych państw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Koncern Apple poinformował we wtorek, że szereg usług Apple, w tym sklep z aplikacjami AppStore i iCloud, zmagają się z awariami. Przyczyna jest nieznana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amerykańskie ministerstwa handlu i sprawiedliwości ujawniły, że prowadzą postępowanie karne wobec singapurskiej spółki Megaspeed, partnera Nvidii. Śledczy podejrzewają, że przedsiębiorstwo mogło omijać amerykańskie przepisy zakazujące sprzedaży zaawansowanych półprzewodników do określonych krajów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liderka francuskiej skrajnej prawicy Marine Le Pen przedstawiła we wtorek plany reformy krajowego systemu emerytalnego, obiecując utrzymanie niskiego wieku przejścia na emeryturę (od 60 lat). Zapowiedziała utworzenie powszechnego filaru kapitałowego, który sfinansowałby przyszłe emerytury."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cesarz jest nagi - tak efekty brexitu podsumował brytyjski premier Andy Burnham i zapowiedział w poniedziałek „nowe, bardziej pragmatyczne podejście do Unii Europejskiej\". Szef brytyjskiego rządu wyraził opinię, że brexit niepotrzebnie przyjął zbyt radykalną formę, wbrew obietnicom z kampanii referendalnej z 2016 r. i zaszkodził gospodarce, a w dodatku - wbrew deklaracjom jego architektów - nie pozwolił Londynowi na przejęcie kontroli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iran opracowuje plany ataku na urzędników administracji prezydenta Donalda Trumpa poprzez zdetonowanie tzw. brudnej bomby lub broni chemicznej w Waszyngtonie - poinformowała w poniedziałek telewizja CNN. Biały Dom twierdzi, że takie zagrożenie nie jest obecnie realne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tureckie siły bezpieczeństwa przeprowadziły we wtorek nalot na siedzibę jednej z największych stacji opozycyjnych w kraju, Sozcu TV - poinformował dziennik „Cumhuriyet\". Zatrzymano kilku członków kierownictwa telewizji, a do tymczasowego kierowania nią wyznaczono specjalnego zarządcę."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kazachstan i Uzbekistan uzgodniły wspólne działania na rzecz ochrony i odbudowy populacji suhaka stepowego poprzez m.in. ochronę szlaków migracyjnych, odtwarzanie naturalnych siedlisk i walkę z kłusownictwem - poinformowało kazachstańskie Ministerstwo Ekologii i Zasobów Naturalnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Donald Trump w 2015 r. przed ogłoszeniem startu w wyborach na prezydenta USA otrzymywał podejrzane płatności od klientów oddziału Danske Banku w Estonii, zamkniętego później z powodu prania pieniędzy – ustalił we wtorek duński dziennik „Berlingske”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wewnętrzna sieć łączności Agencji Bezpieczeństwa Narodowego (NSA) uległa awarii - podała stacja CNN. Jak dotąd nie odnotowano oznak, że jest to efekt cyberataku."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "asa/ osz/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "17.11.2026 21:34",
+      "content_sha256": "180972bcef17cd5c14e26239ed9242c81686338c053a19efb48f1dc19ab77f94",
+      "saved_at": "2026-11-18T01:22:08+00:00",
+      "content_checked_at": "2026-11-18T01:22:08+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Grupa Azoty",
+        "Modivo",
+        "OT Logistics",
+        "Orlen",
+        "PKO BP",
+        "Pekao"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: inflacj",
+          "Temat: PKB",
+          "Temat: NBP",
+          "Temat: EBC",
+          "Temat: rentowności"
+        ],
+        "finanse": [
+          "Firma: PKO BP",
+          "Firma: Pekao",
+          "Temat: bank",
+          "Temat: ubezpieczen",
+          "Temat: ubezpiecz",
+          "Temat: fundusz"
+        ],
+        "energia": [
+          "Firma: Orlen",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: OZE",
+          "Temat: ropy",
+          "Temat: paliw"
+        ],
+        "technologie": [
+          "Temat: AI",
+          "Temat: technologi"
+        ],
+        "przemysl": [
+          "Firma: OT Logistics",
+          "Firma: Grupa Azoty",
+          "Temat: przemysł",
+          "Temat: produkcj",
+          "Temat: logistyk",
+          "Temat: transport",
+          "Temat: zbrojeni"
+        ],
+        "konsumpcja": [
+          "Firma: Modivo",
+          "Temat: konsumen",
+          "Temat: detaliczn",
+          "Temat: e-commerce",
+          "Temat: sprzedaż detaliczna"
+        ],
+        "nieruchomosci": [
+          "Temat: nieruchomoś"
+        ]
+      },
+      "published_time": "21:34",
+      "published_at": "2026-11-17T21:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Komisja Europejska prognozuje spowolnienie wzrostu gospodarczego Polski w 2027 r. do 2,7 proc. z 3,5 proc. w 2026 r.; w 2028 r. KE prognozuje wzrost na poziomie 2,7 proc. - wynika z jesiennej rundy prognoz KE.",
+          "Grupa Action szacuje przychody ze sprzedaży w trzecim kwartale 2026 roku na 926,1 mln zł, w porównaniu do 744,6 mln zł rok wcześniej - podała spółka w komunikacie.",
+          "EBITDA w 2027 r. Grupa Pracuj szuka celów akwizycyjnych zarówno w obszarze pre-, jak i post-hire, rozmów w sprawie potencjalnych przejęć jest więcej niż rok czy dwa lata temu - poinformowali przedstawiciele Grupy Pracuj podczas wideokonferencji."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "bank*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "180972bcef17cd5c14e26239ed9242c81686338c053a19efb48f1dc19ab77f94"
+      }
+    },
+    {
+      "id": "20afa9ed0ab0c48b",
+      "title": "Grupa Azoty zawarła kolejne uzgodnienia dot. długoterminowego finansowania",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-azoty-zawarla-kolejne-uzgodnienia-dot-dlugoterminowego-finansowania",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [
+        "Grupa Azoty",
+        "Orlen",
+        "Pekao",
+        "Santander"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Firma: Grupa Azoty",
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-18T01:22:08+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - poinformowała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty podpisała list zobowiązujący (Commitment Letter) z Powszechną Kasą Oszczędności Bankiem Polskim, Bankiem Gospodarstwa Krajowego, ING Bankiem Śląskim, Erste Bank Polska, CaixaBank, Oddział w Polsce, Banco Santander Oddział we Frankfurcie, Erste Factoring sp. z o.o., ING Faktoring S.A., Pekao Faktoring sp. z o.o., Europejskim Bankiem Inwestycyjnym oraz Europejskim Bankiem Odbudowy i Rozwoju oraz Orlenem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano w komunikacie, na podstawie Commitment Letter każda ze stron zobowiązała się do wspierania i przeprowadzenia restrukturyzacji zadłużenia zgodnie z Warunkami i Zasadami Międzywierzycielskimi, w tym do negocjowania w dobrej wierze i możliwie szybkiego zawarcia długoterminowej dokumentacji restrukturyzacji zadłużenia, a także do niepodejmowania działań niezgodnych z tymi ustaleniami."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Podpisanie uzgodnień ze stronami finansującymi i Orlenem przybliża Grupę Azoty do zakończenia wielomiesięcznego procesu negocjacji dotyczących długoterminowego finansowania. Jest to jeden z elementów szerokiego procesu naprawczego, w którym osiągnęliśmy już istotne rezultaty – sąd zatwierdził układ z wierzycielami GA Polyolefins, akcjonariusze podjęli uchwałę w sprawie emisji nowych akcji, a wewnętrzna transformacja Grupy jest na zaawansowanym etapie. Jednocześnie, w wymagającym otoczeniu rynkowym, aktywnie dostosowujemy działalność operacyjną do zmieniających się warunków, koncentrując się na optymalizacji produkcji, sprzedaży i kosztów\" – powiedział, cytowany w komunikacie prasowym Marcin Celejewski, prezes Grupy Azoty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jacek Podgórski, wiceprezes Grupy Azoty dodał, że rozszerzono dotychczasowe uzgodnienia dotyczące restrukturyzacji zadłużenia Grupy Azoty. Do porozumienia przystąpił również Orlen, który podpisał list zobowiązujący obejmujący zmieniony term sheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ustalenia przewidują m.in. wydłużenie terminów płatności wybranych zobowiązań z tytułu dostaw gazu oraz określają zasady ich spłaty. Uzgodniliśmy także zasady umowy międzywierzycielskiej, regulującej kwestie zabezpieczeń na rzecz instytucji finansowych i Orlenu oraz kwestie kosztowe związane z restrukturyzacją zobowiązań finansowych i handlowych. To istotny krok w kierunku zawarcia długoterminowej umowy restrukturyzacyjnej\" - powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano w komunikacie, jednym z istotnych elementów uzgodnionych warunków jest pozyskanie co najmniej 500 mln zł z emisji akcji Grupy Azoty do 29 stycznia 2027 r. Zgodnie z harmonogramem do końca grudnia 2026 r. przewidziano zawarcie umowy inwestycyjnej z Funduszem Inwestycji Kapitałowych, umowy objęcia akcji oraz wpłatę ceny emisyjnej na rachunek domu maklerskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uzgodniony harmonogram zakłada wydłużenie terminu ostatecznej spłaty finansowania do 31 grudnia 2030 r. oraz karencję w spłacie rat kapitałowych do 30 czerwca 2027 r. Przewiduje również spłatę 25 proc. finansowania przed terminem ostatecznej spłaty, natomiast pozostałe 75 proc. będzie przypadać do spłaty na koniec 2030 r. Grupa Azoty planuje refinansowanie tej części zobowiązań i zobowiązała się do przedstawienia wierzycielom, do 30 czerwca 2029 r., raportu dotyczącego sposobu przeprowadzenia tego procesu."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Warunki restrukturyzacji obejmują także ustanowienie zabezpieczeń na wybranych aktywach spółek Grupy Azoty, w tym na udziałach Grupy Compo Expert oraz przestrzeganie uzgodnionych parametrów finansowych. Dotyczą one m.in. poziomu nakładów inwestycyjnych, minimalnej płynności, relacji zadłużenia finansowego netto do EBITDA oraz wskaźnika obsługi zadłużenia. Dwa ostatnie wskaźniki będą podlegać weryfikacji od 31 grudnia 2027 r.\" - napisano w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ponadto uzgodnienia przewidują mechanizm cash sweep, polegający na przeznaczaniu określonej części nadwyżek środków pieniężnych na wcześniejszą spłatę zadłużenia lub odpowiednie ograniczenie dostępnych limitów finansowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Istotnym elementem porozumienia jest utrzymanie finansowania kapitału obrotowego i limitów faktoringowych na łącznym poziomie co najmniej 250 mln zł, z wyłączeniem limitów dostępnych wyłącznie dla Grupy Compo Expert. Finansowanie to pozostaje poza procesem restrukturyzacji\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W komunikacie zaznaczono, że podpisanie Commitment Letter wraz z załącznikami stanowi istotny etap procesu restrukturyzacji zadłużenia Grupy Azoty, nie oznacza jednak jeszcze zawarcia ostatecznych umów restrukturyzacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ich dokumentacja wymaga dalszych uzgodnień i spełnienia określonych wymogów prawnych. Zobowiązania wynikające z listu obowiązują co do zasady do 4 grudnia 2026 r., z możliwością przedłużenia tej daty w uproszczonej procedurze (bez formalnego podpisywania dokumentacji zmieniającej) lub nie wystąpią inne przewidziane w nim okoliczności powodujące ich wygaśnięcie\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "17.11.2026 21:23",
+      "content_sha256": "8da5a5a20cadf073bf26d6798d7fd3df526541ec009ecba600786c26c46af3e4",
+      "date": "2026-11-17",
+      "saved_at": "2026-11-18T01:22:08+00:00",
+      "content_checked_at": "2026-11-18T01:22:08+00:00",
+      "published_time": "21:23",
+      "published_at": "2026-11-17T21:23+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - poinformowała spółka w komunikacie.",
+          "Jak podano w komunikacie, jednym z istotnych elementów uzgodnionych warunków jest pozyskanie co najmniej 500 mln zł z emisji akcji Grupy Azoty do 29 stycznia 2027 r. Zgodnie z harmonogramem do końca grudnia 2026 r. przewidziano zawarcie umowy inwestycyjnej z Funduszem Inwestycji Kapitałowych, umowy objęcia akcji oraz wpłatę ceny emisyjnej na rachunek domu maklerskiego.",
+          "Uzgodniony harmonogram zakłada wydłużenie terminu ostatecznej spłaty finansowania do 31 grudnia 2030 r. oraz karencję w spłacie rat kapitałowych do 30 czerwca 2027 r. Przewiduje również spłatę 25 proc. finansowania przed terminem ostatecznej spłaty, natomiast pozostałe 75 proc. będzie przypadać do spłaty na koniec 2030 r. Grupa Azoty planuje refinansowanie tej części zobowiązań i zobowiązała się do przedstawienia wierzycielom, do 30 czerwca 2029 r., raportu dotyczącego sposobu przeprowadzenia tego procesu."
+        ],
+        "interest_score": 43,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - poinformowała spółka w komunikacie."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8da5a5a20cadf073bf26d6798d7fd3df526541ec009ecba600786c26c46af3e4"
+      }
+    },
+    {
+      "id": "624fb9f2721adeed",
+      "title": "Grupa Azoty ma uzgodnienia ze stronami finansującymi i Orlenem dot. restrukturyzacji zadłużenia",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-azoty-ma-uzgodnienia-ze-stronami-finansujacymi-i-orlenem-dot",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [
+        "Grupa Azoty",
+        "Orlen"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Firma: Grupa Azoty"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-18T01:22:08+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - podała grupa w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Podpisanie uzgodnień ze stronami finansującymi i Orlenem przybliża Grupę Azoty do zakończenia wielomiesięcznego procesu negocjacji dotyczących długoterminowego finansowania. Jest to jeden z elementów szerokiego procesu naprawczego, w którym osiągnęliśmy już istotne rezultaty – sąd zatwierdził układ z wierzycielami GA Polyolefins, akcjonariusze podjęli uchwałę w sprawie emisji nowych akcji, a wewnętrzna transformacja Grupy jest na zaawansowanym etapie\" - powiedział, cytowany w komunikacie prasowym, Marcin Celejewski, prezes Grupy Azoty."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jednocześnie, w wymagającym otoczeniu rynkowym, aktywnie dostosowujemy działalność operacyjną do zmieniających się warunków, koncentrując się na optymalizacji produkcji, sprzedaży i kosztów. Wszystkie te procesy prowadzimy równolegle, dbając zarówno o długoterminową kondycję Grupy, jak i jej bieżącą konkurencyjność\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak poinformował wiceprezes Jacek Podgórski, Grupa Azoty rozszerzyła dotychczasowe uzgodnienia dotyczące restrukturyzacji zadłużenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Do porozumienia przystąpił również Orlen, który podpisał list zobowiązujący obejmujący zmieniony term sheet. Ustalenia przewidują m.in. wydłużenie terminów płatności wybranych zobowiązań z tytułu dostaw gazu oraz określają zasady ich spłaty. Uzgodniliśmy także zasady umowy międzywierzycielskiej, regulującej kwestie zabezpieczeń na rzecz instytucji finansowych i Orlenu, oraz kwestie kosztowe związane z restrukturyzacją zobowiązań finansowych i handlowych. To istotny krok w kierunku zawarcia długoterminowej umowy restrukturyzacyjnej\" - powiedział Podgórski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, jednym z istotnych elementów uzgodnionych warunków jest pozyskanie co najmniej 500 mln zł z emisji akcji Grupy Azoty do 29 stycznia 2027 r. Zgodnie z harmonogramem do końca grudnia 2026 r. przewidziano zawarcie umowy inwestycyjnej z Funduszem Inwestycji Kapitałowych, umowy objęcia akcji oraz wpłatę ceny emisyjnej na rachunek domu maklerskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uzgodniony harmonogram zakłada wydłużenie terminu ostatecznej spłaty finansowania do 31 grudnia 2030 r. oraz karencję w spłacie rat kapitałowych do 30 czerwca 2027 r. Przewiduje również spłatę 25 proc. finansowania przed terminem ostatecznej spłaty, natomiast pozostałe 75 proc. będzie przypadać do spłaty na koniec 2030 r. Grupa Azoty planuje refinansowanie tej części zobowiązań i zobowiązała się do przedstawienia wierzycielom, do 30 czerwca 2029 r., raportu dotyczącego sposobu przeprowadzenia tego procesu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Warunki restrukturyzacji obejmują także ustanowienie zabezpieczeń na wybranych aktywach spółek Grupy Azoty, w tym na udziałach Grupy Compo Expert, oraz przestrzeganie uzgodnionych parametrów finansowych. Dotyczą one m.in. poziomu nakładów inwestycyjnych, minimalnej płynności, relacji zadłużenia finansowego netto do EBITDA oraz wskaźnika obsługi zadłużenia. Dwa ostatnie wskaźniki będą podlegać weryfikacji od 31 grudnia 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uzgodnienia przewidują również mechanizm cash sweep, polegający na przeznaczaniu określonej części nadwyżek środków pieniężnych na wcześniejszą spłatę zadłużenia lub odpowiednie ograniczenie dostępnych limitów finansowania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Istotnym elementem porozumienia jest utrzymanie finansowania kapitału obrotowego i limitów faktoringowych na łącznym poziomie co najmniej 250 mln zł, z wyłączeniem limitów dostępnych wyłącznie dla Grupy Compo Expert. Finansowanie to pozostaje poza procesem restrukturyzacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dokument określa także zasady rozliczeń z Orlenem dotyczące wybranych należności za dostawy gazu, w tym zmianę terminów płatności i harmonogramu ich spłaty."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Podpisanie Commitment Letter wraz z załącznikami stanowi istotny etap procesu restrukturyzacji zadłużenia Grupy Azoty, nie oznacza jednak jeszcze zawarcia ostatecznych umów restrukturyzacyjnych. Ich dokumentacja wymaga dalszych uzgodnień i spełnienia określonych wymogów prawnych\" - podała spółka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zobowiązania wynikające z listu obowiązują co do zasady do 4 grudnia 2026 r., z możliwością przedłużenia tej daty w uproszczonej procedurze (bez formalnego podpisywania dokumentacji zmieniającej) lub nie wystąpią inne przewidziane w nim okoliczności powodujące ich wygaśnięcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "17.11.2026 21:20",
+      "content_sha256": "ff125d8ae3d89bdc2f307aaccd991d33f172447ca1ca9f41e07ca0d45bba6211",
+      "date": "2026-11-17",
+      "saved_at": "2026-11-18T01:22:08+00:00",
+      "content_checked_at": "2026-11-18T01:22:08+00:00",
+      "published_time": "21:20",
+      "published_at": "2026-11-17T21:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - podała grupa w komunikacie prasowym.",
+          "\"Podpisanie uzgodnień ze stronami finansującymi i Orlenem przybliża Grupę Azoty do zakończenia wielomiesięcznego procesu negocjacji dotyczących długoterminowego finansowania.",
+          "Jak poinformował wiceprezes Jacek Podgórski, Grupa Azoty rozszerzyła dotychczasowe uzgodnienia dotyczące restrukturyzacji zadłużenia."
+        ],
+        "interest_score": 73,
+        "impact_score": 78,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "Jest to jeden z elementów szerokiego procesu naprawczego, w którym osiągnęliśmy już istotne rezultaty – sąd zatwierdził układ z wierzycielami GA Polyolefins, akcjonariusze podjęli uchwałę w sprawie emisji nowych akcji, a wewnętrzna transformacja Grupy jest na zaawansowanym etapie\" - powiedział, cytowany w komunikacie prasowym, Marcin Celejewski, prezes Grupy Azoty."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "\"Jednocześnie, w wymagającym otoczeniu rynkowym, aktywnie dostosowujemy działalność operacyjną do zmieniających się warunków, koncentrując się na optymalizacji produkcji, sprzedaży i kosztów."
+          },
+          {
+            "factor": "Ryzyko operacyjne lub finansowe",
+            "excerpt": "Grupa Azoty podpisała ze stronami finansującymi oraz Orlenem list zobowiązujący, wraz z załącznikami określającymi zmienione kluczowe warunki planowanej długoterminowej restrukturyzacji zadłużenia oraz zasady regulujące relacje między wierzycielami - podała grupa w komunikacie prasowym."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "ff125d8ae3d89bdc2f307aaccd991d33f172447ca1ca9f41e07ca0d45bba6211"
+      }
+    },
     {
       "id": "4628af545dcc350c",
       "title": "GPW: w sprawie zawieszenia obrotu na rynku NewConnect akcjami spółek w związku z nieprzekazaniem raportu kwartalnego za III kwartał roku 2026",
@@ -2107,7 +3269,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-17T18:38:12+00:00",
+      "discovered_at": "2026-11-18T01:22:08+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2502,7 +3664,7 @@
       "published_display": "17.11.2026 17:06",
       "content_sha256": "94d582455c0bcd8cb575b928e8427863ec5c0d96666999306e039dc3467a175e",
       "saved_at": "2026-11-17T18:38:12+00:00",
-      "content_checked_at": "2026-11-17T18:38:12+00:00",
+      "content_checked_at": "2026-11-18T01:22:08+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -519289,7 +520451,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519307,7 +520469,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519325,7 +520487,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519343,7 +520505,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519361,7 +520523,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519379,7 +520541,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519397,7 +520559,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519415,7 +520577,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519433,7 +520595,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519451,7 +520613,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519471,7 +520633,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519491,7 +520653,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519509,7 +520671,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519527,7 +520689,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519545,7 +520707,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519563,7 +520725,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519581,7 +520743,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519601,7 +520763,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519619,7 +520781,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519637,7 +520799,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519655,7 +520817,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519673,7 +520835,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519693,7 +520855,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519711,7 +520873,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519729,7 +520891,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519747,7 +520909,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519767,7 +520929,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519785,7 +520947,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519803,7 +520965,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519821,7 +520983,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519841,7 +521003,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519859,7 +521021,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519877,7 +521039,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519895,7 +521057,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519913,7 +521075,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519933,7 +521095,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519951,7 +521113,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519969,7 +521131,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -519987,7 +521149,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -520008,7 +521170,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -520026,7 +521188,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -520044,7 +521206,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -520065,7 +521227,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -520083,7 +521245,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 133,
+      "attempts": 134,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -520101,7 +521263,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520119,7 +521281,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520137,7 +521299,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520155,7 +521317,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520173,7 +521335,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520191,7 +521353,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520211,7 +521373,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520229,7 +521391,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520249,7 +521411,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520267,7 +521429,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520285,7 +521447,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520303,7 +521465,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520323,7 +521485,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520341,7 +521503,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520359,7 +521521,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520377,7 +521539,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520397,7 +521559,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520415,7 +521577,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520433,7 +521595,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520451,7 +521613,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520469,7 +521631,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520489,7 +521651,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520507,7 +521669,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520525,7 +521687,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520543,7 +521705,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -520561,7 +521723,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -520579,7 +521741,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -520597,7 +521759,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -520615,7 +521777,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -520633,11 +521795,243 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 134,
+      "attempts": 135,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/raporty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
       "error": "ValueError"
@@ -520700,26 +522094,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
       "error": "ValueError"
     }
   ],
