@@ -1,8 +1,1530 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-19T17:25:16+00:00",
+  "last_checked": "2026-11-19T23:53:49+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "6c506fc8d7863d01",
+      "title": "Eurocash rozpoczyna przygotowania do IPO Frisco",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/eurocash-rozpoczyna-przygotowania-do-ipo-frisco",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "konsumpcja"
+      ],
+      "companies": [
+        "Eurocash"
+      ],
+      "match_reasons": {
+        "konsumpcja": [
+          "Firma: Eurocash"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Zarząd Eurocash podjął decyzję o rozpoczęciu przygotowań do procesu pierwszej oferty publicznej akcji supermarketu internetowego Frisco i ubiegania się o dopuszczenie i wprowadzenie ich do obrotu na Giełdzie Papierów Wartościowych w Warszawie - podał Eurocash w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, grupa wybrała doradców, którzy będą ją wspierać w pracach nad scenariuszami dotyczącymi Frisco."
+        },
+        {
+          "type": "paragraph",
+          "text": "W przypadku powodzenia IPO środki z emisji nowych akcji Frisco przeznaczyłoby przede wszystkim na automatyzację centrów logistycznych w miastach regionalnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Frisco jest dziś największym w Polsce supermarketem internetowym i jedną z nielicznych firm e-grocery w Europie, które zbudowały własny, w pełni zautomatyzowany model logistyczny. Od ponad dwudziestu lat dowozimy pełne zakupy spożywcze — łącznie z produktami świeżymi i mrożonymi — własnymi samochodami, w oknie godzinowym wybranym przez klienta, w siedmiu największych aglomeracjach Polski\" - powiedział, cytowany w komunikacie, Paweł Surówka, prezes Grupy Eurocash."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Frisco udowodniło, że e-grocery w Polsce może być biznesem skalowalnym i zyskownym. Następnym krokiem jest przeniesienie modelu z warszawskich magazynów do miast regionalnych — i właśnie ten etap rozwoju ma sfinansować giełda\" – dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa analizuje także inne opcje strategiczne dotyczące Frisco, które mogą zostać zrealizowane, jeśli okażą się korzystniejsze dla akcjonariuszy."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Ostateczna decyzja o przeprowadzeniu IPO oraz jego struktura, termin i wielkość nie zostały jeszcze przesądzone. Będą zależeć m.in. od warunków rynkowych oraz uzyskania wymaganych zgód korporacyjnych i regulacyjnych\" - podał Eurocash."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po dziewięciu miesiącach 2026 r. sprzedaż Frisco wyniosła 509 mln zł i była o 14 proc. wyższa niż przed rokiem. EBITDA po IFRS 16 jest dodatnia od 2025 r., a EBITDA przed IFRS 16 poprawiła się z -34,7 mln zł w 2024 r. do -9,6 mln zł w 2025 r. i w każdym kwartale 2026 r. była wyższa niż przed rokiem. Spółka na podstawie aktualnych szacunków i założeń oczekuje, że w całym 2026 r. EBITDA przed IFRS 16 będzie dodatnia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frisco działa wyłącznie w internecie i realizuje zamówienia z własnych centrów logistycznych, w tym dwóch zautomatyzowanych magazynów w Warszawie. W siedmiu aglomeracjach – Warszawie, Krakowie, Wrocławiu, Poznaniu, Łodzi, Katowicach i Trójmieście – asortyment dowożą własne samochody Frisco. Do pozostałych miejscowości Frisco wysyła kurierem większość produktów niewymagających chłodzenia.(PAP Bzines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 23:27",
+      "content_sha256": "e9bfeb712295a33368f317024391ba1383c8061b35a3d4c766db55c7ff4dc2a7",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "23:27",
+      "published_at": "2026-11-19T23:27+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zarząd Eurocash podjął decyzję o rozpoczęciu przygotowań do procesu pierwszej oferty publicznej akcji supermarketu internetowego Frisco i ubiegania się o dopuszczenie i wprowadzenie ich do obrotu na Giełdzie Papierów Wartościowych w Warszawie - podał Eurocash w komunikacie prasowym.",
+          "W przypadku powodzenia IPO środki z emisji nowych akcji Frisco przeznaczyłoby przede wszystkim na automatyzację centrów logistycznych w miastach regionalnych.",
+          "Po dziewięciu miesiącach 2026 r. sprzedaż Frisco wyniosła 509 mln zł i była o 14 proc. wyższa niż przed rokiem."
+        ],
+        "interest_score": 41,
+        "impact_score": 40,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Zmiana kapitału lub wypłaty",
+            "excerpt": "W przypadku powodzenia IPO środki z emisji nowych akcji Frisco przeznaczyłoby przede wszystkim na automatyzację centrów logistycznych w miastach regionalnych."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "e9bfeb712295a33368f317024391ba1383c8061b35a3d4c766db55c7ff4dc2a7"
+      }
+    },
+    {
+      "id": "35388c55a30dc782",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w dniu historycznego debiutu Anthropic",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-na-wall-street-mocne-spadki-w-dniu-historycznego-debiutu",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Czwartkowa sesja na Wall Street zakończyła się mocnymi spadkami głównych indeksów w dniu długo wyczekiwanego debiutu na amerykańskiej giełdzie spółki Anthropic, twórcy modelu Claude. Akcje debiutanta zyskały w pierwszym dniu notowań ok. 17 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu spadł o 2,19 proc. i wyniósł 49.097,06 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia stracił 2,02 proc. i wyniósł 7.175,83 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 2,25 proc. do 23.879,2 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 spada o o 1,95 proc. i wynosi 2.661,26 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "W pierwszej części sesji główne indeksy zwyżkowały, ale sytuacja odwróciła się po rozpoczęciu notowań przez Anthropic. Jak oceniają analitycy, inwestorzy mogli zdecydować się na realizację zysków w kulminacyjnym momencie fali zainteresowania sztuczną inteligencją."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anthropic, spółka notowana na giełdzie Nasdaq pod symbolem ANT, rozpoczęła notowania od poziomu 111,50 USD za akcję, co oznaczało wzrost o 34 proc. W kolejnych godzinach handlu kurs się obniżał i ostatecznie na zamknięciu za akcję technologicznej firmy trzeba było zapłacić 97,17 USD, po wzroście o 17,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ramach pierwszej oferty publicznej (IPO) Anthropic, jeden z liderów branży AI i twórca modelu Claude, sprzedał 980 mln akcji po cenie 83 USD za walor, wobec ustalonego wcześniej przedziału 70-78 USD za akcję. Planuje też sprzedać kolejną transzę akcji za łącznie 26 mld USD dużym inwestorom, w tym Amazonowi, Nvidii i Google. Łącznie przyniesie to firmie ok. 107,3 mld USD. Firma pobiła w ten sposób rekord należący do SpaceX, który również zadebiutował w tym roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wycena akcji Anthropic oznacza, że kapitalizacja rynkowa spółki w momencie debiutu wyniosła ok. 2 bln USD, co plasuje ją w pierwszej dziesiątce najwyżej wycenianych firm na świecie. Jest ona wyższa od wyceny SpaceX podczas jej debiutu giełdowego, wynoszącej 1,77 bln USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notowania producentów chipów zakończyły sesję spadkami. Kurs Nvidii poszedł w dół 3,3 proc., a akcje Micron Technology straciły 2,1 proc. Zniżkowały też m.in. Microsoft (spadek o 1,8 proc.) i Meta (spadek o 3,3 proc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Advanced Micro Devices straciło 7,7 proc. po tym, jak firma Hunterbrook Capital ujawniła, że zajmuje pozycję krótką na akcjach spółki, wskazując na rzekome naruszenia amerykańskich przepisów dotyczących kontroli eksportu w związku z Chinami."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To miał być kluczowy sprawdzian dla sektora technologicznego. Anthropic może stać się nowym symbolem branży sztucznej inteligencji, zwłaszcza po doniesieniach dotyczących Nvidii\" – powiedział Aleks Spencer, dyrektor ds. inwestycji w Bogart Wealth."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Jest tu również wiele kwestii, które wymagają przeanalizowania, co przekłada się na obecny okres niepewności i zmienności. Pojawia się entuzjazm i to świetny moment, by sprzedać akcje po wzroście kursu i zrealizować część zysków\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebecca Walser, dyrektor ds. inwestycji w Walser Wealth Management, uważa, że wielki sukces debiutu firmy Anthropic może w najbliższych tygodniach doprowadzić do wzrostu zmienności na rynku, a sztuczna inteligencja może być nadal w centrum uwagi inwestorów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Debiut giełdowy firmy Anthropic przyciąga ogromną uwagę\" - powiedział Reutersowi Jed Ellerbroek, zarządzający portfelem w Argent Capital w St. Louis."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Te pieniądze skądś pochodzą. Inwestorzy wprowadzają zmiany w swoich portfelach, aby uwzględnić w nich akcje Anthropic, więc nie przywiązywałbym zbyt dużej wagi do dzisiejszych notowań\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powiedział w czwartek w wywiadzie dla Fox News, że zarówno on, jak i prezydent Chin Xi Jinping opowiadają się za wprowadzeniem regulacji dotyczących sztucznej inteligencji ze względów bezpieczeństwa i będą wspólnie pracować nad rozsądnymi zasadami w tej dziedzinie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zwyżkują o 1 proc. do 84,08 USD za baryłkę, a styczniowe futures na Brent rosną o 0,75 proc. do 92,64 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 22:20",
+      "content_sha256": "3db2a1849ec6ba0b125357683e9875b545b7fbaaf0c99827c3596ac25b080298",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "22:20",
+      "published_at": "2026-11-19T22:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Czwartkowa sesja na Wall Street zakończyła się mocnymi spadkami głównych indeksów w dniu długo wyczekiwanego debiutu na amerykańskiej giełdzie spółki Anthropic, twórcy modelu Claude.",
+          "Akcje debiutanta zyskały w pierwszym dniu notowań ok.",
+          "Na rynku ropy kontrakty na WTI na grudzień zwyżkują o 1 proc. do 84,08 USD za baryłkę, a styczniowe futures na Brent rosną o 0,75 proc. do 92,64 USD/b."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Akcje debiutanta zyskały w pierwszym dniu notowań ok."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "3db2a1849ec6ba0b125357683e9875b545b7fbaaf0c99827c3596ac25b080298"
+      }
+    },
+    {
+      "id": "bc4ad62191fbe349",
+      "title": "Bogdanka ma ogromny potencjał - Balczun",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/bogdanka-ma-ogromny-potencjal-balczun",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "energia": [
+          "Temat: węgiel"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Lubelski Węgiel Bogdanka ma ogromny potencjał – ocenił w czwartek minister aktywów państwowych Wojciech Balczun po rozmowach z zarządami Enei i Bogdanki oraz związkami zawodowymi. Podczas spotkania strony podpisały deklarację, która umożliwiła zawieszenie protestu w kopalni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szef MAP był mediatorem w rozmowach prowadzonych w czwartek między zarządami grupy Enea i spółki LW Bogdanka a działającymi w kopalni związkami zawodowymi. Podczas spotkania strony podpisały deklarację, która zakłada m.in. budowę nowego szybu kopalni i uzgodnienie warunków ceny węgla na rok 2027 zapewniających spółce stabilne funkcjonowanie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Myślę, że to jest dosyć ważny moment, który pokazuje, że potrafimy skutecznie rozwiązywać problemy ważne z punktu widzenia pracowników, ale również zabezpieczające interesy spółki\" – zaznaczył minister Balczun."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według niego sytuacja Bogdanki jest stabilna, a spółka ma strategiczne plany inwestycyjne. Jako przykład podał plan budowy nowego szybu. Poinformował, że zostanie utworzony zespół z udziałem strony społecznej, żeby inwestycja była przygotowywana w sposób transparentny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister poinformował, że strony deklaracji uzgodniły harmonogram prac i negocjacji dotyczących systemowego wzrostu wynagrodzeń w Bogdance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szef MAP przypomniał, że istnieje porozumienie dotyczące funkcjonowania branży węglowej do 2049 r. Zapowiedział, że górnictwo będzie w dalszym ciągu restrukturyzowane. Zwrócił uwagę na konieczność budowania niezależności i odporności państwa i w tym kontekście zwrócił uwagę na węgiel, jako element stabilizujący system energetyczny Polski."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Mamy poczucie, że LW Bogdanka ma ogromny potencjał. To tutaj są złoża, które mogą być wydobyte, które będą potrzebne do tego, żeby stabilizować cały system, więc chęć rozpoczęcia projektu inwestycyjnego dotyczącego budowy szybu jest uzgodniona między nami\" – powiedział Balczun."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaznaczył, że nie ma i nie było planów likwidacji kopalni w Bogdance, która – w jego ocenie - jest jedną z najlepszych kopalni w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodał, że budowa nowego szybu wymaga weryfikacji dotychczasowych prac dotyczących lokalizacji, nakładów inwestycyjnych, źródeł finansowania i analizy opłacalności."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Nad tym będziemy teraz pracowali\" – zastrzegł Balczun."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Budowa szybu ma swoje uzasadnienie biznesowe i to rola spółek (Bogdanki i Enei – PAP), aby przygotować to uzasadnienie biznesowe dla naszego działania\" – powiedział wiceminister aktywów państwowych Grzegorz Wrona, który również uczestniczył w spotkaniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewodniczący NSZZ „Solidarność” w Bogdance Mariusz Romańczuk stwierdził, że podpisanie deklaracji jest początkiem procesu, który będzie realizowany przez najbliższe kilka miesięcy."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Szkielet tego procesu już jest przez ten dokument nakreślony\" – powiedział."
+        },
+        {
+          "type": "paragraph",
+          "text": "Romańczuk dodał, że podpisanie deklaracji „de facto” zawiesiło trwający od 25 dni protest w kopalni. Związkowcy żądali m.in. dyskusji o przyszłości Bogdanki, uczciwych warunków sprzedaży węgla, gwarancji inwestycji i stabilnych miejsc pracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przewodniczący Związku Zawodowego Górników przy kopalni w Bogdance Jacek Świrszcz wyraził nadzieję, że zapisy deklaracji zostaną zrealizowane, a inwestycja w nowy szyb sprawi, że „węgiel z Bogdanki dalej będzie konkurencyjny nie tylko na polskich rynkach, ale też światowych”."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Panowie ministrowie bardzo odważnie wzięli na siebie bardzo poważne zobowiązania polityczne, z których oczywiście będziemy ich rozliczać\" – zapowiedział szef Związku Zawodowego „Przeróbka” w Bogdance Jarosław Niemiec. Stwierdził, że ewentualne złamanie zapisów deklaracji oznaczać będzie powrót strony społecznej do protestu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podczas rozmów przed siedzibą zarządu pikietowała licznie zgromadzona załoga Bogdanki."
+        },
+        {
+          "type": "paragraph",
+          "text": "W środę LW Bogdanka opublikowała raport za trzeci kwartał br., z którego wynika, że skonsolidowane przychody ze sprzedaży po dziewięciu miesiącach wyniosły ok. 2,05 mld zł, co w porównaniu z analogicznym okresem ub.r. oznacza wzrost o blisko 2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto po trzech kwartałach to 26,7 mln zł, podczas gdy w analogicznym okresie 2025 r. wynosił blisko 130 mln zł. Produkcja węgla handlowego wzrosła o 22,4 proc. rok do roku, do 6,36 mln ton, a sprzedaż o 13,5 proc., do 6,05 mln ton."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bogdanka uzyskała 32,3 proc. udziału w dostawach węgla do energetyki zawodowej w Polsce. Około 74 proc. przychodów przyniosła sprzedaż surowca do Enea Wytwarzanie i Enea Elektrownia Połaniec."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes LW Bogdanka Zbigniew Stopa zaznaczył, że pomimo trudnej sytuacji cenowej na krajowym rynku węgla kamiennego kopalnia utrzymała zyskowność. „Niskie ceny sprzedaży istotnie ograniczały finansowe efekty naszej pracy i to w tym kontekście należy oceniać osiągnięty poziom marż” – napisał w sprawozdaniu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na inwestycje grupa kapitałowa LW Bogdanka przeznaczyła w pierwszych dziewięciu miesiącach br. ok. 584,5 mln zł, z czego 71 proc. przeznaczono na nowe wyrobiska i modernizację istniejących."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na koniec września w grupie pracowało 6021 osób, co oznacza spadek zatrudnienia o 0,5 proc. w stosunku do trzeciego kwartału 2025 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "W grupie funkcjonuje sześć organizacji związkowych, z czego cztery największe zrzeszają ponad 72 proc. załogi."
+        },
+        {
+          "type": "paragraph",
+          "text": "W latach 2024-2025 przeciętne miesięczne wynagrodzenie w spółce spadło z 14 031 zł do 13 328 zł, czyli o 5 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "LW Bogdanka jest producentem węgla kamiennego, którego odbiorcami są m.in. firmy przemysłowe, w tym podmioty prowadzące działalność w branży elektroenergetycznej we wschodniej i północno-wschodniej Polsce. Bogdanka jest notowana na GPW od 2009 r. W 2015 r. weszła w skład kontrolowanej przez skarb państwa grupy kapitałowej Enea z siedzibą w Poznaniu, która ma prawie 65 proc. akcji kopalni. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pin/ mmu/ pel/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 21:55",
+      "content_sha256": "435705dd635a4d40c9706db180d43d0f2112171e1793d2475325f257dbc0de13",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "21:55",
+      "published_at": "2026-11-19T21:55+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Lubelski Węgiel Bogdanka ma ogromny potencjał – ocenił w czwartek minister aktywów państwowych Wojciech Balczun po rozmowach z zarządami Enei i Bogdanki oraz związkami zawodowymi.",
+          "\"Mamy poczucie, że LW Bogdanka ma ogromny potencjał.",
+          "W środę LW Bogdanka opublikowała raport za trzeci kwartał br., z którego wynika, że skonsolidowane przychody ze sprzedaży po dziewięciu miesiącach wyniosły ok."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "435705dd635a4d40c9706db180d43d0f2112171e1793d2475325f257dbc0de13"
+      }
+    },
+    {
+      "id": "4c114a3a01aa1d7f",
+      "title": "Skrót wiadomości - czwartek, 19 listopada, 21.00",
+      "date": "2026-11-19",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/skrot-wiadomosci-czwartek-19-listopada-2100",
+      "source": "Strefa Inwestorów",
+      "category": "Skróty wiadomości",
+      "kind": "roundup",
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata."
+        },
+        {
+          "type": "heading",
+          "text": "MAKROEKONOMIA, WSKAŹNIKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Listopadowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku nieco niższej inflacji - wynika z danych GUS."
+        },
+        {
+          "type": "paragraph",
+          "text": "W listopadzie 2026 r. odnotowano pogorszenie w stosunku do poprzedniego miesiąca nastrojów konsumenckich dotyczących obecnej sytuacji, przy jednoczesnej poprawie nastrojów dotyczących przyszłej sytuacji - podał Główny Urząd Statystyczny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki badań koniunktury gospodarczej w IV kwartale wskazują na jej sezonowe pogorszenie - wynika z badania Instytutu Rozwoju Gospodarczego SGH. W krótkookresowych przewidywaniach uczestników badań koniunktury nie widać optymizmu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obecnie są mniejsze nadzieje na wypracowanie przez NBP zysku za 2026 r. niż kilka tygodni temu - poinformował w TVN24 wiceprezes NBP Przemysław Litwiniuk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na razie można jeszcze nie przesądzać, czy będzie konieczna zmiana parametrów polityki pieniężnej, trzeba uważnie obserwować, czy szoki zewnętrzne przekładają się na polską gospodarkę - poinformował w TVN24 wiceprezes NBP Przemysław Litwiniuk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rada Polityki Pieniężnej odrzuciła w październiku wniosek Joanny Tyrowicz o podwyżkę stóp o 100 pb., przeciw głosowali wszyscy obecni, oprócz wnioskodawczyni - podano na stronach Narodowego Banku Polskiego. RPP odrzuca ten wniosek od kwietnia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rachunku obrotów bieżących strefy euro nadwyżka (sa) we wrześniu wyniosła 12,5 mld euro - podał Europejski Bank Centralny w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amerykański indeks wyprzedzający koniunktury Conference Board w październiku spadł o 0,3 proc. - podała Conference Board. Analitycy oczekiwali, że indeks pozostanie bez zmian."
+        },
+        {
+          "type": "heading",
+          "text": "BUDŻET, DŁUG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rząd traktuje wyzwania dotyczące finansów publicznych bardzo poważnie - wskazał minister finansów i gospodarki Andrzej Domański, pytany podczas konferencji prasowej o rosnące zadłużenie. Jak zaznaczył, wydatki na obronę są i będą priorytetem rządu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Według danych ze sprawozdań, budżety jednostek samorządu terytorialnego po trzech kwartałach 2026 r. zamknęły się zbiorczo nadwyżką budżetową w kwocie 45,523 mld zł, przy planowanym deficycie 47,230 mld zł - podało Ministerstwo Finansów na stronach internetowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wydatki na inwestycje jednostek samorządu terytorialnego w III kwartale 2026 r. wyniosły 46,3 mld zł wobec 47,6 mld zł rok wcześniej - wynika z danych Ministerstwa Finansów."
+        },
+        {
+          "type": "heading",
+          "text": "SPÓŁKI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto jednostki dominującej Develii w III kwartale 2026 r. wyniósł 70,1 mln zł wobec 133,4 mln zł zysku rok wcześniej - wynika z raportu kwartalnego spółki. Wynik jest wyższy od konsensusu PAP Biznes, który zakładał 56,1 mln zł zysku netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Benefit Systems miała w III kw. 2026 roku 284,4 mln zł zysku netto j.d. - podała spółka w raporcie kwartalnym. Z wyliczeń PAP Biznes wynika, że EBITDA za ten okres wyniosła 537,6 mln zł. Konsensus PAP Biznes zakładał 221 mln zł zysku netto j.d. oraz 489,1 mln zł zysku EBITDA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Benefit Systems oczekuje w 2027 roku wzrostu kart netto o 150 tys. w Polsce, o 100 tys. kart w regionie Zagranica UE oraz o ok. 90 tys. kart na rynku tureckim - podała spółka w prognozach na 2027 rok"
+        },
+        {
+          "type": "paragraph",
+          "text": "Medicalgorithmics środki z emisji akcji serii R chce przeznaczyć na rozwój projektów B+R oraz przyspieszenie sprzedaży. Spółka spodziewa się wzrostu przychodów m.in. w oparciu o wzrost zamówień od największego klienta z USA. Poprawa w wynikach będzie widoczna w IV kw. 2026 r., ale skokowy wzrost powinna zanotować w 2027 r. – poinformował PAP Biznes prezes Kris Siemionow."
+        },
+        {
+          "type": "paragraph",
+          "text": "MLP Group w 2027 r. chce wejść przynajmniej na jeden nowy rynek – do Holandii lub północnych Włoch. Przegląd opcji strategicznych, który powinien zakończyć się w ciągu najbliższych miesięcy, ma na celu znalezienie scenariusza na przyspieszenie rozwoju grupy - poinformował PAP Biznes prezes Radosław T. Krochta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w III kwartale 2026 r. spadł do 1.443 mln zł z 1.995 mln zł rok wcześniej - poinformował ubezpieczyciel w raporcie. Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 1.448 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa PZU pracuje nad przygotowaniem produktów pod kątem Osobistych Kont Inwestycyjnych (OKI) w ramach TFI oraz PTE i koordynuje działania w tym zakresie w ramach banków Pekao i Alior - poinformował prezes Bogdan Benczak. Zapowiedział wprowadzenie wkrótce nowych ETF-ów pod OKI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podczas szczytu Partnerstwa na rzecz Transatlantyckiej Współpracy Energetycznej (P-TEC) Orlen i amerykański fundusz Carlyle podpisały Memorandum of Understanding ws. współpracy w dziedzinie energii i inwestycji m.in. w Polsce w regionie CEE."
+        },
+        {
+          "type": "paragraph",
+          "text": "KGHM kontynuuje poszukiwania za granicą potencjalnych projektów akwizycyjnych - poinformowali przedstawiciele miedziowego koncernu. Inwestycja w czwartą linię mielenia w chilijskiej kopalni Sierra Gorda ma być głównie finansowana zewnętrznie."
+        },
+        {
+          "type": "paragraph",
+          "text": "KGHM Polska Miedź skorzystał z pierwszej opcji przedłużenia okresu obowiązywania umowy niezabezpieczonego odnawialnego kredytu konsorcjalnego w pełnej kwocie 1,5 mld USD o jeden rok - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "PKO BP kontynuuje działania, by zwiększyć obecność polskiego rynku kapitałowego w Stanach Zjednoczonych. Bank, wspólnie z partnerami, organizuje spotkania polskich spółek z amerykańskimi funduszami, a zainteresowanie Polską - jak wskazują przedstawiciele instytucji - jest wysokie."
+        },
+        {
+          "type": "paragraph",
+          "text": "PKO BP uwzględnia świadczenie 800 plus przy ocenie zdolności kredytowej klientów, a obecnie dostosowuje procesy do zaleceń Komisji Nadzoru Finansowego dotyczących sposobu uwzględniania tego świadczenia - poinformował prezes banku Szymon Midera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje Anthropic zadebiutowały w czwartek na Nasdaq z ceną 111,50 USD za sztukę na otwarciu, co oznacza wzrost o około 34 proc. w stosunku do ceny z oferty publicznej, ustalonej na 83 USD - podała agencja Bloomberga"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konsorcjum SEEN TECHNOLOGIE, Atrem i Unibep zawarło umowę na modernizację oczyszczalni ścieków na rzecz Orlenu - podały spółki w komunikatach."
+        },
+        {
+          "type": "paragraph",
+          "text": "W III kwartale 2026 r. EBITDA JSW wyniosła 135,2 mln zł, a strata netto 286,0 mln zł - podała spółka we wstępnych szacunkach. Konsensus PAP Biznes zakładał 261,6 mln zł EBITDA i 104,2 mln zł straty netto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cyfrowy Polsat spodziewa się niższych wyników w czwartym kwartale 2026 roku w porównaniu do trzeciego kwartału - poinformowała podczas wideokonferencji CFO, Anna Miller-Pytlak. Dodała, że spółka podtrzymuje prognozy EBITDA TMT na poziomie co najmniej 2,9 mld zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neuca złożyła do Sądu Ochrony Konkurencji i Konsumentów (SOKiK) formalne odwołanie od decyzji UOKiK nakładającej na spółkę karę za udział w niedozwolonym porozumieniu. Spółka zdecydowała, że nie utworzy rezerw finansowych związanych z decyzją UOKiK - podała Neuca w raporcie kwartalnym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neuca odnotowała w III kw. 2026 roku 128,6 mln zł EBITDA oraz 3.682 mln zł przychodów – wynika z raportu spółki. Konsensus PAP Biznes zakładał EBITDA na poziomie 112,2 mln zł oraz 3.703,9 mln zł przychodów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Agora miała w III kw. 2026 roku 0,4 mln zł straty netto j.d., wobec 6 mln straty w analogicznym okresie poprzedniego roku - podała spółka w raporcie kwartalnym. Zysk EBITDA wyniósł w tym okresie 82,3 mln zł wobec 58,3 mln zł rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agora podtrzymuje założenia co do tempa wzrostu rynku reklamy w Polsce w 2026 roku, ale przewiduje, że dynamika wydatków będzie oscylowała wokół dolnej granicy przedziału 5,5-7 proc. - poinformowała Agora w raporcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agora oczekuje, że w całym 2026 roku poprawi wyniki względem 2025 roku, a planem na 2027 rok jest dalsza poprawa rentowności - poinformował podczas konferencji prezes Bartosz Hojka. Dodał, że wśród projektów rozwojowych prowadzonych w spółce toczą się również prace nad potencjalnymi akwizycjami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Ferro odnotowała w III kwartale 2026 roku zysk netto j.d. w wysokości 16,4 mln zł - podała spółka w raporcie. Analitycy ankietowani przez PAP Biznes spodziewali się zysku netto na poziomie 18,5 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zysk netto j.d. grupy Dom Development w III kwartale 2026 r. wyniósł 174,8 mln zł, a zysk operacyjny 219,6 mln zł - wynika z raportu spółki. Konsensus PAP Biznes zakładał, że zysk netto j.d. wyniesie 176,6 mln zł, a zysk operacyjny 218,7 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dom Development w czwartym kwartale widzi kontynuację trendów z poprzedniego kwartału i spodziewa się sprzedaży powyżej tysiąca mieszkań - poinformował zarząd. W ocenie zarządu, w efekcie wycofywania się z rynku mniejszych podmiotów maleje konkurencja w zakupach gruntów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki. Grupa ocenia, że perspektywy rynkowe na kolejne kwartały pozostają wymagając"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zarząd Bogdanki najpóźniej na początku grudnia rozpocznie negocjacje wzrostu wynagrodzeń zasadniczych, a uzgodnioną podwyżkę wypłaci do końca lutego 2027 r. - wynika z deklaracji podpisanej przez zarządy Bogdanki i Enei, związki zawodowe działające w spółce oraz kierownictwo Ministerstwa Aktywów Państwowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Backlog Selvity na 2026 r. wynosi 330 mln zł, wobec 360 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Selvita spodziewa się dalszego wzrostu w segmencie Rozwoju Leków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aktualny portfel zamówień grupy ZUE wynosi łącznie ok. 4,7 mld zł netto. Dodatkowo, grupa ma złożone cztery najlepsze oferty w przetargach na łączną kwotę ok. 317 mln zł - podało ZUE w komunikacie prasowym. Jednym z priorytetów grupy jest zwiększanie udziału rynków zagranicznych w działalności."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcjonariusze Medicalgorithmics zdecydowali o podwyższeniu kapitału poprzez emisję akcji serii R - wynika z uchwał środowego NWZ. Odstąpiono od głosowania nad projektem uchwały dotyczącym podwyższenia kapitału poprzez emisję akcji serii S."
+        },
+        {
+          "type": "paragraph",
+          "text": "Synthos Green Energy (SGE), Natsionalna Elektricheska Kompania EAD i Blue Bird Energy podpisały podczas P-TEC 2026 porozumienie dotyczące możliwości wdrożenia technologii BWRX-300 w Bułgarii - poinformowała SGE w informacji prasowej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Tauron, której CAPEX po trzech kwartałach wyniósł 3,86 mld zł, przewiduje przyspieszenie nakładów inwestycyjnych w IV kwartale - poinformowali przedstawiciele spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Auto Partner, który po trzech kwartałach ma ponad 380 mln zł EBITDA, w kolejnych okresach chce się koncentrować na dalszej poprawie efektywności operacyjnej - poinformowała spółka w komunikacie prasowym. Firma chce zwiększać sprzedaż zagraniczną, rozwija zaplecze logistyczne."
+        },
+        {
+          "type": "paragraph",
+          "text": "multiQure rozpoczyna etap wytwarzania terapii genowej MQ-201 dla pierwszych pacjentów z chorobą Huntingtona. Partnerem produkcyjnym jest amerykańska firma Andelyn Biosciences - podała spółka w komunikacie prasowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Apator spodziewa się porównywalnych rdr wyników w 2026 r. i wzrostu przychodów w 2027 r. W IV kw. chce zakończyć proces zabezpieczania zapasów pod przyszłe kontrakty - poinformowali przedstawiciele zarządu Apatora podczas konferencji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gaming Factory ustalił datę premiery gry \"Pizza Slice\" na konsole PlayStation 5 oraz Xbox X/S na 8 grudnia 2026 roku - podała spółka w komunikacie prasowym. Gra ukaże się na platformach w bazowej cenie 14,99 USD."
+        },
+        {
+          "type": "paragraph",
+          "text": "Atende spodziewa się dobrego IV kwartału 2026 r. ze względu na backlog projektów - poinformował na konferencji prezes Mariusz Stusiński. Wskazał, że Atende jest w trakcie wydzielania działalności w obszarze cyberbezpieczeństwa do oddzielnej spółki i planuje akwizycje w tym obszarze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Votum chce wypłacić zaliczkę na poczet dywidendy za 2026 rok w kwocie 18 mln zł, co oznacza 1,5 zł na akcję - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "QNA Technology podjął decyzję o rozpoczęciu działań zmierzających do pozyskania dodatkowego finansowania oraz zapewnienia spółce możliwości elastycznego pozyskiwania finansowania w przyszłości poprzez ustanowienie kapitału docelowego - podała spółka w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vertiv Corporation, w której Vertiv posiada 100 proc. udziałów, sfinalizowała przejęcie Utility Innovation Holding, działającej pod nazwą UtilityInnovation Group - poinformowała spółka w komunikacie. Przy zamknięciu transakcji zapłacono około 1,45 mld USD w gotówce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski Holding Nieruchomości rozważa przeprowadzenie w czwartym kwartale 2026 r. oferty obligacji serii G. Maksymalna wartość emisji zostanie ustalona na późniejszym etapie i nie przekroczy dostępnego limitu programu emisji obligacji spółki - podał PHN w komunikacie."
+        },
+        {
+          "type": "heading",
+          "text": "WALUTY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Złoty w czwartek po południu osłabia się wobec euro do 4,43. Rentowności krajowych obligacji spadają. Zdaniem strategów, polska waluta może zakończyć tydzień w okolicach 4,41/EUR i 4,00/USD. Rentowności krajowych obligacji powinny utrzymać się w pobliżu bieżących poziomów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,0992 USD i 175,84 JPY - podał bank na swojej stronie internetowej."
+        },
+        {
+          "type": "heading",
+          "text": "ENERGETYKA, PALIWA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polskie Elektrownie Jądrowe i konsorcjum Westinghouse-Bechtel podpisały list intencyjny ws. rozszerzenia zakresu umowy Engineering Development Agreement (EDA) - poinformował PEJ. Chodzi o uruchomienie procesu zakupowego kolejnej partii LLI, czyli kluczowych komponentów elektrowni jądrowej o długim cyklu produkcji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na początku grudnia mogą zostać ogłoszone decyzje ws. ewentualnych mechanizmów, które miałyby zapobiec wzrostowi cen energii elektrycznej w 2027 roku - przekazał w czwartek minister energii Miłosz Motyka. Dodał, że rząd jest zdeterminowany, by rachunki w przyszłym roku nie wzrosły."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm w czwartek uchwalił nowelizację specustawy jądrowej. Jej celem jest usprawnienie przygotowania i realizacji inwestycji związanych z energetyką jądrową - uproszczenie procedur administracyjnych, zmiany dotyczące decyzji lokalizacyjnych oraz ułatwień dla inwestora."
+        },
+        {
+          "type": "paragraph",
+          "text": "W piątek 20 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 5,93 zł/l, dla benzyny Pb98 6,58 zł/l, a dla oleju napędowego 7,45 zł/l - poinformował minister energii w obwieszczeniu ws. maksymalnych cen paliw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unijni legislatorzy uzgodnili w czwartek, że o dwa lata zostanie odroczone rozporządzenie metanowe, zobowiązujące unijnych importerów paliw kopalnych do monitorowania, raportowania i weryfikacji emisji metanu. Zamiast 1 stycznia 2027 r. rozporządzenie zacznie obowiązywać 1 stycznia 2029 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kraje europejskie, począwszy od Polski, dość dobitnie wyraziły swój sprzeciw wobec ponownego nawiązania współpracy z Rosją w dziedzinie energii, nie widać żadnego zainteresowania powrotem do tej współpracy - poinformował sekretarz energii USA Chris Wright na briefingu z polskim ministrem energii podczas szczytu P-TEC 2026."
+        },
+        {
+          "type": "heading",
+          "text": "NIERUCHOMOŚCI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm opowiedział się w czwartek za poprawkami Senatu do noweli regulującej rynek najmu krótkoterminowego. Ustawa, która umożliwia m.in. wprowadzanie zakazu świadczenia takich usług w określonych strefach i nieruchomościach, trafi teraz na biurko prezydenta."
+        },
+        {
+          "type": "heading",
+          "text": "OPINIE, PROGNOZY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa KGHM pokazała wyniki za trzeci kwartał, które okazały się wyższe od oczekiwań rynkowych. Analitycy oceniają, że kurs miedziowej spółki może zareagować pozytywnie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa Cyfrowy Polsat zanotowała w trzecim kwartale skorygowaną EBITDA w wysokości 839 mln zł, ok. 4 proc. powyżej oczekiwań rynkowych. Analitycy wskazują, że największym pozytywnym zaskoczeniem był segment mediowy."
+        },
+        {
+          "type": "paragraph",
+          "text": "By nie stracić konkurencyjności, Europa musi postawić na energetykę jądrową, zarówno na wielkoskalowe elektrownie, jak i na małe modułowe reaktory - ocenił podczas szczytu Partnerstwa na rzecz Transatlantyckiej Współpracy Energetycznej (P-TEC) minister energii Miłosz Motyka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sztuczna inteligencja może wspierać wzrost wartości spółek notowanych na GPW. Zdaniem BM PKO BP, przy odpowiednio szybkiej adaptacji nowych technologii korzyści wynikające ze wzrostu produktywności mogą w znacznym stopniu zneutralizować negatywne skutki starzenia się społeczeństwa, które są największymi wyzwaniami dla Polski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finalna cena akcji Anthropic przewyższyła widełki określone w prospekcie emisyjnym i jest to dowód na silny popyt ze strony inwestorów i ich chęć uczestniczenia w trendzie sztucznej inteligencji - poinformował PAP Biznes Aleksander Jerzewski, CFA, dyrektor inwestycyjny ESALIENS TFI. Firma Anthropic uzyskała ponad 81,3 mld USD za pierwszą emisję akcji w ramach swojego giełdowego debiutu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pomimo solidnych wyników Nvidii i popytu w IPO Anthropica, inwestorzy pozostają ostrożni co do sektora AI - oceniają analitycy The Investment Institute by UniCredit. Według nich, w tym kontekście akcje spółek z regionu CEE wykazały się w tym roku dobrymi wynikami i oferują atrakcyjną możliwość dywersyfikacji poza sektor technologii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Powodzenie tak dużej oferty Anthropic zwiększa szanse na kolejne udane transakcje w sektorze, zarówno na rynku publicznym, jak i prywatnym, a efekt będzie silniejszy, jeżeli kurs utrzyma się powyżej ceny IPO - poinformował PAP Biznes analityk DM Trigon, Dominik Niszcz. Firma Anthropic uzyskała ponad 81,3 mld USD za pierwszą emisję akcji w ramach swojego giełdowego debiutu."
+        },
+        {
+          "type": "heading",
+          "text": "POZOSTAŁE WIADOMOŚCI GOSPODARCZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dyrektor Departamentu Współpracy Międzynarodowej Krajowej Administracji Skarbowej (KAS) Małgorzata Krok została wybrana na przewodniczącą zarządu Urzędu Unii Europejskiej ds. Celnych (EUCA) - podał resort finansów w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "W 2027 roku na polskim rynku fuzji i przejęć można spodziewać się odbicia oraz mocnej aktywności inwestorów zagranicznych - poinformował PAP Biznes Piotr Miller, partner współkierujący warszawską praktyką prawa korporacyjnego i M&A Norton Rose Fulbright."
+        },
+        {
+          "type": "paragraph",
+          "text": "Startup LATO, rozwijający agentów AI do badań rynkowych dla funduszy inwestycyjnych, pozyskał 4,7 mln dolarów w rundzie seed - podało LATO w komunikacie prasowym. Transakcji przewodziły Air Street Capital i Axiom Partners, a wśród inwestorów znalazł się m.in. Y Combinator oraz polski fundusz Montis VC."
+        },
+        {
+          "type": "paragraph",
+          "text": "W środę Sejm skierował do Komisji Finansów Publicznych projekt ustawy, której celem jest m.in. podwyższenie do 12 mln euro z 5 mln euro progu, powyżej którego przy ofercie publicznej trzeba przedstawić prospekt emisyjny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rząd będzie kontynuował proces deregulacji i upraszczania procedur administracyjnych - poinformował minister finansów i gospodarki Andrzej Domański, podczas European Chemical Industry Forum 2026. Ocenił, że otoczenie prawne ma istotny wpływ na chęć firm do inwestowania i przedsiębiorcy muszą mieć pewność, że działają w stabilnych i przewidywalnych ramach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm uchwalił w czwartek ustawę, która umożliwia finansowanie działań zmierzających do zwiększenia zdolności produkcji półprzewodnikowych układów scalonych w Polsce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wartość akcji spółek z GPW będących w posiadaniu OFE spadła w październiku o ok. 0,2 mld zł mdm do 299,175 mld zł - wynika z danych KNF."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba nowych rejestracji osobowych samochodów elektrycznych w październiku 2026 r. spadła o 28,4 proc. rdr do 3.443 sztuk, co stanowi 6,2 proc. wszystkich nowych rejestracji aut osobowych w październiku - podał Polski Związek Przemysłu Motorowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Czwartkowy wyrok Trybunału Sprawiedliwości UE to odejście od automatycznego zwrotu wszystkich kosztów kredytu konsumenckiego przy jego wcześniejszej spłacie - uważa Związek Banków Polskich."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z KRAJU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jest mało prawdopodobne, aby Rosja była gotowa do rozmów ws. pokoju przed końcem zimy - ocenił premier Donald Tusk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent dokona zmian w składzie Rady Ministrów w piątek, o godz. 11.00 - podała w komunikacie Kancelaria Prezydenta RP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Usługi w ePUAP w pełni działają, po tym, jak 10 listopada resort cyfryzacji ograniczył użytkownikom dostęp do systemu, aby zatrzymać cyberatak - poinformowało w czwartek ministerstwo. Analiza przeprowadzona z udziałem NASK i ABW wykazała, że atak nie objął innych publicznych usług - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wizyta premiera Donalda Tuska w Chinach odbędzie się na początku grudnia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Optyka ściskania się prezydenta USA Donalda Trumpa z przywódcą Rosji Władimirem Putinem, nazywania go przyjacielem, wywołuje u nas pewien niepokój - powiedział wicepremier, szef MSZ Radosław Sikorski. Rodzi się pytanie, z kim jest bardziej przyjacielem: czy z Putinem, czy prezydentem Karolem Nawrockim - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk przekazał, że lider Polski 2050 Szymon Hołownia poinformował go, iż byłby gotów podjąć się misji bycia ambasadorem w Watykanie. Tusk dodał jednak, że ostateczna decyzja w tej sprawie zależy od prezydenta Karola Nawrockiego i sam „nie jest w stanie” pomóc Hołowni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Niedziela 27 grudnia nie będzie dniem handlowym - poinformowała w rozmowie z TVP Info minister rodziny, pracy i polityki społecznej Agnieszka Dziemianowicz-Bąk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obecny wiceszef klubu Polski 2050 Paweł Śliz ogłosił w czwartek start w wyborach na szefa partii. Polska 2050 potrzebuje lidera, który będzie potrafił odbudować struktury formacji w regionach; chciałbym przywrócić Polsce 2050 blask, który przyciągnął do niej ludzi - podkreślił Śliz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm uchwalił w czwartek nowelizację ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta. Zgodnie z nią osoby przebywające w hospicjach stacjonarnych i na oddziałach medycyny paliatywnej zyskają prawo do kontaktu ze swoimi zwierzętami domowymi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Posłowie klubu PiS zapowiedzieli w czwartek złożenie w Sejmie wniosku o odwołanie ministra rolnictwa Stefana Krajewskiego. Ocenili, że w rolnictwie jest obecnie „najgorsza koniunktura od 17 lat”, a minister rolnictwa „zachowuje się tak, jakby nic się nie stało”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezes PiS Jarosław Kaczyński ocenił w czwartek, że propozycja resetu w Trybunale Konstytucyjnym „byłaby do zaakceptowania, ale tylko pod warunkiem zmiany rządu na prezydencki rząd techniczny”. Jak dodał, bez powołania rządu technicznego propozycje są dla PiS „nie do przyjęcia”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Premier Donald Tusk zapowiedział zorganizowanie na początku przyszłego roku Warszawskiego Szczytu Wysokiego Szczebla w sprawie AI. Jest to odpowiedź na list otwarty 59 naukowców i przedstawicieli europejskiego biznesu skierowany do unijnych liderów."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm przyjął większość poprawek Senatu do ustawy wprowadzającej nocną prohibicję i zakaz reklamy alkoholu. Dotyczą m.in. zakazu sprzedaży alkoholu z upustami, rabatami i w promocjach typu „12+12”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sejm jednogłośnie przyjął w czwartek nowelizację ustawy o referendum lokalnym przewidującą wprowadzenie właściwych odesłań do obowiązujących obecnie przepisów Kodeksu wyborczego regulujących kwestie dotyczące protestu wyborczego przeciwko ważności referendum lokalnego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polski i grecki resort obrony podpisały w czwartek porozumienie, które ma pozwolić na rozszerzenie o stronę grecką kontraktu na zamówienie satelitów obserwacyjnych od firmy ICEYE. Oba państwa miałyby współpracować w pozyskiwaniu satelitów w ramach programu SAFE."
+        },
+        {
+          "type": "heading",
+          "text": "WYDARZENIA Z ZAGRANICY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wojny nuklearnej nie można wygrać i nigdy nie wolno jej toczyć – podała w czwartek agencja Xinhua, cytując wspólną deklarację przywódców Chin, Rosji i USA. Xi Jinping, Władimir Putin i Donald Trump wydali dokument po trójstronnym spotkaniu na marginesie szczytu APEC w Shenzhen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prezydent USA Donald Trump powiedział w czwartek telewizji NBC News, że zgadza się z prezydentem Ukrainy Wołodymyrem Zełenskim, że USA nie powinny podejmować decyzji w sprawie Ukrainy za jej plecami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przywódcy Chin i USA, Xi Jinping i Donald Trump, uzgodnili w czwartek podczas rozmów dwustronnych przy okazji szczytu APEC w Shenzhen plan konstruktywnych relacji dwustronnych — przekazało MSZ w Pekinie. Chiński lider przestrzegł jednocześnie Waszyngton, by „postępował właściwie” w kwestii Tajwanu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stany Zjednoczone odrzucają globalne regulacje dławiące sztuczną inteligencję – oświadczył w czwartek prezydent USA Donald Trump na 33. szczycie APEC w chińskim Shenzhen. Amerykański prezydent chwalił też kondycję gospodarki USA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rosja jest integralną częścią regionu Azji i Pacyfiku, a partnerstwo z jego gospodarkami to jej strategiczny kurs – oświadczył w czwartek przywódca Rosji Władimir Putin na szczycie APEC chińskim w Shenzhen. Wezwał państwa regionu do aktywniejszego korzystania z rosyjskich szlaków tranzytowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiny przekażą 20 mln USD na praktyczną współpracę w ramach APEC i proponują oparcie wspólnoty Azji i Pacyfiku na czterech filarach – ogłosił w czwartek przywódca ChRL Xi Jinping, otwierając drugi dzień 33. szczytu w Shenzhen. Zapowiedział też utworzenie w tym mieście ośrodka badawczego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dyrektor izraelskiego Mosadu Roman Gofman udał się w zeszłym tygodniu do USA, by lobbować na rzecz nowych ataków na Iran - napisała w środę agencja Reutera. Tego samego dnia do Izraela przyleciał dowódca amerykańskich wojsk na Bliskim Wschodzie gen. Bradley Cooper."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trzy tankowce stanęły w ogniu po wpłynięciu na miny morskie na wschód od cieśniny Ormuz – podał w nocy ze środy na czwartek Reuters za irańską telewizją Press TV. Brytyjska agencja UKMTO poinformowała o kolejnym incydencie, w którym tankowiec został trafiony niezidentyfikowanym pociskiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blisko 400-metrowy wieżowiec w stolicy Arabii Saudyjskiej, Rijadzie, został uszkodzony w czwartek w ataku jemeńskich rebeliantów Huti - poinformowała agencja AFP. Proirańscy Huti niemal codziennie ostrzeliwują Arabię Saudyjską, która kieruje walczącą z nimi koalicją w Jemenie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Komisja Europejska padła pod koniec października ofiarą cyberataku z wykorzystaniem sztucznej inteligencji - poinformował w czwartek rzecznik KE Thomas Regnier."
+        },
+        {
+          "type": "paragraph",
+          "text": "Most łączący anektowany Krym z Rosją został ponownie zaatakowany - poinformowały w środę późnym wieczorem rosyjskie władze okupacyjne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministrowie infrastruktury i transportu państw Trójkąta Weimarskiego: Niemiec, Francji i Polski podpisali w czwartek we Frankfurcie nad Menem deklarację o ściślejszej współpracy wobec zagrożeń hybrydowych, w tym incydentów z udziałem dronów i sabotażu - poinformowała agencja dpa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlament Danii, Folketing, ratyfikował w czwartek duńsko-grenlandzko-amerykańskie porozumienie w sprawie bezpieczeństwa Arktyki. Umowa zezwala USA na budowę dwóch nowych baz wojskowych na Grenlandii."
+        },
+        {
+          "type": "paragraph",
+          "text": "Szef SpaceX Elon Musk powiedział w środę, że prezydent Ukrainy Wołodymyr Zełenski chce używać cywilnej sieci Starlink, a nie jej wojskowej wersji, Starshield, do działań ofensywnych. Zarzucił Zełenskiemu kłamstwa, a władze USA oskarżył o obalenie Wiktora Janukowycza w 2014 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "osz/ gor/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 21:02",
+      "content_sha256": "4f52ab73a174ec3bca15c555fb9d60d31d7bd243c5bbd9c9d151f3353573c656",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "sections": [
+        "skroty",
+        "makro",
+        "finanse",
+        "energia",
+        "technologie",
+        "przemysl",
+        "konsumpcja",
+        "nieruchomosci"
+      ],
+      "companies": [
+        "Alior",
+        "Dom Development",
+        "Ferro",
+        "Grupa Azoty",
+        "JSW",
+        "KGHM",
+        "Orlen",
+        "PHN",
+        "PKO BP",
+        "PZU",
+        "Pekao",
+        "Tauron"
+      ],
+      "match_reasons": {
+        "skroty": [
+          "Skrót wiadomości"
+        ],
+        "makro": [
+          "Temat: inflacj",
+          "Temat: NBP",
+          "Temat: RPP",
+          "Temat: EBC",
+          "Temat: rentowności"
+        ],
+        "finanse": [
+          "Firma: PKO BP",
+          "Firma: Pekao",
+          "Firma: PZU",
+          "Firma: Alior",
+          "Temat: bank",
+          "Temat: ubezpiecz",
+          "Temat: fundusz",
+          "Temat: ETF",
+          "Temat: kredyt"
+        ],
+        "energia": [
+          "Firma: Orlen",
+          "Firma: KGHM",
+          "Firma: Tauron",
+          "Firma: JSW",
+          "Temat: energi",
+          "Temat: energety",
+          "Temat: paliw",
+          "Temat: miedź",
+          "Temat: elektrowni"
+        ],
+        "technologie": [
+          "Temat: gaming",
+          "Temat: gry",
+          "Temat: gra",
+          "Temat: AI",
+          "Temat: sztuczn* inteligenc"
+        ],
+        "przemysl": [
+          "Firma: Grupa Azoty",
+          "Firma: Ferro",
+          "Temat: przemysł",
+          "Temat: produkcj",
+          "Temat: transport",
+          "Temat: infrastruktur",
+          "Temat: kolej"
+        ],
+        "konsumpcja": [
+          "Temat: konsumen"
+        ],
+        "nieruchomosci": [
+          "Firma: Dom Development",
+          "Firma: PHN",
+          "Temat: nieruchomoś",
+          "Temat: najmu"
+        ]
+      },
+      "published_time": "21:02",
+      "published_at": "2026-11-19T21:02+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Listopadowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku nieco niższej inflacji - wynika z danych GUS.",
+          "Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki.",
+          "Apator spodziewa się porównywalnych rdr wyników w 2026 r. i wzrostu przychodów w 2027 r. W IV kw. chce zakończyć proces zabezpieczania zapasów pod przyszłe kontrakty - poinformowali przedstawiciele zarządu Apatora podczas konferencji."
+        ],
+        "interest_score": 61,
+        "impact_score": 45,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Listopadowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku nieco niższej inflacji - wynika z danych GUS."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Listopadowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku nieco niższej inflacji - wynika z danych GUS."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "PKO BP",
+            "sections": [
+              "finanse",
+              "makro"
+            ],
+            "terms": [
+              "stop* procentow*",
+              "RPP",
+              "kredyt*",
+              "bank*",
+              "NBP"
+            ],
+            "reason": "Działalność bankowa; temat może dotyczyć kosztu finansowania, popytu na kredyt lub wyniku odsetkowego.",
+            "source": "https://www.pkobp.pl/o-banku",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Dom Development",
+            "sections": [
+              "nieruchomosci",
+              "makro"
+            ],
+            "terms": [
+              "mieszkani*",
+              "deweloper*",
+              "kredyt*",
+              "stop* procentow*",
+              "nieruchomoś*"
+            ],
+            "reason": "Deweloper mieszkaniowy; temat może dotyczyć popytu, finansowania zakupu i podaży mieszkań.",
+            "source": "https://www.domd.pl/pl-pl/krakow/o-nas",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "4f52ab73a174ec3bca15c555fb9d60d31d7bd243c5bbd9c9d151f3353573c656"
+      }
+    },
+    {
+      "id": "44d1245b0df520eb",
+      "title": "Bogdanka do końca lutego '27 podniesie płace zasadnicze; ma rozpocząć projekt budowy nowego szybu",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/bogdanka-do-konca-lutego-27-podniesie-place-zasadnicze-ma-rozpoczac-projekt",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Zarząd Bogdanki najpóźniej na początku grudnia rozpocznie negocjacje wzrostu wynagrodzeń zasadniczych, a uzgodnioną podwyżkę wypłaci do końca lutego 2027 r. - wynika z deklaracji podpisanej przez zarządy Bogdanki i Enei, związki zawodowe działające w spółce oraz kierownictwo Ministerstwa Aktywów Państwowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano w deklaracji, w spotkaniu udział wzięli minister aktywów państwowych Wojciech Balczun i wiceminister Grzegorz Wrona. Odbyło się ono na zaproszenie organizacji związkowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bogdanka i Enea poinformowały, że kluczowe dla stabilnego funkcjonowania Bogdanki są dwie sprawy. Pierwsza to finalizacja negocjacji handlowych z odbiorcami węgla w ramach grupy Enea. Druga to uzgodnienie warunków cenowych na 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wskazano, że pozwoli to zrealizować inwestycje, które zabezpieczą wydobycie na poziomie zakładanym w strategii spółki na lata 2027-2029. Ustalenia mają zostać zakończone do końca listopada 2026 r. Najpóźniej w tym terminie rozpoczną się procedury uzyskania wymaganych zgód korporacyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "Podwyżki płac mają uwzględniać wyniki tych negocjacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z deklaracji wynika również, że zarząd Bogdanki rozpocznie projekt budowy nowego szybu. Powołany zostanie zespół projektowy, który przeanalizuje m.in. lokalizację, nakłady inwestycyjne i źródła finansowania. Do końca stycznia 2027 r. ma powstać zespół ds. realizacji projektu, a w jego skład wejdzie czterech przedstawicieli związków zawodowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "MAP - mediator między stroną społeczną a zarządem - zadeklarowało działania na rzecz stabilizacji sytuacji ekonomicznej i społecznej w spółce. Powołuje się przy tym na bezpieczeństwo energetyczne kraju."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ministerstwo ma m.in. uczestniczyć w zespole ds. wydobycia węgla tworzonym przez ministra właściwego ds. surowców energetycznych. W ramach tego zespołu strony mają wypracować długofalową politykę zapotrzebowania na węgiel energetyczny i jego wydobycia, z uwzględnieniem Bogdanki."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ciągu 30 dni od podpisania deklaracji Bogdanka, Enea oraz związkowcy spotkają się ponownie, by uzgodnić harmonogram działań oraz techniczne, finansowe i prawne mechanizmy realizacji porozumienia."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "mcb/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 19:41",
+      "content_sha256": "d12e302e04cead25cb9a917da170016ee2582483111747c2d38a11b2654a14be",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "19:41",
+      "published_at": "2026-11-19T19:41+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zarząd Bogdanki najpóźniej na początku grudnia rozpocznie negocjacje wzrostu wynagrodzeń zasadniczych, a uzgodnioną podwyżkę wypłaci do końca lutego 2027 r. - wynika z deklaracji podpisanej przez zarządy Bogdanki i Enei, związki zawodowe działające w spółce oraz kierownictwo Ministerstwa Aktywów Państwowych.",
+          "Z deklaracji wynika również, że zarząd Bogdanki rozpocznie projekt budowy nowego szybu.",
+          "Do końca stycznia 2027 r. ma powstać zespół ds. realizacji projektu, a w jego skład wejdzie czterech przedstawicieli związków zawodowych."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Zarząd Bogdanki najpóźniej na początku grudnia rozpocznie negocjacje wzrostu wynagrodzeń zasadniczych, a uzgodnioną podwyżkę wypłaci do końca lutego 2027 r. - wynika z deklaracji podpisanej przez zarządy Bogdanki i Enei, związki zawodowe działające w spółce oraz kierownictwo Ministerstwa Aktywów Państwowych."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d12e302e04cead25cb9a917da170016ee2582483111747c2d38a11b2654a14be"
+      }
+    },
+    {
+      "id": "476e79e0566ee864",
+      "title": "Backlog Selvity na '26 wynosi 330 mln zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/backlog-selvity-na-26-wynosi-330-mln-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Backlog Selvity na 2026 r. wynosi 330 mln zł, wobec 360 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Selvita spodziewa się dalszego wzrostu w segmencie Rozwoju Leków."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, zakontraktowanie Segmentu Rozwoju Leków jest o 23 proc. wyższe rdr (wynosi 119 mln zł), a zakontraktowanie Segmentu Odkrywania Leków jest o 22 proc. niższe rdr (200 mln zł)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Backlog został podany według stanu na 17.11.2026 r. i 17.11.2025 r. Obejmuje przychody już zafakturowane w roku obrotowym oraz portfel zamówień na rok obrotowy."
+        },
+        {
+          "type": "paragraph",
+          "text": "W okresie trzech kwartałów 2026 r. Selvita wypracowała 250,4 mln zł przychodów wobec 276,2 mln zł w analogicznym okresie rok wcześniej. Zysk EBITDA wyniósł 38,1 mln zł wobec 46,9 mln zł przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "W samym trzecim kwartale 2026 r. przychody wyniosły 84,6 mln zł (89,6 mln zł w trzecim kwartale 2025), a zysk EBITDA 14,2 mln zł, wobec 16,0 mln zł przed rokiem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Segment Rozwoju Leków (Drug Development) odpowiadał w trzecim kwartale 2026 r. za 33,6 mln zł przychodów (wzrost o 29 proc. rdr), stanowiąc 41 proc. w przychodach komercyjnych grupy oraz 11,9 mln zł zysku EBITDA."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Segment Rozwoju Leków dynamicznie rośnie i pozostaje motorem napędowym całej grupy, odpowiadając w ostatnim okresie już za ponad 40 proc. przychodów komercyjnych. Perspektywy tej części biznesu pozostają fundamentalnie bardzo obiecujące i spodziewamy się dalszego dynamicznego wzrostu w tym obszarze\" - powiedział, cytowany w komunikacie prasowym, prezes Rafał Chwast."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Segment Odkrywania Leków pozostaje natomiast pod wpływem głębokiej transformacji tej części rynku. Wyraża się ona przede wszystkim w zwiększonych inwestycjach w projekty w zaawansowanych fazach klinicznych kosztem budżetów na fazy przedkliniczne oraz wzmożonej konkurencji ze strony azjatyckich graczy\" - dodał."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa - jak podano - dostosowuje model działania segmentu do zmieniającego się popytu i koncentruje się na tym, by dobrze wykorzystać przełom roku pod kątem przedłużania dotychczasowych i podpisywania nowych kontraktów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W trzecim kwartale przychody i rentowność grupy wyglądały lepiej niż w pierwszych dwóch kwartałach i pracujemy nad tym, by utrzymać ten kierunek. W Segmencie Odkrywania Leków oczekujemy, że druga połowa roku będzie porównywalna do pierwszej. Zakontraktowanie Segmentu Rozwoju Leków na ten rok jest natomiast o 23 proc. wyższe niż rok wcześniej i wiele wskazuje na to, że pozytywne trendy będą utrzymywały się również w kolejnych okresach\" - powiedział członek zarządu Dariusz Kurdas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Selvita kontynuuje rozpoczęty w maju 2026 r. przegląd opcji strategicznych."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 19:02",
+      "content_sha256": "74fbf303f62dfe547d2b1d68c8e3c1d1dea7b3ab3dc4fddba80447328e64c8ec",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "19:02",
+      "published_at": "2026-11-19T19:02+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Backlog Selvity na 2026 r. wynosi 330 mln zł, wobec 360 mln zł rok wcześniej - podała spółka w komunikacie prasowym.",
+          "Jak podano, zakontraktowanie Segmentu Rozwoju Leków jest o 23 proc. wyższe rdr (wynosi 119 mln zł), a zakontraktowanie Segmentu Odkrywania Leków jest o 22 proc. niższe rdr (200 mln zł).",
+          "Backlog został podany według stanu na 17.11.2026 r. i 17.11.2025 r. Obejmuje przychody już zafakturowane w roku obrotowym oraz portfel zamówień na rok obrotowy."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Backlog został podany według stanu na 17.11.2026 r. i 17.11.2025 r. Obejmuje przychody już zafakturowane w roku obrotowym oraz portfel zamówień na rok obrotowy."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "74fbf303f62dfe547d2b1d68c8e3c1d1dea7b3ab3dc4fddba80447328e64c8ec"
+      }
+    },
+    {
+      "id": "40240a7bd223eb95",
+      "title": "Portfel zamówień grupy ZUE wynosi ok. 4,7 mld zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/portfel-zamowien-grupy-zue-wynosi-ok-47-mld-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Aktualny portfel zamówień grupy ZUE wynosi łącznie ok. 4,7 mld zł netto. Dodatkowo, grupa ma złożone cztery najlepsze oferty w przetargach na łączną kwotę ok. 317 mln zł - podało ZUE w komunikacie prasowym. Jednym z priorytetów grupy jest zwiększanie udziału rynków zagranicznych w działalności."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Trzeci kwartał 2026 roku był dla grupy ZUE okresem kontynuacji intensywnej rozbudowy portfela zamówień. Jesteśmy zadowoleni z naszego aktualnego solidnego, poziomu kontraktacji, niemniej nadal bierzemy udział w nowych postępowaniach przetargowych w segmencie kolejowym i tramwajowym. Interesują nas kontrakty zarówno na rynku polskim, jak i na rynkach zagranicznych – głównie rumuńskim i niemieckim\" - powiedział, cytowany w komunikacie prasowym prezes Wiesław Nowak."
+        },
+        {
+          "type": "paragraph",
+          "text": "Łączna wartość podpisanych w tym roku nowych umów to ok. 1,46 mld zł, w tym umowy kolejowe w Rumunii i w Niemczech, umowy tramwajowe na Śląsku, kontrakt utrzymaniowy w Krakowie oraz umowy dot. prac na liniach kolejowych nr 201 oraz nr 8."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, jednym z priorytetów ZUE pozostaje dalsze zwiększanie udziału rynków zagranicznych w działalności grupy. W tym roku spółka rozbudowała portfel zamówień w Rumunii i Niemczech - na obu rynkach zakłada dalsze pozyskiwanie kontraktów."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rumunia efektywnie wykorzystuje fundusze unijne przeznaczone na modernizację kolei, co sprzyja uruchamianiu kolejnych inwestycji infrastrukturalnych. Potencjał rynku zwiększają również planowane przedsięwzięcia związane z rozbudową infrastruktury tramwajowej i metra\" - ocenił prezes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Od 2025 roku grupa realizuje również zlecenia związane z modernizacją sieci trakcyjnej na rzecz Deutsche Bahn, jednego z czołowych operatorów kolejowych w Europie."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wieloletnia przerwa w zakresie modernizacji niemieckiej infrastruktury kolejowej sprawiła, że sektor ten wymaga obecnie znaczących inwestycji. W 2025 roku niemiecki rząd zapowiedział przeznaczenie na ten cel około 107 mld euro do 2029 roku. Planowane działania mają przede wszystkim zwiększyć przepustowość linii kolejowych i poprawić punktualność przewozów. To duża szansa na rozwój naszej działalności na tym rynku\" - dodał Nowak."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa ZUE miała w okresie trzech kwartałów 2026 r. 671,2 mln zł, wobec 690,9 mln zł w analogicznym okresie roku poprzedniego. Zysk operacyjny wyniósł 9,4 mln zł, a zysk netto 5,5 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyniki te są zgodne z szacunkami przedstawionymi 9 listopada."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ocenie prezesa, na polskim rynku można zaobserwować wzrost aktywności przetargowej, szczególnie w obszarze inwestycji kolejowych."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Daje nam to podstawy do pozytywnej oceny perspektyw rynku w najbliższych kwartałach. Sprzyjające warunki dla rozwoju branży infrastrukturalnej dostrzegamy zarówno w Polsce, jak i na pozostałych rynkach europejskich. Ważną rolę odgrywają tu wieloletnie programy inwestycyjne, finansowane w dużej mierze ze środków unijnych, które zapewniają perspektywę realizacji kolejnych przedsięwzięć\" - powiedział Nowak."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poza głównymi rynkami, czyli kolejowym oraz tramwajowym, grupa spodziewa się także wzrostu możliwości na rynku drogownictwa lokalnego i pozyskanie kolejnych kontraktów dla swojej spółki Energopol, która również jest aktywna na rynku ofertowym."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 18:48",
+      "content_sha256": "7d82bb2461d32d004ad84cb638ed7f3a55aadb200450bb6fb5910cfb5dd1bc77",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "18:48",
+      "published_at": "2026-11-19T18:48+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Aktualny portfel zamówień grupy ZUE wynosi łącznie ok.",
+          "\"Trzeci kwartał 2026 roku był dla grupy ZUE okresem kontynuacji intensywnej rozbudowy portfela zamówień.",
+          "W tym roku spółka rozbudowała portfel zamówień w Rumunii i Niemczech - na obu rynkach zakłada dalsze pozyskiwanie kontraktów."
+        ],
+        "interest_score": 47,
+        "impact_score": 26,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Jesteśmy zadowoleni z naszego aktualnego solidnego, poziomu kontraktacji, niemniej nadal bierzemy udział w nowych postępowaniach przetargowych w segmencie kolejowym i tramwajowym."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "7d82bb2461d32d004ad84cb638ed7f3a55aadb200450bb6fb5910cfb5dd1bc77"
+      }
+    },
+    {
+      "id": "23fc50f2f906d877",
+      "title": "Grupa Azoty miała w III kw. stratę EBITDA na poziomie 25 mln zł, zgodnie z szacunkami",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-azoty-miala-w-iii-kw-strate-ebitda-na-poziomie-25-mln-zl-zgodnie-z",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "przemysl"
+      ],
+      "companies": [
+        "Grupa Azoty",
+        "Orlen"
+      ],
+      "match_reasons": {
+        "przemysl": [
+          "Firma: Grupa Azoty",
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-19T23:53:49+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki. Grupa ocenia, że perspektywy rynkowe na kolejne kwartały pozostają wymagające."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przychody ze sprzedaży w tym okresie wyniosły 3.277 mln zł i również były zgodne z szacunkami spółki. Przychody zanotowały wzrost w ujęciu rdr o 12 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W ujęciu narastającym za trzy kwartały 2026 roku Grupa Azoty osiągnęła przychody ze sprzedaży na poziomie 10.300 mln zł oraz dodatni wynik EBITDA w wysokości 586 mln zł, co przełożyło się na marżę EBITDA wynoszącą 5,7 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "W porównaniu z analogicznym okresem 2025 roku EBITDA wzrosła o 274 mln zł, tj. o 88 proc., a rentowność EBITDA poprawiła się o 2,6 punktu procentowego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po dziewięciu miesiącach 2026 roku strata netto wyniosła 1.061,7 mln zł wobec straty na poziomie 1.027,45 mln zł w analogicznym okresie 2025 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Dokonujemy istotnego postępu w porządkowaniu sytuacji finansowej Grupy. Podpisane porozumienia z instytucjami finansującymi, zatwierdzony przez Sąd układ z wierzycielami GA Polyolefins oraz zaawansowane przygotowania emisji akcji skierowanej do Skarbu Państwa to trzy istotne elementy procesu odbudowy Grupy Azoty w 2026. Ich pomyślna realizacja pozwoli nam odzyskać stabilność finansową i zbudować solidne fundamenty do maksymalnego wykorzystania potencjału biznesowego i rozwoju Grupy Azoty\" – powiedział cytowany w komunikacie prasowym prezes Marcin Celejewski."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak wskazano, jednym z głównych czynników wpływających na rentowność Grupy pozostawały wysokie ceny gazu ziemnego. W III kwartale 2026 roku średnia cena gazu TTF wzrosła o 95 proc. rok do roku, z 32,5 do 63,4 EUR/MWh."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ponadto wskazano, że wzrost cen nawozów nie rekompensował rosnących kosztów produkcji, a część rolników przesuwała zakupy na kolejne kwartały."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Wysokie ceny gazu ograniczały również rentowność produkcji nawozów azotowych w całej Europie, prowadząc do czasowych przestojów w części zakładów. W segmentach chemicznym i tworzyw dodatkową presję wywierały wysokie ceny surowców, konkurencja ze strony tańszego importu z Azji oraz słaby popyt ze strony branż odbiorców\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "W III kwartale wszystkie segmenty odnotowały wzrost przychodów, przede wszystkim dzięki wyższym cenom sprzedaży, jednak wzrost kosztów surowców i presja konkurencyjna ograniczały możliwości poprawy marż. Najkorzystniej na tle pozostałych obszarów wypadł segment Chemia, w którym EBITDA wzrosła o 113 mln zł rok do roku, głównie dzięki wyższym cenom i wolumenom sprzedaży siarki."
+        },
+        {
+          "type": "paragraph",
+          "text": "W segmencie Agro EBITDA obniżyła się o 239 mln zł, natomiast w segmencie Tworzywa o 269 mln zł, na co istotny wpływ miała wysoka baza porównawcza z 2025 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ponadto wskazano, że w kolejnych miesiącach priorytetem Grupy Azoty pozostanie dalsza transformacja i stabilizacja sytuacji finansowej. Dodano, że ważnym krokiem było zatwierdzenie 6 listopada przez sąd układu z wierzycielami GA Polyolefins, przewidującego redukcję około 83 proc. zobowiązań objętych układem. Postanowienie pozostaje nieprawomocne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Z kolei 16 listopada Sąd arbitrażowy wydał postanowienie, które pozostaje bez wpływu na przejęcie GA Polyolefins przez Orlen."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"To istotne kroki w kierunku finalizacji transakcji i ograniczenia obciążeń finansowych Grupy Azoty związanych z inwestycją Polimery Police\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "17 listopada br. Grupa podpisała z instytucjami finansującymi i Orlenem list zobowiązujący, obejmujący zaktualizowane warunki restrukturyzacji zadłużenia (term sheet), co przybliża zawarcie długoterminowej umowy restrukturyzacyjnej."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Stabilizację finansową mają wesprzeć również planowane emisje akcji Grupy Azoty i Grupy Azoty Police oraz realizowana transformacja operacyjna obejmująca konsolidację działalności i centralizację funkcji wspierających\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spółka wskazuje jednak, że perspektywy rynkowe na kolejne kwartały pozostają wymagające."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"W segmencie Agro możliwe jest sezonowe ożywienie popytu przed wiosennymi pracami polowymi, jednak jego skala będzie uzależniona od sytuacji finansowej rolników i poziomu cen nawozów. W segmentach Chemia i Tworzywa nadal istotnymi wyzwaniami będą wysokie koszty produkcji, presja importowa i słaby popyt w branżach odbiorców. W tych warunkach Grupa Azoty będzie koncentrować się na utrzymaniu płynności finansowej, dyscyplinie kosztowej i dalszej poprawie efektywności operacyjnej\" - napisano."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "mcb/ ana/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "19.11.2026 18:34",
+      "content_sha256": "42f3e706b2677956f548928d7b21c1fcfb33234c1f2aecd0102ca8e6861e7e33",
+      "date": "2026-11-19",
+      "saved_at": "2026-11-19T23:53:49+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
+      "published_time": "18:34",
+      "published_at": "2026-11-19T18:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki.",
+          "Przychody ze sprzedaży w tym okresie wyniosły 3.277 mln zł i również były zgodne z szacunkami spółki.",
+          "W ujęciu narastającym za trzy kwartały 2026 roku Grupa Azoty osiągnęła przychody ze sprzedaży na poziomie 10.300 mln zł oraz dodatni wynik EBITDA w wysokości 586 mln zł, co przełożyło się na marżę EBITDA wynoszącą 5,7 proc."
+        ],
+        "interest_score": 75,
+        "impact_score": 70,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki."
+          },
+          {
+            "factor": "Prognozy lub oczekiwania",
+            "excerpt": "Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki."
+          },
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Przychody ze sprzedaży w tym okresie wyniosły 3.277 mln zł i również były zgodne z szacunkami spółki."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          },
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "42f3e706b2677956f548928d7b21c1fcfb33234c1f2aecd0102ca8e6861e7e33"
+      }
+    },
     {
       "id": "197e381608100b00",
       "title": "PHN rozważa przeprowadzenie emisji obligacji w IV kw.",
@@ -2848,7 +4370,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-19T17:25:16+00:00",
+      "discovered_at": "2026-11-19T23:53:49+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3267,7 +4789,7 @@
       "published_display": "19.11.2026 17:02",
       "content_sha256": "65dbf04915320df41cfd90762bf0dc5a9f806dab3961934bb6f858e3bc6c20c4",
       "saved_at": "2026-11-19T17:25:16+00:00",
-      "content_checked_at": "2026-11-19T17:25:16+00:00",
+      "content_checked_at": "2026-11-19T23:53:49+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -549942,7 +551464,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -549960,7 +551482,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -549979,7 +551501,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -549997,7 +551519,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550015,7 +551537,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550033,7 +551555,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550051,7 +551573,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550069,7 +551591,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550087,7 +551609,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550105,7 +551627,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550123,7 +551645,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550141,7 +551663,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550159,7 +551681,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550177,7 +551699,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550195,7 +551717,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550215,7 +551737,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550235,7 +551757,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550399,7 +551921,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550417,7 +551939,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550437,7 +551959,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550455,7 +551977,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550473,7 +551995,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550491,7 +552013,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550511,7 +552033,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550529,7 +552051,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550547,7 +552069,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550565,7 +552087,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550585,7 +552107,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550603,7 +552125,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550621,7 +552143,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550639,7 +552161,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550657,7 +552179,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550677,7 +552199,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550695,7 +552217,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550713,7 +552235,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550731,7 +552253,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550752,7 +552274,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550770,7 +552292,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550788,7 +552310,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550809,7 +552331,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550827,7 +552349,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 136,
+      "attempts": 137,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -550845,7 +552367,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550863,7 +552385,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550881,7 +552403,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550899,7 +552421,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550917,7 +552439,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550935,7 +552457,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550955,7 +552477,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550973,7 +552495,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -550993,7 +552515,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551011,7 +552533,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551029,7 +552551,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551047,7 +552569,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551067,7 +552589,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551085,7 +552607,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551103,7 +552625,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551121,7 +552643,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551141,7 +552663,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551159,7 +552681,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551177,7 +552699,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551195,7 +552717,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551213,7 +552735,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551233,7 +552755,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551251,7 +552773,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551269,7 +552791,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551287,7 +552809,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -551305,7 +552827,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -551323,7 +552845,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -551341,7 +552863,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -551359,7 +552881,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -551377,11 +552899,283 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 137,
+      "attempts": 138,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/raporty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-08-29/wyniki-finansowe-grupy-neuca",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250821/wyniki-finansowe-kghm-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/kontrakty_terminowe/kontrakty_terminowe_maszynka_do_robienia_pieniedzy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/podstawy_inwestowania/gielda_to_nie_gra_o_sumie_zerowej",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/waluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/kryptowaluty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/paliwa-i-surowce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/rynki-zagraniczne",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gielda-usa",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/strefa-global-market/gpw-globalconnect",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/klimat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/energetyka",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
       "error": "ValueError"
@@ -551392,38 +553186,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
       "error": "ValueError"
     }
   ],
