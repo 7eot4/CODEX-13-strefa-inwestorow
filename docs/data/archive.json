@@ -1,8 +1,1149 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-23T22:18:05+00:00",
+  "last_checked": "2026-11-24T06:09:52+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "53b5c7f96160515f",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-24",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-24",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "Atal",
+        "CD PROJEKT",
+        "Echo Investment",
+        "JSW",
+        "Mirbud",
+        "PGE"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-24"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 24 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "08:50 - ZBP - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja IT@BANK. Konferencja gromadzi liderów bankowości, przedstawicieli instytucji finansowych i firm technologicznych, tworząc przestrzeń do dyskusji o przyszłości sektora, cyfryzacji oraz najnowszych trendach w obszarze IT."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - CAPTORTX - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Captor Therapeutics organizuje spotkanie poświęcone omówieniu raportu za 3Q 2026. Spotkanie odbędzie się na platformie Teams."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - UNIBEP - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja poświęcona wynikom Grupy Unibep za 1-3Q 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:30 - ZBP - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa online Związku Banków Polskich. Wśród tematów: przedstawienie raportu AMRON SARFiN za III kwartał 2026 r. oraz przedstawienie wyników Monitora Bankowego za listopad 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa pt. „7 filarów suwerenności IT. Jak budować cyfrową odporność państwa i konkurencyjność gospodarki”."
+        },
+        {
+          "type": "paragraph",
+          "text": "17:30 - CDPROJEKT - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Audio webcast CD Projekt w związku z publikacją wyników finansowych Grupy."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 25 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - JSW - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Transmisja wyników finansowych Grupy Kapitałowej JSW III kwartał 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - PGE - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja prasowa PGE związana z wynikami za III kwartał 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - CREEPYJAR - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja wynikowa spółki Creepy Jar za III kwartał 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ZBP - Debata „Kto będzie zarządzał Polską w 2035 roku? Kompetencje, przywództwo i przyszłość rynku pracy”."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - MURAPOL - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wideokonferencja prasowa Murapolu nt. wyników za III kw. 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - NFOŚiGW - Konferencja prasowa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Forum Energia-Efekt-Środowisko \"Fundusze Europejskie dla energii i środowiska – rola NFOŚiGW i efekty realizacji programu FEnIKS\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "16:00 - CYBERFLKS - Konferencja prasowa spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie z cyber_Folks, podczas którego przedstawiona zostanie przełomowa technologia AI, która radykalnie zmieni możliwości właścicieli sklepów online."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 26 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - SNIEZKA - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja poświęcona wynikom Grupy Śnieżka za pierwsze trzy kwartały 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - REX - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wideokonferencja prasowa Rex Concepts nt. wyników za III kw. 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - MEXPOLSKA - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie z zarządem Grupy Mex Polska dot. wyników finansowych za III kwartał 2026 r. i planów rozwoju na 2027 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - ATAL - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja online Atalu o wynikach finansowych za III kwartał 2026 r."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 27 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "09:00 - MIRBUD - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Konferencja on-line Grupy Kapitałowej Mirbud poświęcona omówieniu wyników za trzy kwartały 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "09:30 - GPW - II Catalyst Forum, wydarzenie poświęcone rynkowi obligacji Catalyst, jego rozwojowi oraz roli w finansowaniu przedsiębiorstw i budowaniu możliwości inwestycyjnych."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - DIAG - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie wynikowe online Diagnostyka SA. Podczas spotkania zarząd przedstawi wyniki finansowe za III kwartał 2026 roku oraz plany rozwoju na najbliższe miesiące."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - ENTER - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spotkanie wynikowe Enter Air, podczas którego zarząd omówi wyniki za 3Q 2026 roku oraz przedstawi perspektywy rozwoju w kolejnych kwartałach."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 30 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - TORPOL - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wideokonferencja spółki Torpol, poświęcona omówieniu wyników finansowych za dziewięć miesięcy 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "10:30 - ECHO - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wideokonferencja Echo Investment poświęcona omówieniu wyników Grupy za trzeci kwartał 2026 roku."
+        },
+        {
+          "type": "paragraph",
+          "text": "13:00 - SPYROSOFT - Konferencja wynikowa Spółki"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spyrosoft zaprezentuje online wyniki finansowe Grupy za III kw. 2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "UWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biznes Zesp.Emitencki (PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 07:01",
+      "content_sha256": "8126fb233f8e96d2490ab29a754c1c06f73c89c0252e8568b3821508104435c3",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-24T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Konferencja poświęcona wynikom Grupy Unibep za 1-3Q 2026 roku.",
+          "Spotkanie z zarządem Grupy Mex Polska dot. wyników finansowych za III kwartał 2026 r. i planów rozwoju na 2027 r.",
+          "Wideokonferencja Echo Investment poświęcona omówieniu wyników Grupy za trzeci kwartał 2026 roku."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "CD PROJEKT",
+            "sections": [
+              "technologie"
+            ],
+            "terms": [
+              "gaming*",
+              "gry",
+              "gier",
+              "premier*",
+              "Wiedźmin",
+              "Cyberpunk",
+              "Steam"
+            ],
+            "reason": "Produkcja i sprzedaż gier — związek z premierami, sprzedażą i warunkami rynku gamingowego.",
+            "source": "https://www.cdprojekt.com/pl/grupa-kapitalowa/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "8126fb233f8e96d2490ab29a754c1c06f73c89c0252e8568b3821508104435c3"
+      }
+    },
+    {
+      "id": "84fa75d01d4a8502",
+      "title": "Kalendarium rynku NewConnect 2026-11-24",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/kalendarium-rynku-newconnect-2026-11-24",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku NewConnect 2026-11-24"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 24 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00 - NOTORIA - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - CARLSON - Zwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "14:00 - APOLLO - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie emisji akcji serii O, kooptacji członka rady nadzorczej."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 25 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "08:30 - GKSKAT - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "C.d. obrad NWZ z 19.11.2026 r."
+        },
+        {
+          "type": "paragraph",
+          "text": "- MPLVERBUM - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,17 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 30 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "13:00 - READGENE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmiany statutu."
+        },
+        {
+          "type": "paragraph",
+          "text": "16:00 - ICECODE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. emisji akcji zwykłych na okaziciela serii M."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 07:01",
+      "content_sha256": "a7a7c2b165ffaea7b9220f9d4b50fbf60c4a9bfc4ccb8cebea67aaf1e751f9f8",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-24T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "W sprawie emisji akcji serii O, kooptacji członka rady nadzorczej.",
+          "W sprawie m.in. emisji akcji zwykłych na okaziciela serii M."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "a7a7c2b165ffaea7b9220f9d4b50fbf60c4a9bfc4ccb8cebea67aaf1e751f9f8"
+      }
+    },
+    {
+      "id": "68e67bc8b1074c47",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-24",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/kalendarium-rynku-kapitalowego-gpw-2026-11-24",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "PZU"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Kalendarium rynku kapitałowego GPW 2026-11-24"
+        },
+        {
+          "type": "heading",
+          "text": "WTOREK, 24 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - LENTEX - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie przyjęcia polityki równowagi płci w zarządzie i radzie nadzorczej, rozpatrzenia wniosku akcjonariusza."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - PZU - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie m.in. połączenia z LINK4 Towarzystwo Ubezpieczeń."
+        },
+        {
+          "type": "paragraph",
+          "text": "- UNICREDIT - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 3,0034 EUR na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "ŚRODA, 25 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- ECBSA - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,80 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- MURAPOL - Dzień dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka dywidendy w wysokości 2,94 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- UNICREDIT - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka na poczet dywidendy w wysokości 3,0034 EUR na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "CZWARTEK, 26 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - IZOSTAL - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie uzupełnienia składu RN, przyjęcia polityki równowagi płci w organach spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - PBG - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmian w statucie."
+        },
+        {
+          "type": "paragraph",
+          "text": "12:00 - STALPROFI - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie uzupełnienia składu rady nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "- ASBIS - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka dywidendy w wysokości 0,35 USD na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- IMMOBILE - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Druga transza wypłaty dywidendy w łącznej wysokości 0,13 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PIĄTEK, 27 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - CELTIC - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie odwołania członka zarządu, zmian w składzie rady nadzorczej."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - ECHO - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie zmiany statutu."
+        },
+        {
+          "type": "paragraph",
+          "text": "11:00 - PURE - Nadzwyczajne walne zgromadzenie"
+        },
+        {
+          "type": "paragraph",
+          "text": "W sprawie przyjęcia polityki wynagrodzeń członków zarządu i RN, dalszego istnienia spółki."
+        },
+        {
+          "type": "paragraph",
+          "text": "- SOPHARMA - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dywidenda w wysokości 0,068 EUR na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "PONIEDZIAŁEK, 30 LISTOPADA"
+        },
+        {
+          "type": "paragraph",
+          "text": "- ARCHICOM - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka dywidendy w wysokości 1,63 PLN na akcję."
+        },
+        {
+          "type": "paragraph",
+          "text": "- MURAPOL - Dzień wypłaty dywidendy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaliczka dywidendy w wysokości 2,94 PLN na akcję."
+        },
+        {
+          "type": "heading",
+          "text": "(PAP)"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 07:01",
+      "content_sha256": "92b0cfaf7ef45e4ba57efdbec36cb230c16a82181e77a7aad6512fd2b89179c4",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "07:01",
+      "published_at": "2026-11-24T07:01+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zaliczka na poczet dywidendy w wysokości 3,0034 EUR na akcję.",
+          "Zaliczka dywidendy w wysokości 1,63 PLN na akcję.",
+          "Zaliczka dywidendy w wysokości 2,94 PLN na akcję."
+        ],
+        "interest_score": 33,
+        "impact_score": 20,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "92b0cfaf7ef45e4ba57efdbec36cb230c16a82181e77a7aad6512fd2b89179c4"
+      }
+    },
+    {
+      "id": "2e638b1d51f8bc61",
+      "title": "Na koniec IX portfel zamówień grupy Elektrotim wynosił 1.167 mln zł",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/na-koniec-ix-portfel-zamowien-grupy-elektrotim-wynosil-1167-mln-zl",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Na koniec września 2026 roku portfel zamówień grupy Elektrotim wynosił 1.167 mln zł, wobec 813 mln zł na koniec września 2025 r. - podała spółka w raporcie kwartalnym."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grupa w okresie 1.10.2025 r. - 30.09.2026 r. pozyskała zamówienia o wartości 894 mln zł wobec 730 mln zł w okresie 1.10.2024 r. - 30.09.2025 r., co oznacza wzrost wartości zawartych kontraktów o 22 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Portfel zamówień spółki Elektrotim na koniec września 2026 r. wynosił 1.156 mln zł, co stanowi wzrost o 42 proc. rdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "W okresie styczeń-październik 2026 r. spółka pozyskała kontrakty o wartości 810 mln zł, wobec 625 mln zł w analogicznym okresie roku ubiegłego. Portfel zamówień spółki na 31 października 2026 roku wyniósł 1.178 mln zł, co stanowi 47 proc. wzrost rdr. Z tej kwoty 135 mln zł zaplanowano do realizacji jeszcze w 2026 roku, 630 mln zł w 2027 roku, zaś 413 mln zł w latach 2028 -2030."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podano, w wyniku podpisanych w listopadzie 2026 roku kolejnych umów, wartość pozyskanych kontraktów w okresie styczeń-listopad 2026 roku przekroczyła 1.140 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodatkowo, na 1 listopada 2026 roku łączna wartość ofert spółki, które zostały wybrane w postępowaniach ofertowych lub znajdują się w trakcie procedury zawarcia umowy, przekracza 14 mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przychody ze sprzedaży grupy Elektrotim po trzech kwartałach 2026 r. wyniosły 314,3 mln zł, w porównaniu do 342,4 mln zł w analogicznym okresie 2025 r. Zysk na działalności operacyjnej spadł do 9,7 mln zł z 19,7 mln zł, a zysk netto j.d. do 6,2 mln zł z 13,8 mln zł rok wcześniej."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 06:45",
+      "content_sha256": "6606ccb3cc1d8f837d7e3665b67c4acfb2f9bf854a379c2328682724414088f9",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "06:45",
+      "published_at": "2026-11-24T06:45+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Na koniec września 2026 roku portfel zamówień grupy Elektrotim wynosił 1.167 mln zł, wobec 813 mln zł na koniec września 2025 r. - podała spółka w raporcie kwartalnym.",
+          "Portfel zamówień spółki Elektrotim na koniec września 2026 r. wynosił 1.156 mln zł, co stanowi wzrost o 42 proc. rdr.",
+          "Przychody ze sprzedaży grupy Elektrotim po trzech kwartałach 2026 r. wyniosły 314,3 mln zł, w porównaniu do 342,4 mln zł w analogicznym okresie 2025 r. Zysk na działalności operacyjnej spadł do 9,7 mln zł z 19,7 mln zł, a zysk netto j.d. do 6,2 mln zł z 13,8 mln zł rok wcześniej."
+        ],
+        "interest_score": 47,
+        "impact_score": 26,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Grupa w okresie 1.10.2025 r. - 30.09.2026 r. pozyskała zamówienia o wartości 894 mln zł wobec 730 mln zł w okresie 1.10.2024 r. - 30.09.2025 r., co oznacza wzrost wartości zawartych kontraktów o 22 proc. rdr."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "6606ccb3cc1d8f837d7e3665b67c4acfb2f9bf854a379c2328682724414088f9"
+      }
+    },
+    {
+      "id": "4e48ce3b24d05861",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/rentownosci-obligacji-wybranych-panstw-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "makro",
+        "przemysl"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "makro": [
+          "Temat: rentowności",
+          "Temat: obligacj"
+        ],
+        "przemysl": [
+          "Temat: kolej"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | Obligacje | Rentowności | | | | |"
+        },
+        {
+          "type": "heading",
+          "text": "| | | 24.11.2026 | 1D | 5D | 1M | 3M | 12M"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 2-letnie | 4,69 | 4,82 | 4,96 | 4,77 | 4,39 | 4,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 5-letnie | 5,62 | 5,72 | 5,79 | 5,96 | 5,33 | 4,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Polska | 10-letnie | 6,16 | 6,25 | 6,30 | 6,39 | 5,92 | 5,34"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 3-letnie | 5,47 | 5,48 | 5,53 | 5,69 | 5,36 | 6,55"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 5-letnie | 5,49 | 5,52 | 5,52 | 5,71 | 5,42 | 6,57"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Węgry | 10-letnie | 5,48 | 5,50 | 5,47 | 5,61 | 5,52 | 7,14"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 2-letnie | 4,32 | 4,32 | 4,25 | 4,27 | 3,94 | 3,68"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 5-letnie | 4,72 | 4,72 | 4,67 | 4,81 | 4,37 | 4,10"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Czechy | 10-letnie | 5,27 | 5,28 | 5,24 | 5,38 | 4,99 | 4,62"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 2-letnie | 36,46 | 36,36 | 36,23 | 36,50 | 37,36 | 36,23"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 5-letnie | 36,17 | 36,09 | 36,07 | 35,70 | 35,30 | 33,47"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Turcja | 10-letnie | 33,51 | 33,49 | 33,55 | 32,96 | 32,21 | 30,11"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 2-letnie | 3,05 | 3,06 | 3,14 | 3,02 | 2,79 | 2,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 5-letnie | 3,12 | 3,14 | 3,23 | 3,19 | 2,99 | 2,38"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Irlandia | 10-letnie | 3,41 | 3,43 | 3,52 | 3,49 | 3,41 | 2,92"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 2-letnie | 3,46 | 3,48 | 3,52 | 3,54 | 3,03 | 2,20"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 5-letnie | 3,88 | 3,93 | 3,98 | 4,04 | 3,46 | 2,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Włochy | 10-letnie | 4,34 | 4,40 | 4,45 | 4,57 | 4,08 | 3,46"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 2-letnie | 3,10 | 3,10 | 3,16 | 3,17 | 2,84 | 1,97"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 5-letnie | 3,34 | 3,37 | 3,43 | 3,48 | 3,13 | 2,38"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Portugalia | 10-letnie | 3,73 | 3,77 | 3,83 | 3,90 | 3,61 | 3,04"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 2-letnie | 3,16 | 3,16 | 3,22 | 3,22 | 2,90 | 2,09"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 5-letnie | 3,41 | 3,43 | 3,50 | 3,54 | 3,16 | 2,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Hiszpania | 10-letnie | 3,87 | 3,91 | 3,96 | 4,04 | 3,71 | 3,21"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 2-letnie | 3,07 | 3,06 | 3,15 | 3,06 | 2,85 | 2,01"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 5-letnie | 3,12 | 3,13 | 3,22 | 3,17 | 2,98 | 2,29"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Niemcy | 10-letnie | 3,29 | 3,30 | 3,39 | 3,35 | 3,26 | 2,70"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 2-letnie | 3,57 | 3,58 | 3,67 | 3,80 | 3,04 | 2,25"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 5-letnie | 4,22 | 4,30 | 4,39 | 4,48 | 3,52 | 2,77"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Francja | 10-letnie | 4,78 | 4,88 | 4,96 | 5,02 | 4,13 | 3,47"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 2-letnie | 4,88 | 4,86 | 5,01 | 4,91 | 4,36 | 3,78"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 5-letnie | 4,90 | 4,89 | 5,04 | 4,99 | 4,59 | 3,96"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Wielka Brytania | 10-letnie | 5,21 | 5,24 | 5,37 | 5,36 | 5,06 | 4,55"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 2-letnie | 1,79 | 1,84 | 1,87 | 1,88 | 1,68 | 0,95"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 5-letnie | 2,11 | 2,19 | 2,26 | 2,23 | 2,14 | 1,31"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Japonia | 10-letnie | 2,70 | 2,80 | 2,88 | 2,81 | 2,89 | 1,78"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 2-letnie | 4,67 | 4,69 | 4,80 | 4,68 | 4,23 | 3,50"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 5-letnie | 4,73 | 4,76 | 4,91 | 4,81 | 4,40 | 3,59"
+        },
+        {
+          "type": "paragraph",
+          "text": "| USA | 10-letnie | 4,92 | 4,94 | 5,11 | 4,99 | 4,70 | 4,02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 06:36",
+      "content_sha256": "c9e13e336f89547ca2c0c62830cec9ede8ad887543efc851488c1222f35d50d6",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "06:36",
+      "published_at": "2026-11-24T06:36+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej zestawienie rentowności obligacji wybranych państw.",
+          "Rentowności dla typowych obligacji, podane za agencją Bloomberg."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [
+          {
+            "name": "Budimex",
+            "sections": [
+              "przemysl"
+            ],
+            "terms": [
+              "budownictw*",
+              "infrastruktur*",
+              "kolej*",
+              "drog*",
+              "kontrakt*"
+            ],
+            "reason": "Budownictwo infrastrukturalne i kolejowe; możliwy związek z popytem na inwestycje i kontrakty.",
+            "source": "https://budimex.pl/o-nas/",
+            "relation": "Powiązanie branżowe — wniosek",
+            "matched_topics": [
+              "kolej*"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "c9e13e336f89547ca2c0c62830cec9ede8ad887543efc851488c1222f35d50d6"
+      }
+    },
+    {
+      "id": "967fbc6c94f0d5c7",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii i Kolumbii:"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Indeks | Kraj | Wartość (pkt.) | 1D (%) | 1W (%) | 1M (%) | 1Y (%) | YTD (%)"
+        },
+        {
+          "type": "heading",
+          "text": "| S&P 500 | USA | 7237,17 | 4,73 | -2,42 | -5,07 | 7,93 | 5,72"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Dow Jones Industrial | USA | 49595,31 | 3,01 | -3,90 | -5,02 | 6,78 | 3,19"
+        },
+        {
+          "type": "paragraph",
+          "text": "| NASDAQ Comp. | USA | 24089,56 | 6,51 | -1,71 | -7,19 | 5,32 | 3,65"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Russell 2000 | USA | 2669,655 | 3,40 | -2,67 | -3,83 | 10,58 | 7,56"
+        },
+        {
+          "type": "paragraph",
+          "text": "| S&P/TSX Comp. | Kanada | 34082,12 | 2,69 | -4,59 | -4,77 | 11,36 | 7,48"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IPC | Meksyk | 69355,62 | 1,06 | -2,60 | -0,75 | 10,93 | 7,85"
+        },
+        {
+          "type": "paragraph",
+          "text": "| IBOVESPA | Brazylia | 164796,05 | -0,95 | -4,44 | -19,64 | 6,13 | 2,28"
+        },
+        {
+          "type": "paragraph",
+          "text": "| COLCAP | Kolumbia | 2345,96 | 2,02 | -2,22 | -7,64 | 17,32 | 13,44"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "aj/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 06:34",
+      "content_sha256": "7baeb83df33745c51cb86ba3916e85607d06de65d20cd21ace8b13d1a2203815",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "06:34",
+      "published_at": "2026-11-24T06:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela).",
+          "Szczegóły i dane źródłowe sprawdzisz w pełnej treści artykułu."
+        ],
+        "interest_score": 33,
+        "impact_score": 10,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "7baeb83df33745c51cb86ba3916e85607d06de65d20cd21ace8b13d1a2203815"
+      }
+    },
+    {
+      "id": "8966b3fe7484f864",
+      "title": "Wyniki Archicomu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-archicomu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-24T06:09:52+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Poniżej przedstawiamy wyniki Archicomu w trzecim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników."
+        },
+        {
+          "type": "paragraph",
+          "text": "dane w mln zł."
+        },
+        {
+          "type": "paragraph",
+          "text": "| 3Q2026 | wyniki | kons. | różnica | r/r | q/q | YTD 2026 | rdr"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| Przychody | 453,6 | 462,1 | -1,8% | 129% | 76% | 1078,1 | 106,0%"
+        },
+        {
+          "type": "heading",
+          "text": "| EBIT | 75,8 | 60,8 | 25% | 587% | 140% | 175,4 | 344,5%"
+        },
+        {
+          "type": "paragraph",
+          "text": "| zysk netto j.d. | 57,6 | 45,0 | 28% | - | 203% | 132,0 | -"
+        },
+        {
+          "type": "paragraph",
+          "text": "| | | | | | | |"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża EBIT | 16,7% | 13,2% | 3,51 | 11,15 | 4,47 | 16,27% | 8,73"
+        },
+        {
+          "type": "paragraph",
+          "text": "| marża netto | 12,7% | 9,8% | 2,93 | 9,73 | 5,32 | 12,24% | 11,32"
+        },
+        {
+          "type": "paragraph",
+          "text": "*** Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "doa/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "24.11.2026 06:34",
+      "content_sha256": "810d2e33b663c43a657a6c940f954e75c5b7fe315b757c750a2d31bc0273c1d9",
+      "date": "2026-11-24",
+      "saved_at": "2026-11-24T06:09:52+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
+      "published_time": "06:34",
+      "published_at": "2026-11-24T06:34+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Poniżej przedstawiamy wyniki Archicomu w trzecim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+          "*** Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes."
+        ],
+        "interest_score": 51,
+        "impact_score": 32,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Poniżej przedstawiamy wyniki Archicomu w trzecim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "810d2e33b663c43a657a6c940f954e75c5b7fe315b757c750a2d31bc0273c1d9"
+      }
+    },
     {
       "id": "948485f31e38fa15",
       "title": "DZIEŃ NA RYNKACH: W USA mocne wzrosty, Nasdaq zyskał 6,5 proc po powrocie Huanga do Nvidii",
@@ -179,7 +1320,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-23T22:18:05+00:00",
+      "discovered_at": "2026-11-24T06:09:52+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -590,7 +1731,7 @@
       "published_display": "23.11.2026 21:02",
       "content_sha256": "2a7b69dbce7dd371ddba225e48502cecf0bf9539edc30ef107399532ac534bef",
       "saved_at": "2026-11-23T22:18:05+00:00",
-      "content_checked_at": "2026-11-23T22:18:05+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2039,7 +3180,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-23T22:18:05+00:00",
+      "discovered_at": "2026-11-24T06:09:52+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -2422,7 +3563,7 @@
       "published_display": "23.11.2026 17:02",
       "content_sha256": "b08e7ba34f0cb82a4276a8b92a17e3be359354f6b7d0c464b2f1682417166ef5",
       "saved_at": "2026-11-23T22:18:05+00:00",
-      "content_checked_at": "2026-11-23T22:18:05+00:00",
+      "content_checked_at": "2026-11-24T06:09:52+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -582170,7 +583311,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582188,7 +583329,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582207,7 +583348,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582225,7 +583366,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582243,7 +583384,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582261,7 +583402,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582279,7 +583420,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582297,7 +583438,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582315,7 +583456,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582333,7 +583474,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582351,7 +583492,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582369,7 +583510,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582387,7 +583528,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582405,7 +583546,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582423,7 +583564,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582443,7 +583584,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582463,7 +583604,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582481,7 +583622,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582499,7 +583640,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582517,7 +583658,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582535,7 +583676,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582553,7 +583694,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582573,7 +583714,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582591,7 +583732,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582609,7 +583750,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582627,7 +583768,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582645,7 +583786,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582665,7 +583806,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582683,7 +583824,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582849,7 +583990,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582867,7 +584008,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582885,7 +584026,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582905,7 +584046,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582923,7 +584064,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582941,7 +584082,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582959,7 +584100,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582980,7 +584121,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -582998,7 +584139,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -583016,7 +584157,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -583037,7 +584178,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -583055,7 +584196,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 147,
+      "attempts": 148,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -583073,7 +584214,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583091,7 +584232,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583109,7 +584250,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583127,7 +584268,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583145,7 +584286,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583163,7 +584304,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583183,7 +584324,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583201,7 +584342,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583221,7 +584362,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583239,7 +584380,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583257,7 +584398,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583275,7 +584416,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583295,7 +584436,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583313,7 +584454,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583331,7 +584472,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583349,7 +584490,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583369,7 +584510,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583387,7 +584528,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583405,7 +584546,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583423,7 +584564,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583441,7 +584582,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583461,7 +584602,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583479,7 +584620,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583497,7 +584638,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583515,7 +584656,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -583533,7 +584674,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -583551,7 +584692,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -583569,7 +584710,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -583587,7 +584728,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -583605,11 +584746,155 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 148,
+      "attempts": 149,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/raporty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-17/wideokonferencja-ambra-wyniki-finansowe",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-12/enea-wyniki-finansowe-1h2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-11/wyniki-finansowe-benefit-systems-za-2-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-09-10/wyniki-unimot-za-1-polrocze-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250902/wyniki-finansowe-gpw-za-ii-kwartal-2025-roku",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250826/wyniki-finansowe-pcc-exol-za-i-polrocze-2025-roku",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/20250829/wyniki-finansowe-pcc-rokita-1h2025",
       "error": "ValueError"
@@ -583748,38 +585033,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
       "error": "ValueError"
     }
   ],
