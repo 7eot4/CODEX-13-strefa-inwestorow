@@ -1,8 +1,196 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-25T20:15:10+00:00",
+  "last_checked": "2026-11-26T02:54:05+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "1d7d7dfd684aead4",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w ciągu dnia, ale na koniec sesji małe zmiany",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-na-wall-street-mocne-spadki-w-ciagu-dnia-ale-na-koniec-sesji",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "pozostale"
+      ],
+      "companies": [
+        "XTB"
+      ],
+      "match_reasons": {
+        "pozostale": [
+          "Wiadomość spoza podstawowych reguł tematycznych"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-26T02:54:05+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Środowa sesja na Wall Street przebiegała początkowo pod znakiem bardzo silnej wyprzedaży, ale w drugiej części dnia inwestorzy zaczęli kupować akcje i w efekcie na zamknięciu straty zostały odrobione. W czwartek w USA giełda będzie nieczynna z powodu Święta Dziękczynienia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dow Jones Industrial na zamknięciu wzrósł o 0,33 proc. i wyniósł 50.182,95 pkt. To trzeci wzrostowy dzień tego indeksu z rzędu."
+        },
+        {
+          "type": "paragraph",
+          "text": "S&P 500 na koniec dnia stracił 0,25 proc. i wyniósł 7.182,78 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasdaq Composite zniżkował o 0,62 proc. do 23.585,80 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks spółek o średniej kapitalizacji Russell 2000 rośnie o 0,82 proc. i wynosi 2.706,91 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks zmienności VIX rośnie o 7,32 proc., do 28,32 pkt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje na koniec dnia wyraźnie odbiły się od minimów w czasie trwania sesji. Dow Jones tracił w ciągu sesji nawet ponad 1100 punktów, czyli 2,2 proc., technologiczny indeks Nasdaq zniżkował o 4,6 proc., a szeroki indeks S&P 500 spadał o 3,2 proc. na swoim dzienym minimum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy przypisują część odbicia niewielkim obrotom przed Świętem Dziękczynienia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeks Dow Jones zyskał dzięki wzrostom akcji takich spółek jak International Business Machines, Salesforce i Sherwin-Williams. Sektory takie jak surowce, energetyka i nieruchomości, odnotowały wzrosty o ponad 1 proc., co wzmocniło indeks S&P 500."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nvidia doprowadziła do spadku akcji powiązanych ze sztuczną inteligencją, tracąc prawie 5 proc. Micron Technology spadł o 5 proc., Oracle zniżkował o ponad 4 proc., a Alphabet stracił ponad 2 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akcje firmy Ambarella zajmującej się półprzewodnikami spadły o ponad 19 proc. po opublikowaniu prognozy na bieżący kwartał. Zyski i przychody spółki za trzeci kwartał również nie spełniły oczekiwań."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Rynek jest bardzo podzielony” na akcje spółek z sektora AI i spoza AI, powiedział David Wagner, szef działu akcji w Aptus Capital Advisors."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Rynek oczywiście się cofa z powodu spadku w sektorze technologicznym, spadku w sektorze półproduktów i spadku w narracji dotyczącej AI, ale na razie nie uważam tego za strach przed wzrostem. Uważam, że to strach oparty na sentymentach, oparty na takich czynnikach jak skład Kongresu w nowym roku\" - powiedział Wagner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jego zdaniem, wśród inwestorów wciąż panuje poważna obawa, że niepewność dotycząca sztucznej inteligencji może przekształcić się ze strachu opartego na sentymentach w strach, „jeśli rynek zacznie uwzględniać zbyt dużą aktywność Fed w zakresie podwyższania stóp procentowych”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wyższe rentowności obligacji, zaostrzone warunki finansowe oraz narastające wątpliwości co do trwałości przyszłego wzrostu zysków spółek spowodowały gwałtowną korektę na rynkach akcji w ostatnich dniach."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Pamiętajmy, że wyprzedaż ekosystemu AI zaczęła się przed informacjami związanymi z Nvidią i jej prezesem. Obawy o nakłady inwestycyjne, na centra danych, spread między kosztem kapitału a zwrotem z inwestycji (...) to jest szerszy obrazek\" - powiedziała w telewizji CNBC główna strateg inwestycyjna Schwab Center for Financial Research Liz Ann Sonders."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Spadki najważniejszych spółek AI w ostatnich tygodniach przypominają, że inwestorzy widzą szczyt ich zysków oraz że będą one tylko się obniżać. Oczekiwania na niższe wyniki (...) tłumaczą, dlaczego nikt teraz nie kupuje na dołku\" - ocenia dyrektor researchu XTB Kathleen Brooks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Analitycy Unicredit oceniają jednak, że chociaż zaufanie inwestorów znacznie osłabło, to obecne wyceny rynkowe wydają się bardziej pesymistyczne, niż uzasadniałaby to rzeczywista sytuacja gospodarcza i wynikowa."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Naszym zdaniem korekta ta odzwierciedla raczej niższe oczekiwania niż słabsze fundamenty gospodarcze\" - napisano w raporcie Unicredit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zdaniem ekspertów Unicredit narracja na rynkach przybrała nowy obrót, a inwestorzy nie zastanawiają się już, czy inwestycje w sztuczną inteligencję będą kontynuowane, tylko coraz częściej zadają sobie pytanie, czy droga od inwestycji do monetyzacji będzie przebiegać wolniej, bardziej nierównomiernie i w większym stopniu uzależniona od korzystnych warunków finansowania, niż wcześniej zakładano."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Niedawna zmienność na rynku sugeruje, że narracja dotycząca sztucznej inteligencji pozostaje nienaruszona, jednak rynek jest coraz mniej skłonny zakładać, że droga do przyszłego wzrostu zysków będzie przebiegać liniowo\" - dodano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odczyt wskaźnika cen wydatków konsumpcyjnych w październiku pokazał, że inflacja nadal nie spada, co potwierdziło oczekiwania na podwyżki stóp procentowych przez Rezerwę Federalną w grudniu i styczniu i sprawiło, że inwestorzy są niechętni podejmowaniu ryzyka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Główny wskaźnik PCE wzrósł w zeszłym miesiącu o 0,3 proc., co oznacza roczną stopę inflacji na poziomie 3,8 proc. Chociaż oba wskaźniki były zgodne z oczekiwaniami, roczna stopa wzrosła z 3,7 proc. we wrześniu. Po wyłączeniu cen żywności i energii, bazowy wskaźnik PCE wzrósł o 3,3 proc. rok do roku, nieznacznie przekraczając prognozę Dow Jones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na nastroje inwestorów wpłynęło także ogłoszenie przez Biały Dom serii nowych ceł nałożonych na kilkunastu głównych partnerów handlowych, w tym Chiny i Unię Europejską."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak podaje agencja Bloomberg stawka celna na import z Chin wzrosłaby do 20 proc., zgodnie z wcześniejszą umową tego kraju z administracją Trumpa — choć może podwoić się do 40 proc. Może do tego dojść, jeśli rozmowy między obydwoma krajami zakończą się fiaskiem, jak poinformował wysoki rangą urzędnik amerykański, który przekazał dziennikarzom informacje pod warunkiem zachowania anonimowości przed środowym ogłoszeniem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkty z UE będą opodatkowane stawką 15 proc. zgodnie z umową Stanów Zjednoczonych z Unią Europejską, choć według Biura Przedstawiciela Handlowego Stanów Zjednoczonych (USTR) stawka ta może również wzrosnąć do 20 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Produkt Krajowy Brutto USA w III kw. wzrósł o 4,3 proc. w ujęciu zanualizowanym (SAAR) kwartał do kwartału - podał Departament Handlu USA w drugim wyliczeniu. Oczekiwano 3,5 proc. W II kw. PKB USA wzrósł o 2,2 proc., a w I kw. PKB USA wzrósł o 2,1 proc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sprzedaż nowych domów w USA w październiku wyniosła 701 tys. w ujęciu rocznym, wobec oczekiwanych 650 tys. Miesiąc wcześniej odnotowano sprzedaż w wysokości 614 tys., po korekcie z 676 tys."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba osób ubiegających się po raz pierwszy o zasiłek dla bezrobotnych w ubiegłym tygodniu w USA wyniosła 189 tys. Ekonomiści spodziewali się, że liczba nowych bezrobotnych wyniesie 200 tys. wobec 202 tys. poprzednio, po korekcie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liczba bezrobotnych kontynuujących pobieranie zasiłku wyniosła zaś 1,697 mln w tygodniu, który skończył się 21 listopada. Analitycy oczekiwali 1,740 mln wobec zanotowanych poprzednio 1,792 mln, po korekcie z 1,763 mln."
+        },
+        {
+          "type": "paragraph",
+          "text": "Giełda amerykańska będzie zamknięta w czwartek z okazji Święta Dziękczynienia. Piątkowa sesja będzie skrócona i zamknie się o 19.00 czasu polskiego."
+        },
+        {
+          "type": "paragraph",
+          "text": "Na rynku ropy kontrakty na WTI na grudzień zwyżkują o 2,50 proc. do 84,10 USD za baryłkę, a styczniowe futures na Brent rosną o 3,45 proc. do 94,55 USD/b."
+        },
+        {
+          "type": "paragraph",
+          "text": "(PAP Biznes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "25.11.2026 22:20",
+      "content_sha256": "d09822d69444776ba68381b60733e524f6a3e6bb30c5d01736f0e172200c5e3c",
+      "date": "2026-11-25",
+      "saved_at": "2026-11-26T02:54:05+00:00",
+      "content_checked_at": "2026-11-26T02:54:05+00:00",
+      "published_time": "22:20",
+      "published_at": "2026-11-25T22:20+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Środowa sesja na Wall Street przebiegała początkowo pod znakiem bardzo silnej wyprzedaży, ale w drugiej części dnia inwestorzy zaczęli kupować akcje i w efekcie na zamknięciu straty zostały odrobione.",
+          "Dow Jones tracił w ciągu sesji nawet ponad 1100 punktów, czyli 2,2 proc., technologiczny indeks Nasdaq zniżkował o 4,6 proc., a szeroki indeks S&P 500 spadał o 3,2 proc. na swoim dzienym minimum.",
+          "Wyższe rentowności obligacji, zaostrzone warunki finansowe oraz narastające wątpliwości co do trwałości przyszłego wzrostu zysków spółek spowodowały gwałtowną korektę na rynkach akcji w ostatnich dniach."
+        ],
+        "interest_score": 51,
+        "impact_score": 42,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Wyniki i rentowność",
+            "excerpt": "Środowa sesja na Wall Street przebiegała początkowo pod znakiem bardzo silnej wyprzedaży, ale w drugiej części dnia inwestorzy zaczęli kupować akcje i w efekcie na zamknięciu straty zostały odrobione."
+          }
+        ],
+        "watch_companies": [],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "d09822d69444776ba68381b60733e524f6a3e6bb30c5d01736f0e172200c5e3c"
+      }
+    },
     {
       "id": "7b3fca8fa5a144a0",
       "title": "Skrót wiadomości - środa, 25 listopada, 21.00",
@@ -12,7 +200,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-25T20:15:10+00:00",
+      "discovered_at": "2026-11-26T02:54:05+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -455,7 +643,7 @@
       "published_display": "25.11.2026 21:13",
       "content_sha256": "7e0122bdab9df70fa911c08524328b2452d0f3e24e481450e06b5dadb291c95a",
       "saved_at": "2026-11-25T20:15:10+00:00",
-      "content_checked_at": "2026-11-25T20:15:10+00:00",
+      "content_checked_at": "2026-11-26T02:54:05+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -3457,7 +3645,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-25T20:15:10+00:00",
+      "discovered_at": "2026-11-26T02:54:05+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3796,7 +3984,7 @@
       "published_display": "25.11.2026 17:02",
       "content_sha256": "0d79f1f7f94286ca6474d89eab467e9de1ea10ea9c310bd26700813b9a81ff18",
       "saved_at": "2026-11-25T20:15:10+00:00",
-      "content_checked_at": "2026-11-25T20:15:10+00:00",
+      "content_checked_at": "2026-11-26T02:54:05+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -608485,7 +608673,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608503,7 +608691,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608522,7 +608710,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608540,7 +608728,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608558,7 +608746,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608576,7 +608764,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608594,7 +608782,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608612,7 +608800,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608630,7 +608818,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608648,7 +608836,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608702,7 +608890,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608720,7 +608908,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608738,7 +608926,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608758,7 +608946,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608778,7 +608966,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608796,7 +608984,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608814,7 +609002,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608832,7 +609020,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608850,7 +609038,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608868,7 +609056,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608888,7 +609076,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608906,7 +609094,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608924,7 +609112,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608942,7 +609130,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608960,7 +609148,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608980,7 +609168,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -608998,7 +609186,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609016,7 +609204,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609034,7 +609222,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609054,7 +609242,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609072,7 +609260,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609090,7 +609278,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609108,7 +609296,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609128,7 +609316,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609146,7 +609334,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609164,7 +609352,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609182,7 +609370,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609200,7 +609388,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609220,7 +609408,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609238,7 +609426,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609256,7 +609444,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609274,7 +609462,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609295,7 +609483,7 @@
           "Temat: paliw"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609313,7 +609501,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609331,7 +609519,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609352,7 +609540,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609370,7 +609558,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 150,
+      "attempts": 151,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -609388,7 +609576,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609406,7 +609594,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609424,7 +609612,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609442,7 +609630,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609460,7 +609648,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609478,7 +609666,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609498,7 +609686,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609516,7 +609704,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609536,7 +609724,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609554,7 +609742,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609572,7 +609760,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609590,7 +609778,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609610,7 +609798,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609628,7 +609816,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609646,7 +609834,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609664,7 +609852,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609684,7 +609872,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609702,7 +609890,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609720,7 +609908,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609738,7 +609926,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609756,7 +609944,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609776,7 +609964,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609794,7 +609982,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609812,7 +610000,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609830,7 +610018,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -609848,7 +610036,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -609866,7 +610054,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -609884,7 +610072,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -609902,7 +610090,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -609920,11 +610108,227 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 151,
+      "attempts": 152,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/infrastruktura",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/w-zielonej-strefie/oze",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-25/wyniki-finansowe-rex-concepts-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-24/wyniki-finansowe-ot-logistics-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-17/wyniki-finansowe-unimot-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-16/wyniki-finansowe-ambra-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-gpw-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-09-08/wyniki-finansowe-benefit-systems-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-grupy-neuca-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-28/wyniki-finansowe-pcc-exol-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-21/wyniki-finansowe-grupy-kghm-za-i-polrocze-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-08-20/wyniki-finansowe-pcc-rokita-1h26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-07-01/wyniki-finansowe-rex-concepts-1q26",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-06-12/synektik-wyniki-finansowe-2025-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-29/wyniki-finansowe-pcc-rokita-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-27/wyniki-finansowe-unimot-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-26/wyniki-finansowe-pcc-exol-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-22/wyniki-finansowe-grupy-neuca-za-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-20/wyniki-finansowe-benefit-systems-i-kwartal-2026-rok-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-kghm-1q2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-15/wyniki-finansowe-lug-za-i-kwartal-2026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-05-07/wyniki-finansowe-grupy-ambra-za-iii-kwartal-20252026-r-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-gaming-factory-2025-rok-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-23/wyniki-finansowe-unimot-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-16/mex-polska-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-04-08/grupa-pracuj-wyniki-finansowe-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-neuca-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-31/wyniki-finansowe-pcc-rokita-za-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-27/wyniki-finansowe-grupy-kghm-iv-kwartal-2025-rok",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-pcc-exol-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-16/nowa-strategia-bnp-paribas-bank-polska-na-lata-2026-2030-czat",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/swiece_japonskie/swiece_japonskie_formacje_tweezers_jako_sygnal_odwrocenia_trendu",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/dywidendy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/obligacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/debiut-ipo",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/rekomendacje",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/artykuly/raporty",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-28/wyniki-finansowe-mex-polska-iii-kwartal-2025-plany-rozwoju",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-12-02/emisja-akcji-ipo-newconnect-plany-rozwoju-do-rzeczy",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-26/wyniki-finansowe-pcc-rokita-3q25",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-25/wyniki-finansowe-benefit-systems-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-21/wyniki-finansowe-neuca-3-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-20/wyniki-finansowe-grupa-sniezka-iii-kwartal-3q-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-unimot-za-iii-kwartal-2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-19/wyniki-finansowe-pcc-exol-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251117/wyniki-finansowe-kghm-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/20251114/wyniki-finansowe-lug-3q2025",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-11-06/wyniki-finansowe-grupy-ambra",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-20/strategia-i-plany-rozwoju-baked-games",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2025-10-03/trans-polonia-wyniki-za-i-polrocze-i-perspektywy-rozwoju",
       "error": "ValueError"
@@ -610015,14 +610419,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/w-zielonej-strefie/przemysl",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/finanse",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/w-zielonej-strefie/srodowisko",
       "error": "ValueError"
     }
   ],
