@@ -1,8 +1,142 @@
 {
   "schema_version": 4,
-  "last_checked": "2026-11-28T04:17:49+00:00",
+  "last_checked": "2026-11-28T13:09:56+00:00",
   "mode": "full_text",
   "articles": [
+    {
+      "id": "e1fe8387d1083119",
+      "title": "Do Polski dotarła pierwsza dostawa LNG dla Orlenu z kontraktu z Plaquemines",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261128/do-polski-dotarla-pierwsza-dostawa-lng-dla-orlenu-z-kontraktu-z-plaquemines",
+      "source": "Strefa Inwestorów",
+      "kind": "article",
+      "sections": [
+        "energia"
+      ],
+      "companies": [
+        "Orlen"
+      ],
+      "match_reasons": {
+        "energia": [
+          "Firma: Orlen",
+          "Temat: gazu",
+          "Temat: gazow"
+        ]
+      },
+      "attempts": 0,
+      "discovered_at": "2026-11-28T13:09:56+00:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Do Polski dotarła z USA pierwsza dostawa LNG dla Orlenu, realizowana w ramach długoterminowego kontraktu z Venture Global Plaquemines LNG. Ładunek odpowiadający prawie 95 mln m sześc. gazu ziemnego po regazyfikacji dostarczył gazowiec „Święta Barbara” z floty koncernu - podał w sobotę Orlen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jak zaznaczył koncern, pierwszy otrzymany ładunek rozpoczyna dostawy w ramach kontraktu na 4 mln ton LNG rocznie przez 20 lat, co odpowiada około 5,4 mld metrów sześc. gazu po regazyfikacji rocznie - łącznie to 80 mln ton LNG, czyli orientacyjnie 108 mld m sześc. gazu po regazyfikacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transport, który dotarł właśnie do Polski z Luizjany, trwał 22 dni. Ładunek dostarczony przez gazowiec „Święta Barbara” odpowiada prawie 95 mln m sześc. gazu."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Rozpoczynamy realizację kontraktu, który na dwie dekady zapewni nam dostęp do znaczących wolumenów amerykańskiego LNG. To ważne wzmocnienie naszego portfela dostaw i możliwości rozwijania sprzedaży w Polsce oraz Europie Środkowo-Wschodniej” - powiedział wiceprezes Orlenu ds. operacyjnych Robert Soszyński, cytowany w komunikacie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dodał, iż łącząc długoterminowe zakupy z dostępem do terminali, transportem morskim i kompetencjami handlowymi, koncern buduje ofertę dla partnerów poszukujących zróżnicowanych źródeł gazu."
+        },
+        {
+          "type": "paragraph",
+          "text": "„Dostawa zrealizowana gazowcem z naszej floty pokazuje, jak w ramach jednej grupy łączymy kompetencje handlowe i logistyczne - od zakupu LNG po jego transport do Polski. Rozwijając Baltic Eagle Gas Hub, chcemy wykorzystać potencjał Polski jako bramy dla dostaw LNG z USA do Europy Środkowo-Wschodniej” - zaznaczył Soszyński."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zwrócił jednocześnie uwagę, że ambicje koncernu sięgają także rynków azjatyckich; wspomniał o planowanym otwarcie biura handlowego w Singapurze, które pozwoli Orlenowi być bliżej tamtejszych odbiorców LNG."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kontrakt z Venture Global jest realizowany w formule free-on-board (FOB) - kupujący odbiera LNG w porcie załadunku i może kierować ładunki do Polski lub na inne rynki. Plaquemines odpowiada za największą część wolumenu objętego umowami z Venture Global, które wraz z dostawami z Calcasieu Pass obejmują łącznie 5,5 mln ton LNG rocznie, czyli około 7,4 mld m sześc. gazu po regazyfikacji."
+        },
+        {
+          "type": "paragraph",
+          "text": "Orlen podkreślił, że jego flota ośmiu gazowców, do których należy „Święta Barbara”, pozwala łączyć zakupy LNG na globalnym rynku z dostawami do Polski i odbiorców zagranicznych oraz elastycznie planować transport zgodnie z potrzebami poszczególnych rynków. Flota umożliwia jednocześnie - jak zaznaczono - rozwój międzynarodowej działalności handlowej koncernu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Orlen zwrócił uwagę, że dostęp do globalnych źródeł gazu, infrastruktura importowa nad Bałtykiem, flota gazowców i połączenia transgraniczne tworzą podstawę koncepcji Baltic Eagle Gas Hub. „Wykorzystując te zasoby, Orlen chce rozwijać sprzedaż i wzmacniać bezpieczeństwo dostaw w Europie Środkowo-Wschodniej” - dodał koncern. Przypomniał, że realizując tę koncepcję, korzysta z terminali LNG w Świnoujściu i litewskiej Kłajpedzie, a także zarezerwował przepustowość w planowanych terminalach FSRU w Zatoce Gdańskiej."
+        },
+        {
+          "type": "paragraph",
+          "text": "Po uwzględnieniu FSRU 1, FSRU 2 i rezerwacji w Kłajpedzie możliwości importowe LNG Orlenu mają przekroczyć 16 mld m sześc. gazu po regazyfikacji rocznie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Orlen zawarł ostatnio porozumienia z partnerami ze Słowacji i Węgier - SPP i MVM ONEnergy, które określił jako kierunek dalszej ekspansji gazowej koncernu, rozwijanej równolegle z możliwościami importowymi. Wykorzystując dostęp do globalnego rynku LNG i infrastruktury nad Bałtykiem, Orlen chce zwiększać sprzedaż i poszerzać wybór źródeł zaopatrzenia dla odbiorców w Europie Środkowo-Wschodniej, łącząc cele biznesowe ze wzmacnianiem bezpieczeństwa energetycznego regionu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Przykładem wykorzystania tego modelu – jak podał Orlen - są dostawy do Ukrainy. W 2025 r. koncern dostarczył ukraińskim odbiorcom ponad 700 mln m sześc. gazu, w większości za pośrednictwem terminalu LNG w Świnoujściu. (PAP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "mb/ pad/ pr/"
+        }
+      ],
+      "author": "Wiadomości Giełdowe",
+      "published_display": "28.11.2026 13:48",
+      "content_sha256": "01ed4446af6529c5316c86770766c2eb3f94a842b77a6d02f9677e25beabd401",
+      "date": "2026-11-28",
+      "saved_at": "2026-11-28T13:09:56+00:00",
+      "content_checked_at": "2026-11-28T13:09:56+00:00",
+      "published_time": "13:48",
+      "published_at": "2026-11-28T13:48+01:00",
+      "analysis": {
+        "version": 1,
+        "method": "Analiza regułowa i podsumowanie ekstrakcyjne pełnego tekstu",
+        "summary_sentences": [
+          "Do Polski dotarła z USA pierwsza dostawa LNG dla Orlenu, realizowana w ramach długoterminowego kontraktu z Venture Global Plaquemines LNG.",
+          "Jak zaznaczył koncern, pierwszy otrzymany ładunek rozpoczyna dostawy w ramach kontraktu na 4 mln ton LNG rocznie przez 20 lat, co odpowiada około 5,4 mld metrów sześc. gazu po regazyfikacji rocznie - łącznie to 80 mln ton LNG, czyli orientacyjnie 108 mld m sześc. gazu po regazyfikacji.",
+          "Plaquemines odpowiada za największą część wolumenu objętego umowami z Venture Global, które wraz z dostawami z Calcasieu Pass obejmują łącznie 5,5 mln ton LNG rocznie, czyli około 7,4 mld m sześc. gazu po regazyfikacji."
+        ],
+        "interest_score": 47,
+        "impact_score": 36,
+        "confidence": "Niska — bez cen rynkowych i oceny zaskoczenia względem konsensusu",
+        "impact_direction": "Nieokreślony",
+        "evidence": [
+          {
+            "factor": "Produkt, sprzedaż lub kontrakt",
+            "excerpt": "Do Polski dotarła z USA pierwsza dostawa LNG dla Orlenu, realizowana w ramach długoterminowego kontraktu z Venture Global Plaquemines LNG."
+          }
+        ],
+        "watch_companies": [
+          {
+            "name": "Orlen",
+            "sections": [
+              "energia"
+            ],
+            "terms": [
+              "ropa",
+              "ropy",
+              "paliw*",
+              "gaz",
+              "gazu",
+              "energi*",
+              "offshore",
+              "wiatrow*"
+            ],
+            "reason": "Paliwa, gaz i energetyka, w tym morska energetyka wiatrowa.",
+            "source": "https://raportroczny.orlen.pl/sprawozdanie-z-dzialalnosci/nasza-dzialalnosc-w-2025-r/energy/",
+            "relation": "Wymieniona w tekście",
+            "matched_topics": [
+              "gazu"
+            ],
+            "checked_at": "2026-10-07"
+          }
+        ],
+        "limitations": "Skale 0–100 porządkują wiadomości. Nie oznaczają procentowej zmiany kursu ani prawdopodobieństwa. Brak kalibracji historycznej; informacja może już być w cenie.",
+        "content_sha256": "01ed4446af6529c5316c86770766c2eb3f94a842b77a6d02f9677e25beabd401"
+      }
+    },
     {
       "id": "d49c0d4674b41697",
       "title": "Skrót wiadomości - piątek, 27 listopada, 21.00",
@@ -12,7 +146,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-28T04:17:49+00:00",
+      "discovered_at": "2026-11-28T13:09:56+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -467,7 +601,7 @@
       "published_display": "27.11.2026 21:02",
       "content_sha256": "c3c32c326eb50fe8fbe7e9b160510b4c317fd110014cf270c3b8243668cfecda",
       "saved_at": "2026-11-27T22:45:04+00:00",
-      "content_checked_at": "2026-11-28T04:17:49+00:00",
+      "content_checked_at": "2026-11-28T13:09:56+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -2642,7 +2776,7 @@
       "category": "Skróty wiadomości",
       "kind": "roundup",
       "attempts": 0,
-      "discovered_at": "2026-11-28T04:17:49+00:00",
+      "discovered_at": "2026-11-28T13:09:56+00:00",
       "body": [
         {
           "type": "paragraph",
@@ -3061,7 +3195,7 @@
       "published_display": "27.11.2026 17:02",
       "content_sha256": "db8ec942f78faeba5ddb3bfed6f5fe084bf0df06b04484d5c533504e83c431b4",
       "saved_at": "2026-11-27T22:45:04+00:00",
-      "content_checked_at": "2026-11-28T04:17:49+00:00",
+      "content_checked_at": "2026-11-28T13:09:56+00:00",
       "sections": [
         "skroty",
         "makro",
@@ -637977,7 +638111,7 @@
           "Temat: walut"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -637995,7 +638129,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638014,7 +638148,7 @@
           "Temat: surowc"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638032,7 +638166,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638050,7 +638184,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638068,7 +638202,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638086,7 +638220,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638104,7 +638238,7 @@
           "Temat: energety"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638122,7 +638256,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638140,7 +638274,7 @@
           "Temat: przemysł"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638158,7 +638292,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638176,7 +638310,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638194,7 +638328,7 @@
           "Temat: infrastruktur"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638212,7 +638346,7 @@
           "Temat: OZE"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638230,7 +638364,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638250,7 +638384,7 @@
           "Firma: OT Logistics"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638270,7 +638404,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638288,7 +638422,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638306,7 +638440,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638324,7 +638458,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638342,7 +638476,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638360,7 +638494,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638380,7 +638514,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638398,7 +638532,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638416,7 +638550,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638434,7 +638568,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638452,7 +638586,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638472,7 +638606,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638490,7 +638624,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638508,7 +638642,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638526,7 +638660,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638546,7 +638680,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638564,7 +638698,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638582,7 +638716,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638600,7 +638734,7 @@
           "Temat: gaming"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638620,7 +638754,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638638,7 +638772,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638656,7 +638790,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638674,7 +638808,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638692,7 +638826,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638712,7 +638846,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638730,7 +638864,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638748,7 +638882,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638805,7 +638939,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 154,
+      "attempts": 155,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638823,7 +638957,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 154,
+      "attempts": 155,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638844,7 +638978,7 @@
           "Temat: bank"
         ]
       },
-      "attempts": 154,
+      "attempts": 155,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638862,7 +638996,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 154,
+      "attempts": 155,
       "discovered_at": "2026-10-11T16:02:57+00:00"
     },
     {
@@ -638880,7 +639014,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -638898,7 +639032,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -638916,7 +639050,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -638934,7 +639068,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -638952,7 +639086,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -638970,7 +639104,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -638990,7 +639124,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639008,7 +639142,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639028,7 +639162,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639046,7 +639180,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639064,7 +639198,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639082,7 +639216,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639102,7 +639236,7 @@
           "Firma: Trans Polonia"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639120,7 +639254,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639138,7 +639272,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639156,7 +639290,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639176,7 +639310,7 @@
           "Firma: Unimot"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639194,7 +639328,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639212,7 +639346,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639230,7 +639364,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639248,7 +639382,7 @@
           "Temat: kolej"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639268,7 +639402,7 @@
           "Firma: KGHM"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639286,7 +639420,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639304,7 +639438,7 @@
           "Temat: gra"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639322,7 +639456,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T16:14:03+00:00"
     },
     {
@@ -639340,7 +639474,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -639358,7 +639492,7 @@
           "Temat: obligacj"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -639376,7 +639510,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -639394,7 +639528,7 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     },
     {
@@ -639412,11 +639546,15 @@
           "Artykuł spoza reguł tematycznych"
         ]
       },
-      "attempts": 155,
+      "attempts": 156,
       "discovered_at": "2026-10-11T20:37:41+00:00"
     }
   ],
   "warnings": [
+    {
+      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-23/wideokonferencja-ambra-wyniki-finansowe-1h20252026",
+      "error": "ValueError"
+    },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-02-13/wyniki-finansowe-lug-2025",
       "error": "ValueError"
@@ -639719,14 +639857,6 @@
     },
     {
       "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-26/wyniki-finansowe-benefit-systems-2025",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-18/synektik-podzial-syn2bio",
-      "error": "ValueError"
-    },
-    {
-      "url": "https://strefainwestorow.pl/czaty-inwestorskie/2026-03-06/unimot-wplyw-konfliktu-na-bliskim-wschodzie-rynek-paliw-w-polsce",
       "error": "ValueError"
     }
   ],
